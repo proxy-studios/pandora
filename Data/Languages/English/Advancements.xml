@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Alien" value="Xenologyt"/>
+	<entry name="Alien" value="Xenologyta"/>
 	<entry name="AlienDescription" value="Detention, examination and dissection of xenomorphs, as well as behavioral neuroscience and genetic research leads us to a better comprehension of the enemy, and thus to be better prepared to fight and overcome the threat they represent."/>
 	<entry name="AlienProperties" value="-50% alien invader aggression"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
