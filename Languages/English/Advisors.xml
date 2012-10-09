@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Economy0" value="&quot;Without cities and infrastructure there is no economy.&quot;"/>
+	<entry name="Economy1" value="&quot;Red numbers everywhere, I doubt it can get any worse.&quot;"/>
+	<entry name="Economy2" value="&quot;Our market pales compared to the competition.&quot;"/>
+	<entry name="Economy3" value="&quot;We have a flourishing economy!&quot;"/>
+	<entry name="Economy4" value="&quot;Our economy is one of the driving forces behind the planetary market.&quot;"/>
+	<entry name="Economy5" value="&quot;Years upon years of hard labor have come to fruition: our economy is unrivaled!&quot;"/>
+	<entry name="Diplomacy0" value="&quot;No contacts to other factions have been established yet.&quot;"/>
+	<entry name="Diplomacy1" value="&quot;We are isolated and hated by many! I beg you to reconsider your actions!&quot;"/>
+	<entry name="Diplomacy2" value="&quot;Other factions have started to distance themselves from us.&quot;"/>
+	<entry name="Diplomacy3" value="&quot;We are respected by other factions.&quot;"/>
+	<entry name="Diplomacy4" value="&quot;We are on good terms with other faction leaders.&quot;"/>
+	<entry name="Diplomacy5" value="&quot;Other factions respect or even love us. We can count on their support!&quot;"/>
+	<entry name="Military0" value="&quot;We have no military and are entirely helpless!&quot;"/>
+	<entry name="Military1" value="&quot;Our troop numbers are pathetic! Any halfway formidable foe will simply roll over us.&quot;"/>
+	<entry name="Military2" value="&quot;Our military strength is too low, we might not hold off an invasion.&quot;"/>
+	<entry name="Military3" value="&quot;We have solid military forces able to deal with enemy aggression.&quot;"/>
+	<entry name="Military4" value="&quot;Your army stands strong and can handle prolonged campaigns.&quot;"/>
+	<entry name="Military5" value="&quot;Our forces are unrivaled and the finest on the planet. Enemies tremble in fear!&quot;"/>
+	<entry name="Research0" value="&quot;We have not yet discovered any technologies.&quot;"/>
+	<entry name="Research1" value="&quot;We are decades behind the other factions and ridiculed by many!&quot;"/>
+	<entry name="Research2" value="&quot;Other factions have passed us, time to optimize your priorities!&quot;"/>
+	<entry name="Research3" value="&quot;Our research is going strong.&quot;"/>
+	<entry name="Research4" value="&quot;Good news! We are one of the most advanced factions out there.&quot;"/>
+	<entry name="Research5" value="&quot;I am proud to inform you that we have surpassed everyone -- our scientists are luminaries.&quot;"/>
+</language>

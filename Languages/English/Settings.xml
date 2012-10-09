@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AmbientVolume" value="Ambient Volume"/>
+	<entry name="AnisotropicFiltering" value="Anisotropic Filtering"/>
+	<entry name="AntiAliasing" value="Anti Aliasing"/>
+	<entry name="AutoCycleUnits" value="Auto Cycle Units"/>
+	<entry name="AutoSave" value="Auto Save"/>
+	<entry name="EffectsVolume" value="Effects Volume"/>
+	<entry name="FullScreen" value="Full Screen"/>
+	<entry name="FullScreenResolution" value="Full Screen Resolution"/>
+	<entry name="GrabInput" value="Grab Input"/>
+	<entry name="Grid" value="Grid"/>
+	<entry name="InterfaceVolume" value="Interface Volume"/>
+	<entry name="KeyboardScrollSpeed" value="Keyboard Scroll Speed"/>
+	<entry name="Language" value="Language"/>
+	<entry name="MasterVolume" value="Master Volume"/>
+	<entry name="MouseScrollSpeed" value="Mouse Scroll Speed"/>
+	<entry name="MusicVolume" value="Music Volume"/>
+	<entry name="PlayerName" value="Player Name"/>
+	<entry name="PopupTips" value="Popup Tips"/>
+	<entry name="ProductKey" value="Product Key"/>
+	<entry name="ServerName" value="Server Name"/>
+	<entry name="ServerPassword" value="Server Password"/>
+	<entry name="ServerPort" value="Server Port"/>
+	<entry name="ShadowQuality" value="Shadow Quality"/>
+	<entry name="TextureQuality" value="Texture Quality"/>
+	<entry name="VerticalSynchronization" value="Vertical Synchronization"/>
+	<entry name="WindowResolution" value="Window Resolution"/>
+</language>
