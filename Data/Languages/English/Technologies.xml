@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Academy0" value="Rigorous Regiment"/>
+	<entry name="Academy0Description" value="Organization of permanent military forces."/>
+	<entry name="Academy1" value="Customization"/>
+	<entry name="Academy1Description" value="Suit the equipment to the soldier, not the soldier to the equipment."/>
+	<entry name="Academy2" value="Neural Interface"/>
+	<entry name="Academy2Description" value="Direct downlink to a centralized combat database enhances combat efficiency."/>
+	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
+	<entry name="Aircraft0Description" value="Electrically powered propulsion system that brings the war to the skies."/>
+	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>
+	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems gives multi-role fighters an edge in avoidance of most airborne threats."/>
+	<entry name="Aircraft2" value="Geomagnetic Hull"/>
+	<entry name="Aircraft2Description" value="This bulky hull replacement allows aircrafts to utilize the ionization happening in Pandora's thermosphere for various goals."/>
+	<entry name="Alien" value="Xenology"/>
+	<entry name="AlienDescription" value="Study of alien corpses and live subject behaviour to expand knowledge of their species."/>
+	<entry name="Armor0" value="Reinforced Steel Plates"/>
+	<entry name="Armor0Description" value="Basic steel armor for troops to increase the resistance against enemy weaponry."/>
+	<entry name="Armor1" value="Titanium Plates"/>
+	<entry name="Armor1Description" value="Robust armor forged from titanium, a mineral found exclusively on Pandora."/>
+	<entry name="Armor2" value="Zortium Molecules"/>
+	<entry name="Armor2Description" value="Experiments with titanium and mexallon show a high chemical compatibility that could improve titanium armor."/>
+	<entry name="Armor3" value="Gauss Optimization"/>
+	<entry name="Armor3Description" value="A new formula that allows us to analyze and optimize armor on a molecular level."/>
+	<entry name="Armor4" value="Adamantium Processing"/>
+	<entry name="Armor4Description" value="The techniques required to process adamantium, a very heavy and resistant material found deep below the plantery surface that is highly suited for armors."/>
+	<entry name="Armor5" value="Silksteel Alloy"/>
+	<entry name="Armor5Description" value="An alloy for armors that is ultra light but extremely robust."/>
+	<entry name="Armor6" value="Neutron Roaming"/>
+	<entry name="Armor6Description" value="Leads to an entirely new level of armor design that utilizes roaming neutrons produced by its own embedded reactor."/>
+	<entry name="Armor7" value="Anti-Matter Substrate"/>
+	<entry name="Armor7Description" value="Allows to coat armor with a layer of relatively stable and incredibly powerful anti-matter."/>
+	<entry name="Armor8" value="Xenotronium Synapses"/>
+	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self aware and &quot;lives&quot; for one sole purpose: to protect its wearer."/>
+	<entry name="Artillery0" value="Guided Indirect Fire"/>
+	<entry name="Artillery0Description" value="Drone supported heavy long range weaponry that can shred whole troop formations."/>
+	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
+	<entry name="Artillery1Description" value="Combining the efficiency of MRSI and the firepower of air burst by using fragmentation projectiles leave the enemy little chance of survival."/>
+	<entry name="Artillery2" value="Graviton Shells"/>
+	<entry name="Artillery2Description" value="Portable gravitational field generation for artillery units."/>
+	<entry name="Assault" value="Operation Valkyrie"/>
+	<entry name="AssaultDescription" value="Orbital reconnaissance and troop landing operation for a one time military strike anywhere on the planet."/>
+	<entry name="ATV0" value="Analytical Dynamics"/>
+	<entry name="ATV0Description" value="Adaption of vehicles to the environmental parameters of new world."/>
+	<entry name="ATV1" value="Energy Absorption"/>
+	<entry name="ATV1Description" value="Enhanced shock absorption gives light vehicles an edge in rough terrain and difficult maneuvers."/>
+	<entry name="ATV2" value="Electrically Charged Armor"/>
+	<entry name="ATV2Description" value="A complementary layer of electrostatic protection grants further protection against common weapons."/>
+	<entry name="Automatic1" value="Stochastic Projectiles"/>
+	<entry name="Automatic1Description" value="Advanced automatic weapons based on stochastic methods."/>
+	<entry name="Automatic2" value="Mutagen Projectiles"/>
+	<entry name="Automatic2Description" value="Spontaneous cellular decay make mutagens some of the scariest kinds of ammunition."/>
+	<entry name="BlackHole" value="Controlled Singularity"/>
+	<entry name="BlackHoleDescription" value="Industrial-scale production of mass destruction weapons."/>
+	<entry name="Cannon0" value="Anti-Armor Warheads"/>
+	<entry name="Cannon0Description" value="Tank breakers as an answer to heavy war machinery."/>
+	<entry name="Cannon1" value="Photomultiplier"/>
+	<entry name="Cannon1Description" value="The emission of a dense beam of protons generates a powerful electromagnetic field."/>
+	<entry name="Cannon2" value="Superluminal Projectiles"/>
+	<entry name="Cannon2Description" value="High frequency, faster than light projectiles can pierce through any kind of protection."/>
+	<entry name="Colonization" value="Colonization Fervor"/>
+	<entry name="ColonizationDescription" value="The race for territorial control of Pandora has finally begun."/>
+	<entry name="Credits" value="Qan Bargaining"/>
+	<entry name="CreditsDescription" value="The use of a whole new array of data helps obtain new structures and technologies at a competitive price."/>
+	<entry name="Credits0" value="Stock Exchange"/>
+	<entry name="Credits0Description" value="Facilitation of economic development."/>
+	<entry name="Credits1" value="Market Microstructure"/>
+	<entry name="Credits1Description" value="Examines the ways in which the working processes of a market affects transactions and trading behavior."/>
+	<entry name="Credits2" value="Economic Manipulation"/>
+	<entry name="Credits2Description" value="Trade may be a good way to sustain an economy, but loading the dice is still better than gambling randomly."/>
+	<entry name="Defense" value="Command Nexus"/>
+	<entry name="DefenseDescription" value="Organize defense systems in a more efficient way thanks to a centralized HQ."/>
+	<entry name="Defense0" value="Adaptive Field Fortifications"/>
+	<entry name="Defense0Description" value="Advanced improvised barricades utilized in city warfare."/>
+	<entry name="Defense1" value="Structural Protection"/>
+	<entry name="Defense1Description" value="Embed the colony with a grid of varied defenses against all kinds of threats."/>
+	<entry name="Defense2" value="Superscalar Construction"/>
+	<entry name="Defense2Description" value="Gauge the menace from without, then provide security from within."/>
+	<entry name="Diplomacy" value="Planetary Council"/>
+	<entry name="DiplomacyDescription" value="Diplomatic relations can be improved with the establishment of a multicultural council."/>
+	<entry name="DropPod" value="Damped Landing Pod"/>
+	<entry name="DropPodDescription" value="Technology and logistics required to deploy respectable troop formations out of orbit and behind enemy lines."/>
+	<entry name="EMPBeam" value="Orbital Cannon"/>
+	<entry name="EMPBeamDescription" value="Satellite with mounted electromagnetic cannon aimed at the disruption of enemy production."/>
+	<entry name="Flak0" value="Maneuver Estimation"/>
+	<entry name="Flak0Description" value="Real-time flight prediction that allows very effective ground-to-air weaponry."/>
+	<entry name="Flak1" value="Projectile Dispersion"/>
+	<entry name="Flak1Description" value="Mid-range fragmentation allows the projectiles to cover a large zone."/>
+	<entry name="Flak2" value="Sprite Lightning"/>
+	<entry name="Flak2Description" value="Far more potent than electromagnetic pulses, sprite lightnings can affect a wide area with devastating effects."/>
+	<entry name="Flame0" value="Infernal Pre-Igniter"/>
+	<entry name="Flame0Description" value="New oxyhydrogen-based mobile ignition system that can reliably produce flames with a temperature of beyond 2000 degrees Celsius, melting alien and human flesh alike."/>
+	<entry name="Flame1" value="Chemical Post-Reaction"/>
+	<entry name="Flame1Description" value="Basic, yet memorable, chemistry crash course for the enemy."/>
+	<entry name="Flame2" value="Biohazardous Weaponry"/>
+	<entry name="Flame2Description" value="Highly specialized weapons using the local fauna and flora."/>
+	<entry name="Food0" value="Synthetic Fertilizer"/>
+	<entry name="Food0Description" value="Agriculture made possible on any soil."/>
+	<entry name="Food1" value="Aeroponics"/>
+	<entry name="Food1Description" value="Grow plants in an air or mist environment without the use of soil or an aggregate medium."/>
+	<entry name="Food2" value="Food Replication"/>
+	<entry name="Food2Description" value="Replicate existing food to satisfy the nutritional demands of mega cities growing beyond expectations."/>
+	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
+	<entry name="FoodMineralsDescription" value="Utilize the space vessel used to reach Pandora by dismantling it for resources."/>
+	<entry name="GoldenAge" value="Golden Age"/>
+	<entry name="GoldenAgeDescription" value="Rejoice as the colony enters a new age of enlightenment and harmony."/>
+	<entry name="Growth" value="Cloning"/>
+	<entry name="GrowthDescription" value="Artificial human bredging helps population growth for a while."/>
+	<entry name="Guerrilla" value="Guerrilla Warfare"/>
+	<entry name="GuerrillaDescription" value="New world guerrilla tactics."/>
+	<entry name="Laser0" value="Advanced Stimulated Emission"/>
+	<entry name="Laser0Description" value="Design of an electrically powered solid state laser capable of producing a beam of 100 kW or more."/>
+	<entry name="Laser1" value="Fusion Beams"/>
+	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
+	<entry name="Laser2" value="Graviton Particles"/>
+	<entry name="Laser2Description" value="The discovery of graviton particles along with their utilization in beam weapons."/>
+	<entry name="Mech0" value="Humanoid War Machines"/>
+	<entry name="Mech0Description" value="Gigantic war machines that dominate the battle field."/>
+	<entry name="Mech1" value="Adamantium Hull"/>
+	<entry name="Mech1Description" value="Push the mech to a new size level with an adamantium based hull."/>
+	<entry name="Mech2" value="Organic Titan"/>
+	<entry name="Mech2Description" value="A man-machine and the largest mech ever designed. Unrivaled on the battlefield."/>
+	<entry name="Minerals0" value="Mineral Refining"/>
+	<entry name="Minerals0Description" value="Refining process for Pandora's rich mineral sources."/>
+	<entry name="Minerals1" value="Robotic Excavation"/>
+	<entry name="Minerals1Description" value="Robotic drones for mining assistance."/>
+	<entry name="Minerals2" value="Mineral Teleportation"/>
+	<entry name="Minerals2Description" value="Mineral extraction with the use of precise microwarps."/>
+	<entry name="Missile0" value="Guided Weapons"/>
+	<entry name="Missile0Description" value="Self-propelled guided weapon systems."/>
+	<entry name="Missile1" value="Intelligent Homing"/>
+	<entry name="Missile1Description" value="A basic, cheap IA designed for target pursuit, ensuring minimal mistakes and enhanced accuracy."/>
+	<entry name="Missile2" value="Anti-Matter Control"/>
+	<entry name="Missile2Description" value="State of the art missile design puts matter-antimatter reactions to good use."/>
+	<entry name="Morale0" value="Holographic Projections"/>
+	<entry name="Morale0Description" value="The next level of digital visualization in entertainment."/>
+	<entry name="Morale1" value="Emotion Expression"/>
+	<entry name="Morale1Description" value="Neurosurgery and training dedicated to standard of living improvement."/>
+	<entry name="Morale2" value="Thought Signal Processing"/>
+	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for perfected handling of stressful situations."/>
+	<entry name="Movement" value="Advanced Time Dilation"/>
+	<entry name="MovementDescription" value="Improve movement speed by manipulating time like any other dimension."/>
+	<entry name="NanoRobots" value="Nano Repair Systems"/>
+	<entry name="NanoRobotsDescription" value="Nanorobots specifically engineered and programmed for nanomedicinal and repair purposes."/>
+	<entry name="Nuke" value="Nuclear Weapons Delivery"/>
+	<entry name="NukeDescription" value="Global nuclear weapons delivery system that opens the door to thermonuclear warfare."/>
+	<entry name="Pollution" value="Planetary Awareness"/>
+	<entry name="PollutionDescription" value="Careful planning, execution and monitoring alleviate the pollution problems that may arise."/>
+	<entry name="Pollution0" value="Automated Recycling"/>
+	<entry name="Pollution0Description" value="Identify and remedy a major downside of industrialization."/>
+	<entry name="Pollution1" value="Ozone Depletion"/>
+	<entry name="Pollution1Description" value="Diminish pollution by recycling air."/>
+	<entry name="Pollution2" value="Artificial Atmosphere"/>
+	<entry name="Pollution2Description" value="Create a wholly new atmosphere from existing data."/>
+	<entry name="Population" value="Advanced City Planning"/>
+	<entry name="PopulationDescription" value="Optimize space occupation and population growth in your colonies."/>
+	<entry name="Population0" value="Wendo Housing Design"/>
+	<entry name="Population0Description" value="Efficient and modular housing system."/>
+	<entry name="Population1" value="Pokdletnov Field"/>
+	<entry name="Population1Description" value="High speed rotation of superconductors effectively leads to the negation of gravitomagnetic effects, allowing floating housing to be built."/>
+	<entry name="Population2" value="Digital Retirement"/>
+	<entry name="Population2Description" value="Immortality may still be a myth, but there are other means to ensure an impossibly long life."/>
+	<entry name="Power" value="Telepathy"/>
+	<entry name="PowerDescription" value="The ability to read into others' minds can help on many accounts."/>
+	<entry name="Production" value="Operational Efficiency?"/>
+	<entry name="ProductionDescription" value="The introduction of a regulating authority favors the punctuality and respect of business contracts, in turn helping productivity reach optimal levels."/>
+	<entry name="Production0" value="Industrial Automation"/>
+	<entry name="Production0Description" value="Production machines that build production machines."/>
+	<entry name="Production1" value="Intelligent Manufacturing"/>
+	<entry name="Production1Description" value="AI-driven manufacturing maximizing throughput."/>
+	<entry name="Production2" value="Nano Manufacturing"/>
+	<entry name="Production2Description" value="Self-replication further enhances production by limiting the needed interactions."/>
+	<entry name="Promotion" value="Field Training"/>
+	<entry name="PromotionDescription" value="Promote your troops through advanced training methods in the field."/>
+	<entry name="Research" value="Brain Growth"/>
+	<entry name="ResearchDescription" value="Evolution brings changes to cephalic development, along with improved intelligence."/>
+	<entry name="Research0" value="Quantization"/>
+	<entry name="Research0Description" value="Explanation of classical field theory in newer ways."/>
+	<entry name="Research1" value="Quantum Chaos Theory"/>
+	<entry name="Research1Description" value="On-the-fly recalculation of phase spaces greatly enhances predicted results."/>
+	<entry name="Research2" value="Advanced String Theory"/>
+	<entry name="Research2Description" value="Breakthroughs in M-Theory studies revolutionize the way we think about causality."/>
+	<entry name="Scan" value="Orbital Reconnaissance"/>
+	<entry name="ScanDescription" value="Knowledge is power: a satellite uplink allows us to employ satellites for planetary reconnaissance from space."/>
+	<entry name="Sight" value="Xenotronium Sensors"/>
+	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from further away."/>
+	<entry name="Sniper0" value="High Velocity Projectiles"/>
+	<entry name="Sniper0Description" value="Development of an advanced gun chamber that accelerates projectiles of hand-held weaponry to extraordinary speed, bridging vast distances with extreme accuracy."/>
+	<entry name="Sniper1" value="High Impact Discharges"/>
+	<entry name="Sniper1Description" value="A high voltage discharge happens upon impact, incapacitating that which has not been destroyed or killed."/>
+	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
+	<entry name="Sniper2Description" value="The coupling of subatomic particles can have several consequences once they become separated. One of the more interesting is matter relocation. When applied on limited zones such as the impact point of a bullet, this can lead to rather interesting effects on living beings."/>
+	<entry name="Tank0" value="Deflective Hull"/>
+	<entry name="Tank0Description" value="Massive hull design with applied mechanical and electrostatic deflection principles allows us to produce heavily armored tanks."/>
+	<entry name="Tank1" value="Carbon Nanotubes"/>
+	<entry name="Tank1Description" value="The use of carbon allotropes further enhances the capacity of heavily armored tanks."/>
+	<entry name="Tank2" value="Organic Machine Interface"/>
+	<entry name="Tank2Description" value="Explore the frightening possibility of a tank being directly connected to its crew."/>
+	<entry name="Teleportation" value="Teleportation"/>
+	<entry name="TeleportationDescription" value="The instant displacement of matter is finally within your reach."/>
+	<entry name="Terraform" value="Great Planetary Survey"/>
+	<entry name="TerraformDescription" value="Large-scale bioenvironmental study of Pandora to better assess and use the possibilities offered by the terrain."/>
+	<entry name="Transport" value="Naval Transportation Logistics"/>
+	<entry name="TransportDescription" value="Logistics required to ship ground troops across the sea."/>
+	<entry name="Trooper1" value="Assault Suit"/>
+	<entry name="Trooper1Description" value="Infantry warfare of the future."/>
+	<entry name="Trooper2" value="Organic Suit"/>
+	<entry name="Trooper2Description" value="Infantry enhanced with alien technology."/>
+	<entry name="Watercraft0" value="Electric Marine Propulsion"/>
+	<entry name="Watercraft0Description" value="Direct-drive generators mounted on ships ensure optimal hydropower in all conditions."/>
+	<entry name="Watercraft1" value="Belt Armor"/>
+	<entry name="Watercraft1Description" value="A thick, sloped complementary belt layer further enhances the ships' protection."/>
+	<entry name="Watercraft2" value="Grounded Bulkheads"/>
+	<entry name="Watercraft2Description" value="To prevent any kind of damage, this design is reinforced against physical damage and grounded against all kinds of non-physical ones with several protective coatings."/>
+</language>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
+	<entry name="CityGrown" value="%1% grown."/>
+	<entry name="CityLost" value="%1% lost."/>
+	<entry name="ImprovementLost" value="%1% lost."/>
+	<entry name="OperationProductionComplete" value="%1% produced %2%."/>
+	<entry name="OutOfCredits" value="Out of <img src='Resources/Credits'/> credits."/>
+	<entry name="OutOfFood" value="Out of <img src='Resources/Food'/> food."/>
+	<entry name="OutOfMinerals" value="Out of <img src='Resources/Minerals'/> minerals."/>
+	<entry name="UnitLost" value="%1% lost."/>
+	<entry name="UnitProductionComplete" value="%1% produced %2%."/>
+</language>

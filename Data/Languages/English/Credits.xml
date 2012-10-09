@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="DesignAndProgramming" value="<br/>Design and Programming"/>
+	<entry name="Graphics" value="<br/>Graphics"/>
+	<entry name="Music" value="<br/>Music"/>
+	<entry name="Sound" value="<br/>Sound"/>
+	<entry name="BetaTesting" value="<br/>Beta Testing"/>
+</language>

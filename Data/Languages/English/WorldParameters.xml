@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Shape" value="Shape"/>
+	<entry name="Shape0" value="Archipelago"/>
+	<entry name="Shape1" value="Continents"/>
+	<entry name="Shape2" value="Pangea"/>
+	<entry name="Size" value="Size"/>
+	<entry name="Size0" value="Tiny"/>
+	<entry name="Size1" value="Small"/>
+	<entry name="Size2" value="Medium"/>
+	<entry name="Size3" value="Large"/>
+	<entry name="Size4" value="Huge"/>
+	<entry name="Temperature" value="Temperature"/>
+	<entry name="Temperature0" value="Cold"/>
+	<entry name="Temperature1" value="Temperate"/>
+	<entry name="Temperature2" value="Warm"/>
+</language>

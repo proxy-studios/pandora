@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Vermillion".
+-->
+<language>
+	<entry name="AllianceAccepted" value="&quot;Indeed, %2%! Let us forge an alliance that will last through the ages!&quot;"/>
+	<entry name="AllianceRejected" value="&quot;An honorable offer, which we cannot accept for reasons that are confidential.&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;Well, so much for our alliance to last through the ages.&quot;"/>	
+	<entry name="DeclareWar" value="&quot;I will teach you a lesson about the art of war.&quot; (declares war)"/>
+	<entry name="Greet0" value="&quot;What do you want, treacherous %2%?&quot;"/>
+	<entry name="Greet1" value="&quot;I greet you, %3%, under this alien sky. How will our destinies unfold?&quot;"/>
+	<entry name="Greet2" value="&quot;A trustworthy friend like yourself deserves a deep bow. How may I help you?&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Let peace reign supreme at our borders.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;No. Take it for what you want.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;Your mind must be clouded performing such an act. &quot;"/>
+	<entry name="OfferAlliance" value="&quot;Shall we forge an alliance that will last through the ages?&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;Let us make a firm stand for peaceful intentions!&quot; (offers non-aggression pact)"/>
+	<entry name="OfferPeace" value="&quot;Let us end this war which is a burden for both of us.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Shall we walk the path of enlightenment together?&quot; (offers research pact)"/>
+	<entry name="OfferTradingPact" value="&quot;Let us sign a trading pact! We both will profit.&quot;"/>
+	<entry name="PeaceAccepted" value="&quot;Yes, peace is a wise choice.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;Begging for peace like a dog? Try harder.&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Indeed, let us find enlightenment together.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;I apologize, but I am afraid the benefits of such a pact would be too one-sided.&quot;"/>
+	<entry name="ResearchPactTerminated" value="&quot;Disappointing, but cannot be helped. Maybe we should reconsider in a couple months.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;While our alliance surely stood strong among this alien sky, the time has come to part ways.&quot;"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;Our stupid non-aggression pact is hereby nullified.&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;To be frank, I think our trading pact is simply not profitable enough for us, and hereby nullified.&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Most excellent, let the commerce flow my dear %1%!&quot;"/>
+	<entry name="TradingPactRejected" value="&quot;We do not seek your material goods at this point in time.&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;Why would you make such an unwise decision? One of you advisors must be an enemy spy.&quot;"/>
+	<entry name="WarAccepted" value="&quot;Very well, %2%. Time to teach you a lesson in the art of war.&quot;"/>
+
+</language>

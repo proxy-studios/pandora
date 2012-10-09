@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectionLost" value="Connection lost."/>
+	<entry name="ConnectingToServer" value="Connecting to server ..."/>
+	<entry name="EmptyName" value="Empty name."/>
+	<entry name="EmptyPassword" value="Empty password."/>
+	<entry name="Error" value="Error"/>
+	<entry name="EverythingOK" value="Everything OK."/>
+	<entry name="GameLoaded" value="Game loaded."/>
+	<entry name="GameSaved" value="Game saved."/>
+	<entry name="InitializingGame" value="Initializing game ..."/>
+	<entry name="InitializingServer" value="Initializing server ..."/>
+	<entry name="InvalidCommand" value="Invalid command: &quot;%1%&quot;."/>
+	<entry name="InvalidEmail" value="Invalid email."/>
+	<entry name="InvalidProductKey" value="Invalid product key."/>
+	<entry name="NetworkError" value="Network Error"/>
+	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
+	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
+	<entry name="Unreachable" value="Could not connect to server."/>
+</language>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="Arctic"/>
+	<entry name="ArcticDescription" value="Cold and deadly, the arctic landscape at the poles of Pandora is a very hostile climate to us humans. Agriculture is impossible without technical assistance."/> 
+	<entry name="ArcticProperties" value="Terrain"/>
+	<entry name="Blackout" value="Blackout"/>
+	<entry name="BlackoutDescription" value="..."/>
+	<entry name="BlackoutProperties" value="Effect<br/>Cities produce no resources<br/>Mechanical units cannot move"/>
+	<entry name="City0" value="City"/>
+	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
+	<entry name="City0Properties" value="Construction"/>
+	<entry name="City1" value="City"/>
+	<entry name="City2" value="City"/>
+	<entry name="Coast" value="Coast"/>
+	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
+	<entry name="CoastProperties" value="Terrain"/>
+	<entry name="Desert" value="Desert"/>
+	<entry name="DesertDescription" value="Extremely high temperatures and miles upon miles of dead sand make the desert a very difficult climate to survive in. Agriculture is impossible without technical assistance."/>
+	<entry name="DesertProperties" value="Terrain"/>
+	<entry name="Farm" value="Farm"/>
+	<entry name="FarmDescription" value="With the advent of industrialization, huge areas can be used for agricuture, providing vast amounts of raw materials for food processing facilities."/>
+	<entry name="FarmProperties" value="Construction"/>
+	<entry name="FoodBonus0" value="Natural Plantage"/>
+	<entry name="FoodBonus0Description" value="Rich soil and ideal relief and sun exposure help obtain generous harvests in this area."/>
+	<entry name="FoodBonus0Properties" value="Terrain bonus"/>
+	<entry name="FoodBonus1" value="Gaia Forest"/>
+	<entry name="FoodBonus1Description" value="A lush forest, mainly composed of fruit trees, that can provide more food than even the best agricultural compound."/>
+	<entry name="FoodBonus1Properties" value="Terrain bonus"/>
+	<entry name="FoodBonus2" value="Garden of Eden"/>
+	<entry name="FoodBonus2Description" value="This idyllic area is so rich in nutrients its plant growth rate is unequaled. Some say it could sustain a megalopolis by itself."/>
+	<entry name="FoodBonus2Properties" value="Terrain bonus"/>
+	<entry name="Forest" value="Forest"/>
+	<entry name="ForestCombatProperties" value="+50% <img src='Attributes/Power'/> power for light biological units"/>
+	<entry name="ForestDescription" value="A forest is an area with a high density of trees and functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere."/>
+	<entry name="ForestProperties" value="Terrain"/>
+	<entry name="Fort" value="Fort"/>
+	<entry name="FortDescription" value="Massive fortifications that provide units a strong defensive and vision bonus. If stocked with artillery units they are optimal to protect borders or strategic key positions."/>
+	<entry name="FortProperties" value="Construction"/>
+	<entry name="Grassland" value="Grassland"/>
+	<entry name="GrasslandDescription" value="Grasslands are areas where the vegetation is dominated by grasses and other herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
+	<entry name="GrasslandProperties" value="Terrain"/>
+	<entry name="Growth" value="Accelerated Growth"/>
+	<entry name="GrowthDescription" value="Cities with accelerated growth grow twice as fast."/>
+	<entry name="GrowthProperties" value="+100% growth for city"/>
+	<entry name="Hills" value="Hills"/>
+	<entry name="HillsDescription" value="Characterizes an altitude level between mountains and plains, and provides "/>
+	<entry name="HillsProperties" value="Terrain"/>
+	<entry name="Hive0" value="Hive"/>
+	<entry name="Hive0CombatProperties" value="+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive0Description" value="This organic structure hosts a colony of xenomorphs, giving them shelter and allowing them to reproduce."/>
+	<entry name="Hive0Properties" value="Construction"/>
+	<entry name="Hive1" value="Hive"/>
+	<entry name="Hive1CombatProperties" value="+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive2" value="Hive"/>
+	<entry name="Hive2CombatProperties" value="+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Mine" value="Mine"/>
+	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
+	<entry name="MineProperties" value="Construction"/>
+	<entry name="MineralsBonus0" value="Mexallon Field"/>
+	<entry name="MineralsBonus0Description" value="The soil in this area is filled with Mexallon, a very valuable mineral, even though its extraction is harder than most."/>
+	<entry name="MineralsBonus1" value="Isogen Field"/>
+	<entry name="MineralsBonus1Description" value="Huge deposits of Isogen have been detected in this area. Its high value and easy extraction should make mining here a priority."/>
+	<entry name="MineralsBonus2" value="Noxium Field"/>
+	<entry name="MineralsBonus2Description" value="Noxium is probably the most valuable mineral in the universe, and incredibly dense deposits have been found in this area."/>
+	<entry name="Mountains" value="Mountains"/>
+	<entry name="MountainsCombatProperties" value="+50% <img src='Attributes/Power'/> power for light biological units"/>
+	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
+	<entry name="MountainsProperties" value="Terrain"/>
+	<entry name="Ocean" value="Ocean"/>
+	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous vegetal and animal lifeforms."/>
+	<entry name="OceanProperties" value="Terrain"/>
+	<entry name="Plains" value="Plains"/>
+	<entry name="PlainsCombatProperties" value="+50% <img src='Attributes/Power'/> power for mechanical units"/>
+	<entry name="PlainsDescription" value="The low relief and quasi-absence of shrubs and trees make the plains of Pandora easily buildable areas, but offering little room for cover to infantry troops."/>
+	<entry name="PlainsProperties" value="Terrain"/>
+	<entry name="Pollution" value="Pollution"/>
+	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
+	<entry name="PollutionProperties" value="Effect"/>
+	<entry name="Ruin" value="Ruin"/>
+	<entry name="RuinDescription" value="Remnant of a long-gone civilization, these ruins can host great knowledge, richess... or danger."/>
+	<entry name="RuinProperties" value="Construction"/>
+	<entry name="Savanna" value="Savanna"/>
+	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with wide plains they are a candidate for agriculture."/>
+	<entry name="SavannaProperties" value="Terrain"/>
+	<!-- <entry name="ScorchedEarth" value="Scorched Earth"/> -->
+	<!-- <entry name="ScorchedEarthDescription" value="As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore."/> -->
+	<!-- <entry name="ScorchedEarthProperties" value="Effect"/> -->
+	<!-- <entry name="Shield" value="Shield"/> -->
+	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
+	<!-- <entry name="ShieldProperties" value="Effect"/> -->
+	<entry name="Tropical" value="Tropical"/>
+	<entry name="TropicalDescription" value="Torrid climate and lush vegetation - even though the soil is rather poor in nutrients - are the main characteristics of tropical zones."/>
+	<entry name="TropicalProperties" value="Terrain"/>
+	<entry name="Tundra" value="Tundra"/>
+	<entry name="TundraDescription" value="The tundra is a cold biome, its vegetation mainly composed of shrubs, mosses and lichens. Agriculture is hampered by the low temperatures and permanently frozen subsoil, even in the short growing seasons."/>
+	<entry name="TundraProperties" value="Terrain"/>
+</language>
