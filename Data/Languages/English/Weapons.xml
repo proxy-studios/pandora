@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Artillery0" value="Long Tom"/>
-	<entry name="Artillery0CombatProperties" value="+25% <img src='Attributes/Power'/> power<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
+	<entry name="Artillery0CombatProperties" value="-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
 	<entry name="Artillery0Description" value="Indirect firing requires remote target acquisition, usually in the form of a forward observer, but Pandora's unknown gravitational interferences have made accurate long range firing more of a chance-based endeavour and far from reliable.<br/><br/>Guided indirect firing disposes of the human forward observer in favor of a drone guider which can provide in-flight corrections to heavy ordnance projectiles for accurate bombardment."/>
 	<entry name="Artillery0Properties" value="+25% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Artillery1" value="Gunther"/>
-	<entry name="Artillery1CombatProperties" value="+100% <img src='Attributes/Power'/> power<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
+	<entry name="Artillery1CombatProperties" value="-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
 	<entry name="Artillery1Description" value="Where common weapons only diminish the chances of a target escaping fire, the Gunther doesn't show any kind of mercy. Its high rate of fire, automated MRSI calculation and fragmentation air burst projectiles allow him to not only apply the principle upon a target, but upon a whole area several dozen meters wide."/>
 	<entry name="Artillery1Properties" value="+100% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Artillery2" value="Cygnus"/>
-	<entry name="Artillery2CombatProperties" value="+175% <img src='Attributes/Power'/> power<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
+	<entry name="Artillery2CombatProperties" value="-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking<br/>Long range splash attack"/>
 	<entry name="Artillery2Description" value="The Cygnus brings another lethal component into the fray: gravitons. When the shells implode, the release of gravitons is sufficient to emulate the effect of a portable and non-lasting black hole, pulling objects in their vicinity toward the blast point and crushing them under the force of their gravitational field."/>
 	<entry name="Artillery2Properties" value="+175% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Automatic0" value="L-15 Lance Gun"/>
@@ -17,11 +17,11 @@
 	<entry name="Automatic0Description" value="The most widespread of Human weapons since the colonization of extraterrestrial bodies, the Lance Gun is a fully automatic assault weapon capable of selective enemy neutralization."/>
 	<entry name="Automatic0Properties" value=""/>
 	<entry name="Automatic1" value="Gauss Gatling Gun"/>
-	<entry name="Automatic1CombatProperties" value="+75% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Automatic1CombatProperties" value="+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Automatic1Description" value="Studying thousands of gunfights, specifically combatants' movement patterns along with the random variables in projectile responses, has opened the door for a new generation of automatic weapons: next to their state of the art firepower they attempt to compensate for all uncertainties encountered on the battlefield. Stochastically adjusted flight curves considerably increase the weapon's average accuracy.<br/><br/><style oblique='1'/>Response in the troops is mixed: especially veteran soldiers are not too fond of guns that stray on purpose, no matter what &quot;theoretical nonsense&quot; might lurk behind."/>
 	<entry name="Automatic1Properties" value="+75% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Automatic2" value="Deiphobus"/>
-	<entry name="Automatic2CombatProperties" value="+150% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Automatic2CombatProperties" value="+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Automatic2Description" value="The Deiphobus ammunition is specifically tailored to trigger a chain reaction breaking down cells to their core subatomic components. Most Deiphobus's victims probably won't care much for the exact process, as it amounts to a simple and almost instantaneous disintegration for them."/>
 	<entry name="Automatic2Properties" value="+150% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Bug0" value="Needles"/>
@@ -29,15 +29,15 @@
 	<entry name="Bug0Description" value="Razor-sharp needles that rip through human flesh."/>
 	<entry name="Bug0Properties" value=""/>
 	<entry name="Cannon0" value="M-20 Serenity Cannon"/>
-	<entry name="Cannon0CombatProperties" value="+25% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
+	<entry name="Cannon0CombatProperties" value="+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Cannon0Description" value="To break through the thick armor and hull of tanks, weapons of immense fire power are required. Cannons are mounted on heavy war machines and deliver a highly devastating payload that crushes through everything in its path. While particularly effective against heavy targets, the relatively low rate of fire and targeting speed make them an atrocious option to fight light or airborne units.<br/><br/><style oblique='1'/>What's better than a tank?"/>
 	<entry name="Cannon0Properties" value="+25% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Cannon1" value="Photon Cannon"/>
-	<entry name="Cannon1CombatProperties" value="+100% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
+	<entry name="Cannon1CombatProperties" value="+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Cannon1Description" value="Originally designed to replace the M-20, the Photon Cannon evolved to use photons to devastate adversaries with powerful electromagnetic effects."/>
 	<entry name="Cannon1Properties" value="+100% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Cannon2" value="Tachyon Cannon"/>
-	<entry name="Cannon2CombatProperties" value="+175% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
+	<entry name="Cannon2CombatProperties" value="+50% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Cannon2Properties" value="+175% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Cannon2Description" value="While not making use of tachyons per se, the Tachyon Cannon is still an impressive piece or weaponry, able to propel energy particles at very high frequency and superluminal speeds, letting them pierce right through the thickest coat of armor. Its AI-driven targeting system also grants it near-perfect accuracy, making the Tachyon Cannon the most frightening weapon in modern armies."/>
 	<entry name="Flak0" value="P-5 Bantham Flak"/>
@@ -45,35 +45,35 @@
 	<entry name="Flak0Description" value="Heavily based on probability theory and flight patterns, maneuver estimation algorithms reach a new height in real-time prediction of changes in flight craft orientation and speed.<br/><br/>After a long period of inefficient gun-based AA systems and their eventual discontinuation, the novel maneuver estimation technology reintroduces flak weaponry to the modern world and even reclaims the throne from missile systems as the de-facto aircraft destroyer."/>  
 	<entry name="Flak0Properties" value=""/>
 	<entry name="Flak1" value="Whirlwind Flak"/>
-	<entry name="Flak1CombatProperties" value="+75% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs airborne units<br/>-50% <img src='Attributes/Power'/> power vs ground units"/>
+	<entry name="Flak1CombatProperties" value="+50% <img src='Attributes/Power'/> power vs airborne units<br/>-50% <img src='Attributes/Power'/> power vs ground units"/>
 	<entry name="Flak1Description" value="Striking opponents down in a sea of shells, the Whirlwind Flak cannot be avoided by even the most skilled pilots simply because there is nowhere to escape."/>
 	<entry name="Flak1Properties" value="+75% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Flak2" value="Mirage Flak"/>
-	<entry name="Flak2CombatProperties" value="+150% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs airborne units<br/>-50% <img src='Attributes/Power'/> power vs ground units"/>
+	<entry name="Flak2CombatProperties" value="+50% <img src='Attributes/Power'/> power vs airborne units<br/>-50% <img src='Attributes/Power'/> power vs ground units"/>
 	<entry name="Flak2Description" value="Artifically creating sprite lightnings, the effects of the Mirage are quite a sight to behold - from a safe distance. Though not destructive in and of itself, the electrical discharge in the upper atmosphere jams weapons, disrupts electronic functions, causes bugs in all kinds of software, and has repercussions right down to the ground, though to a much lesser extent. A single shot from this type of flak has caused the loss of more than one heavy bomber."/>
 	<entry name="Flak2Properties" value="+150% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Flame0" value="Hellfire"/>
-	<entry name="Flame0CombatProperties" value="+25% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Flame0CombatProperties" value="+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Flame0Description" value="Said to send its enemies to hell, this flame based weapon really doesn't spare any of its less-protected opponents.<br/><br/><style oblique='1'/>&quot;And they shall burn.&quot;"/>
 	<entry name="Flame0Properties" value="+25% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Flame1" value="G-7 Volcano"/>
-	<entry name="Flame1CombatProperties" value="+100% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Flame1CombatProperties" value="+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Flame1Description" value="This evolution of the Hellfire brings its own twist to the battlegrounds: dual tanks hold respectively so-called magic acid and water, each of them coming out through a different barrel. The acid is propelled first, causing severe chemical burns to the target. Then comes the pressurized water, provoking the explosive reaction that gives the weapon its name."/>
 	<entry name="Flame1Properties" value="+100% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Flame2" value="C-X Flesheater"/>
-	<entry name="Flame2CombatProperties" value="+175% <img src='Attributes/Power'/> power<br/>+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Flame2CombatProperties" value="+50% <img src='Attributes/Power'/> power vs biological units<br/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Flame2Description" value="The aptly-name Flesheater may look inoffensive, seemingly hurling a spray of gas onto its enemies. In reality, what is propelled is a highly hazardous mix of various Pandorian toxins, much more active than their terran counterparts: exo-, neuro-, hemo-, photo-,  cardiotoxins and yet a few more. The victim is almost literally eaten alive, both form the inside and the outside."/>
 	<entry name="Flame2Properties" value="+175% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Laser0" value="Pulse Laser"/>
-	<entry name="Laser0CombatProperties" value="+50% <img src='Attributes/Power'/> power"/>  
+	<entry name="Laser0CombatProperties" value=""/>  
 	<entry name="Laser0Description" value="Even though its rate of pulse is quite low, the reason for this design choice is quite reasonable: the longer the device builds energy, the higher the temperatures reached, up to the point where the laser simply evaporates the target."/>
 	<entry name="Laser0Properties" value="+50% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Laser1" value="Fusion Laser"/>
-	<entry name="Laser1CombatProperties" value="+125% <img src='Attributes/Power'/> power"/>  
+	<entry name="Laser1CombatProperties" value=""/>  
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a tremendous amount of energy at the moment of contact. When channeled into a beam, the released energy results in a destructive power that surpasses traditional laser devices."/>
 	<entry name="Laser1Properties" value="+125% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Laser2" value="Graviton Laser"/>
-	<entry name="Laser2CombatProperties" value="+200% <img src='Attributes/Power'/> power"/>  
+	<entry name="Laser2CombatProperties" value=""/>  
 	<entry name="Laser2Description" value="Expected to exist since a very long time, thanks to recent progress in technology we now have finally discovered and proven the graviton particle. The ability to modify gravity itself opens the door to a new era of stunning devices, like this particle beam that rips apart everything by gravitational force."/>
 	<entry name="Laser2Properties" value="+200% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Leviathan0" value="Leviathan"/>
@@ -84,11 +84,11 @@
 	<entry name="Missile0Description" value="This self-propelled projectile delivery weapon employs guidance systems to maneuver its heavy ordnance missiles, dubbed hammerheads, to its targets in a reliable fashion. Missile based weapon systems are a good choice against heavy targets, like tanks, but at the same time stay effective against lighter and faster targets."/>
 	<entry name="Missile0Properties" value=""/>
 	<entry name="Missile1" value="Hydra Missile Launcher"/>
-	<entry name="Missile1CombatProperties" value="+75% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs mechanical units<br/>-25% <img src='Attributes/Power'/> power vs biological units"/>
+	<entry name="Missile1CombatProperties" value="+25% <img src='Attributes/Power'/> power vs mechanical units<br/>-25% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Missile1Description" value="Guidance weapons have long been struggling with jamming, but Hydra Missile Launcher's vast amounts of projectiles and intelligent homing strike a balance that eludes most countermeasures."/>
 	<entry name="Missile1Properties" value="+75% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Missile2" value="Anti-Matter Missile Launcher"/>
-	<entry name="Missile2CombatProperties" value="+150% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs mechanical units<br/>-25% <img src='Attributes/Power'/> power vs biological units"/>
+	<entry name="Missile2CombatProperties" value="+25% <img src='Attributes/Power'/> power vs mechanical units<br/>-25% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Missile2Description" value="Matter-antimatter collision has the potency to put nuclear fusion chains to shame. The miniaturization and balancing of the projectiles costs greatly, but the efficiency of this weapon has no equal."/>
 	<entry name="Missile2Properties" value="+150% <img src='Attributes/Production'/> production cost"/>
 	<entry name="None" value="No Weapon"/>
@@ -99,11 +99,11 @@
 	<entry name="Sniper0Description" value="Employing high velocity projectiles, the SWS Headhunter presents a frightening experience to all who are caught unaware."/>
 	<entry name="Sniper0Properties" value=""/>
 	<entry name="Sniper1" value="Shock Rifle"/>
-	<entry name="Sniper1CombatProperties" value="+75% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking"/>
+	<entry name="Sniper1CombatProperties" value="+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking"/>
 	<entry name="Sniper1Description" value="Firing high impact discharges from a frighteningly bulky frame, the Shock Rifle is a devastating offensive weapon when combined with proper support."/>
 	<entry name="Sniper1Properties" value="+75% <img src='Attributes/Production'/> production cost"/>
 	<entry name="Sniper2" value="H-44 Arc Rifle"/>
-	<entry name="Sniper2CombatProperties" value="+150% <img src='Attributes/Power'/> power<br/>+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking"/>
+	<entry name="Sniper2CombatProperties" value="+25% <img src='Attributes/Power'/> power vs biological units<br/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/>-50% <img src='Attributes/Power'/> power when defending<br/>Takes no damage when attacking"/>
 	<entry name="Sniper2Description" value="Firing rounds loaded with entangled particles, the H-44 can warp a good chunk of its target around the impact point."/>
 	<entry name="Sniper2Properties" value="+150% <img src='Attributes/Production'/> production cost"/>
 </language>
