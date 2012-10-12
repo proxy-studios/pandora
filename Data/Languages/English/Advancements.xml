@@ -35,7 +35,7 @@
 	<entry name="PowerProperties" value="+10% <img src='Attributes/Power'/> power"/>
 	<entry name="Pollution" value="Planetary Awareness"/>
 	<entry name="PollutionDescription" value="The main drawback of industrialization has always been pollution. We are not willing to reiterate the mistakes we made on the old earth, and monitoring of pollutant interference in the wilderness, as well as proactive actions to diminish the release of hazardous waste, can alleviate the problem."/>
-	<entry name="PollutionProperties" value="-4 <img src='Pollution'/> pollution in every city"/>
+	<entry name="PollutionProperties" value="-4 <img src='Resources/Pollution'/> pollution in every city"/>
 	<entry name="Population" value="Advanced City Planning"/>
 	<entry name="PopulationDescription" value="Careful, rational planning and implementation of space occupation prevents population growth to be hampered by housing shortage."/>
 	<entry name="PopulationProperties" value="+2 <img src='Resources/Population'/> population limit in every city"/>
