@@ -12,6 +12,8 @@
 	<entry name="BuildFortHint" value="Build Fort<br/><style name='Small'/>+100% <img src='Attributes/Power'/> power for defending units<br/>3 turn duration"/>
 	<entry name="BuildMine" value="Build Mine"/>
 	<entry name="BuildMineHint" value="Build Mine<br/><style name='Small'/>+1 <img src='Resources/Minerals'/> minerals<br/>3 turn duration"/>
+	<entry name="BuildStreet" value="Build Street"/>
+	<entry name="BuildStreetHint" value="Build Street<br/><style name='Small'/>-50% movement cost for units<br/>3 turn duration"/>
 	<entry name="ClearForest" value="Clear Forest"/>
 	<entry name="ClearForestHint" value="Clear Forest<br/><style name='Small'/>3 turn duration"/>
 	<entry name="ClearPollution" value="Clear Pollution"/>
