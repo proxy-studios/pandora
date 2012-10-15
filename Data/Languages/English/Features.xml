@@ -66,6 +66,9 @@
 	<entry name="MountainsCombatProperties" value="+50% <img src='Attributes/Power'/> power for light biological units"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
 	<entry name="MountainsProperties" value="Terrain"/>
+	<entry name="Observatory" value="Observatory"/>
+	<entry name="ObservatoryDescription" value="..."/>
+	<entry name="ObservatoryProperties" value="Construction"/>
 	<entry name="Ocean" value="Ocean"/>
 	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous vegetal and animal lifeforms."/>
 	<entry name="OceanProperties" value="Terrain"/>
