@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="BlackHole" value="Black Hole"/>
-	<entry name="BlackHoleDescription" value="Contrary to fusion and fission mass destruction weapons, the black hole has no lasting effects on the environment, while holding even more destructive power, crushing everything in a wide radius around its creation point."/>
+	<entry name="BlackHoleDescription" value="Contrary to mass destruction weapons based on fusion and fission, the black hole has no lasting effects on the environment, while holding even more destructive power, crushing everything in a wide radius around its creation point."/>
 	<entry name="BlackHoleProperties" value="Destroys target territory and its neighbors"/>
 	<entry name="DropPod" value="Drop Pod"/>
 	<entry name="DropPodDescription" value="Drop pods are hatch chambers launched from orbit, containing one or several troops, offering us the possibility to drop them behind enemy lines with speed and precision."/>
