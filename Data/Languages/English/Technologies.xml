@@ -5,11 +5,11 @@
 	<entry name="Academy1" value="Customization"/>
 	<entry name="Academy1Description" value="Suit the equipment to the soldier, not the soldier to the equipment."/>
 	<entry name="Academy2" value="Neural Interface"/>
-	<entry name="Academy2Description" value="Direct downlink to a centralized combat database enhances combat efficiency."/>
+	<entry name="Academy2Description" value="Direct downlink to a centralized combat database enhances troop efficiency."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
-	<entry name="Aircraft0Description" value="Electrically powered propulsion system that brings the war to the skies."/>
+	<entry name="Aircraft0Description" value="Electrically powered propulsion system that brings war to the skies."/>
 	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>
-	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems gives multi-role fighters an edge in avoidance of most airborne threats."/>
+	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems gives multi-role fighters an edge in the avoidance of most airborne threats."/>
 	<entry name="Aircraft2" value="Geomagnetic Hull"/>
 	<entry name="Aircraft2Description" value="This bulky hull replacement allows aircrafts to utilize the ionization happening in Pandora's thermosphere for various goals."/>
 	<entry name="Alien" value="Xenology"/>
@@ -31,17 +31,17 @@
 	<entry name="Armor7" value="Anti-Matter Substrate"/>
 	<entry name="Armor7Description" value="Allows to coat armor with a layer of relatively stable and incredibly powerful anti-matter."/>
 	<entry name="Armor8" value="Xenotronium Synapses"/>
-	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self aware and &quot;lives&quot; for one sole purpose: to protect its wearer."/>
+	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self aware and &quot;lives&quot; for one sole purpose: to protect its bearer."/>
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
-	<entry name="Artillery0Description" value="Drone supported heavy long range weaponry that can shred whole troop formations."/>
+	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
-	<entry name="Artillery1Description" value="Combining the efficiency of MRSI and the firepower of air burst by using fragmentation projectiles leave the enemy little chance of survival."/>
+	<entry name="Artillery1Description" value="Combining the efficiency of MRSI and the firepower of air burst by using fragmentation projectiles leaves the enemy with little chance of survival."/>
 	<entry name="Artillery2" value="Graviton Shells"/>
 	<entry name="Artillery2Description" value="Portable gravitational field generation for artillery units."/>
 	<entry name="Assault" value="Operation Valkyrie"/>
-	<entry name="AssaultDescription" value="Orbital reconnaissance and troop landing operation for a one time military strike anywhere on the planet."/>
+	<entry name="AssaultDescription" value="Orbital reconnaissance and troop landing operation for a one-time military strike anywhere on the planet."/>
 	<entry name="ATV0" value="Analytical Dynamics"/>
-	<entry name="ATV0Description" value="Adaption of vehicles to the environmental parameters of new world."/>
+	<entry name="ATV0Description" value="Adaption of vehicles to the environmental parameters of the new world."/>
 	<entry name="ATV1" value="Energy Absorption"/>
 	<entry name="ATV1Description" value="Enhanced shock absorption gives light vehicles an edge in rough terrain and difficult maneuvers."/>
 	<entry name="ATV2" value="Electrically Charged Armor"/>
@@ -49,15 +49,15 @@
 	<entry name="Automatic1" value="Stochastic Projectiles"/>
 	<entry name="Automatic1Description" value="Advanced automatic weapons based on stochastic methods."/>
 	<entry name="Automatic2" value="Mutagen Projectiles"/>
-	<entry name="Automatic2Description" value="Spontaneous cellular decay make mutagens some of the scariest kinds of ammunition."/>
+	<entry name="Automatic2Description" value="Mutagens provoke spontaneous cellular decay, making them one of the scariest kinds of ammunition known to man."/>
 	<entry name="BlackHole" value="Controlled Singularity"/>
-	<entry name="BlackHoleDescription" value="Industrial-scale production of mass destruction weapons."/>
+	<entry name="BlackHoleDescription" value="Industrial production of non-radioactive mass destruction weapons."/>
 	<entry name="Cannon0" value="Anti-Armor Warheads"/>
 	<entry name="Cannon0Description" value="Tank breakers as an answer to heavy war machinery."/>
 	<entry name="Cannon1" value="Photomultiplier"/>
 	<entry name="Cannon1Description" value="The emission of a dense beam of protons generates a powerful electromagnetic field."/>
 	<entry name="Cannon2" value="Superluminal Projectiles"/>
-	<entry name="Cannon2Description" value="High frequency, faster than light projectiles can pierce through any kind of protection."/>
+	<entry name="Cannon2Description" value="High frequency, faster-than-light projectiles can pierce through any kind of protection."/>
 	<entry name="Colonization" value="Colonization Fervor"/>
 	<entry name="ColonizationDescription" value="The race for territorial control of Pandora has finally begun."/>
 	<entry name="Credits" value="Qan Bargaining"/>
@@ -71,7 +71,7 @@
 	<entry name="Defense" value="Command Nexus"/>
 	<entry name="DefenseDescription" value="Organize defense systems in a more efficient way thanks to a centralized HQ."/>
 	<entry name="Defense0" value="Adaptive Field Fortifications"/>
-	<entry name="Defense0Description" value="Advanced improvised barricades utilized in city warfare."/>
+	<entry name="Defense0Description" value="Advanced improvised barricades used in city warfare."/>
 	<entry name="Defense1" value="Structural Protection"/>
 	<entry name="Defense1Description" value="Embed the colony with a grid of varied defenses against all kinds of threats."/>
 	<entry name="Defense2" value="Superscalar Construction"/>
