@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Rank0" value="Private 0/7"/>
-	<entry name="Rank1" value="Corporal 1/7"/>
-	<entry name="Rank2" value="Sergeant 2/7"/>
-	<entry name="Rank3" value="Lieutenant 3/7"/>
-	<entry name="Rank4" value="Captain 4/7"/>
-	<entry name="Rank5" value="Major 5/7"/>
-	<entry name="Rank6" value="Colonel 6/7"/>
-	<entry name="Rank7" value="General 7/7"/>
+	<entry name="Rank0" value="Private (0/7)"/>
+	<entry name="Rank1" value="Corporal (1/7)"/>
+	<entry name="Rank2" value="Sergeant (2/7)"/>
+	<entry name="Rank3" value="Lieutenant (3/7)"/>
+	<entry name="Rank4" value="Captain (4/7)"/>
+	<entry name="Rank5" value="Major (5/7)"/>
+	<entry name="Rank6" value="Colonel (6/7)"/>
+	<entry name="Rank7" value="General (7/7)"/>
 </language>

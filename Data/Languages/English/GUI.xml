@@ -143,7 +143,7 @@
 	<entry name="RemotePort" value="Remote Port"/>
 	<entry name="QuickPlay" value="Quick Play"/>
 	<entry name="Quit" value="Quit"/>
-	<entry name="RankHint" value="Rank %1%/%2%<br/>Unit experience gained from combat. Each successive rank increases the unit power by %3%%%."/>
+	<entry name="RankHint" value="Rank (%1%/%2%)<br/>Unit experience gained from combat. Each successive rank increases the unit power by %3%%%."/>
 	<entry name="RememberPassword" value="Remember Password"/>
 	<entry name="Report" value="Report"/>
 	<entry name="Research" value="Research"/>
