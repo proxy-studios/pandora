@@ -24,14 +24,14 @@
 	<entry name="OfferTradingPact" value="&quot;May I interest you in a trade pact?&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;We accept. Man and nature have suffered enough.&quot;"/>
 	<entry name="PeaceRejected" value="&quot;No, no, no! This ain't over yet!&quot;"/>
-	<entry name="ResearchPactAccepted" value="&quot;Very well, let us make the discoveries of new age together!&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Very well, let us make the discoveries of a new age together!&quot;"/>
 	<entry name="ResearchPactRejected" value="&quot;Sorry %2%, not interested.&quot;"/>
 	<entry name="ResearchPactTerminated" value="&quot;Do you really think this was the right decision, %2%? I doubt it.&quot;"/>
 	<entry name="TerminateAlliance" value="&quot;I hope you don't misread this gesture my old friend, but our alliance is terminated effective immediately.&quot;"/>
 	<entry name="TerminateNonAggressionPact" value="&quot;Things are starting to go too far, our non-aggression pact is hereby nullified.&quot;"/>
 	<entry name="TerminateResearchPact" value="&quot;We do not like the directions your research is going. Our research pact is hereby nullified.quot;"/>
 	<entry name="TerminateTradingPact" value="&quot;We had enough of your goods produced without any care for nature. Trading times are over!&quot;"/>
-	<entry name="TradingPactAccepted" value="&quot;Accepted! Let us hope for fruitful collaboration&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Accepted! Let us hope for fruitful collaboration.&quot;"/>
 	<entry name="TradingPactRejected" value="&quot;My people are not ready yet for an influx of your goods.&quot;"/>
 	<entry name="TradingPactTerminated" value="&quot;Now that is very disappointing.&quot;"/>
 	<entry name="WarAccepted" value="&quot;The ground will tremble under our marching forces.&quot;"/>
