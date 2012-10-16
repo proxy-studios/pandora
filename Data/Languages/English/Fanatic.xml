@@ -7,16 +7,16 @@
  	%3% with faction leader title and name, e.g. "Lady Vermillion".
 -->
 <language>
-	<entry name="AllianceAccepted" value="&quot;Glady do we accept, my dear friend! Let us rule this world in the name of God.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Glady do we accept, my dear friend! Let us rule this world together in the name of God.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Your offer honors us, but we do not think it would be a wise choice at this point in time.&quot;"/>
-	<entry name="AllianceTerminated" value="&quot;&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;So be it. Leave it to God to sort the chaff from the wheat.&quot;"/>
 	<entry name="DeclareWar" value="&quot;We have been on each other's toes long enough!&quot;"/>
-	<entry name="Greet0" value="&quot;You better came here to beg for forgiveness, sinner.&quot;"/>
+	<entry name="Greet0" value="&quot;You better come here to beg for forgiveness, sinner.&quot;"/>
 	<entry name="Greet1" value="&quot;Speak freely but true, %3%. God is always watching.&quot;"/>
-	<entry name="Greet2" value="&quot;Welcome my dear friend! How may I be of service?&quot;"/>
+	<entry name="Greet2" value="&quot;Welcome, my dear friend! How may I be of service?&quot;"/>
 	<entry name="NonAggressionPactAccepted" value="&quot;So be it. May our factions prosper in the years of peace to come.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;You might not like to hear this, my dear %1%, but we are not interested.&quot;"/>
-	<entry name="NonAggressionPactTerminated" value="&quot;The termination of a non-aggression pact has well known implications. We will remember this, %2%. The holy warriors stand prepared.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;The termination of a non-aggression pact has well-known implications. We will remember this, %2%. The holy warriors stand prepared.&quot;"/>
 	<entry name="OfferAlliance" value="&quot;Shall we join our forces?&quot;"/>
 	<entry name="OfferNonAggressionPact" value="&quot;Let us sign a non-aggression pact.&quot;"/>
 	<entry name="OfferPeace" value="&quot;Any chance we can put our differences aside?&quot;"/>
@@ -27,7 +27,7 @@
 	<entry name="ResearchPactAccepted" value="&quot;Let us embrace the wonders of a new age together, my friend.&quot;"/>
 	<entry name="ResearchPactRejected" value="&quot;I am sorry, but for now we will make the journey into the unknown alone.&quot;"/>
 	<entry name="ResearchPactTerminated" value="&quot;What miracle did you discover leading to such an act? It shall not matter, we will find out soon enough.&quot;"/>
-	<entry name="TerminateAlliance" value="&quot;While our alliance surely stood strong among this alien sky, the time has come to part ways.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;While our alliance surely stood strong under this alien sky, the time has come to part ways.&quot;"/>
 	<entry name="TerminateNonAggressionPact" value="&quot;Our stupid non-aggression pact is hereby nullified.&quot;"/>
 	<entry name="TerminateResearchPact" value="&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;"/>
 	<entry name="TerminateTradingPact" value="&quot;To be frank, I think our trading pact is simply not profitable enough for us, and hereby nullified.&quot;"/>
