@@ -2,12 +2,12 @@
 <language>
 	<entry name="AmbientVolume" value="Ambient Volume"/>
 	<entry name="AnisotropicFiltering" value="Anisotropic Filtering"/>
-	<entry name="AntiAliasing" value="Anti Aliasing"/>
+	<entry name="AntiAliasing" value="Anti-Aliasing"/>
 	<entry name="AutoCycleUnits" value="Auto Cycle Units"/>
-	<entry name="AutoSave" value="Auto Save"/>
+	<entry name="AutoSave" value="Autosave"/>
 	<entry name="EffectsVolume" value="Effects Volume"/>
-	<entry name="FullScreen" value="Full Screen"/>
-	<entry name="FullScreenResolution" value="Full Screen Resolution"/>
+	<entry name="FullScreen" value="Fullscreen"/>
+	<entry name="FullScreenResolution" value="Fullscreen Resolution"/>
 	<entry name="GrabInput" value="Grab Input"/>
 	<entry name="Grid" value="Grid"/>
 	<entry name="InterfaceVolume" value="Interface Volume"/>
