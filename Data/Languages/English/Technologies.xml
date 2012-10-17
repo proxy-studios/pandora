@@ -31,7 +31,7 @@
 	<entry name="Armor7" value="Anti-Matter Substrate"/>
 	<entry name="Armor7Description" value="Allows to coat armor with a layer of relatively stable and incredibly powerful anti-matter."/>
 	<entry name="Armor8" value="Xenotronium Synapses"/>
-	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self aware and &quot;lives&quot; for one sole purpose: to protect its bearer."/>
+	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its bearer."/>
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
 	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
@@ -45,7 +45,7 @@
 	<entry name="ATV1" value="Energy Absorption"/>
 	<entry name="ATV1Description" value="Enhanced shock absorption gives light vehicles an edge in rough terrain and difficult maneuvers."/>
 	<entry name="ATV2" value="Electrically Charged Armor"/>
-	<entry name="ATV2Description" value="A complementary layer of electrostatic protection grants further protection against common weapons."/>
+	<entry name="ATV2Description" value="An electrostatic protection layer further protects vehicles against common weapons."/>
 	<entry name="Automatic1" value="Stochastic Projectiles"/>
 	<entry name="Automatic1Description" value="Advanced automatic weapons based on stochastic methods."/>
 	<entry name="Automatic2" value="Mutagen Projectiles"/>
@@ -75,7 +75,7 @@
 	<entry name="Defense1" value="Structural Protection"/>
 	<entry name="Defense1Description" value="Embed the colony with a grid of varied defenses against all kinds of threats."/>
 	<entry name="Defense2" value="Superscalar Construction"/>
-	<entry name="Defense2Description" value="Gauge the menace from without, then provide security from within."/>
+	<entry name="Defense2Description" value="Gauge the menace from without, then provide security from within our walls."/>
 	<entry name="Diplomacy" value="Planetary Council"/>
 	<entry name="DiplomacyDescription" value="Diplomatic relations can be improved with the establishment of a multicultural council."/>
 	<entry name="DropPod" value="Damped Landing Pod"/>
@@ -85,9 +85,9 @@
 	<entry name="Flak0" value="Maneuver Estimation"/>
 	<entry name="Flak0Description" value="Real-time flight prediction that allows very effective ground-to-air weaponry."/>
 	<entry name="Flak1" value="Projectile Dispersion"/>
-	<entry name="Flak1Description" value="Mid-range fragmentation allows the projectiles to cover a large zone."/>
+	<entry name="Flak1Description" value="Mid-range fragmentation allows ground-to-air projectiles to cover a large zone."/>
 	<entry name="Flak2" value="Sprite Lightning"/>
-	<entry name="Flak2Description" value="Far more potent than electromagnetic pulses, sprite lightnings can affect a wide area with devastating effects."/>
+	<entry name="Flak2Description" value="Far more potent than electromagnetic pulses, sprite lightnings can hit a wide area in the atmosphere with devastating effects."/>
 	<entry name="Flame0" value="Infernal Pre-Igniter"/>
 	<entry name="Flame0Description" value="New oxyhydrogen-based mobile ignition system that can reliably produce flames with a temperature of beyond 2000 degrees Celsius, melting alien and human flesh alike."/>
 	<entry name="Flame1" value="Chemical Post-Reaction"/>
@@ -105,7 +105,7 @@
 	<entry name="GoldenAge" value="Golden Age"/>
 	<entry name="GoldenAgeDescription" value="Rejoice as the colony enters a new age of enlightenment and harmony."/>
 	<entry name="Growth" value="Cloning"/>
-	<entry name="GrowthDescription" value="Artificial human bredging helps population growth for a while."/>
+	<entry name="GrowthDescription" value="Artificial human breeding helps population growth for a while."/>
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="New world guerrilla tactics."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
@@ -129,7 +129,7 @@
 	<entry name="Missile0" value="Guided Weapons"/>
 	<entry name="Missile0Description" value="Self-propelled guided weapon systems."/>
 	<entry name="Missile1" value="Intelligent Homing"/>
-	<entry name="Missile1Description" value="A basic, cheap IA designed for target pursuit, ensuring minimal mistakes and enhanced accuracy."/>
+	<entry name="Missile1Description" value="A basic, cheap missile AI designed for target pursuit, ensuring minimal mistakes and enhanced accuracy."/>
 	<entry name="Missile2" value="Anti-Matter Control"/>
 	<entry name="Missile2Description" value="State of the art missile design puts matter-antimatter reactions to good use."/>
 	<entry name="Morale0" value="Holographic Projections"/>
@@ -177,7 +177,7 @@
 	<entry name="Research0" value="Quantization"/>
 	<entry name="Research0Description" value="Explanation of classical field theory in newer ways."/>
 	<entry name="Research1" value="Quantum Chaos Theory"/>
-	<entry name="Research1Description" value="On-the-fly recalculation of phase spaces greatly enhances predicted results."/>
+	<entry name="Research1Description" value="On-the-fly recalculation of phase spaces greatly enhances theoretical experiment results."/>
 	<entry name="Research2" value="Advanced String Theory"/>
 	<entry name="Research2Description" value="Breakthroughs in M-Theory studies revolutionize the way we think about causality."/>
 	<entry name="Scan" value="Orbital Reconnaissance"/>
@@ -189,7 +189,7 @@
 	<entry name="Sniper1" value="High Impact Discharges"/>
 	<entry name="Sniper1Description" value="A high voltage discharge happens upon impact, incapacitating that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
-	<entry name="Sniper2Description" value="The coupling of subatomic particles can have several consequences once they become separated. One of the more interesting is matter relocation. When applied on limited zones such as the impact point of a bullet, this can lead to rather interesting effects on living beings."/>
+	<entry name="Sniper2Description" value="Quantic bullets use the separation of coupled subatomic particles to inflict cellular warping in their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
 	<entry name="Tank0Description" value="Massive hull design with applied mechanical and electrostatic deflection principles allows us to produce heavily armored tanks."/>
 	<entry name="Tank1" value="Carbon Nanotubes"/>
