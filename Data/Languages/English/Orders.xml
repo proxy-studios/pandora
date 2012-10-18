@@ -18,14 +18,14 @@
 	<entry name="ClearForestHint" value="Clear Forest<br/><style name='Small'/>3 turn duration"/>
 	<entry name="ClearPollution" value="Clear Pollution"/>
 	<entry name="ClearPollutionHint" value="Clear Pollution<br/><style name='Small'/>3 turn duration"/>
-	<entry name="Defend" value="Defend"/>
-	<entry name="DefendHint" value="Defend"/>
 	<entry name="Deploy" value="Deploy"/>
 	<entry name="DeployHint" value="Deploy"/>
 	<entry name="Disband" value="Disband"/>
 	<entry name="DisbandHint" value="Disband"/>
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><img src='Resources/Food'/> 1  <img src='Resources/Minerals'/> 1<br/>3 turn duration"/>
+	<entry name="HoldPosition" value="Hold Position"/>
+	<entry name="HoldPositionHint" value="Hold Position"/>
 	<entry name="Idle" value="Idle"/>
 	<entry name="ImproveTerritory" value="Improve Territory"/>
 	<entry name="ImproveTerritoryHint" value="Improve Territory<br/><style name='Small'/>Builds the best territory improvement."/>
