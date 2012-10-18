@@ -157,7 +157,7 @@
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>
 	<entry name="SellBuildingTitle" value="Sell Building"/>
-	<entry name="SellBuildingMessage" value="Are you sure you wish to sell %1% for %2% <img src='Credits'/> credits?"/>
+	<entry name="SellBuildingMessage" value="Are you sure you want to sell %1% for %2% <img src='Resources/Credits'/> credits?"/>
 	<entry name="Score0" value="None"/>
 	<entry name="Score1" value="Very Weak"/>
 	<entry name="Score2" value="Weak"/>
