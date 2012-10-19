@@ -31,7 +31,7 @@
 	<entry name="MovementDescription" value="Time had always been overlooked as only a matter of perception. Time compression and dilation is now a full-fledged research field and the first results are encouraging, allowing us to move further in much less time. It will probably take centuries to fully master the manipulation of this very peculiar dimension, but it already grants us better movement for the time being."/>
 	<entry name="MovementProperties" value="+100% <img src='Attributes/Sight'/> movement"/>	
 	<entry name="Power" value="Telepathy"/>
-	<entry name="PowerDescription" value="The ability to read into our enemies' minds helps us predict and prevent each and every one of their movements on the battlefield.<br/><br/><style oblique='1'/>&quot;Welcome to Telepathics Anonymous. Don’t bother introducing yourself.&quot;<br/>    -- Robert Barr"/>
+	<entry name="PowerDescription" value="The ability to read into our enemies' minds helps us predict and prevent each and every one of their movements on the battlefield.<br/><br/><style oblique='1'/>&quot;Welcome to Telepathics Anonymous. Don't bother introducing yourself.&quot;<br/>    -- Robert Barr"/>
 	<entry name="PowerProperties" value="+10% <img src='Attributes/Power'/> power"/>
 	<entry name="Pollution" value="Planetary Awareness"/>
 	<entry name="PollutionDescription" value="The main drawback of industrialization has always been pollution. We are not willing to reiterate the mistakes we made on the old earth, and monitoring of pollutant interference in the wilderness, as well as proactive actions to diminish the release of hazardous waste, can alleviate the problem."/>

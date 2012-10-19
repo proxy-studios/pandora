@@ -3,7 +3,7 @@
 	<entry name="Attack" value="Attack"/>
 	<entry name="AttackHint" value="Attack"/>
 	<entry name="Automatize" value="Automatize"/>
-	<entry name="AutomatizeHint" value="Automatize"/>
+	<entry name="AutomatizeHint" value="Automatize [A]"/>
 	<entry name="BuildCity" value="Build City"/>
 	<entry name="BuildCityHint" value="Build City"/>
 	<entry name="BuildFarm" value="Build Farm"/>
@@ -25,7 +25,9 @@
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><img src='Resources/Food'/> 1  <img src='Resources/Minerals'/> 1<br/>3 turn duration"/>
 	<entry name="HoldPosition" value="Hold Position"/>
-	<entry name="HoldPositionHint" value="Hold Position"/>
+	<entry name="HoldPositionHint" value="Hold Position [H]"/>
+	<entry name="HoldPositionUntilHealed" value="Hold Until Healed"/>
+	<entry name="HoldPositionUntilHealedHint" value="Hold Until Healed [E]"/>
 	<entry name="Idle" value="Idle"/>
 	<entry name="ImproveTerritory" value="Improve Territory"/>
 	<entry name="ImproveTerritoryHint" value="Improve Territory<br/><style name='Small'/>Builds the best territory improvement."/>
@@ -34,5 +36,5 @@
 	<entry name="Pillage" value="Pillage"/>
 	<entry name="PillageHint" value="Pillage<br/><style name='Small'/>Destroys territory improvement<br/>1 turn duration"/>
 	<entry name="Skip" value="Skip"/>
-	<entry name="SkipHint" value="Skip"/>
+	<entry name="SkipHint" value="Skip [S]"/>
 </language>
