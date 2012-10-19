@@ -23,6 +23,7 @@
 	<entry name="CreditsCityHint" value="%1% per turn<br/>%2% from population<br/>%3% from buildings<br/>%4% from morale<br/>%5% from other<br/>%6% from building upkeep"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
 	<entry name="CreditsPlayerHint" value="%1% from population<br/>%2% from buildings<br/>%3% from trading pacts<br/>%4% from building upkeep<br/>%5% from unit upkeep"/>
+	<entry name="CreditsProductionHint" value="Converts 1 <img src='Resources/Production'/> production into 1 <img src='Resources/Credits'/> credits"/>
 	<entry name="CurrentResearchHint" value="Currently researching technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="Delete" value="Delete"/>
