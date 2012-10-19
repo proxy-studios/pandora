@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="CreditsReward" value="Resources gained: %1% <img src='Resources/Credits'/> credits."/>
+	<entry name="EconomicDefeat" value="<style name='Heading'/>DEFEAT!<style name='Default'/><br/><br/>It is the year %1% AD, and your empire, %2%, ...<br/><br/>After all, great ambitions are not enough."/>
+	<entry name="EconomicVictory" value="<style name='Heading'/>VICTORY!<style name='Default'/><br/><br/>You have done it, %2%. In the year %1% AD, ...<br/><br/>..."/>
+	<entry name="HiveDestroyed" value="Hive Destroyed"/>
+	<entry name="HiveDestroyedCreditsReward" value="Your troops have successfully wiped out a xenomorph colony that served as a hatchery for roaming xenomorphs.<br/><br/>Nearby colonies can feel safer now, and the hive was harbouring a significant amount or valuable raw materials as well as trophies that can be sold on the planetary market."/>
 	<entry name="MilitaryDefeat" value="<style name='Heading'/>DEFEAT!<style name='Default'/><br/><br/>It is the year %1% AD, and your empire, %2%, is in ruins. Your forces are crushed, your people enslaved, and you will spend the last years of your life imprisoned and tortured.<br/><br/>After all, great ambitions are not enough."/>
 	<entry name="MilitaryVictory" value="<style name='Heading'/>VICTORY!<style name='Default'/><br/><br/>You have done it, %2%. In the year %1% AD, your forces have crushed all resistance and eradicated the other factions.<br/><br/>Through the ages, you will be known as the conquerer of the New Earth."/>
 	<entry name="ResearchReward" value="Resources gained: %1% <img src='Resources/Research'/> research."/>
 	<entry name="RuinExplored" value="Ruin Explored"/>
 	<entry name="RuinExploredCreditsReward" value="Scavenging through an old ruin left behind by a race long forgotten, your troops discover some items of value."/>
 	<entry name="RuinExploredResearchReward" value="After analyzing mysterious scriptures on the surfaces of an ancient ruin, your scientists are able to incorporate it into their work."/>
-	<entry name="HiveDestroyed" value="Hive Destroyed"/>
-	<entry name="HiveDestroyedCreditsReward" value="Your troops have successfully wiped out a xenomorph colony that served as a hatchery for roaming xenomorphs.<br/><br/>Nearby colonies can feel safer now, and the hive was harbouring a significant amount or valuable raw materials as well as trophies that can be sold on the planetary market."/>
+	<entry name="ScientificDefeat" value="<style name='Heading'/>DEFEAT!<style name='Default'/><br/><br/>It is the year %1% AD, and your empire, %2%, ...<br/><br/>After all, great ambitions are not enough."/>
+	<entry name="ScientificVictory" value="<style name='Heading'/>VICTORY!<style name='Default'/><br/><br/>You have done it, %2%. In the year %1% AD, ...<br/><br/>..."/>
 	<entry name="Welcome" value="Welcome to Pandora,<br/>%1%!"/>
 	<entry name="WelcomeEpilogue" value="It is the year 2200 AD, and mankind has reached out to the stars. After decades of exploration, discovering nothing but dead rocks and planets harboring the most hostile climates, our quest for a second Earth has finally come to an end. A terrestrial planet in the Nashira system has become the symbol for humanity's hopes and dreams of a new paradise. The most powerful factions, distinct in their ideologies and priorities, have sent expedition forces to sustain their claim to this new world."/>
 </language>
