@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Economy0" value="&quot;Without cities and infrastructure there is no economy.&quot;"/>
-	<entry name="Economy1" value="&quot;Red numbers everywhere, I doubt it can get any worse.&quot;"/>
+	<entry name="Economy0" value="&quot;Without cities and infrastructures, there is no economy.&quot;"/>
+	<entry name="Economy1" value="&quot;Red numbers everywhere! I doubt it can get any worse.&quot;"/>
 	<entry name="Economy2" value="&quot;Our market pales compared to the competition.&quot;"/>
 	<entry name="Economy3" value="&quot;We have a flourishing economy!&quot;"/>
 	<entry name="Economy4" value="&quot;Our economy is one of the driving forces behind the planetary market.&quot;"/>
 	<entry name="Economy5" value="&quot;Years upon years of hard labor have come to fruition: our economy is unrivaled!&quot;"/>
-	<entry name="Diplomacy0" value="&quot;No contacts to other factions have been established yet.&quot;"/>
+	<entry name="Diplomacy0" value="&quot;No contacts with other factions have been established yet.&quot;"/>
 	<entry name="Diplomacy1" value="&quot;We are isolated and hated by many! I beg you to reconsider your actions!&quot;"/>
 	<entry name="Diplomacy2" value="&quot;Other factions have started to distance themselves from us.&quot;"/>
 	<entry name="Diplomacy3" value="&quot;We are respected by other factions.&quot;"/>

@@ -7,7 +7,7 @@
  	%3% with faction leader title and name, e.g. "Lady Vermillion".
 -->
 <language>
-	<entry name="AllianceAccepted" value="&quot;Hell yeah. Together we can make the market shake.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Hell yeah! Together we can make the market shake.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Tempting offer, but no thanks. Maybe in the future.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;Oh come on. We had a good thing going here.&quot;"/>
 	<entry name="DeclareWar" value="&quot;Discussion doesn't bring us any further here. It's showtime!&quot; (declares war)"/>
@@ -19,7 +19,7 @@
 	<entry name="NonAggressionPactTerminated" value="&quot;I can already predict your next move.&quot;"/>
 	<entry name="OfferAlliance" value="&quot;Let's team up and take over the planetary market!&quot; (offers alliance)"/>
 	<entry name="OfferNonAggressionPact" value="&quot;A guarantee for peace between our factions would stabilize the market!&quot; (offers non-aggression pact)"/>
-	<entry name="OfferPeace" value="&quot;Let's cease fire. You know you want it.&quot;"/>
+	<entry name="OfferPeace" value="&quot;Let's cease fire. You know you want to.&quot;"/>
 	<entry name="OfferResearchPact" value="<img src='Resources/Research'/> &quot;Sure, our respective research projects are going alright, but let's join efforts and make it grand!&quot;"/>
 	<entry name="OfferTradingPact" value="<img src='Resources/Credits'/> &quot;How about a trading pact to quench our financial thirst?&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;Let me think for a moment... the answer is yes.&quot;"/>

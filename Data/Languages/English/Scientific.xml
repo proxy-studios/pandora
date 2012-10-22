@@ -16,7 +16,7 @@
 	<entry name="Greet2" value="&quot;Always a delight to meet you, %1%. What is on your mind?&quot;"/>
 	<entry name="NonAggressionPactAccepted" value="&quot;Signed. We have no plans to attack you in the foreseeable future.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;Thanks for the offer, but I can't give that guarantee.&quot;"/>
-	<entry name="NonAggressionPactTerminated" value="&quot;Now I have to plan for such mundane tasks like winning a war.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;Now I have to plan for such mundane tasks as winning a war.&quot;"/>
 	<entry name="OfferAlliance" value="&quot;Let us take the journey into a new age together!&quot; (offers alliance)"/>
 	<entry name="OfferNonAggressionPact" value="&quot;What do you think about a non-aggression pact between our parties?&quot;"/>
 	<entry name="OfferPeace" value="&quot;Be a responsible leader, %2%, and accept our peace offer.&quot;"/>
@@ -25,7 +25,7 @@
 	<entry name="PeaceAccepted" value="&quot;Maybe you're not that unreasonable after all, %2%. Accepted.&quot;"/>
 	<entry name="PeaceRejected" value="&quot;Declined. Plain and simple.&quot;"/>
 	<entry name="ResearchPactAccepted" value="&quot;An excellent suggestion. We accept.&quot;"/>
-	<entry name="ResearchPactRejected" value="&quot;Hehe, no thanks. %1%.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;Hehe, no thanks, %1%.&quot;"/>
 	<entry name="ResearchPactTerminated" value="&quot;You are insulting my intelligence, %2%. I will not forget this.&quot;"/>
 	<entry name="TerminateAlliance" value="&quot;It feels as if lately our interests have grown apart, an alliance is no longer justified.&quot;"/>
 	<entry name="TerminateNonAggressionPact" value="&quot;I'm afraid I can no longer guarantee the peace between our factions.&quot; (cancels non-aggression pact, loses reputation among all factions)"/>

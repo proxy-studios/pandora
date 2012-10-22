@@ -24,7 +24,7 @@
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
 	<entry name="CreditsPlayerHint" value="%1% from population<br/>%2% from buildings<br/>%3% from morale<br/>%4% from other<br/>%5% from trading pacts<br/>%6% from building upkeep<br/>%7% from unit upkeep"/>
 	<entry name="CreditsProductionHint" value="Converts 1 <img src='Resources/Production'/> production into 2 <img src='Resources/Credits'/> credits"/>
-	<entry name="CurrentResearchHint" value="Currently researching technology. Click to change."/>
+	<entry name="CurrentResearchHint" value="Currently researched technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="Delete" value="Delete"/>
 	<entry name="DeleteSavedGameTitle" value="Delete Saved Game"/>
@@ -89,7 +89,7 @@
 	<entry name="MoraleCityHint" value="%1% total<br/>%2% from buildings<br/>%3% from overpopulation<br/>%4% from pollution<br/>%5% from other"/>
 	<entry name="MoraleHint" value="Morale<br/>Overall population state. Affects the growth rate and all resource gains."/>
 	<entry name="MoralePlayerHint" value="%1% from buildings<br/>%2% from population"/>
-	<entry name="MovementHint" value="Movement Speed<br/>The number of territories capable of crossing in one month."/>
+	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
 	<entry name="Multiplayer" value="Multiplayer"/>
 	<entry name="Name" value="Name"/>
 	<entry name="Neutral" value="Neutral"/>
@@ -165,8 +165,8 @@
 	<entry name="Score3" value="Average"/>
 	<entry name="Score4" value="Strong"/>
 	<entry name="Score5" value="Very Strong"/>
-	<entry name="ScreenShotError" value="An error occurred while taking a screen shot."/>
-	<entry name="ScreenShotSaved" value="Screen shot saved to &quot;%1%&quot;."/>
+	<entry name="ScreenShotError" value="An error occurred while taking a screenshot."/>
+	<entry name="ScreenShotSaved" value="Screenshot saved to &quot;%1%&quot;."/>
 	<entry name="Selection" value="Selection"/>
 	<entry name="Settings" value="Settings"/>
 	<entry name="SightHint" value="Sight Range<br/>How far the unit can see."/>

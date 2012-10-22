@@ -9,7 +9,7 @@
 	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
 	<entry name="Aircraft0Description" value="Electrically powered propulsion system that brings war to the skies."/>
 	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>
-	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems gives multi-role fighters an edge in the avoidance of most airborne threats."/>
+	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems into airborne units."/>
 	<entry name="Aircraft2" value="Geomagnetic Hull"/>
 	<entry name="Aircraft2Description" value="This bulky hull replacement allows aircrafts to utilize the ionization happening in Pandora's thermosphere for various goals."/>
 	<entry name="Alien" value="Xenology"/>
@@ -179,7 +179,7 @@
 	<entry name="Research1" value="Quantum Chaos Theory"/>
 	<entry name="Research1Description" value="On-the-fly recalculation of phase spaces greatly enhances theoretical experiment results."/>
 	<entry name="Research2" value="Advanced String Theory"/>
-	<entry name="Research2Description" value="Breakthroughs in M-Theory studies revolutionize the way we think about causality."/>
+	<entry name="Research2Description" value="Breakthroughs in M-Theory studies revolutionize the way we think about causality in research."/>
 	<entry name="Scan" value="Orbital Reconnaissance"/>
 	<entry name="ScanDescription" value="Knowledge is power: a satellite uplink allows us to employ satellites for planetary reconnaissance from space."/>
 	<entry name="Sight" value="Xenotronium Sensors"/>
@@ -187,7 +187,7 @@
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
 	<entry name="Sniper0Description" value="Development of an advanced gun chamber that accelerates projectiles of hand-held weaponry to extraordinary speed, bridging vast distances with extreme accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
-	<entry name="Sniper1Description" value="A high voltage discharge happens upon impact, incapacitating that which has not been destroyed or killed."/>
+	<entry name="Sniper1Description" value="Specialized ammo able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
 	<entry name="Sniper2Description" value="Quantic bullets use the separation of coupled subatomic particles to inflict cellular warping in their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
@@ -211,5 +211,5 @@
 	<entry name="Watercraft1" value="Belt Armor"/>
 	<entry name="Watercraft1Description" value="A thick, sloped complementary belt layer further enhances the ships' protection."/>
 	<entry name="Watercraft2" value="Grounded Bulkheads"/>
-	<entry name="Watercraft2Description" value="To prevent any kind of damage, this design is reinforced against physical damage and grounded against all kinds of non-physical ones with several protective coatings."/>
+	<entry name="Watercraft2Description" value="This ship design is reinforced against physical damage and grounded against all kinds of non-physical ones."/>
 </language>
