@@ -91,10 +91,10 @@
 	<!-- <entry name="Shield" value="Shield"/> -->
 	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
-	<entry name="Street" value="Street"/>
+	<entry name="Road" value="Road"/>
 	<!-- Wouldn't "Road" be better? -->
-	<entry name="StreetDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
-	<entry name="StreetProperties" value="Construction<br/>-50% movement cost for units"/>
+	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
+	<entry name="RoadProperties" value="Construction<br/>-50% movement cost for units"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="Torrid climate and lush vegetation - even though the soil is rather poor in nutrients - are the main characteristics of tropical zones."/>
 	<entry name="TropicalProperties" value="Terrain"/>
