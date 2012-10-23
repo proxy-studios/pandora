@@ -20,8 +20,8 @@
 	<entry name="OfferAlliance" value="&quot;Shall we forge an alliance that will last through the ages?&quot;"/>
 	<entry name="OfferNonAggressionPact" value="&quot;Let us make a firm stand for peaceful intentions!&quot; (offers non-aggression pact)"/>
 	<entry name="OfferPeace" value="&quot;Let us end this war which is a burden for both of us.&quot;"/>
-	<entry name="OfferResearchPact" value="<img src='Resources/Research'/> &quot;Shall we walk the path of enlightenment together?&quot; (offers research pact)"/>
-	<entry name="OfferTradingPact" value="<img src='Resources/Credits'/> &quot;Let us sign a trading pact! We both will profit.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Shall we walk the path of enlightenment together?&quot; (offers research pact)"/>
+	<entry name="OfferTradingPact" value="&quot;Let us sign a trading pact! We both will profit.&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;Yes, peace is a wise choice.&quot;"/>
 	<entry name="PeaceRejected" value="&quot;Begging for peace like a dog? Try harder.&quot;"/>
 	<entry name="ResearchPactAccepted" value="&quot;Indeed, let us find enlightenment together.&quot;"/>

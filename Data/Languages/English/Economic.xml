@@ -20,8 +20,8 @@
 	<entry name="OfferAlliance" value="&quot;Let's team up and take over the planetary market!&quot; (offers alliance)"/>
 	<entry name="OfferNonAggressionPact" value="&quot;A guarantee for peace between our factions would stabilize the market!&quot; (offers non-aggression pact)"/>
 	<entry name="OfferPeace" value="&quot;Let's cease fire. You know you want to.&quot;"/>
-	<entry name="OfferResearchPact" value="<img src='Resources/Research'/> &quot;Sure, our respective research projects are going alright, but let's join efforts and make it grand!&quot;"/>
-	<entry name="OfferTradingPact" value="<img src='Resources/Credits'/> &quot;How about a trading pact to quench our financial thirst?&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Sure, our respective research projects are going alright, but let's join efforts and make it grand!&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;How about a trading pact to quench our financial thirst?&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;Let me think for a moment... the answer is yes.&quot;"/>
 	<entry name="PeaceRejected" value="&quot;Ha, forget it. There is unfinished business.&quot;"/>
 	<entry name="ResearchPactAccepted" value="&quot;Offer accepted. What's next on the table?&quot;"/>
