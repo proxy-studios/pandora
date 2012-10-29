@@ -23,6 +23,7 @@
 	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
 	<entry name="PasswordTooLong" value="Password too long."/>
 	<entry name="PasswordTooShort" value="Password too short."/>
+	<entry name="ProductKeyEmpty" value="Product key empty."/>
 	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
 	<entry name="Unreachable" value="Could not connect to server."/>
 </language>
