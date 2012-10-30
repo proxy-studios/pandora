@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Authenticating" value="Authenticating ..."/>
 	<entry name="AccountCreated" value="Account created successfully."/>
 	<entry name="ConnectionLost" value="Connection lost."/>
 	<entry name="ConnectingToServer" value="Connecting to server ..."/>
+	<entry name="CreatingAccount" value="Creating account ..."/>
 	<entry name="Error" value="Error"/>
 	<entry name="EverythingOK" value="Everything OK."/>
 	<entry name="GameLoaded" value="Game loaded."/>
@@ -17,6 +19,7 @@
 	<entry name="NetworkError" value="Network Error"/>
 	<entry name="OnlineError3" value="Invalid product key."/>
 	<entry name="OnlineError4" value="Product key already taken."/>
+	<entry name="OnlineError6" value="Invalid name or password."/>
 	<entry name="OnlineError7" value="Name already taken."/>
 	<entry name="OnlineError8" value="Invalid name."/>
 	<entry name="OnlineError12" value="Email already taken."/>
