@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AddProductKey" value="Add Product Key"/>
+	<entry name="AddProductKeyPrompt" value="Please enter a valid product key to add to your Slitherine account:"/>
 	<entry name="Advancement" value="Advancement"/>
 	<entry name="Alliance" value="Alliance"/>
 	<entry name="Armor" value="Armor"/>
@@ -65,7 +67,7 @@
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
 	<entry name="Login" value="Login"/>
-	<entry name="LoginPrompt" value="Please enter your account information:"/>
+	<entry name="LoginPrompt" value="Please enter your Slitherine account information:"/>
 	<entry name="Menu" value="Menu"/>
 	<entry name="Military" value="Military"/>
 	<entry name="Minerals" value="Minerals"/>
