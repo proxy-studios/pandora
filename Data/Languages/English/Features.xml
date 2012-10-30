@@ -5,7 +5,7 @@
 	<entry name="ArcticProperties" value="Terrain"/>
 	<entry name="ArcticStats" value="<img src='Resources/Food'/> 0  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Blackout" value="Blackout"/>
-	<entry name="BlackoutDescription" value="..."/>
+	<entry name="BlackoutDescription" value="This area is under complete loss of energy, all communications are halted and production is on hold."/>
 	<entry name="BlackoutProperties" value="Effect<br/>Cities produce no resources<br/>Mechanical units cannot move"/>
 	<entry name="City0" value="City"/>
 	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
