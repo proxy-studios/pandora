@@ -31,7 +31,7 @@
 	<entry name="Armor7" value="Anti-Matter Substrate"/>
 	<entry name="Armor7Description" value="Allows to coat armor with a layer of relatively stable and incredibly powerful anti-matter."/>
 	<entry name="Armor8" value="Xenotronium Synapses"/>
-	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its bearer."/>
+	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its wearer."/>
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
 	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
@@ -45,7 +45,7 @@
 	<entry name="ATV1" value="Energy Absorption"/>
 	<entry name="ATV1Description" value="Enhanced shock absorption gives light vehicles an edge in rough terrain and difficult maneuvers."/>
 	<entry name="ATV2" value="Electrically Charged Armor"/>
-	<entry name="ATV2Description" value="An electrostatic protection layer further protects vehicles against common weapons."/>
+	<entry name="ATV2Description" value="An electrostatic protection layer further protects ATVs against common weapons."/>
 	<entry name="Automatic1" value="Stochastic Projectiles"/>
 	<entry name="Automatic1Description" value="Advanced automatic weapons based on stochastic methods."/>
 	<entry name="Automatic2" value="Mutagen Projectiles"/>
@@ -97,7 +97,7 @@
 	<entry name="Food0" value="Synthetic Fertilizer"/>
 	<entry name="Food0Description" value="Agriculture made possible on any soil."/>
 	<entry name="Food1" value="Aeroponics"/>
-	<entry name="Food1Description" value="Grow plants in an air or mist environment without the use of soil or an aggregate medium."/>
+	<entry name="Food1Description" value="Plant growth in an air or mist environment without the use of soil or an aggregate medium."/>
 	<entry name="Food2" value="Food Replication"/>
 	<entry name="Food2Description" value="Replicate existing food to satisfy the nutritional demands of mega cities growing beyond expectations."/>
 	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
@@ -131,13 +131,13 @@
 	<entry name="Missile1" value="Intelligent Homing"/>
 	<entry name="Missile1Description" value="A basic, cheap missile AI designed for target pursuit, ensuring minimal mistakes and enhanced accuracy."/>
 	<entry name="Missile2" value="Anti-Matter Control"/>
-	<entry name="Missile2Description" value="State of the art missile design puts matter-antimatter reactions to good use."/>
+	<entry name="Missile2Description" value="State of the art missile design to put matter-antimatter reactions to good use."/>
 	<entry name="Morale0" value="Holographic Projections"/>
 	<entry name="Morale0Description" value="The next level of digital visualization in entertainment."/>
 	<entry name="Morale1" value="Emotion Expression"/>
 	<entry name="Morale1Description" value="Neurosurgery and training dedicated to standard of living improvement."/>
 	<entry name="Morale2" value="Thought Signal Processing"/>
-	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for better handling of stressful situations."/>
+	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for better handling of stressful situations for the population."/>
 	<entry name="Movement" value="Advanced Time Dilation"/>
 	<entry name="MovementDescription" value="Improve movement speed by manipulating time like any other dimension."/>
 	<entry name="NanoRobots" value="Nano Repair Systems"/>
@@ -145,7 +145,7 @@
 	<entry name="Nuke" value="Nuclear Weapons Delivery"/>
 	<entry name="NukeDescription" value="Global nuclear weapons delivery system that opens the door to thermonuclear warfare."/>
 	<entry name="Pollution" value="Planetary Awareness"/>
-	<entry name="PollutionDescription" value="Careful planning, execution and monitoring alleviate the pollution problems that may arise."/>
+	<entry name="PollutionDescription" value="Careful planning, execution and monitoring to alleviate pollution problems that may arise."/>
 	<entry name="Pollution0" value="Automated Recycling"/>
 	<entry name="Pollution0Description" value="Identify and remedy a major downside of industrialization."/>
 	<entry name="Pollution1" value="Ozone Depletion"/>
@@ -162,14 +162,14 @@
 	<entry name="Population2Description" value="Immortality may still be a myth, but there are other means to ensure an impossibly long life."/>
 	<entry name="Power" value="Telepathy"/>
 	<entry name="PowerDescription" value="The ability to read into others' minds can help on many accounts."/>
-	<entry name="Production" value="Operational Efficiency?"/>
+	<entry name="Production" value="Operational Efficiency"/>
 	<entry name="ProductionDescription" value="The introduction of a regulating authority favors the punctuality and respect of business contracts, helping productivity."/>
 	<entry name="Production0" value="Industrial Automation"/>
 	<entry name="Production0Description" value="Production machines that build production machines."/>
 	<entry name="Production1" value="Intelligent Manufacturing"/>
 	<entry name="Production1Description" value="AI-driven manufacturing maximizing throughput."/>
 	<entry name="Production2" value="Nano Manufacturing"/>
-	<entry name="Production2Description" value="Self-replication further enhances production by limiting the needed interactions."/>
+	<entry name="Production2Description" value="Self-replication further enhances production by eliminating human interaction."/>
 	<entry name="Promotion" value="Field Training"/>
 	<entry name="PromotionDescription" value="Promote your troops through advanced training methods in the field."/>
 	<entry name="Research" value="Brain Growth"/>
@@ -179,7 +179,7 @@
 	<entry name="Research1" value="Quantum Chaos Theory"/>
 	<entry name="Research1Description" value="On-the-fly recalculation of phase spaces greatly enhances theoretical experiment results."/>
 	<entry name="Research2" value="Advanced String Theory"/>
-	<entry name="Research2Description" value="Breakthroughs in M-Theory studies revolutionize the way we think about causality in research."/>
+	<entry name="Research2Description" value="Breakthroughs in M-Theory studies to revolutionize the way we think about causality in research."/>
 	<entry name="Scan" value="Orbital Reconnaissance"/>
 	<entry name="ScanDescription" value="Knowledge is power: a satellite uplink allows us to employ satellites for planetary reconnaissance from space."/>
 	<entry name="Sight" value="Xenotronium Sensors"/>
@@ -207,9 +207,9 @@
 	<entry name="Trooper2" value="Organic Suit"/>
 	<entry name="Trooper2Description" value="Infantry enhanced with alien technology."/>
 	<entry name="Watercraft0" value="Electric Marine Propulsion"/>
-	<entry name="Watercraft0Description" value="Direct-drive generators mounted on ships ensure optimal hydropower in all conditions."/>
+	<entry name="Watercraft0Description" value="Direct-drive generators mounted on watercraft ensure optimal hydropower in all conditions."/>
 	<entry name="Watercraft1" value="Belt Armor"/>
-	<entry name="Watercraft1Description" value="A thick, sloped complementary belt layer further enhances the ships' protection."/>
+	<entry name="Watercraft1Description" value="A thick, sloped complementary belt layer further enhances watercraft protection."/>
 	<entry name="Watercraft2" value="Grounded Bulkheads"/>
-	<entry name="Watercraft2Description" value="This ship design is reinforced against physical damage and grounded against all kinds of non-physical ones."/>
+	<entry name="Watercraft2Description" value="This watercraft design is reinforced against physical damage and grounded against all kinds of non-physical ones."/>
 </language>
