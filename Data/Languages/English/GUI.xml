@@ -18,7 +18,7 @@
 	<entry name="Class" value="Class"/>
 	<entry name="COST" value="<style name='Small' color='Gray'/>COST: %1%<style name='Default'/>"/>
 	<entry name="CreateAccount" value="Create Account"/>
-	<entry name="CreateAccountPrompt" value="Please enter required information:"/>
+	<entry name="CreateAccountPrompt" value="Please enter the required information:"/>
 	<entry name="Credits" value="Credits"/>
 	<entry name="CreditsCityHint" value="%1% per turn<br/>%2% from population<br/>%3% from buildings<br/>%4% from morale<br/>%5% from other<br/>%6% from building upkeep"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>

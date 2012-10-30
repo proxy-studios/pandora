@@ -7,25 +7,25 @@
  	%3% with faction leader title and name, e.g. "Lady Vermillion".
 -->
 <language>
-	<entry name="AllianceAccepted" value="&quot;Yes! With our forces combined, there is noone who will dare to challenge us.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Yes! With our forces combined, there will be no one to dare challenge us.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Do not take it the wrong way, %2%, but not right now. Thanks.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;&quot;"/>
 	<entry name="DeclareWar" value="&quot;Alright, the time has come. From here on out it's total war.&quot;"/>
-	<entry name="Greet0" value="&quot;What do you want %2%? I have better things to do than talk to the likes of you.&quot;"/>
+	<entry name="Greet0" value="&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;"/>
 	<entry name="Greet2" value="&quot;Greetings, comrade %2%! How can I help you out?&quot;"/>
 	<entry name="NonAggressionPactAccepted" value="&quot;Good choice. There is enough warmongering to be done elsewhere.&quot;"/>
-	<entry name="NonAggressionPactRejected" value="&quot;Na, I prefer my soldiers to be on the edge. Makes them harder. Stronger.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;Nah, I prefer my soldiers to be on edge. Makes them harder. Stronger.&quot;"/>
 	<entry name="NonAggressionPactTerminated" value="&quot;To be frank, I considered this option myself already. Time for some troop exercises at the borders.&quot;"/>
 	<entry name="OfferAlliance" value="&quot;Shall we join our forces?&quot;"/>
 	<entry name="OfferNonAggressionPact" value="&quot;Let us sign a non-aggression pact.&quot;"/>
-	<entry name="OfferPeace" value="&quot;Was an outstanding war so far, but how about some cease fire to let the soldiers visit their families?&quot;"/>
+	<entry name="OfferPeace" value="&quot;Was an outstanding war so far, but how about a ceasefire to let the soldiers visit their families?&quot;"/>
 	<entry name="OfferResearchPact" value="&quot;Should we share our research efforts?&quot;"/>
 	<entry name="OfferTradingPact" value="&quot;How about a sweet trading pact among peers?&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;Was an awful lot of bloodshed these last years, I agree.&quot;"/>
-	<entry name="PeaceRejected" value="&quot;Nope, we will finish you off. A fast and quick death for %3%.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;Nope, we will finish you off. A quick and painless death for %3%.&quot;"/>
 	<entry name="ResearchPactAccepted" value="&quot;Sure thing. If you discover some outstanding war machine, let us know.&quot;"/>
-	<entry name="ResearchPactRejected" value="&quot;The war machines we currently research can wield such power, that making them available to anyone else would be -- irresponsible.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;The war machines we currently research wield such power that making them available to anyone else would be -- irresponsible.&quot;"/>
 	<entry name="ResearchPactTerminated" value="&quot;Discovered a cute new technology? Whatever.&quot;"/>
 	<entry name="TerminateAlliance" value="&quot;Our strong alliance surely had its merits. But not anymore.&quot;"/>
 	<entry name="TerminateNonAggressionPact" value="&quot;The borders are too quiet, I'm canceling this silly non-aggression pact.&quot;"/>
@@ -33,7 +33,7 @@
 	<entry name="TerminateTradingPact" value="&quot;To be frank, I think our trading pact is simply not profitable enough for us, and hereby nullified.&quot;"/>
 	<entry name="TradingPactAccepted" value="&quot;Ah sure, why not. But do not try to smuggle any weapons.&quot;"/>
 	<entry name="TradingPactRejected" value="&quot;I know our goods are sought after, but giving them to everyone would make them, well, less exclusive. I hope you understand...&quot;"/>
-	<entry name="TradingPactTerminated" value="&quot;I see this is an insult to my integrity. Watch your steps, %2%.&quot;"/>
-	<entry name="WarAccepted" value="&quot;%2%, you must have lost your senses to challenge me. Accepted, of course!&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;I see this is an insult to my integrity. Watch your step, %2%.&quot;"/>
+	<entry name="WarAccepted" value="&quot;%2%, you must have lost your sanity to challenge me. Accepted, of course!&quot;"/>
 
 </language>

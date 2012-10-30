@@ -137,7 +137,7 @@
 	<entry name="Morale1" value="Emotion Expression"/>
 	<entry name="Morale1Description" value="Neurosurgery and training dedicated to standard of living improvement."/>
 	<entry name="Morale2" value="Thought Signal Processing"/>
-	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for perfected handling of stressful situations."/>
+	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for better handling of stressful situations."/>
 	<entry name="Movement" value="Advanced Time Dilation"/>
 	<entry name="MovementDescription" value="Improve movement speed by manipulating time like any other dimension."/>
 	<entry name="NanoRobots" value="Nano Repair Systems"/>
@@ -157,13 +157,13 @@
 	<entry name="Population0" value="Wendo Housing Design"/>
 	<entry name="Population0Description" value="Efficient and modular housing system."/>
 	<entry name="Population1" value="Pokdletnov Field"/>
-	<entry name="Population1Description" value="High speed rotation of superconductors effectively leads to the negation of gravitomagnetic effects, allowing floating housing to be built."/>
+	<entry name="Population1Description" value="High speed rotation of superconductors leads to the negation of gravitomagnetic effects, allowing floating housing to be built."/>
 	<entry name="Population2" value="Digital Retirement"/>
 	<entry name="Population2Description" value="Immortality may still be a myth, but there are other means to ensure an impossibly long life."/>
 	<entry name="Power" value="Telepathy"/>
 	<entry name="PowerDescription" value="The ability to read into others' minds can help on many accounts."/>
 	<entry name="Production" value="Operational Efficiency?"/>
-	<entry name="ProductionDescription" value="The introduction of a regulating authority favors the punctuality and respect of business contracts, in turn helping productivity reach optimal levels."/>
+	<entry name="ProductionDescription" value="The introduction of a regulating authority favors the punctuality and respect of business contracts, helping productivity."/>
 	<entry name="Production0" value="Industrial Automation"/>
 	<entry name="Production0Description" value="Production machines that build production machines."/>
 	<entry name="Production1" value="Intelligent Manufacturing"/>
