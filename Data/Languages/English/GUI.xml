@@ -54,6 +54,7 @@
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
 	<entry name="FoodPlayerHint" value="%1% from farmers<br/>%2% from buildings<br/>%3% from morale<br/>%4% from population"/>
 	<entry name="Friendly" value="Friendly"/>
+	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="Growth" value="Growth"/>
 	<entry name="GrowthCityHint" value="%1% turns remaining<br/>%2% of %3% accumulated<br/>%4% per turn<br/>%5% from food<br/>%6% from morale<br/>%7% from other"/>
 	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases."/>
@@ -63,6 +64,7 @@
 	<entry name="Hostile" value="Hostile"/>
 	<entry name="IdleUnitsHint" value="Select next idle unit [Tab]."/>
 	<entry name="INFINITY" value="INF"/>
+	<entry name="Join" value="Join"/>
 	<entry name="LeadsTo" value="Leads to:"/>
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
@@ -147,6 +149,7 @@
 	<entry name="QuickPlay" value="Quick Play"/>
 	<entry name="Quit" value="Quit"/>
 	<entry name="RankHint" value="Rank (%1%/%2%)<br/>Unit experience gained from combat. Each successive rank increases the unit power by %3%%%."/>
+	<entry name="Refresh" value="Refresh"/>
 	<entry name="RememberPassword" value="Remember Password"/>
 	<entry name="Report" value="Report"/>
 	<entry name="Research" value="Research"/>
