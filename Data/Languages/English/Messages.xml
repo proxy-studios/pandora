@@ -17,6 +17,7 @@
 	<entry name="InvalidProductKey" value="Invalid product key."/>
 	<entry name="NameTooShort" value="Name too short."/>
 	<entry name="NetworkError" value="Network Error"/>
+	<entry name="NoGames" value="No games are currently running. Why not start one yourself?"/>
 	<entry name="OnlineError3" value="Invalid product key."/>
 	<entry name="OnlineError4" value="Product key already in use."/>
 	<entry name="OnlineError6" value="Invalid name or password."/>
@@ -28,6 +29,7 @@
 	<entry name="PasswordTooLong" value="Password too long."/>
 	<entry name="PasswordTooShort" value="Password too short."/>
 	<entry name="ProductKeyEmpty" value="Product key empty."/>
+	<entry name="RetrievingList" value="Retrieving list ..."/>
 	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
 	<entry name="Unreachable" value="Could not connect to server."/>
 </language>
