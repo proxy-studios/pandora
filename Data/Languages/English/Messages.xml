@@ -26,7 +26,6 @@
 	<entry name="OnlineError10" value="Product key already in use."/>
 	<entry name="OnlineError12" value="Email already taken."/>
 	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
-	<entry name="PasswordTooLong" value="Password too long."/>
 	<entry name="PasswordTooShort" value="Password too short."/>
 	<entry name="ProductKeyEmpty" value="Product key empty."/>
 	<entry name="RetrievingList" value="Retrieving list ..."/>
