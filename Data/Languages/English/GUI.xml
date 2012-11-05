@@ -22,10 +22,10 @@
 	<entry name="CreateAccount" value="Create Account"/>
 	<entry name="CreateAccountPrompt" value="Please enter the required information:"/>
 	<entry name="Credits" value="Credits"/>
-	<entry name="CreditsCityHint" value="%1% per turn<br/>%2% from population<br/>%3% from buildings<br/>%4% from morale<br/>%5% from other<br/>%6% from building upkeep"/>
+	<entry name="CreditsCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from population<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale<br/><img src='GUI/Bullet'/>%5% from other<br/><img src='GUI/Bullet'/>%6% from building upkeep"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
-	<entry name="CreditsPlayerHint" value="%1% from population<br/>%2% from buildings<br/>%3% from morale<br/>%4% from other<br/>%5% from trading pacts<br/>%6% from building upkeep<br/>%7% from unit upkeep"/>
-	<entry name="CreditsProductionHint" value="Converts 1 <img src='Resources/Production'/> production into 2 <img src='Resources/Credits'/> credits"/>
+	<entry name="CreditsPlayerHint" value="<img src='GUI/Bullet'/>%1% from population<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from morale<br/><img src='GUI/Bullet'/>%4% from other<br/><img src='GUI/Bullet'/>%5% from trading pacts<br/><img src='GUI/Bullet'/>%6% from building upkeep<br/><img src='GUI/Bullet'/>%7% from unit upkeep"/>
+	<entry name="CreditsProductionHint" value="<img src='GUI/Bullet'/>Converts 1 <img src='Resources/Production'/> production into 2 <img src='Resources/Credits'/> credits"/>
 	<entry name="CurrentResearchHint" value="Currently researched technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="Delete" value="Delete"/>
@@ -50,14 +50,14 @@
 	<entry name="ExitToDesktop" value="Exit to Desktop"/>
 	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
 	<entry name="Food" value="Food"/>
-	<entry name="FoodCityHint" value="%1% per turn<br/>%2% from farmers<br/>%3% from buildings<br/>%4% from morale"/>
+	<entry name="FoodCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from farmers<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale"/>
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
-	<entry name="FoodPlayerHint" value="%1% from farmers<br/>%2% from buildings<br/>%3% from morale<br/>%4% from population"/>
+	<entry name="FoodPlayerHint" value="<img src='GUI/Bullet'/>%1% from farmers<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from morale<br/><img src='GUI/Bullet'/>%4% from population"/>
 	<entry name="Friendly" value="Friendly"/>
 	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="Growth" value="Growth"/>
-	<entry name="GrowthCityHint" value="%1% turns remaining<br/>%2% of %3% accumulated<br/>%4% per turn<br/>%5% from food<br/>%6% from morale<br/>%7% from other"/>
-	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases."/>
+	<entry name="GrowthCityHint" value="%1% turns remaining<br/>%2% of %3% accumulated<br/><br/>%4% per turn<br/><img src='GUI/Bullet'/>%5% from food<br/><img src='GUI/Bullet'/>%6% from morale<br/><img src='GUI/Bullet'/>%7% from other"/>
+	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost."/>
 	<entry name="HealthHint" value="Health<br/>The overall condition."/>
 	<entry name="Help" value="Help"/>
 	<entry name="Host" value="Host"/>
@@ -73,9 +73,9 @@
 	<entry name="Menu" value="Menu"/>
 	<entry name="Military" value="Military"/>
 	<entry name="Minerals" value="Minerals"/>
-	<entry name="MineralsCityHint" value="%1% per turn<br/>%2% from miners<br/>%3% from buildings<br/>%4% from morale"/>
+	<entry name="MineralsCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from miners<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale"/>
 	<entry name="MineralsHint" value="Minerals<br/>Sustains production. Without minerals your colonists cannot produce goods."/>
-	<entry name="MineralsPlayerHint" value="%1% from miners<br/>%2% from buildings<br/>%3% from morale<br/>%4% from production"/>
+	<entry name="MineralsPlayerHint" value="<img src='GUI/Bullet'/>%1% from miners<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from morale<br/><img src='GUI/Bullet'/>%4% from production"/>
 	<entry name="Minimap" value="Minimap"/>
 	<entry name="Month0" value="January"/>
 	<entry name="Month1" value="February"/>
@@ -90,9 +90,9 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="December"/>
 	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleCityHint" value="%1% total<br/>%2% from buildings<br/>%3% from overpopulation<br/>%4% from pollution<br/>%5% from other"/>
+	<entry name="MoraleCityHint" value="%1% total<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from overpopulation<br/><img src='GUI/Bullet'/>%4% from pollution<br/><img src='GUI/Bullet'/>%5% from other"/>
 	<entry name="MoraleHint" value="Morale<br/>Overall population state. Affects the growth rate and all resource gains."/>
-	<entry name="MoralePlayerHint" value="%1% from buildings<br/>%2% from population"/>
+	<entry name="MoralePlayerHint" value="<img src='GUI/Bullet'/>%1% from buildings<br/><img src='GUI/Bullet'/>%2% from population"/>
 	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
 	<entry name="Multiplayer" value="Multiplayer"/>
 	<entry name="Name" value="Name"/>
@@ -121,10 +121,10 @@
 	<entry name="PleaseWait" value="Please Wait ..."/>
 	<entry name="PleaseWaitHint" value=""/>
 	<entry name="Pollution" value="Pollution"/>
-	<entry name="PollutionCityHint" value="%1% accumulated<br/>%2% per turn<br/>%3% from food<br/>%4% from minerals<br/>%5% from production<br/>%6% from research<br/>%7% from other"/>
+	<entry name="PollutionCityHint" value="%1% of 100 accumulated<br/><br/>%2% per turn<br/><img src='GUI/Bullet'/>%3% from food<br/><img src='GUI/Bullet'/>%4% from minerals<br/><img src='GUI/Bullet'/>%5% from production<br/><img src='GUI/Bullet'/>%6% from research<br/><img src='GUI/Bullet'/>%7% from other"/>
 	<entry name="PollutionHint" value="Pollution<br/>The amount of industrial waste a city produces. Once enough waste has accumulated, a harvested territory in the city's influence range is polluted and no longer provides resources until cleaned up by a Former."/>
 	<entry name="Population" value="Population"/>
-	<entry name="PopulationCityHint" value="%1% colonists<br/>%2% farmers<br/>%3% miners<br/>%4% workers<br/>%5% researchers"/>
+	<entry name="PopulationCityHint" value="%1% colonists<br/><img src='GUI/Bullet'/>%2% farmers<br/><img src='GUI/Bullet'/>%3% miners<br/><img src='GUI/Bullet'/>%4% workers<br/><img src='GUI/Bullet'/>%5% researchers"/>
 	<entry name="PopulationHint" value="Population<br/>Assigned to tasks."/>
 	<entry name="PowerHint" value="Power<br/>Indicates the base attacking and defending strength. Power proportionally lowers with missing health."/>
 	<entry name="Priorities" value="Priorities"/>
@@ -134,7 +134,7 @@
 	<entry name="Priority3" value="High"/>
 	<entry name="Priority4" value="Maximum"/>
 	<entry name="Production" value="Production"/>
-	<entry name="ProductionCityHint" value="%1% accumulated<br/>%2% per turn<br/>%3% from workers<br/>%4% from buildings<br/>%5% from morale<br/>%6% from other<br/>%7% from minerals"/>
+	<entry name="ProductionCityHint" value="%1% accumulated<br/><br/>%2% per turn<br/><img src='GUI/Bullet'/>%3% from workers<br/><img src='GUI/Bullet'/>%4% from buildings<br/><img src='GUI/Bullet'/>%5% from morale<br/><img src='GUI/Bullet'/>%6% from other<br/><img src='GUI/Bullet'/>%7% from minerals"/>
 	<entry name="ProductionCostHint" value="Production Cost"/>
 	<entry name="ProductionHint" value="Production<br/>Processes minerals into objects of value."/>
 	<entry name="ProductionOptions" value="Production Options"/>
@@ -153,9 +153,9 @@
 	<entry name="RememberPassword" value="Remember Password"/>
 	<entry name="Report" value="Report"/>
 	<entry name="Research" value="Research"/>
-	<entry name="ResearchCityHint" value="%1% per turn<br/>%2% from researchers<br/>%3% from buildings<br/>%4% from morale<br/>%5% from other"/>
+	<entry name="ResearchCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from researchers<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale<br/><img src='GUI/Bullet'/>%5% from other"/>
 	<entry name="ResearchHint" value="Research<br/>Cumulation of knowledge. Used to discover new technologies."/>
-	<entry name="ResearchPlayerHint" value="%1% from researchers<br/>%2% from buildings<br/>%3% from morale<br/>%4% from other<br/>%5% from research pacts"/>
+	<entry name="ResearchPlayerHint" value="<img src='GUI/Bullet'/>%1% from researchers<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from morale<br/><img src='GUI/Bullet'/>%4% from other<br/><img src='GUI/Bullet'/>%5% from research pacts"/>
 	<entry name="ResearchPact" value="Research Pact"/>
 	<entry name="ResetPassword" value="Reset Password"/>
 	<entry name="Return" value="Return"/>
