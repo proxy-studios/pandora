@@ -2,104 +2,104 @@
 <language>
 	<entry name="Arctic" value="Arctic"/>
 	<entry name="ArcticDescription" value="Cold and deadly, the arctic landscape at the poles of Pandora is a very hostile climate to us humans. Agriculture is impossible without technical assistance."/> 
-	<entry name="ArcticProperties" value="Terrain"/>
+	<entry name="ArcticProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="ArcticStats" value="<img src='Resources/Food'/> 0  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Blackout" value="Blackout"/>
 	<entry name="BlackoutDescription" value="This area is under complete loss of energy, all communications are halted and production is on hold."/>
-	<entry name="BlackoutProperties" value="Effect<br/>Cities produce no resources<br/>Mechanical units cannot move"/>
+	<entry name="BlackoutProperties" value="<img src='GUI/Bullet'/>Effect<br/><img src='GUI/Bullet'/>Cities produce no resources<br/><img src='GUI/Bullet'/>Mechanical units cannot move"/>
 	<entry name="City0" value="City"/>
 	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
-	<entry name="City0Properties" value="Construction<br/>+25% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="City0Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="City1" value="City"/>
 	<entry name="City2" value="City"/>
 	<entry name="Coast" value="Coast"/>
 	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
-	<entry name="CoastProperties" value="Terrain"/>
+	<entry name="CoastProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="CoastStats" value="<img src='Resources/Food'/> 2  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Desert" value="Desert"/>
 	<entry name="DesertDescription" value="Extremely high temperatures and miles upon miles of dead sand make the desert a very difficult climate to survive in. Agriculture is impossible without technical assistance."/>
-	<entry name="DesertProperties" value="Terrain"/>
+	<entry name="DesertProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="DesertStats" value="<img src='Resources/Food'/> 0  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Farm" value="Farm"/>
 	<entry name="FarmDescription" value="With the advent of industrialization, huge areas can be used for agricuture, providing vast amounts of raw materials for food processing facilities."/>
-	<entry name="FarmProperties" value="Construction"/>
+	<entry name="FarmProperties" value="<img src='GUI/Bullet'/>Construction"/>
 	<entry name="FarmStats" value="<img src='Resources/Food'/> +1"/>
 	<entry name="FoodBonus0" value="Natural Plantage"/>
 	<entry name="FoodBonus0Description" value="Rich soil and ideal relief and sun exposure help obtain generous harvests in this area."/>
-	<entry name="FoodBonus0Properties" value="Terrain bonus"/>
+	<entry name="FoodBonus0Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="FoodBonus0Stats" value="<img src='Resources/Food'/> +2"/>
 	<entry name="FoodBonus1" value="Gaia Forest"/>
 	<entry name="FoodBonus1Description" value="A lush forest, mainly composed of fruit trees, that can provide more food than even the best agricultural compound."/>
-	<entry name="FoodBonus1Properties" value="Terrain bonus"/>
+	<entry name="FoodBonus1Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="FoodBonus1Stats" value="<img src='Resources/Food'/> +3"/>
 	<entry name="FoodBonus2" value="Garden of Eden"/>
 	<entry name="FoodBonus2Description" value="This idyllic area is so rich in nutrients its plant growth rate is unequaled. Some say it could sustain a megalopolis by itself."/>
-	<entry name="FoodBonus2Properties" value="Terrain bonus"/>
+	<entry name="FoodBonus2Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="FoodBonus2Stats" value="<img src='Resources/Food'/> +4"/>
 	<entry name="Forest" value="Forest"/>
 	<entry name="ForestDescription" value="A forest is an area with a high density of trees and functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere."/>
-	<entry name="ForestProperties" value="Terrain<br/>+50% <img src='Attributes/Power'/> power for light biological units"/>
+	<entry name="ForestProperties" value="<img src='GUI/Bullet'/>Terrain<br/><img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power for light biological units"/>
 	<entry name="ForestStats" value="<img src='Resources/Food'/> 1  <img src='Resources/Minerals'/> 1"/>
 	<entry name="Fort" value="Fort"/>
 	<entry name="FortDescription" value="Massive fortifications that provide units a strong defensive and vision bonus. If stocked with artillery units they are optimal to protect borders or strategic key positions."/>
-	<entry name="FortProperties" value="Construction<br/>+100% <img src='Attributes/Power'/> power for defending units<br/>+1 <img src='Attributes/Sight'/> sight"/>
+	<entry name="FortProperties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units<br/><img src='GUI/Bullet'/>+1 <img src='Attributes/Sight'/> sight"/>
 	<entry name="Grassland" value="Grassland"/>
 	<entry name="GrasslandDescription" value="Grasslands are areas where the vegetation is dominated by grasses and other herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
-	<entry name="GrasslandProperties" value="Terrain"/>
+	<entry name="GrasslandProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="GrasslandStats" value="<img src='Resources/Food'/> 2  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Growth" value="Accelerated Growth"/>
 	<entry name="GrowthDescription" value="Causes a city with positive growth to grow twice as fast."/>
-	<entry name="GrowthProperties" value="Effect<br/>+100% growth for city"/>
+	<entry name="GrowthProperties" value="<img src='GUI/Bullet'/>Effect<br/><img src='GUI/Bullet'/>+100% growth for city"/>
 	<entry name="Hills" value="Hills"/>
 	<entry name="HillsDescription" value="Characterizes an altitude level between mountains and plains, and provides "/>
-	<entry name="HillsProperties" value="Terrain"/>
+	<entry name="HillsProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="HillsStats" value="<img src='Resources/Food'/> -1  <img src='Resources/Minerals'/> +1"/>
 	<entry name="Hive0" value="Hive"/>
 	<entry name="Hive0Description" value="This organic structure hosts a colony of xenomorphs, giving them shelter and allowing them to reproduce."/>
-	<entry name="Hive0Properties" value="Construction<br/>+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive0Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="Hive1" value="Hive"/>
-	<entry name="Hive1Properties" value="Construction<br/>+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive1Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="Hive2" value="Hive"/>
-	<entry name="Hive2Properties" value="Construction<br/>+100% <img src='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive2Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="Mine" value="Mine"/>
 	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
-	<entry name="MineProperties" value="Construction"/>
+	<entry name="MineProperties" value="<img src='GUI/Bullet'/>Construction"/>
 	<entry name="MineStats" value="<img src='Resources/Minerals'/> +1"/>
 	<entry name="MineralsBonus0" value="Mexallon Field"/>
 	<entry name="MineralsBonus0Description" value="The soil in this area is filled with Mexallon, a very valuable mineral, even though its extraction is harder than most."/>
-	<entry name="MineralsBonus0Properties" value="Terrain bonus"/>
+	<entry name="MineralsBonus0Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MineralsBonus0Stats" value="<img src='Resources/Minerals'/> +2"/>
 	<entry name="MineralsBonus1" value="Isogen Field"/>
 	<entry name="MineralsBonus1Description" value="Huge deposits of Isogen have been detected in this area. Its high value and easy extraction should make mining here a priority."/>
-	<entry name="MineralsBonus1Properties" value="Terrain bonus"/>
+	<entry name="MineralsBonus1Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MineralsBonus1Stats" value="<img src='Resources/Minerals'/> +3"/>
 	<entry name="MineralsBonus2" value="Noxium Field"/>
 	<entry name="MineralsBonus2Description" value="Noxium is probably the most valuable mineral in the universe, and incredibly dense deposits have been found in this area."/>
-	<entry name="MineralsBonus2Properties" value="Terrain bonus"/>
+	<entry name="MineralsBonus2Properties" value="<img src='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MineralsBonus2Stats" value="<img src='Resources/Minerals'/> +4"/>
 	<entry name="Mountains" value="Mountains"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
-	<entry name="MountainsProperties" value="Terrain<br/>+50% <img src='Attributes/Power'/> power for light biological units<br/>+1 <img src='Attributes/Sight'/> sight"/>
+	<entry name="MountainsProperties" value="<img src='GUI/Bullet'/>Terrain<br/><img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power for light biological units<br/><img src='GUI/Bullet'/>+1 <img src='Attributes/Sight'/> sight"/>
 	<entry name="MountainsStats" value="<img src='Resources/Food'/> 0  <img src='Resources/Minerals'/> 2"/>
 	<entry name="Observatory" value="Observatory"/>
 	<entry name="ObservatoryDescription" value="..."/>
-	<entry name="ObservatoryProperties" value="Construction"/>
+	<entry name="ObservatoryProperties" value="<img src='GUI/Bullet'/>Construction"/>
 	<entry name="Ocean" value="Ocean"/>
 	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous vegetal and animal lifeforms."/>
-	<entry name="OceanProperties" value="Terrain"/>
+	<entry name="OceanProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="OceanStats" value="<img src='Resources/Food'/> 2  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Plains" value="Plains"/>
 	<entry name="PlainsDescription" value="The low relief and quasi-absence of shrubs and trees make the plains of Pandora easily buildable areas, but offering little room for cover to infantry troops."/>
-	<entry name="PlainsProperties" value="Terrain<br/>+50% <img src='Attributes/Power'/> power for mechanical units"/>
+	<entry name="PlainsProperties" value="<img src='GUI/Bullet'/>Terrain<br/><img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power for mechanical units"/>
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
-	<entry name="PollutionProperties" value="Effect<br/>Territory provides no resources"/>
+	<entry name="PollutionProperties" value="<img src='GUI/Bullet'/>Effect<br/><img src='GUI/Bullet'/>Territory provides no resources"/>
 	<entry name="Ruin" value="Ruin"/>
 	<entry name="RuinDescription" value="Remnant of a long-gone civilization, these ruins can host great knowledge, richess... or danger."/>
-	<entry name="RuinProperties" value="Construction"/>
+	<entry name="RuinProperties" value="<img src='GUI/Bullet'/>Construction"/>
 	<entry name="Savanna" value="Savanna"/>
 	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with wide plains they are a candidate for agriculture."/>
-	<entry name="SavannaProperties" value="Terrain"/>
+	<entry name="SavannaProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="SavannaStats" value="<img src='Resources/Food'/> 1  <img src='Resources/Minerals'/> 0"/>
 	<!-- <entry name="ScorchedEarth" value="Scorched Earth"/> -->
 	<!-- <entry name="ScorchedEarthDescription" value="As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore."/> -->
@@ -109,13 +109,13 @@
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
 	<entry name="Road" value="Road"/>
 	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
-	<entry name="RoadProperties" value="Construction<br/>-50% movement cost for units"/>
+	<entry name="RoadProperties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>-50% movement cost for units"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="Torrid climate and lush vegetation - even though the soil is rather poor in nutrients - are the main characteristics of tropical zones."/>
-	<entry name="TropicalProperties" value="Terrain"/>
+	<entry name="TropicalProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="TropicalStats" value="<img src='Resources/Food'/> 2  <img src='Resources/Minerals'/> 0"/>
 	<entry name="Tundra" value="Tundra"/>
 	<entry name="TundraDescription" value="The tundra is a cold biome, its vegetation mainly composed of shrubs, mosses and lichens. Agriculture is hampered by the low temperatures and permanently frozen subsoil, even in the short growing seasons."/>
-	<entry name="TundraProperties" value="Terrain"/>
+	<entry name="TundraProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="TundraStats" value="<img src='Resources/Food'/> 1  <img src='Resources/Minerals'/> 0"/>
 </language>
