@@ -47,8 +47,8 @@
 	<entry name="GrasslandDescription" value="Grasslands are areas where the vegetation is dominated by grasses and other herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
 	<entry name="GrasslandProperties" value="Terrain"/>
 	<entry name="GrasslandStats" value="<img src='Resources/Food'/> 2  <img src='Resources/Minerals'/> 0"/>
-	<entry name="Growth" value="Cloning Center"/>
-	<entry name="GrowthDescription" value="Cities with a cloning center grow twice as fast."/>
+	<entry name="Growth" value="Accelerated Growth"/>
+	<entry name="GrowthDescription" value="Causes a city with positive growth to grow twice as fast."/>
 	<entry name="GrowthProperties" value="Effect<br/>+100% growth for city"/>
 	<entry name="Hills" value="Hills"/>
 	<entry name="HillsDescription" value="Characterizes an altitude level between mountains and plains, and provides "/>
