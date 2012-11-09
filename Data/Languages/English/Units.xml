@@ -24,6 +24,9 @@
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Stockpiled with necessities to sustain life for a little while, Colonizers hold the power Humanity hungers for the most - expansion."/>
 	<entry name="ColonizerProperties" value="<img src='GUI/Bullet'/>Heavy mechanical<br/><img src='GUI/Bullet'/>Consumes a colonist<br/><img src='GUI/Bullet'/>Builds new cities"/>
+	<entry name="Flyer" value="Flyer"/>
+	<entry name="FlyerDescription" value="..."/>
+	<entry name="FlyerProperties" value="<img src='GUI/Bullet'/>Light biological"/>
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="A powerful, revolutionary machine capable of evolving and even transforming terrain. The future of Humanity and the solution to our resource struggles lies with life-changing apparatus such as this. But as all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<img src='GUI/Bullet'/>Heavy mechanical<br/><img src='GUI/Bullet'/>Improves terrain"/>
