@@ -17,7 +17,7 @@
 	<entry name="Armor0" value="Reinforced Steel Plates"/>
 	<entry name="Armor0Description" value="Basic steel armor for troops to increase the resistance against enemy weaponry."/>
 	<entry name="Armor1" value="Titanium Plates"/>
-	<entry name="Armor1Description" value="Robust armor forged from titanium, a mineral found exclusively on Pandora."/>
+	<entry name="Armor1Description" value="Robust armor forged from titanium, a familiar metal found in abundance on Pandora."/>
 	<entry name="Armor2" value="Zortium Molecules"/>
 	<entry name="Armor2Description" value="Experiments with titanium and mexallon show a high chemical compatibility that could improve titanium armor."/>
 	<entry name="Armor3" value="Gauss Optimization"/>

@@ -3,7 +3,7 @@
 	<entry name="Armor0" value="Steel Armor"/>
 	<entry name="Armor0Description" value="Ironclad steel that provides a basic protection against incoming projectiles and explosives for increased manufacturing costs."/>
 	<entry name="Armor1" value="Titanium Armor"/>
-	<entry name="Armor1Description" value="Forged from titanium, a mineral found in abundance on Pandora, this armor provides double the protection of regular steel armor."/>
+	<entry name="Armor1Description" value="Forged from titanium, a strong, lustrous, corrosion-resistant metal, this armor provides double the protection of regular steel armor."/>
 	<entry name="Armor2" value="Zortium Armor"/>
 	<entry name="Armor2Description" value="We have discovered that pure mexallon isotopes allow chemical bonds with titanium, resulting in a very robust material called zortium, which is ideally suited for armors."/>
 	<entry name="Armor3" value="Gauss Armor"/>
