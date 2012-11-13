@@ -48,9 +48,9 @@
 	<entry name="Flame2" value="C-X Flesheater"/>
 	<entry name="Flame2Description" value="The aptly-name Flesheater may look inoffensive, seemingly hurling a spray of gas onto its enemies. In reality, what is propelled is a highly hazardous mix of various Pandorian toxins, much more active than their terran counterparts: exo-, neuro-, hemo-, photo-,  cardiotoxins and yet a few more. The victim is almost literally eaten alive, both form the inside and the outside."/>
 	<entry name="Flame2Properties" value="<img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
-	<entry name="Flyer" value="Needles"/>
-	<entry name="FlyerDescription" value="Razor-sharp needles that rip through human flesh."/>
-	<entry name="FlyerProperties" value="<img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-25% <img src='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="Flyer" value="Claws"/>
+	<entry name="FlyerDescription" value="..."/>
+	<entry name="FlyerProperties" value="<img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power vs mechanical units<br/><img src='GUI/Bullet'/>-25% <img src='Attributes/Power'/> power vs biological units"/>
 	<entry name="Laser0" value="Pulse Laser"/>
 	<entry name="Laser0Description" value="Even though its rate of pulse is quite low, the reason for this design choice is quite reasonable: the longer the device builds energy, the higher the temperatures reached, up to the point where the laser simply evaporates the target."/>
 	<entry name="Laser0Properties" value=""/>  
