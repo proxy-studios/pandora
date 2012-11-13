@@ -11,6 +11,7 @@
 	<entry name="AllianceRejected" value="&quot;An honorable offer, which we cannot accept for reasons that are confidential.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;Well, so much for our alliance to last through the ages.&quot;"/>	
 	<entry name="DeclareWar" value="&quot;I will teach you a lesson about the art of war.&quot; (declares war)"/>
+	<entry name="Goodbye" value="&quot;Nevermind, we're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, treacherous %2%?&quot;"/>
 	<entry name="Greet1" value="&quot;I greet you, %3%, under this alien sky. How will our destinies unfold?&quot;"/>
 	<entry name="Greet2" value="&quot;A trustworthy friend like yourself deserves a deep bow. How can I help you?&quot;"/>

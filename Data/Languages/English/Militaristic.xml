@@ -11,6 +11,7 @@
 	<entry name="AllianceRejected" value="&quot;Do not take it the wrong way, %2%, but not right now. Thanks.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;&quot;"/>
 	<entry name="DeclareWar" value="&quot;Alright, the time has come. From here on out it's total war.&quot;"/>
+	<entry name="Goodbye" value="&quot;Nevermind, we're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;"/>
 	<entry name="Greet2" value="&quot;Greetings, comrade %2%! How can I help you out?&quot;"/>

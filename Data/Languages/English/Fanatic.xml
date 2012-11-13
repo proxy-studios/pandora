@@ -11,6 +11,7 @@
 	<entry name="AllianceRejected" value="&quot;Your offer honors us, but we do not think it would be a wise choice at this point in time.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;So be it. Leave it to the Lord to sort the chaff from the wheat.&quot;"/>
 	<entry name="DeclareWar" value="&quot;We have been on each other's toes long enough!&quot;"/>
+	<entry name="Goodbye" value="&quot;Nevermind, we're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;You better come here to beg for forgiveness, sinner.&quot;"/>
 	<entry name="Greet1" value="&quot;Speak freely but true, %3%. God is always watching.&quot;"/>
 	<entry name="Greet2" value="&quot;Welcome, my dear friend! How may I be of service?&quot;"/>
