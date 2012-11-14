@@ -10,7 +10,7 @@
 	<entry name="Aircraft2Description" value="The Nu offers several advantages compared to common aircrafts: its geomagnetic hull allows him to travel to Pandora's thermosphere, where the ionization can be used to power ship and weapons alike then strike down on enemies at frightening speeds."/>
 	<entry name="Aircraft2Properties" value="<img src='GUI/Bullet'/>Airborne heavy mechanical"/>
 	<entry name="ATV0" value="Seeker ATV"/>
-	<entry name="ATV0Description" value="Despite the similarities between Pandora and old Earth, tweaking properties like mass and moment of inertia for a light reconnaissance vehicle can mean the difference between life and death to its driver. The reported top speed for certain xenomorph species is above 150 miles per hour, and in military circles exploration duty has become a sanction for disobedience.<br/><br/><style oblique='1'/>Roger Raynor and his Seeker trike are legendary among explorers, his adventures often told in bars and at campfires: How he outwitted a great worm by driving in circles, how he stole Vermillion's golden scarab escaping through the sea of grass, and how he tried to outrun a pack of black xenomorphs."/>
+	<entry name="ATV0Description" value="Despite the similarities between Pandora and old Earth, tweaking properties like mass and moment of inertia for a light reconnaissance vehicle can mean the difference between life and death to its driver. The reported top speed for certain Xenomorph species is above 150 miles per hour, and in military circles exploration duty has become a sanction for disobedience.<br/><br/><style oblique='1'/>Roger Raynor and his Seeker trike are legendary among explorers, his adventures often told in bars and at campfires: How he outwitted a great worm by driving in circles, how he stole Vermillion's golden scarab escaping through the sea of grass, and how he tried to outrun a pack of black Xenomorphs."/>
 	<entry name="ATV0Properties" value="<img src='GUI/Bullet'/>Light mechanical"/>
 	<entry name="ATV1" value="Longhaul ATV"/>
 	<entry name="ATV1Description" value="Contrary to its smaller counterpart the Seeker, this vehicle is able to withstand all kinds of twists, bumps and damage without even flinching. Its shock absorption capabilities make its maneuverability unmatched."/>
@@ -18,15 +18,15 @@
 	<entry name="ATV2" value="Atlas ATV"/>
 	<entry name="ATV2Description" value="Its electomagnetically charged armor doesn't only protect this ATV from terrain damage. It also provides it with a reasonable protection against most common weapons, making it a valuable asset as reconnaissance force as well as hit-and-run unit in warfare."/>
 	<entry name="ATV2Properties" value="<img src='GUI/Bullet'/>Light mechanical"/>
-	<entry name="Bug0" value="Bug"/>
-	<entry name="Bug0Description" value="The Leviathan's powerful arms are able to crush a reinforced hull with little to no effort."/>
+	<entry name="Bug0" value="Xenomorph Bug"/>
+	<entry name="Bug0Description" value="..."/>
 	<entry name="Bug0Properties" value="<img src='GUI/Bullet'/>Light biological"/>
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Stockpiled with necessities to sustain life for a little while, Colonizers hold the power Humanity hungers for the most - expansion."/>
 	<entry name="ColonizerProperties" value="<img src='GUI/Bullet'/>Heavy mechanical<br/><img src='GUI/Bullet'/>Consumes a colonist<br/><img src='GUI/Bullet'/>Builds new cities"/>
 	<entry name="Flyer" value="Flyer"/>
 	<entry name="FlyerDescription" value="..."/>
-	<entry name="FlyerProperties" value="<img src='GUI/Bullet'/>Light biological"/>
+	<entry name="FlyerProperties" value="<img src='GUI/Bullet'/>Airborne light biological"/>
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="A powerful, revolutionary machine capable of evolving and even transforming terrain. The future of Humanity and the solution to our resource struggles lies with life-changing apparatus such as this. But as all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<img src='GUI/Bullet'/>Heavy mechanical<br/><img src='GUI/Bullet'/>Improves terrain"/>

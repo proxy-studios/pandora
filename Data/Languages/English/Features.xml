@@ -55,7 +55,7 @@
 	<entry name="HillsProperties" value="<img src='GUI/Bullet'/>Terrain"/>
 	<entry name="HillsStats" value="<img src='Resources/Food'/> -1  <img src='Resources/Minerals'/> +1"/>
 	<entry name="Hive0" value="Hive"/>
-	<entry name="Hive0Description" value="This organic structure hosts a colony of xenomorphs, giving them shelter and allowing them to reproduce."/>
+	<entry name="Hive0Description" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
 	<entry name="Hive0Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="Hive1" value="Hive"/>
 	<entry name="Hive1Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+100% <img src='Attributes/Power'/> power for defending units"/>

@@ -13,7 +13,7 @@
 	<entry name="Armor5" value="Silksteel Armor"/>
 	<entry name="Armor5Description" value="Thin as silk but a magnitude more robust than regular steel, this armor has all the characteristics of an alloy and is highly appreciated among the troops due to its high maintainability."/>
 	<entry name="Armor6" value="Neutronium Armor"/>
-	<entry name="Armor6Description" value="An integrated mini reactor constantly produces free neutrons that are roaming between two magnetized layers and neutralize incoming beams or projectiles.<br/><br/><style oblique='1'/>&quot;You know, pretty boy Greg Johnson from the fifth battalion had such a piece in its first generation. A xenomorph damaged the reactor with an unlucky cut, so a few k gray were leaking into poor Greg. During his next and last minutes he didn't look that pretty anymore.&quot;"/>
+	<entry name="Armor6Description" value="An integrated mini reactor constantly produces free neutrons that are roaming between two magnetized layers and neutralize incoming beams or projectiles.<br/><br/><style oblique='1'/>&quot;You know, pretty boy Greg Johnson from the fifth battalion had such a piece in its first generation. A Xenomorph damaged the reactor with an unlucky cut, so a few k gray were leaking into poor Greg. During his next and last minutes he didn't look that pretty anymore.&quot;"/>
 	<entry name="Armor7" value="Anti-Matter Armor"/>
 	<entry name="Armor7Description" value="Mantles the wearer or coated machine with a super thin layer of anti-matter that absorbs almost anything on contact.<br/><br/><style oblique='1'/>Only the most advanced and trained troops are able to handle this type of armor: wrong usage can result in dismemberment."/>
 	<entry name="Armor8" value="Xenotronium Armor"/>
