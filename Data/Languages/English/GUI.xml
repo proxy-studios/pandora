@@ -121,7 +121,7 @@
 	<entry name="PleaseWait" value="Please Wait ..."/>
 	<entry name="PleaseWaitHint" value=""/>
 	<entry name="Pollution" value="Pollution"/>
-	<entry name="PollutionCityHint" value="%1% of 100 accumulated<br/><br/>%2% per turn<br/><img src='GUI/Bullet'/>%3% from food<br/><img src='GUI/Bullet'/>%4% from minerals<br/><img src='GUI/Bullet'/>%5% from production<br/><img src='GUI/Bullet'/>%6% from research<br/><img src='GUI/Bullet'/>%7% from other"/>
+	<entry name="PollutionCityHint" value="%1% of %2% accumulated<br/><br/>%3% per turn<br/><img src='GUI/Bullet'/>%4% from food<br/><img src='GUI/Bullet'/>%5% from minerals<br/><img src='GUI/Bullet'/>%6% from production<br/><img src='GUI/Bullet'/>%7% from research<br/><img src='GUI/Bullet'/>%8% from other"/>
 	<entry name="PollutionHint" value="Pollution<br/>The amount of industrial waste a city produces. Once enough waste has accumulated, a harvested territory in the city's influence range is polluted and no longer provides resources until cleaned up by a Former."/>
 	<entry name="Population" value="Population"/>
 	<entry name="PopulationCityHint" value="%1% colonists<br/><img src='GUI/Bullet'/>%2% farmers<br/><img src='GUI/Bullet'/>%3% miners<br/><img src='GUI/Bullet'/>%4% workers<br/><img src='GUI/Bullet'/>%5% researchers"/>
