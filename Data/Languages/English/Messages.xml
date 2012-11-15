@@ -24,7 +24,7 @@
 	<entry name="OnlineError4" value="Product key already in use."/>
 	<entry name="OnlineError6" value="Invalid name or password."/>
 	<entry name="OnlineError7" value="Name already taken."/>
-	<entry name="OnlineError8" value="Invalid name."/>
+	<entry name="OnlineError8" value="Invalid name or password."/>
 	<entry name="OnlineError10" value="Product key already in use."/>
 	<entry name="OnlineError12" value="Email already taken."/>
 	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
