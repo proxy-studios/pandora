@@ -10,8 +10,8 @@
 	<entry name="Academy2Description" value="Mankind has a long history of war. Rather than accomodate the various hazards of battle by sheer improvization, the Gordian Database provides our troops with a direct neural link to a list of historical and recent conflicts, their known resolution as well as various calculations based on hypothetical moves, greatly tipping the scales in our favor."/>
 	<entry name="Academy2Properties" value="<img src='GUI/Bullet'/>+4 <img src='Attributes/Rank'/> rank for new units"/>
 	<entry name="BlackHoleBuilding" value="Black Hole Generator"/>
-	<entry name="BlackHoleDescription" value="This military application of particle accelerators produces collisions between particles with an energy of several zettaelectronvolts, focused on one single goal: the creation of macroscopical, volatile black holes. So far the results are overwhelming, though the time required to build sufficient energy is a massive drawback."/>
-	<entry name="BlackHoleProperties" value="<img src='GUI/Bullet'/>Provides a Black Hole operation every 20 turns"/>
+	<entry name="BlackHoleBuildingDescription" value="This military application of particle accelerators produces collisions between particles with an energy of several zettaelectronvolts, focused on one single goal: the creation of macroscopical, volatile black holes. So far the results are overwhelming, though the time required to build sufficient energy is a massive drawback."/>
+	<entry name="BlackHoleBuildingProperties" value="<img src='GUI/Bullet'/>Provides a Black Hole operation every 20 turns"/>
 	<entry name="Credits0" value="Planetary Stock Market"/>
 	<entry name="Credits0Description" value="Stock exchange provides an organized market for purchasing and selling of corporate and other securities per well-defined rules and regulations. This is indispensable for the smooth and orderly functioning of the corporate sector in a free market economy.<br/><br/>A stock exchange need not be treated as a place for speculation or a gambling den. It should act as a place for safe and profitable investment."/>
 	<entry name="Credits0Properties" value="<img src='GUI/Bullet'/>+12 <img src='Resources/Credits'/> credits"/>
@@ -31,8 +31,8 @@
 	<entry name="Defense2Description" value="The Planetary Fortress is a sentient paramilitary superstructure dedicated to the analysis of potential and effective incoming threats. Its ability to grant almost immediate material support and assign idle troops where they are most needed is of the essence in any modern conflict."/>
 	<entry name="Defense2Properties" value="<img src='GUI/Bullet'/>+200% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="EMPBeamBuilding" value="EMP Satellite Uplink"/>
-	<entry name="EMPBeamDescription" value="Slowly building up energy from solar flares, the EMP satellite is able to transfer part of the ion storms towards the surface of Pandora in a high-powered, concentrated beam that disables defenses and cripples production of its target."/>
-	<entry name="EMPBeamProperties" value="<img src='GUI/Bullet'/>Provides an EMP Beam operation every 15 turns"/>
+	<entry name="EMPBeamBuildingDescription" value="Slowly building up energy from solar flares, the EMP satellite is able to transfer part of the ion storms towards the surface of Pandora in a high-powered, concentrated beam that disables defenses and cripples production of its target."/>
+	<entry name="EMPBeamBuildingProperties" value="<img src='GUI/Bullet'/>Provides an EMP Beam operation every 10 turns"/>
 	<entry name="Food0" value="Cultivation Facility"/>
 	<entry name="Food0Description" value="Very similar to our old Earth, Pandora is host to a variety of ecoregions, ranging from the frozen ice lands at the poles to vast deserts and rain forests near the equator. With food supply being a primary concern for new colonies, this newly developed fertilizer allows plant growth even in the most desolate climates and on nutrient-poor soil."/>
 	<entry name="Food0Properties" value="<img src='GUI/Bullet'/>+4 <img src='Resources/Food'/> food"/>
@@ -74,13 +74,13 @@
 	<entry name="Pollution2Properties" value="<img src='GUI/Bullet'/>-32 <img src='Resources/Pollution'/> pollution"/>
 	<entry name="Population0" value="Modular Housing"/>
 	<entry name="Population0Description" value="Rather than build housing in an inefficient, inclination-driven way, better space occupation can be achieved by building adaptive, highly reconfigurable accomodations. Those allow us to shelter more colonists in a given area rather than expand indefinitely and erratically."/>
-	<entry name="Population0Properties" value="<img src='GUI/Bullet'/>+10 <img src='Resources/Population'/> population limit"/>
+	<entry name="Population0Properties" value="<img src='GUI/Bullet'/>+16 <img src='Resources/Population'/> population limit"/>
 	<entry name="Population1" value="Sky Domes"/>
 	<entry name="Population1Description" value="The antigravitation fields produced by high velocity rotation of superconductors allows us to construct floating housing structures, thereby removing most of the space occupation problems of the colony and pushing the population limits even further."/>
-	<entry name="Population1Properties" value="<img src='GUI/Bullet'/>+20 <img src='Resources/Population'/> population limit"/>
+	<entry name="Population1Properties" value="<img src='GUI/Bullet'/>+32 <img src='Resources/Population'/> population limit"/>
 	<entry name="Population2" value="Neuromatrix"/>
 	<entry name="Population2Description" value="Once a colonist becomes too old to be of any direct use to the colony, his experience and personality can be extracted and burned onto a chip. Those are then linked to a global network which feeds their data to the various digital structures of the colony, allowing the retired to keep participating in its development. This spares their relatives the grief of their loss, while the bodies may be discarded, leaving room for younger, healthier colonists."/>
-	<entry name="Population2Properties" value="<img src='GUI/Bullet'/>+40 <img src='Resources/Population'/> population limit"/>
+	<entry name="Population2Properties" value="<img src='GUI/Bullet'/>+64 <img src='Resources/Population'/> population limit"/>
 	<entry name="Production0" value="Reactor Array"/>
 	<entry name="Production0Description" value="Claims to this new world are made on the backbone of a working industry, providing goods and services to colonists. However, modern factories are machine-driven and highly automated, providing a considerable production output with little to no human interaction."/>
 	<entry name="Production0Properties" value="<img src='GUI/Bullet'/>+4 <img src='Resources/Production'/> production"/>

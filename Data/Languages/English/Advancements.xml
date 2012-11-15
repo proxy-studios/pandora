@@ -38,7 +38,7 @@
 	<entry name="PollutionProperties" value="<img src='GUI/Bullet'/>-4 <img src='Resources/Pollution'/> pollution in every city"/>
 	<entry name="Population" value="Advanced City Planning"/>
 	<entry name="PopulationDescription" value="Careful, rational planning and implementation of space occupation prevents population growth to be hampered by housing shortage."/>
-	<entry name="PopulationProperties" value="<img src='GUI/Bullet'/>+2 <img src='Resources/Population'/> population limit in every city"/>
+	<entry name="PopulationProperties" value="<img src='GUI/Bullet'/>+4 <img src='Resources/Population'/> population limit in every city"/>
 	<entry name="Production" value="Operational Efficiency"/>
 	<entry name="ProductionDescription" value="In any laborious nation, most delays and production problems stem from a single failure: that of coordination in the dispatching of human and material resources, due to petty quarrels over contractual details. Better handling of those issues by a regulating authority can help productivity."/>
 	<entry name="ProductionProperties" value="<img src='GUI/Bullet'/>+10% <img src='Resources/Production'/> production in every city"/>
