@@ -3,8 +3,10 @@
 	<entry name="AddProductKey" value="Add Product Key"/>
 	<entry name="AddProductKeyPrompt" value="Please enter a valid product key to add to your Slitherine account:"/>
 	<entry name="Advancement" value="Advancement"/>
+	<entry name="Advancements" value="Advancements"/>
 	<entry name="Alliance" value="Alliance"/>
 	<entry name="Armor" value="Armor"/>
+	<entry name="Armors" value="Armors"/>
 	<entry name="Army" value="Army"/>
 	<entry name="Building" value="Building"/>
 	<entry name="Buildings" value="Buildings"/>
@@ -49,6 +51,9 @@
 	<entry name="Events" value="Events"/>
 	<entry name="ExitToDesktop" value="Exit to Desktop"/>
 	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
+	<entry name="Faction" value="Faction"/>
+	<entry name="Factions" value="Factions"/>
+	<entry name="Features" value="Features"/>
 	<entry name="Food" value="Food"/>
 	<entry name="FoodCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from farmers<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale"/>
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
@@ -188,6 +193,7 @@
 	<entry name="UpkeepHint" value="Upkeep Cost<br/>Credits cost per month."/>
 	<entry name="War" value="War"/>
 	<entry name="Weapon" value="Weapon"/>
+	<entry name="Weapons" value="Weapons"/>
 	<entry name="Workshop" value="Workshop"/>
 	<entry name="Year" value="Year %1% AD"/>
 </language>
