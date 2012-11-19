@@ -185,7 +185,7 @@
 	<entry name="Sight" value="Xenotronium Sensors"/>
 	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from further away."/>
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
-	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives rifle projectiles extraordinary speed, range and accuracy."/>
+	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives sniper rifle bullets extraordinary speed, range and accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
 	<entry name="Sniper1Description" value="Highly ionized ammo for sniper rifles able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
