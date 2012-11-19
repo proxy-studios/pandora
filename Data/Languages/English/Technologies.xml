@@ -89,7 +89,7 @@
 	<entry name="Flak2" value="Sprite Lightning"/>
 	<entry name="Flak2Description" value="Far more potent than electromagnetic pulses, sprite lightnings can hit a wide area in the atmosphere with devastating effects."/>
 	<entry name="Flame0" value="Infernal Pre-Igniter"/>
-	<entry name="Flame0Description" value="New oxyhydrogen-based mobile ignition system that can reliably produce flames with a temperature of beyond 2000 degrees Celsius, melting alien and human flesh alike."/>
+	<entry name="Flame0Description" value="New mobile ignition system producing flames with a temperature of over 2000°C, able to melt any kind of flesh."/>
 	<entry name="Flame1" value="Chemical Post-Reaction"/>
 	<entry name="Flame1Description" value="Basic, yet memorable, chemistry crash course for the enemy."/>
 	<entry name="Flame2" value="Biohazardous Weaponry"/>
@@ -185,7 +185,7 @@
 	<entry name="Sight" value="Xenotronium Sensors"/>
 	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from further away."/>
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
-	<entry name="Sniper0Description" value="Development of an advanced gun chamber that accelerates projectiles of hand-held weaponry to extraordinary speed, bridging vast distances with extreme accuracy."/>
+	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives projectiles of handheld weaponry extraordinary speed, range and accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
 	<entry name="Sniper1Description" value="Specialized ammo able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>

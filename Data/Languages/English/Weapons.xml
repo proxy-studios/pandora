@@ -40,7 +40,7 @@
 	<entry name="Flak2Description" value="Artifically creating sprite lightnings, the effects of the Mirage are quite a sight to behold - from a safe distance. Though not destructive in and of itself, the electrical discharge in the upper atmosphere jams weapons, disrupts electronic functions, causes bugs in all kinds of software, and has repercussions right down to the ground, though to a much lesser extent. A single shot from this type of flak has caused the loss of more than one heavy bomber."/>
 	<entry name="Flak2Properties" value="<img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power vs airborne units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power vs ground units"/>
 	<entry name="Flame0" value="Hellfire"/>
-	<entry name="Flame0Description" value="Said to send its enemies to hell, this flame based weapon really doesn't spare any of its less-protected opponents.<br/><br/><style oblique='1'/>&quot;And they shall burn.&quot;"/>
+	<entry name="Flame0Description" value="Said to send its enemies to hell, this flamethrower uses a groundbreaking oxyhydrogen-based pre-ignition technology and really doesn't spare any of its less-protected targets, melting human and alien flesh alike.<br/><br/><style oblique='1'/>&quot;And they shall burn.&quot;"/>
 	<entry name="Flame0Properties" value="<img src='GUI/Bullet'/>+50% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Flame1" value="G-7 Volcano"/>
 	<entry name="Flame1Description" value="This evolution of the Hellfire brings its own twist to the battlegrounds: dual tanks hold respectively so-called magic acid and water, each of them coming out through a different barrel. The acid is propelled first, causing severe chemical burns to the target. Then comes the pressurized water, provoking the explosive reaction that gives the weapon its name."/>
@@ -74,7 +74,7 @@
 	<entry name="None" value="No Weapon"/>
 	<entry name="NoneDescription" value="Units with no weapon cannot attack and usually have a very low military power, thus need protection."/>
 	<entry name="Sniper0" value="SWS Headhunter"/>
-	<entry name="Sniper0Description" value="Employing high velocity projectiles, the SWS Headhunter presents a frightening experience to all who are caught unaware."/>
+	<entry name="Sniper0Description" value="The SWS Headhunter is the cream of the crop of light gas guns, offering a combination of light weight, an advanced recoil buffer and hypersonic projectiles, and presenting a frightening experience to all enemies who would be caught unaware."/>
 	<entry name="Sniper0Properties" value="<img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power when defending<br/><img src='GUI/Bullet'/>Takes no damage when attacking"/>
 	<entry name="Sniper1" value="Shock Rifle"/>
 	<entry name="Sniper1Description" value="Firing high impact discharges from a frighteningly bulky frame, the Shock Rifle is a devastating offensive weapon when combined with proper support."/>
