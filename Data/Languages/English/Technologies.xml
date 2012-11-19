@@ -49,7 +49,7 @@
 	<entry name="Automatic1" value="Stochastic Projectiles"/>
 	<entry name="Automatic1Description" value="Advanced automatic weapons based on stochastic methods."/>
 	<entry name="Automatic2" value="Mutagen Projectiles"/>
-	<entry name="Automatic2Description" value="Mutagens provoke spontaneous cellular decay, making them one of the scariest kinds of ammunition known to man."/>
+	<entry name="Automatic2Description" value="Development of a magazine that safely stores mutagen-loaded rounds able to provoke spontaneous cellular decay."/>
 	<entry name="BlackHole" value="Controlled Singularity"/>
 	<entry name="BlackHoleDescription" value="Industrial production of non-radioactive mass destruction weapons."/>
 	<entry name="Cannon0" value="Anti-Armor Warheads"/>
@@ -157,7 +157,7 @@
 	<entry name="Population0" value="Wendo Housing Design"/>
 	<entry name="Population0Description" value="Efficient and modular housing system."/>
 	<entry name="Population1" value="Pokdletnov Field"/>
-	<entry name="Population1Description" value="High speed rotation of superconductors leads to the negation of gravitomagnetic effects, allowing floating housing to be built."/>
+	<entry name="Population1Description" value="Creation of gravitomagnetic fields for practical use in urban planning."/>
 	<entry name="Population2" value="Digital Retirement"/>
 	<entry name="Population2Description" value="Immortality may still be a myth, but there are other means to ensure an impossibly long life."/>
 	<entry name="Power" value="Telepathy"/>
@@ -187,7 +187,7 @@
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
 	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives rifle projectiles extraordinary speed, range and accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
-	<entry name="Sniper1Description" value="Specialized ammo able to incapacitate that which has not been destroyed or killed."/>
+	<entry name="Sniper1Description" value="Highly ionized ammo for sniper rifles able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
 	<entry name="Sniper2Description" value="Quantic bullets use the separation of coupled subatomic particles to inflict cellular warping in their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
