@@ -149,6 +149,7 @@
 	<entry name="PurchaseProductionItem" value="Purchase for %1% <img src='Resources/Credits'/> credits."/>
 	<entry name="PurchaseCost" value="%1% <img src='Resources/Credits'/>"/>
 	<entry name="PurchaseDescription" value="Purchase"/>
+	<entry name="Random" value="Random"/>
 	<entry name="RemoteHost" value="Remote Host"/>
 	<entry name="RemotePort" value="Remote Port"/>
 	<entry name="QuickPlay" value="Quick Play"/>
