@@ -35,7 +35,7 @@
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
 	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
-	<entry name="Artillery1Description" value="Combining the efficiency of MRSI and the firepower of air burst by using fragmentation projectiles leaves the enemy with little chance of survival."/>
+	<entry name="Artillery1Description" value="Simultaneous burst of mid-air shells covers a wider area and leaves little chance of surviving bombardments."/>
 	<entry name="Artillery2" value="Graviton Shells"/>
 	<entry name="Artillery2Description" value="Portable gravitational field generation for artillery units."/>
 	<entry name="Assault" value="Operation Valkyrie"/>
@@ -63,7 +63,7 @@
 	<entry name="Credits" value="Qan Bargaining"/>
 	<entry name="CreditsDescription" value="The use of a whole new array of data helps obtain new structures and technologies at a competitive price."/>
 	<entry name="Credits0" value="Stock Exchange"/>
-	<entry name="Credits0Description" value="Facilitation of economic development."/>
+	<entry name="Credits0Description" value="Facilitation of economic development through the establishment of an organized market."/>
 	<entry name="Credits1" value="Market Microstructure"/>
 	<entry name="Credits1Description" value="Examines the ways in which the working processes of a market affects transactions and trading behavior."/>
 	<entry name="Credits2" value="Economic Manipulation"/>
@@ -156,7 +156,7 @@
 	<entry name="PopulationDescription" value="Optimize space occupation and population growth in your colonies."/>
 	<entry name="Population0" value="Wendo Housing Design"/>
 	<entry name="Population0Description" value="Efficient and modular housing system."/>
-	<entry name="Population1" value="Pokdletnov Field"/>
+	<entry name="Population1" value="Podkletnov Field"/>
 	<entry name="Population1Description" value="Creation of gravitomagnetic fields for practical use in urban planning."/>
 	<entry name="Population2" value="Digital Retirement"/>
 	<entry name="Population2Description" value="Immortality may still be a myth, but there are other means to ensure an impossibly long life."/>
@@ -185,7 +185,7 @@
 	<entry name="Sight" value="Xenotronium Sensors"/>
 	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from further away."/>
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
-	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives sniper rifle bullets extraordinary speed, range and accuracy."/>
+	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives precision rifle bullets extraordinary speed, range and accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
 	<entry name="Sniper1Description" value="Highly ionized ammo for sniper rifles able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
