@@ -7,7 +7,7 @@
 	<entry name="AssaultDescription" value="Devised by tactics and logistics experts, operation Valkyrie is the codename for a large scale reconnaissance operation followed by orbital troop deployment. The intended purpose is a swift and powerful strike behind the enemy lines that can decide the outcome of an entire campaign."/>
 	<entry name="AssaultProperties" value="<img src='GUI/Bullet'/>Provides 3 <img src='Operations/ScanIcon' width='16' height='16'/> satellite scans upon discovery<br/><img src='GUI/Bullet'/>Provides <img src='Operations/DropPodIcon' width='16' height='16'/> drop pod upon discovery"/>
 	<entry name="Colonization" value="Colonization Fervor"/>
-	<entry name="ColonizationDescription" value="The rush for territorial domination on Pandora is an uphill battle. All of our colonists are dedicated to make us king of the hill, which should give us a headstart in colonization."/>
+	<entry name="ColonizationDescription" value="The rush for territorial domination on Pandora is an uphill battle. All of our colonists are dedicated to making us king of the hill, which should give us a headstart in colonization."/>
 	<entry name="ColonizationProperties" value="<img src='GUI/Bullet'/>Provides a colonizer in your largest city upon discovery"/>
 	<entry name="Credits" value="Qan Bargaining"/>
 	<entry name="CreditsDescription" value="Haggling has always been an important part of human commerce, but the Qan have elevated it to an art, using all available data, down to the seemingly insignificant, to obtain the prices they see fit. Their technique has always been talked about with high praises, and the easy availability of data in the modern world greatly facilitates the process."/>
