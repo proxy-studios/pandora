@@ -80,6 +80,6 @@
 	<entry name="Sniper1Description" value="Firing high impact discharges from a frighteningly bulky frame, the Shock Rifle is a devastating offensive weapon when combined with proper support."/>
 	<entry name="Sniper1Properties" value="<img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power when defending<br/><img src='GUI/Bullet'/>Takes no damage when attacking"/>
 	<entry name="Sniper2" value="H-44 Arc Rifle"/>
-	<entry name="Sniper2Description" value="Firing rounds loaded with entangled particles, the H-44 can warp a good chunk of its target around the impact point."/>
+	<entry name="Sniper2Description" value="The H-44 fires rounds loaded with coupled subatomic particles. While inoffensive as long as they remain entangled, those particles separate on impact, warping a good chunk of the target around the penetration point."/>
 	<entry name="Sniper2Properties" value="<img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power vs biological units<br/><img src='GUI/Bullet'/>-25% <img src='Attributes/Power'/> power vs mechanical units<br/><img src='GUI/Bullet'/>-50% <img src='Attributes/Power'/> power when defending<br/><img src='GUI/Bullet'/>Takes no damage when attacking"/>
 </language>
