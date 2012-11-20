@@ -189,7 +189,7 @@
 	<entry name="Sniper1" value="High Impact Discharges"/>
 	<entry name="Sniper1Description" value="Highly ionized ammo for sniper rifles able to incapacitate that which has not been destroyed or killed."/>
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
-	<entry name="Sniper2Description" value="Quantic bullets use the separation of coupled subatomic particles to inflict cellular warping in their target."/>
+	<entry name="Sniper2Description" value="Quantic bullets specifically tailored for precision weapons that inflict cellular warping to their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
 	<entry name="Tank0Description" value="Massive hull design with applied mechanical and electrostatic deflection principles allows us to produce heavily armored tanks."/>
 	<entry name="Tank1" value="Carbon Nanotubes"/>
