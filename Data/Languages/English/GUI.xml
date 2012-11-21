@@ -44,7 +44,7 @@
 	<entry name="Economy" value="Economy"/>
 	<entry name="Email" value="Email"/>
 	<entry name="EndTurn" value="End Turn"/>
-	<entry name="EndTurnHint" value="End your turn, allowing other players in the game to act [Space]."/>
+	<entry name="EndTurnHint" value="End your turn [Space]."/>
 	<entry name="Enter" value="Enter"/>
 	<entry name="EnterCityHint" value="Click to enter city screen."/>
 	<entry name="EnterUnitWorkshopHint" value="Enter the unit workshop."/>
