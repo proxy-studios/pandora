@@ -16,6 +16,7 @@
 	<entry name="InvalidEmail" value="Invalid email."/>
 	<entry name="InvalidProductKey" value="Invalid product key."/>
 	<entry name="Kicked" value="You have been kicked from the server."/>
+	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
 	<entry name="NameTooShort" value="Name too short."/>
 	<entry name="NetworkError" value="Network Error"/>
 	<entry name="NoFreeSlots" value="No free slot available on the server."/>
@@ -34,5 +35,5 @@
 	<entry name="ServerError" value="Server Error"/>
 	<entry name="ServerInfo" value="Server Info"/>
 	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
-	<entry name="Unreachable" value="Could not connect to server."/>
+	<entry name="ServerUnreachable" value="Could not connect to server."/>
 </language>
