@@ -110,6 +110,7 @@
 	<entry name="NonAggressionPact" value="Non-Aggression Pact"/>
 	<entry name="None" value="None"/>
 	<entry name="NoResearchSet" value="No research set"/>
+	<entry name="NotReady" value="Not Ready"/>
 	<entry name="NoUnitSelected" value="No unit selected"/>
 	<entry name="OK" value="OK"/>
 	<entry name="Operation" value="Operation"/>
@@ -149,14 +150,15 @@
 	<entry name="PurchaseProductionItem" value="Purchase for %1% <img src='Resources/Credits'/> credits."/>
 	<entry name="PurchaseCost" value="%1% <img src='Resources/Credits'/>"/>
 	<entry name="PurchaseDescription" value="Purchase"/>
-	<entry name="Random" value="Random"/>
-	<entry name="RemoteHost" value="Remote Host"/>
-	<entry name="RemotePort" value="Remote Port"/>
 	<entry name="QuickPlay" value="Quick Play"/>
 	<entry name="Quit" value="Quit"/>
+	<entry name="Random" value="Random"/>
 	<entry name="RankHint" value="Rank (%1%/%2%)<br/>Unit experience gained from combat. Each successive rank increases the unit power by %3%%%."/>
+	<entry name="Ready" value="Ready"/>
 	<entry name="Refresh" value="Refresh"/>
-	<entry name="RememberPassword" value="Remember Password"/>
+	<entry name="RememberPassword" value="Remember Password"/>	
+	<entry name="RemoteHost" value="Remote Host"/>
+	<entry name="RemotePort" value="Remote Port"/>
 	<entry name="Report" value="Report"/>
 	<entry name="Research" value="Research"/>
 	<entry name="ResearchCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from researchers<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale<br/><img src='GUI/Bullet'/>%5% from other"/>
