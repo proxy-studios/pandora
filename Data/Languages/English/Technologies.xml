@@ -57,7 +57,7 @@
 	<entry name="Cannon1" value="Photomultiplier"/>
 	<entry name="Cannon1Description" value="The emission of a dense beam of photons generates a powerful electromagnetic field."/>
 	<entry name="Cannon2" value="Superluminal Projectiles"/>
-	<entry name="Cannon2Description" value="High frequency, faster-than-light projectiles can pierce through any kind of protection."/>
+	<entry name="Cannon2Description" value="High frequency, faster-than-light particles can pierce through any kind of protection."/>
 	<entry name="Colonization" value="Colonization Fervor"/>
 	<entry name="ColonizationDescription" value="Focus the efforts of the colony on expansion for a while."/>
 	<entry name="Credits" value="Qan Bargaining"/>
@@ -109,7 +109,7 @@
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="New world guerrilla tactics."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
-	<entry name="Laser0Description" value="Design of an electrically powered solid state weapon capable of producing a heat and light beam of 100 kW or more."/>
+	<entry name="Laser0Description" value="Design of an electrically powered weapon capable of producing a solid state beam of 100 kW or more."/>
 	<entry name="Laser1" value="Fusion Beams"/>
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
 	<entry name="Laser2" value="Graviton Particles"/>
