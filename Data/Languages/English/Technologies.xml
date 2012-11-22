@@ -23,7 +23,7 @@
 	<entry name="Armor3" value="Gauss Optimization"/>
 	<entry name="Armor3Description" value="A new formula that allows us to analyze and optimize armor on a molecular level."/>
 	<entry name="Armor4" value="Adamantium Processing"/>
-	<entry name="Armor4Description" value="The techniques required to process adamantium, a very heavy and resistant material found deep below the plantery surface that is highly suited for armors."/>
+	<entry name="Armor4Description" value="The techniques required to process adamantium, a very heavy and resistant material found deep below the planetary surface that is highly suited for armors."/>
 	<entry name="Armor5" value="Silksteel Alloy"/>
 	<entry name="Armor5Description" value="An alloy for armors that is ultra light but extremely robust."/>
 	<entry name="Armor6" value="Neutron Roaming"/>
@@ -65,7 +65,7 @@
 	<entry name="Credits0" value="Stock Exchange"/>
 	<entry name="Credits0Description" value="Facilitation of economic development through the establishment of an organized market."/>
 	<entry name="Credits1" value="Market Microstructure"/>
-	<entry name="Credits1Description" value="Examines the ways in which the working processes of a market affects transactions and trading behavior."/>
+	<entry name="Credits1Description" value="Examines the ways in which the working processes of a market affect transactions and trading behavior."/>
 	<entry name="Credits2" value="Economic Manipulation"/>
 	<entry name="Credits2Description" value="Trade may be a good way to sustain an economy, but loading the dice is still better than gambling randomly."/>
 	<entry name="Defense" value="Command Nexus"/>
@@ -109,7 +109,7 @@
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="New world guerrilla tactics."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
-	<entry name="Laser0Description" value="Design of an electrically powered weapon capable of producing a solid state beam of 100 kW or more."/>
+	<entry name="Laser0Description" value="Design of an electrically powered capable of producing a solid state beam of 100 kW or more."/>
 	<entry name="Laser1" value="Fusion Beams"/>
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
 	<entry name="Laser2" value="Graviton Particles"/>
@@ -135,11 +135,11 @@
 	<entry name="Morale0" value="Holographic Projections"/>
 	<entry name="Morale0Description" value="The next level of digital visualization in entertainment."/>
 	<entry name="Morale1" value="Emotion Expression"/>
-	<entry name="Morale1Description" value="Neurosurgery and training dedicated to standard of living improvement."/>
+	<entry name="Morale1Description" value="Neurosurgery and conditioning dedicated to standard of living improvement."/>
 	<entry name="Morale2" value="Thought Signal Processing"/>
 	<entry name="Morale2Description" value="The latest advancements in neurobiofeedback manipulation research allow for better handling of stressful situations for the population."/>
 	<entry name="Movement" value="Advanced Time Dilation"/>
-	<entry name="MovementDescription" value="Improve movement speed by manipulating time like any other dimension."/>
+	<entry name="MovementDescription" value="Improve troop movement speed by manipulating time like any other dimension."/>
 	<entry name="NanoRobots" value="Nano Repair Systems"/>
 	<entry name="NanoRobotsDescription" value="Nanorobots specifically engineered and programmed for nanomedicinal and repair purposes."/>
 	<entry name="Nuke" value="Nuclear Weapons Delivery"/>
@@ -183,7 +183,7 @@
 	<entry name="Scan" value="Orbital Reconnaissance"/>
 	<entry name="ScanDescription" value="Knowledge is power: a satellite uplink allows us to employ satellites for planetary reconnaissance from space."/>
 	<entry name="Sight" value="Xenotronium Sensors"/>
-	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from further away."/>
+	<entry name="SightDescription" value="Movement and heat detectors would allow us to see enemies from farther away."/>
 	<entry name="Sniper0" value="High Velocity Projectiles"/>
 	<entry name="Sniper0Description" value="Development of an advanced gun chamber that gives precision rifle bullets extraordinary speed, range and accuracy."/>
 	<entry name="Sniper1" value="High Impact Discharges"/>
@@ -191,7 +191,7 @@
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
 	<entry name="Sniper2Description" value="Quantic bullets specifically tailored for precision weapons that inflict cellular warping to their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
-	<entry name="Tank0Description" value="Massive hull design with mechanical and electrostatic deflection that allows us to produce heavily armored combat vehicles."/>
+	<entry name="Tank0Description" value="Massive hull with mechanical and electrostatic deflection design that allows us to produce heavily armored combat vehicles."/>
 	<entry name="Tank1" value="Carbon Nanotubes"/>
 	<entry name="Tank1Description" value="The use of carbon allotropes further enhances the capacity of heavily armored tanks."/>
 	<entry name="Tank2" value="Organic Machine Interface"/>
@@ -203,7 +203,7 @@
 	<entry name="Transport" value="Naval Transportation Logistics"/>
 	<entry name="TransportDescription" value="Logistics required to ship ground troops across the sea."/>
 	<entry name="Trooper1" value="Assault Suit"/>
-	<entry name="Trooper1Description" value="Infantry warfare of the future."/>
+	<entry name="Trooper1Description" value="Infantry troops of the future."/>
 	<entry name="Trooper2" value="Organic Suit"/>
 	<entry name="Trooper2Description" value="Infantry enhanced with alien technology."/>
 	<entry name="Watercraft0" value="Electric Marine Propulsion"/>
