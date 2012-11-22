@@ -37,7 +37,7 @@
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
 	<entry name="Artillery1Description" value="Simultaneous burst of mid-air shells covers a wider area and leaves little chance of surviving bombardments."/>
 	<entry name="Artillery2" value="Graviton Shells"/>
-	<entry name="Artillery2Description" value="Portable gravitational field generation for artillery units."/>
+	<entry name="Artillery2Description" value="Advanced shrapnels that generate portable gravitational fields."/>
 	<entry name="Assault" value="Operation Valkyrie"/>
 	<entry name="AssaultDescription" value="Orbital reconnaissance and troop landing operation for a one-time military strike anywhere on the planet."/>
 	<entry name="ATV0" value="Analytical Dynamics"/>
@@ -55,7 +55,7 @@
 	<entry name="Cannon0" value="Anti-Armor Warheads"/>
 	<entry name="Cannon0Description" value="Tank breakers as an answer to heavy war machinery."/>
 	<entry name="Cannon1" value="Photomultiplier"/>
-	<entry name="Cannon1Description" value="The emission of a dense beam of protons generates a powerful electromagnetic field."/>
+	<entry name="Cannon1Description" value="The emission of a dense beam of photons generates a powerful electromagnetic field."/>
 	<entry name="Cannon2" value="Superluminal Projectiles"/>
 	<entry name="Cannon2Description" value="High frequency, faster-than-light projectiles can pierce through any kind of protection."/>
 	<entry name="Colonization" value="Colonization Fervor"/>
@@ -109,7 +109,7 @@
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="New world guerrilla tactics."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
-	<entry name="Laser0Description" value="Design of an electrically powered solid state laser capable of producing a beam of 100 kW or more."/>
+	<entry name="Laser0Description" value="Design of an electrically powered solid state weapon capable of producing a heat and light beam of 100 kW or more."/>
 	<entry name="Laser1" value="Fusion Beams"/>
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
 	<entry name="Laser2" value="Graviton Particles"/>
@@ -191,7 +191,7 @@
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
 	<entry name="Sniper2Description" value="Quantic bullets specifically tailored for precision weapons that inflict cellular warping to their target."/>
 	<entry name="Tank0" value="Deflective Hull"/>
-	<entry name="Tank0Description" value="Massive hull design with applied mechanical and electrostatic deflection principles allows us to produce heavily armored tanks."/>
+	<entry name="Tank0Description" value="Massive hull design with mechanical and electrostatic deflection that allows us to produce heavily armored combat vehicles."/>
 	<entry name="Tank1" value="Carbon Nanotubes"/>
 	<entry name="Tank1Description" value="The use of carbon allotropes further enhances the capacity of heavily armored tanks."/>
 	<entry name="Tank2" value="Organic Machine Interface"/>
