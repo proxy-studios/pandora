@@ -65,13 +65,13 @@
 	<entry name="NukeBuildingProperties" value="<img src='GUI/Bullet'/>Launches missile operations"/>
 	<entry name="Pollution0" value="Automated Recycling"/>
 	<entry name="Pollution0Description" value="Old Earth was in a grim state. With large parts of the ozone layer destroyed as well as the landscape scarred by factional warfare and nuclear waste, our ancestors gathered in a handful of mega cities housing billions of people, trying to escape from an increasingly harsh environment.<br/><br/>Many scientists and ecologists rightfully advocate that such a course of events should not be repeated, and these newly discovered automated recycling technologies are a step in the right direction."/>
-	<entry name="Pollution0Properties" value="<img src='GUI/Bullet'/>-8 <img src='Resources/Pollution'/> pollution"/>
+	<entry name="Pollution0Properties" value="<img src='GUI/Bullet'/>-4 <img src='Resources/Pollution'/> pollution"/>
 	<entry name="Pollution1" value="Air Recycler"/>
 	<entry name="Pollution1Description" value="The efforts to diminish the impact of industrialization on air purity may have paid and helped the colonists thrive for so long, but the latest breakthroughs allow for the implementation of an Air Recycler that further reduces the effects of pollution in its immediate vicinity."/>
-	<entry name="Pollution1Properties" value="<img src='GUI/Bullet'/>-16 <img src='Resources/Pollution'/> pollution"/>
+	<entry name="Pollution1Properties" value="<img src='GUI/Bullet'/>-8 <img src='Resources/Pollution'/> pollution"/>
 	<entry name="Pollution2" value="Atmotron"/>
 	<entry name="Pollution2Description" value="Why repair what you can recreate? The Atmotron processes the atmospherical data of a given zone for a while, then reproduces and enhances it by various means ranging from electrolysis to ionization, efficiently suppressing most pollution problems in the area."/>
-	<entry name="Pollution2Properties" value="<img src='GUI/Bullet'/>-32 <img src='Resources/Pollution'/> pollution"/>
+	<entry name="Pollution2Properties" value="<img src='GUI/Bullet'/>-16 <img src='Resources/Pollution'/> pollution"/>
 	<entry name="Population0" value="Modular Housing"/>
 	<entry name="Population0Description" value="Rather than build housing in an inefficient, inclination-driven way, better space occupation can be achieved by building adaptive, highly reconfigurable accomodations. Those allow us to shelter more colonists in a given area rather than expand indefinitely and erratically."/>
 	<entry name="Population0Properties" value="<img src='GUI/Bullet'/>+16 <img src='Resources/Population'/> population limit"/>
