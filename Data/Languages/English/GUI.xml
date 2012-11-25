@@ -42,6 +42,7 @@
 	<entry name="DisableTips" value="Disable Tips"/>
 	<entry name="DisableTipsHint" value="Stop showing popup tips. You may re-enable them in the settings panel."/>
 	<entry name="Economy" value="Economy"/>
+	<entry name="EconomicVictoryProgress" value="Economic victory progress: %1%%%"/>
 	<entry name="Email" value="Email"/>
 	<entry name="EndTurn" value="End Turn"/>
 	<entry name="EndTurnHint" value="End your turn [Space]."/>
@@ -77,6 +78,7 @@
 	<entry name="LoginPrompt" value="Please enter your Slitherine account information:"/>
 	<entry name="Menu" value="Menu"/>
 	<entry name="Military" value="Military"/>
+	<entry name="MilitaryVictoryProgress" value="Military victory progress: %1%%%"/>
 	<entry name="Minerals" value="Minerals"/>
 	<entry name="MineralsCityHint" value="%1% per turn<br/><img src='GUI/Bullet'/>%2% from miners<br/><img src='GUI/Bullet'/>%3% from buildings<br/><img src='GUI/Bullet'/>%4% from morale"/>
 	<entry name="MineralsHint" value="Minerals<br/>Sustains production. Without minerals your colonists cannot produce goods."/>
@@ -165,6 +167,7 @@
 	<entry name="ResearchHint" value="Research<br/>Cumulation of knowledge. Used to discover new technologies."/>
 	<entry name="ResearchPlayerHint" value="<img src='GUI/Bullet'/>%1% from researchers<br/><img src='GUI/Bullet'/>%2% from buildings<br/><img src='GUI/Bullet'/>%3% from morale<br/><img src='GUI/Bullet'/>%4% from other<br/><img src='GUI/Bullet'/>%5% from research pacts"/>
 	<entry name="ResearchPact" value="Research Pact"/>
+	<entry name="ResearchVictoryProgress" value="Research victory progress: %1%%%"/>
 	<entry name="ResetPassword" value="Reset Password"/>
 	<entry name="Return" value="Return"/>
 	<entry name="ReturnToMap" value="Return to Map"/>
