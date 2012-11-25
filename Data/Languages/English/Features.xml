@@ -11,7 +11,9 @@
 	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
 	<entry name="City0Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="City1" value="City"/>
+	<entry name="City1Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="City2" value="City"/>
+	<entry name="City2Properties" value="<img src='GUI/Bullet'/>Construction<br/><img src='GUI/Bullet'/>+25% <img src='Attributes/Power'/> power for defending units"/>
 	<entry name="Coast" value="Coast"/>
 	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
 	<entry name="CoastProperties" value="<img src='GUI/Bullet'/>Terrain"/>
