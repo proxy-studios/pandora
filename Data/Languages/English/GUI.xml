@@ -186,6 +186,7 @@
 	<entry name="Selection" value="Selection"/>
 	<entry name="Settings" value="Settings"/>
 	<entry name="SightHint" value="Sight Range<br/>How far the unit can see."/>
+	<entry name="Start" value="Start"/>
 	<entry name="Statistics" value="Statistics"/>
 	<entry name="TechnologyCost" value="Cost: %1% <img src='Resources/Research'/> research <style name='Small' color='Gray'/>(%2% turns)"/>
 	<entry name="Tip" value="Tip"/>
