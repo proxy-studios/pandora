@@ -38,4 +38,5 @@
 	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
 	<entry name="ServerShutDown" value="Server shut down."/>
 	<entry name="ServerUnreachable" value="Could not connect to server."/>
+	<entry name="Unknown" value="Unknown."/>
 </language>
