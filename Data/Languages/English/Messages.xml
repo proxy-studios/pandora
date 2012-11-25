@@ -20,7 +20,7 @@
 	<entry name="NameTooShort" value="Name too short."/>
 	<entry name="NetworkError" value="Network Error"/>
 	<entry name="NoFreeSlots" value="No free slot available on the server."/>
-	<entry name="NoGames" value="No games are currently available. Why not start one?"/>
+	<entry name="NoGames" value="No games are currently available.<br/>Why not start one?"/>
 	<entry name="OnlineError3" value="Invalid product key."/>
 	<entry name="OnlineError4" value="Product key already in use."/>
 	<entry name="OnlineError6" value="Invalid name or password."/>
