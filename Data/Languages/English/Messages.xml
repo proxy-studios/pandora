@@ -14,6 +14,7 @@
 	<entry name="InitializingServer" value="Initializing server ..."/>
 	<entry name="InvalidCommand" value="Invalid command: &quot;%1%&quot;."/>
 	<entry name="InvalidEmail" value="Invalid email."/>
+	<entry name="InvalidName" value="Invalid name."/>
 	<entry name="InvalidProductKey" value="Invalid product key."/>
 	<entry name="Kicked" value="You have been kicked from the server."/>
 	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
@@ -35,5 +36,6 @@
 	<entry name="ServerError" value="Server Error"/>
 	<entry name="ServerInfo" value="Server Info"/>
 	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
+	<entry name="ServerShutDown" value="Server shut down."/>
 	<entry name="ServerUnreachable" value="Could not connect to server."/>
 </language>
