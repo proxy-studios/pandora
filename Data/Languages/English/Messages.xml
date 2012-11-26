@@ -4,6 +4,11 @@
 	<entry name="AccountCreated" value="Account created successfully."/>
 	<entry name="ConnectionLost" value="Connection lost."/>
 	<entry name="ConnectingToServer" value="Connecting to server ..."/>
+	<entry name="Countdown1" value="1 ..."/>
+	<entry name="Countdown2" value="2 ..."/>
+	<entry name="Countdown3" value="3 ..."/>
+	<entry name="Countdown4" value="4 ..."/>
+	<entry name="Countdown5" value="Starting in 5 ..."/>
 	<entry name="CreatingAccount" value="Creating account ..."/>
 	<entry name="Error" value="Error"/>
 	<entry name="EverythingOK" value="Everything OK."/>
@@ -31,6 +36,8 @@
 	<entry name="OnlineError12" value="Email already taken."/>
 	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
 	<entry name="PasswordTooShort" value="Password too short."/>
+	<entry name="PlayerJoined" value="%1% has joined."/>
+	<entry name="PlayerLeft" value="%1% has left."/>
 	<entry name="ProductKeyEmpty" value="Product key empty."/>
 	<entry name="RetrievingList" value="Retrieving list ..."/>
 	<entry name="ServerError" value="Server Error"/>
