@@ -49,6 +49,7 @@
 	<entry name="Enter" value="Enter"/>
 	<entry name="EnterCityHint" value="Click to enter city screen."/>
 	<entry name="EnterUnitWorkshopHint" value="Enter the unit workshop."/>
+	<entry name="EntityPowerModifier" value="<img src='GUI/Bullet'/>%1%: %2%%% <img src='Attributes/Power'/> power"/>
 	<entry name="Events" value="Events"/>
 	<entry name="ExitToDesktop" value="Exit to Desktop"/>
 	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
