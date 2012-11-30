@@ -7,23 +7,23 @@
 	<entry name="BuildCity" value="Build City"/>
 	<entry name="BuildCityHint" value="Build City"/>
 	<entry name="BuildFarm" value="Build Farm"/>
-	<entry name="BuildFarmHint" value="Build Farm<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="BuildFarmHint" value="Build Farm<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="BuildFort" value="Build Fort"/>
-	<entry name="BuildFortHint" value="Build Fort<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="BuildFortHint" value="Build Fort<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="BuildMine" value="Build Mine"/>
-	<entry name="BuildMineHint" value="Build Mine<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="BuildMineHint" value="Build Mine<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="BuildRoad" value="Build Road"/>
-	<entry name="BuildRoadHint" value="Build Road<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="BuildRoadHint" value="Build Road<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="ClearForest" value="Clear Forest"/>
-	<entry name="ClearForestHint" value="Clear Forest<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="ClearForestHint" value="Clear Forest<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="ClearPollution" value="Clear Pollution"/>
-	<entry name="ClearPollutionHint" value="Clear Pollution<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="ClearPollutionHint" value="Clear Pollution<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="Deploy" value="Deploy"/>
 	<entry name="DeployHint" value="Deploy"/>
 	<entry name="Disband" value="Disband"/>
 	<entry name="DisbandHint" value="Disband"/>
 	<entry name="GrowForest" value="Grow Forest"/>
-	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><img src='GUI/Bullet'/>3 turn duration"/>
+	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
 	<entry name="HoldPosition" value="Hold Position"/>
 	<entry name="HoldPositionHint" value="Hold Position [D]"/>
 	<entry name="HoldPositionUntilHealed" value="Hold Until Healed"/>
@@ -34,7 +34,7 @@
 	<entry name="Move" value="Move to"/>
 	<entry name="MoveHint" value="Move"/>
 	<entry name="Pillage" value="Pillage"/>
-	<entry name="PillageHint" value="Pillage<br/><style name='Small'/><img src='GUI/Bullet'/>Destroys territory improvement"/>
+	<entry name="PillageHint" value="Pillage<br/><style name='Small'/><icon texture='GUI/Bullet'/>Destroys territory improvement"/>
 	<entry name="Skip" value="Skip"/>
 	<entry name="SkipHint" value="Skip [S]"/>
 </language>
