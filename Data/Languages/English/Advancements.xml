@@ -2,7 +2,7 @@
 <language>
 	<entry name="Alien" value="Xenology"/>
 	<entry name="AlienDescription" value="Detention, examination and dissection of Xenomorphs, as well as behavioral neuroscience and genetic research leads us to a better comprehension of the enemy, and thus to be better prepared to fight and overcome the threat they represent."/>
-	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>-50%<style color='Default'/> alien invader aggression"/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>-50% alien invader aggression"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
 	<entry name="AssaultDescription" value="Devised by tactics and logistics experts, operation Valkyrie is the codename for a large scale reconnaissance operation followed by orbital troop deployment. The intended purpose is a swift and powerful strike behind the enemy lines that can decide the outcome of an entire campaign."/>
 	<entry name="AssaultProperties" value="<icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/ScanIcon' width='16' height='16'/> satellite scans upon discovery<br/><icon texture='GUI/Bullet'/>Provides <icon texture='Operations/DropPodIcon' width='16' height='16'/> drop pod upon discovery"/>
@@ -11,46 +11,46 @@
 	<entry name="ColonizationProperties" value="<icon texture='GUI/Bullet'/>Provides a colonizer in your largest city upon discovery"/>
 	<entry name="Credits" value="Qan Bargaining"/>
 	<entry name="CreditsDescription" value="Haggling has always been an important part of human commerce, but the Qan have elevated it to an art, using all available data, down to the seemingly insignificant, to obtain the prices they see fit. Their technique has always been talked about with high praises, and the easy availability of data in the modern world greatly facilitates the process."/>
-	<entry name="CreditsProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>-10%<style color='Default'/> <icon texture='Resources/Credits'/> credits purchase cost"/>
+	<entry name="CreditsProperties" value="<icon texture='GUI/Bullet'/>-10% <icon texture='Resources/Credits'/> credits purchase cost"/>
 	<entry name="Defense" value="Command Nexus"/>
 	<entry name="DefenseDescription" value="Establishing a centralized command center is a risky move, as destruction of the headquarters would be disastrous, but it has its rewards, as it helps dispatch the much needed information instantaneously and can provide backup in case it is ever needed."/>
-	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+25%<style color='Default'/> <icon texture='Attributes/Power'/> power for units in territories controlled by your cities"/>
+	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for units in territories controlled by your cities"/>
 	<entry name="Diplomacy" value="Planetary Council"/>
 	<entry name="DiplomacyDescription" value="The establishment of a worldwide diplomatic organization to facilitate cooperation and negotiation between all factions will most likely boost our reputation and standing among all races."/>
 	<entry name="DiplomacyProperties" value="<icon texture='GUI/Bullet'/>Increases standings with every faction upon discovery"/>
 	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
 	<entry name="FoodMineralsDescription" value="The colony ship used to reach Pandora would need several decades to travel back to our homeworld. So instead of sending it home, we rather unload all remaining food supplies brought along and then dismantle the whole ship. This results in a significant one-time resource boost of food and minerals for our empire."/>
-	<entry name="FoodMineralsProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+15<style color='Default'/> <icon texture='Resources/Food'/> food upon discovery<br/><icon texture='GUI/Bullet'/><style color='Green'/>+15<style color='Default'/> <icon texture='Resources/Minerals'/> minerals upon discovery"/>
+	<entry name="FoodMineralsProperties" value="<icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Food'/> food upon discovery<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Minerals'/> minerals upon discovery"/>
 	<entry name="GoldenAge" value="Golden Age"/>
 	<entry name="GoldenAgeDescription" value="The colonists rejoice as our society reaches levels of enlightenment that would have been unthinkable back on old earth. A nationwide celebration would probably make them very happy."/>
-	<entry name="GoldenAgeProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+5<style color='Default'/> <icon texture='Resources/Morale'/> morale in every city for 10 turns upon discovery"/>
+	<entry name="GoldenAgeProperties" value="<icon texture='GUI/Bullet'/>+5 <icon texture='Resources/Morale'/> morale in every city for 10 turns upon discovery"/>
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="The strategy and tactics of guerrilla warfare tend to focus around the use of a small, mobile force competing against a larger, more unwieldy one. Tactics such as ambushes, sabotage, raids, the element of surprise, and extraordinary mobility are used to harass a larger and less-mobile traditional army, or strike a vulnerable target and withdraw almost immediately.<br/><br/><style oblique='1'/>&quot;The conventional army loses if it does not win. The guerrilla wins if he does not lose.&quot;<br/>    -- Henry Kissinger"/>
-	<entry name="GuerrillaProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+25%<style color='Default'/> <icon texture='Attributes/Power'/> power for light units in forests or mountains"/>
+	<entry name="GuerrillaProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light units in forests or mountains"/>
 	<entry name="Movement" value="Advanced Time Dilation"/>
 	<entry name="MovementDescription" value="Time had always been overlooked as only a matter of perception. Time compression and dilation is now a full-fledged research field and the first results are encouraging, allowing us to move further in much less time. It will probably take centuries to fully master the manipulation of this very peculiar dimension, but it already grants us better movement for the time being."/>
-	<entry name="MovementProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Sight'/> movement"/>	
+	<entry name="MovementProperties" value="<icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Sight'/> movement"/>	
 	<entry name="Power" value="Telepathy"/>
 	<entry name="PowerDescription" value="The ability to read into our enemies' minds helps us predict and prevent each and every one of their movements on the battlefield.<br/><br/><style oblique='1'/>&quot;Welcome to Telepathics Anonymous. Don't bother introducing yourself.&quot;<br/>    -- Robert Barr"/>
-	<entry name="PowerProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+10%<style color='Default'/> <icon texture='Attributes/Power'/> power"/>
+	<entry name="PowerProperties" value="<icon texture='GUI/Bullet'/>+10% <icon texture='Attributes/Power'/> power"/>
 	<entry name="Pollution" value="Planetary Awareness"/>
 	<entry name="PollutionDescription" value="The main drawback of industrialization has always been pollution. We are not willing to reiterate the mistakes we made on the old earth, and monitoring of pollutant interference in the wilderness, as well as proactive actions to diminish the release of hazardous waste, can alleviate the problem."/>
-	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>-4<style color='Default'/> <icon texture='Resources/Pollution'/> pollution in every city"/>
+	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> pollution in every city"/>
 	<entry name="Population" value="Advanced City Planning"/>
 	<entry name="PopulationDescription" value="Careful, rational planning and implementation of space occupation prevents population growth to be hampered by housing shortage."/>
-	<entry name="PopulationProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+4<style color='Default'/> <icon texture='Resources/Population'/> population limit in every city"/>
+	<entry name="PopulationProperties" value="<icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Population'/> population limit in every city"/>
 	<entry name="Production" value="Operational Efficiency"/>
 	<entry name="ProductionDescription" value="In any laborious nation, most delays and production problems stem from a single failure: that of coordination in the dispatching of human and material resources, due to petty quarrels over contractual details. Better handling of those issues by a regulating authority can help productivity."/>
-	<entry name="ProductionProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+10%<style color='Default'/> <icon texture='Resources/Production'/> production in every city"/>
+	<entry name="ProductionProperties" value="<icon texture='GUI/Bullet'/>+10% <icon texture='Resources/Production'/> production in every city"/>
 	<entry name="Research" value="Brain Growth"/>
 	<entry name="ResearchDescription" value="Time has passed and humanity has evolved yet again. What would have looked like a swollen cranium on old earth is now commonplace - the brain has come to play a more functional and centric role in the human race than ever before, and the expanded neural network gives our researchers a great advantage."/>
-	<entry name="ResearchProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+10%<style color='Default'/> <icon texture='Resources/Research'/> research"/>
+	<entry name="ResearchProperties" value="<icon texture='GUI/Bullet'/>+10% <icon texture='Resources/Research'/> research"/>
 	<entry name="Sight" value="Xenotronium Sensors"/>
 	<entry name="SightDescription" value="Xenotronium, though rare and slightly unstable, is a chemical component with interesting properties. Used in goggles, it gives properties close to old Earth's night vision goggles, along with heat and movement detection."/>
-	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="Terraform" value="Great Planetary Survey"/>
 	<entry name="TerraformDescription" value="A tremendous study of Pandora's ecosystem that greatly improves our understanding of the planet and in turn makes the terraforming process significantly more efficient.<br/><br/><style oblique='1'/>&quot;As a great man's influence never ends, so also there is not definite finality, no end, to a great survey; it runs along for centuries, ever responsive to the strain of the increasing needs of a growing population and an enlarging domain.&quot;<br/>    -- Cleveland Abbe"/>
-	<entry name="TerraformProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+50%<style color='Default'/> terraforming speed for formers"/>
+	<entry name="TerraformProperties" value="<icon texture='GUI/Bullet'/>+50% terraforming speed for formers"/>
 	<entry name="Transport" value="Naval Transportation Logistics"/>
 	<entry name="TransportDescription" value="A large percentage of the planetary surface is covered by water, forming an obstacle for civilian and military units alike. Naval transportation logistics provides our empire with transporters that can ship land units over the sea."/>
 	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Land units can enter water tiles in transports"/>

@@ -20,7 +20,7 @@
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Kills all units in a territory"/>
 	<entry name="Promotion" value="Field Training"/>
 	<entry name="PromotionDescription" value="A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream of the crop survives it, and the gained knowledge gives them an edge in real warfare."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/><style color='Green'/>+1<style color='Default'/> <icon texture='Attributes/Rank'/> rank for all units in a territory"/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rank for all units in a territory"/>
 	<entry name="Scan" value="Satellite Scan"/>
 	<entry name="ScanDescription" value="Orbital reconnaissance has many advantages: it is discrete, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Reveals target territory and its neighbors for 1 turn"/>
