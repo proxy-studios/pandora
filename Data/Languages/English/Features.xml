@@ -9,11 +9,11 @@
 	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Cities produce no resources<br/><icon texture='GUI/Bullet'/>Mechanical units cannot move"/>
 	<entry name="City0" value="City"/>
 	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
-	<entry name="City0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="City0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+25%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="City1" value="City"/>
-	<entry name="City1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="City1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+25%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="City2" value="City"/>
-	<entry name="City2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="City2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+25%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Coast" value="Coast"/>
 	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
 	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -40,29 +40,29 @@
 	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4"/>
 	<entry name="Forest" value="Forest"/>
 	<entry name="ForestDescription" value="A forest is an area with a high density of trees and functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere."/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for light biological units"/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/><style color='Green'/>+50%<style color='Default'/> <icon texture='Attributes/Power'/> power for light biological units"/>
 	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1"/>
 	<entry name="Fort" value="Fort"/>
 	<entry name="FortDescription" value="Massive fortifications that provide units a strong defensive and vision bonus. If stocked with artillery units they are optimal to protect borders or strategic key positions."/>
-	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/><style color='Green'/>+1<style color='Default'/> <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="Grassland" value="Grassland"/>
 	<entry name="GrasslandDescription" value="Grasslands are areas where the vegetation is dominated by grasses and other herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
 	<entry name="GrasslandProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="GrasslandStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
 	<entry name="Growth" value="Accelerated Growth"/>
 	<entry name="GrowthDescription" value="Causes a city with positive growth to grow twice as fast."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>+100% growth for city"/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> growth for city"/>
 	<entry name="Hills" value="Hills"/>
 	<entry name="HillsDescription" value="Characterizes an altitude level between mountains and plains, and provides "/>
 	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="Hive0" value="Hive"/>
 	<entry name="Hive0Description" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
-	<entry name="Hive0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Hive1" value="Hive"/>
-	<entry name="Hive1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Hive2" value="Hive"/>
-	<entry name="Hive2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>+100%<style color='Default'/> <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Mine" value="Mine"/>
 	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
@@ -81,7 +81,7 @@
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4"/>
 	<entry name="Mountains" value="Mountains"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
-	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/><style color='Green'/>+50%<style color='Default'/> <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/><style color='Green'/>+1<style color='Default'/> <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
 	<entry name="Observatory" value="Observatory"/>
 	<entry name="ObservatoryDescription" value="..."/>
@@ -92,7 +92,7 @@
 	<entry name="OceanStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
 	<entry name="Plains" value="Plains"/>
 	<entry name="PlainsDescription" value="The low relief and quasi-absence of shrubs and trees make the plains of Pandora easily buildable areas, but offering little room for cover to infantry troops."/>
-	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for mechanical units"/>
+	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/><style color='Green'/>+50%<style color='Default'/> <icon texture='Attributes/Power'/> power for mechanical units"/>
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
@@ -111,7 +111,7 @@
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
 	<entry name="Road" value="Road"/>
 	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
-	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>-50% movement cost for units"/>
+	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/><style color='Green'/>-50%<style color='Default'/> movement cost for units"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="Torrid climate and lush vegetation - even though the soil is rather poor in nutrients - are the main characteristics of tropical zones."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
