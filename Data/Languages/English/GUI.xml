@@ -62,6 +62,7 @@
 	<entry name="FoodPlayerHint" value="<icon texture='GUI/Bullet'/>%1% from farmers<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from population"/>
 	<entry name="Friendly" value="Friendly"/>
 	<entry name="GameBrowser" value="Game Browser"/>
+	<entry name="GameLobby" value="Game Lobby"/>
 	<entry name="Growth" value="Growth"/>
 	<entry name="GrowthCityHint" value="%1% turns remaining<br/>%2% of %3% accumulated<br/><br/>%4% per turn<br/><icon texture='GUI/Bullet'/>%5% from food<br/><icon texture='GUI/Bullet'/>%6% from morale<br/><icon texture='GUI/Bullet'/>%7% from other"/>
 	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost."/>
