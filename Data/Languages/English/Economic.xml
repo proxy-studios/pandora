@@ -11,7 +11,7 @@
 	<entry name="AllianceRejected" value="&quot;Tempting offer, but no thanks. Maybe in the future.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;Oh come on. We had a good thing going here.&quot;"/>
 	<entry name="DeclareWar" value="&quot;Discussion doesn't bring us any further here. It's showtime!&quot; (declares war)"/>
-	<entry name="Goodbye" value="&quot;Nevermind, we're done here.&quot;"/>
+	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;Alright, let's get this over with.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %2%. Let's talk business.&quot;"/>
 	<entry name="Greet2" value="&quot;What's up old friend? Got some exciting new deal?&quot;"/>

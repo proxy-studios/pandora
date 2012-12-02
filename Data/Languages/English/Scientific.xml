@@ -11,7 +11,7 @@
 	<entry name="AllianceRejected" value="&quot;Too soon, %1%. Too soon.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;I really hoped for a longer journey together...&quot;"/>
 	<entry name="DeclareWar" value="&quot;I had sincere hopes we could avoid a war, but the time has finally come.&quot;"/>
-	<entry name="Goodbye" value="&quot;Nevermind, we're done here.&quot;"/>
+	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;I have better things to do than argue with simpletons, so make your demands.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%. What are the latest discoveries in your empire?&quot;"/>
 	<entry name="Greet2" value="&quot;Always a delight to meet you, %1%. What is on your mind?&quot;"/>
