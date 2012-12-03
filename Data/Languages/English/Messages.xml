@@ -9,6 +9,7 @@
 	<entry name="Countdown3" value="3 ..."/>
 	<entry name="Countdown4" value="4 ..."/>
 	<entry name="Countdown5" value="Starting in 5 ..."/>
+	<entry name="CountdownStopped" value="Countdown stopped."/>
 	<entry name="CreatingAccount" value="Creating account ..."/>
 	<entry name="Error" value="Error"/>
 	<entry name="EverythingOK" value="Everything OK."/>

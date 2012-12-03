@@ -197,6 +197,7 @@
 	<entry name="SightHint" value="Sight Range<br/>How far the unit can see."/>
 	<entry name="Start" value="Start"/>
 	<entry name="Statistics" value="Statistics"/>
+	<entry name="Stop" value="Stop"/>
 	<entry name="TechnologyCost" value="Cost: %1% <icon texture='Resources/Research'/> research <style name='Small' color='Gray'/>(%2% turns)"/>
 	<entry name="Tip" value="Tip"/>
 	<entry name="TradingPact" value="Trading Pact"/>
