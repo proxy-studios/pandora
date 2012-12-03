@@ -62,6 +62,7 @@
 	<entry name="ExitToMainMenu" value="Exit to Main Menu"/>
 	<entry name="Faction" value="Faction"/>
 	<entry name="Factions" value="Factions"/>
+	<entry name="Feature" value="Feature"/>
 	<entry name="Features" value="Features"/>
 	<entry name="Food" value="Food"/>
 	<entry name="FoodCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from farmers<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from morale"/>
@@ -116,7 +117,7 @@
 	<entry name="New" value="New"/>
 	<entry name="NewGame" value="New Game"/>
 	<entry name="NewSaveGame" value="New Save Game"/>
-	<entry name="NewTypeDiscovered" value="New %1% Discovered"/>
+	<entry name="NewTypeDiscovered" value="New %1% Discovered:"/>
  	<entry name="NewUnitDesignHint" value="Create new unit design."/>
 	<entry name="NonAggressionPact" value="Non-Aggression Pact"/>
 	<entry name="None" value="None"/>
