@@ -24,10 +24,10 @@
 	<entry name="DisbandHint" value="Disband"/>
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><icon texture='GUI/Bullet'/>3 turn duration"/>
+	<entry name="Heal" value="Hold Until Healed"/>
+	<entry name="HealHint" value="Heal [E]"/>
 	<entry name="HoldPosition" value="Hold Position"/>
 	<entry name="HoldPositionHint" value="Hold Position [D]"/>
-	<entry name="HoldPositionUntilHealed" value="Hold Until Healed"/>
-	<entry name="HoldPositionUntilHealedHint" value="Hold Until Healed [E]"/>
 	<entry name="Idle" value="Idle"/>
 	<entry name="ImproveTerritory" value="Improve Territory"/>
 	<entry name="ImproveTerritoryHint" value="Improve Territory"/>
