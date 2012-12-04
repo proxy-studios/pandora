@@ -11,7 +11,7 @@
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Causes a blackout that lasts 5 turns"/>
 	<entry name="Growth" value="Cloning Center"/>
 	<entry name="GrowthDescription" value="Applied auxology, stem cell modification and growth rate control allow us to quickly and efficiently replicate some of our colonists, which should boost population growth for a while."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Causes an accelerated growth that lasts 5 turns"/>	
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Causes an accelerated growth that lasts 10 turns"/>	
 	<entry name="NanoRobots" value="Nano Robots"/>
 	<entry name="NanoRobotsDescription" value="Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose molecular structure of damaged and wounded units."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Fully repairs all units in a territory"/>
