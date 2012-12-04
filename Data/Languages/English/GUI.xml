@@ -82,6 +82,7 @@
 	<entry name="INFINITY" value="INF"/>
 	<entry name="Join" value="Join"/>
 	<entry name="LeadsTo" value="Leads to:"/>
+	<entry name="Lifeform" value="Lifeform"/>
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
 	<entry name="Login" value="Login"/>
