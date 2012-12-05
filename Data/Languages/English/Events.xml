@@ -3,6 +3,7 @@
 	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
 	<entry name="CityGrown" value="%1% grown."/>
 	<entry name="CityLost" value="%1% lost."/>
+	<entry name="Discovered" value="%1% discovered."/>
 	<entry name="ImprovementLost" value="%1% lost."/>
 	<entry name="OperationProductionComplete" value="%1% produced %2%."/>
 	<entry name="OutOfCredits" value="Out of <icon texture='Resources/Credits'/> credits."/>
