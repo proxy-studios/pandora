@@ -5,6 +5,7 @@
 	<entry name="AntiAliasing" value="Anti-Aliasing"/>
 	<entry name="AutoCycleUnits" value="Auto Cycle Units"/>
 	<entry name="AutoSave" value="Autosave"/>
+	<entry name="DiscoveryHelp" value="Discovery Help"/>
 	<entry name="EffectsVolume" value="Effects Volume"/>
 	<entry name="FullScreen" value="Fullscreen"/>
 	<entry name="FullScreenResolution" value="Fullscreen Resolution"/>
