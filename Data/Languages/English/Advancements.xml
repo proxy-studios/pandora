@@ -20,7 +20,7 @@
 	<entry name="DiplomacyProperties" value="<icon texture='GUI/Bullet'/>Increases standings with every faction upon discovery"/>
 	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
 	<entry name="FoodMineralsDescription" value="The colony ship used to reach Pandora would need several decades to travel back to our homeworld. So instead of sending it home, we rather unload all remaining food supplies brought along and then dismantle the whole ship. This results in a significant one-time resource boost of food and minerals for our empire."/>
-	<entry name="FoodMineralsProperties" value="<icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Food'/> food upon discovery<br/><icon texture='GUI/Bullet'/>+15 <icon texture='Resources/Minerals'/> minerals upon discovery"/>
+	<entry name="FoodMineralsProperties" value="<icon texture='GUI/Bullet'/>+20 <icon texture='Resources/Food'/> food upon discovery<br/><icon texture='GUI/Bullet'/>+20 <icon texture='Resources/Minerals'/> minerals upon discovery"/>
 	<entry name="GoldenAge" value="Golden Age"/>
 	<entry name="GoldenAgeDescription" value="The colonists rejoice as our society reaches levels of enlightenment that would have been unthinkable back on old earth. A nationwide celebration would probably make them very happy."/>
 	<entry name="GoldenAgeProperties" value="<icon texture='GUI/Bullet'/>+5 <icon texture='Resources/Morale'/> morale in every city for 10 turns upon discovery"/>
