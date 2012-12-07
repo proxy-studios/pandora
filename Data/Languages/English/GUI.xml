@@ -18,16 +18,15 @@
 	<entry name="ConfirmPassword" value="Confirm Password"/>
 	<entry name="Connect" value="Connect"/>
 	<entry name="Continue" value="Continue"/>
+	<entry name="COST" value="<style name='Small' color='Gray'/>%1% cost<style name='Default'/>"/>
 	<entry name="Cities" value="Cities"/>
 	<entry name="Class" value="Class"/>
-	<entry name="COST" value="<style name='Small' color='Gray'/>COST: %1%<style name='Default'/>"/>
 	<entry name="CreateAccount" value="Create Account"/>
 	<entry name="CreateAccountPrompt" value="Please enter the required information:"/>
 	<entry name="Credits" value="Credits"/>
 	<entry name="CreditsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from population<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from other<br/><icon texture='GUI/Bullet'/>%6% from building upkeep"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
 	<entry name="CreditsPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from population<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from other<br/><icon texture='GUI/Bullet'/>%5% from trading pacts<br/><icon texture='GUI/Bullet'/>%6% from building upkeep<br/><icon texture='GUI/Bullet'/>%7% from unit upkeep"/>
-	<entry name="CreditsProductionHint" value="<icon texture='GUI/Bullet'/>Converts 1 <icon texture='Resources/Production'/> production into 2 <icon texture='Resources/Credits'/> credits"/>
 	<entry name="CurrentResearchHint" value="Currently researched technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="Delete" value="Delete"/>
@@ -200,6 +199,8 @@
 	<entry name="Statistics" value="Statistics"/>
 	<entry name="TechnologyCost" value="Cost: %1% <icon texture='Resources/Research'/> research <style name='Small' color='Gray'/>(%2% turns)"/>
 	<entry name="Tip" value="Tip"/>
+	<entry name="TradingGoods" value="Trading Goods"/>
+	<entry name="TradingGoodsHint" value="<icon texture='GUI/Bullet'/>Converts 1 <icon texture='Resources/Production'/> production into 2 <icon texture='Resources/Credits'/> credits"/>
 	<entry name="TradingPact" value="Trading Pact"/>
 	<entry name="Turn" value="Turn"/>
 	<entry name="TURNS" value="<style name='Small' color='Gray'/>%1% turns<style name='Default'/>"/>
