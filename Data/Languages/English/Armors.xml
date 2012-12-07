@@ -18,6 +18,8 @@
 	<entry name="Armor7Description" value="Mantles the wearer or coated machine with a super thin layer of anti-matter that absorbs almost anything on contact.<br/><br/><style oblique='1'/>Only the most advanced and trained troops are able to handle this type of armor: wrong usage can result in dismemberment."/>
 	<entry name="Armor8" value="Xenotronium Armor"/>
 	<entry name="Armor8Description" value="Xenotronium is the most advanced protection ever designed. The armor is self aware and detects incoming threats via energy fluctuation in the environment. Whenever there is an incoming beam or projectile, all the anti-matter absorption capability is focused in pico-seconds to neutralize the threat."/>
+	<entry name="Leviathan" value="Leviathan Armor"/>
+	<entry name="LeviathanDescription" value="..."/>
 	<entry name="None" value="No Armor"/>
 	<entry name="NoneDescription" value="Units without armor have no additional protection and rely on their clothes or hull when hit."/>
 </language>
