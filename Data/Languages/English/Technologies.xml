@@ -89,7 +89,7 @@
 	<entry name="Flak2" value="Sprite Lightning"/>
 	<entry name="Flak2Description" value="Far more potent than electromagnetic pulses, sprite lightnings can hit a wide area in the atmosphere with devastating effects."/>
 	<entry name="Flame0" value="Infernal Pre-Igniter"/>
-	<entry name="Flame0Description" value="New mobile ignition system producing flames with a temperature of over 2000°C, able to melt any kind of flesh."/>
+	<entry name="Flame0Description" value="New mobile ignition system producing flames with a temperature of over 2000 degrees Celsius, able to melt any kind of flesh."/>
 	<entry name="Flame1" value="Chemical Post-Reaction"/>
 	<entry name="Flame1Description" value="Basic, yet memorable, chemistry crash course for the enemy."/>
 	<entry name="Flame2" value="Biohazardous Weaponry"/>
