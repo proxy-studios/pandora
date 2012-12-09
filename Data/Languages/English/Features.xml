@@ -79,13 +79,11 @@
 	<entry name="MineralsBonus2Description" value="Noxium is probably the most valuable mineral in the universe, and incredibly dense deposits have been found in this area."/>
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4"/>
+	<entry name="MoraleBonus0" value="Hot Springs"/>
 	<entry name="Mountains" value="Mountains"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
 	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
-	<entry name="Observatory" value="Observatory"/>
-	<entry name="ObservatoryDescription" value="..."/>
-	<entry name="ObservatoryProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
 	<entry name="Ocean" value="Ocean"/>
 	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous vegetal and animal lifeforms."/>
 	<entry name="OceanProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -96,6 +94,9 @@
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
+	<entry name="ResearchBonus0" value="Observatory"/>
+	<entry name="ResearchBonus0Description" value="..."/>
+	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Construction"/>
 	<entry name="Ruin" value="Ruin"/>
 	<entry name="RuinDescription" value="Remnant of a long-gone civilization, these ruins can host great knowledge, richess... or danger."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
