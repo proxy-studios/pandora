@@ -65,9 +65,9 @@
 	<entry name="Feature" value="Feature"/>
 	<entry name="Features" value="Features"/>
 	<entry name="Food" value="Food"/>
-	<entry name="FoodCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from farmers<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from morale"/>
+	<entry name="FoodCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from farmers<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from buildings"/>
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
-	<entry name="FoodPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from farmers<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from population"/>
+	<entry name="FoodPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from farmers<br/><icon texture='GUI/Bullet'/>%2% from morale<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from population"/>
 	<entry name="Friendly" value="Friendly"/>
 	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="GameLobby" value="Game Lobby"/>
@@ -92,9 +92,9 @@
 	<entry name="MilitaryVictoryDescription" value="Control 75% of Pandora's population to win a military victory."/>
 	<entry name="MilitaryVictoryProgress" value="Military victory progress: %1%%%"/>
 	<entry name="Minerals" value="Minerals"/>
-	<entry name="MineralsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from miners<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from morale"/>
+	<entry name="MineralsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from miners<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from buildings"/>
 	<entry name="MineralsHint" value="Minerals<br/>Sustains production. Without minerals your colonists cannot produce goods."/>
-	<entry name="MineralsPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from miners<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from production"/>
+	<entry name="MineralsPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from miners<br/><icon texture='GUI/Bullet'/>%2% from morale<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from production"/>
 	<entry name="Minimap" value="Minimap"/>
 	<entry name="Month0" value="January"/>
 	<entry name="Month1" value="February"/>
@@ -109,7 +109,7 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="December"/>
 	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% total<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from overpopulation<br/><icon texture='GUI/Bullet'/>%4% from pollution<br/><icon texture='GUI/Bullet'/>%5% from other"/>
+	<entry name="MoraleCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% total<br/><icon texture='GUI/Bullet'/>%2% from terrain<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from overpopulation<br/><icon texture='GUI/Bullet'/>%5% from pollution<br/><icon texture='GUI/Bullet'/>%6% from other"/>
 	<entry name="MoraleHint" value="Morale<br/>Overall population state. Affects the growth rate and all resource gains."/>
 	<entry name="MoralePlayerHint" value="<icon texture='GUI/Bullet'/>%1% from buildings<br/><icon texture='GUI/Bullet'/>%2% from population"/>
 	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
@@ -154,7 +154,7 @@
 	<entry name="Priority3" value="High"/>
 	<entry name="Priority4" value="Maximum"/>
 	<entry name="Production" value="Production"/>
-	<entry name="ProductionCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from workers<br/><icon texture='GUI/Bullet'/>%4% from buildings<br/><icon texture='GUI/Bullet'/>%5% from morale<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from minerals"/>
+	<entry name="ProductionCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from workers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from minerals"/>
 	<entry name="ProductionCostHint" value="Production Cost"/>
 	<entry name="ProductionHint" value="Production<br/>Processes minerals into objects of value."/>
 	<entry name="ProductionOptions" value="Production Options"/>
@@ -175,9 +175,9 @@
 	<entry name="RemotePort" value="Remote Port"/>
 	<entry name="Report" value="Report"/>
 	<entry name="Research" value="Research"/>
-	<entry name="ResearchCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from researchers<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from other"/>
+	<entry name="ResearchCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from terrain<br/><icon texture='GUI/Bullet'/>%3% from researchers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other"/>
 	<entry name="ResearchHint" value="Research<br/>Cumulation of knowledge. Used to discover new technologies."/>
-	<entry name="ResearchPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from researchers<br/><icon texture='GUI/Bullet'/>%2% from buildings<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from other<br/><icon texture='GUI/Bullet'/>%5% from research pacts"/>
+	<entry name="ResearchPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% from researchers<br/><icon texture='GUI/Bullet'/>%2% from morale<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from other<br/><icon texture='GUI/Bullet'/>%5% from research pacts"/>
 	<entry name="ResearchPact" value="Research Pact"/>
 	<entry name="ResearchVictoryDescription" value="Research 75% of all technologies to win a research victory."/>
 	<entry name="ResearchVictoryProgress" value="Research victory progress: %1%%%"/>
