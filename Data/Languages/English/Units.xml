@@ -24,13 +24,13 @@
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Stockpiled with necessities to sustain life for a little while, Colonizers hold the power Humanity hungers for the most - expansion."/>
 	<entry name="ColonizerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Consumes a colonist<br/><icon texture='GUI/Bullet'/>Builds new cities"/>
-	<entry name="Flyer" value="Flyer"/>
+	<entry name="Flyer" value="Sciter"/>
 	<entry name="FlyerDescription" value="..."/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Airborne light biological"/>
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="A powerful, revolutionary machine capable of evolving and even transforming terrain. The future of Humanity and the solution to our resource struggles lies with life-changing apparatus such as this. But as all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Improves terrain"/>
-	<entry name="Giant" value="Giant"/>
+	<entry name="Giant" value="Galeth"/>
 	<entry name="GiantDescription" value="..."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
 	<entry name="Leviathan" value="Leviathan"/>
