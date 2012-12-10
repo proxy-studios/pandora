@@ -14,6 +14,9 @@
 	<entry name="City1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="City2" value="City"/>
 	<entry name="City2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="CreditsBonus0" value="Gold Vein"/>
+	<entry name="CreditsBonus0Description" value="..."/>
+	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="Coast" value="Coast"/>
 	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
 	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -94,6 +97,9 @@
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
+	<entry name="ProductionBonus0" value="Xenite Plantage"/>
+	<entry name="ProductionBonus0Description" value="..."/>
+	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="ResearchBonus0" value="Observatory"/>
 	<entry name="ResearchBonus0Description" value="..."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Construction"/>
