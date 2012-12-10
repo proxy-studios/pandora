@@ -21,9 +21,6 @@
 	<entry name="Bug0" value="Xenomorph Drone"/>
 	<entry name="Bug0Description" value="..."/>
 	<entry name="Bug0Properties" value="<icon texture='GUI/Bullet'/>Light biological"/>
-	<entry name="Bug1" value="Xenomorph Titan"/>
-	<entry name="Bug1Description" value="..."/>
-	<entry name="Bug1Properties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Stockpiled with necessities to sustain life for a little while, Colonizers hold the power Humanity hungers for the most - expansion."/>
 	<entry name="ColonizerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Consumes a colonist<br/><icon texture='GUI/Bullet'/>Builds new cities"/>
@@ -33,6 +30,9 @@
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="A powerful, revolutionary machine capable of evolving and even transforming terrain. The future of Humanity and the solution to our resource struggles lies with life-changing apparatus such as this. But as all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Improves terrain"/>
+	<entry name="Giant" value="Giant"/>
+	<entry name="GiantDescription" value="..."/>
+	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
 	<entry name="Leviathan" value="Leviathan"/>
 	<entry name="LeviathanDescription" value="Little is known about the Leviathan, ruler of the Pandorian Seas. This massive aquatic lifeform is only recognized as a force not to be trifled with, capable of dealing massive damage to the bulkiest water units in an instant, and highly reactive to the vibrations caused by common motorized boats."/>
 	<entry name="LeviathanProperties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
