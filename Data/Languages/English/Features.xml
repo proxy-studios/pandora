@@ -116,6 +116,10 @@
 	<!-- <entry name="Shield" value="Shield"/> -->
 	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
+	<entry name="SeafoodBonus0" value="Fish"/>
+	<entry name="SeafoodBonus0Description" value="..."/>
+	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
+
 	<entry name="Road" value="Road"/>
 	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
 	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>-50% movement cost for units"/>
