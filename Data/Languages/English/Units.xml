@@ -19,22 +19,22 @@
 	<entry name="ATV2Description" value="Its electomagnetically charged armor doesn't only protect this ATV from terrain damage. It also provides it with a reasonable protection against most common weapons, making it a valuable asset as reconnaissance force as well as hit-and-run unit in warfare."/>
 	<entry name="ATV2Properties" value="<icon texture='GUI/Bullet'/>Light mechanical"/>
 	<entry name="Bug0" value="Xenomorph Drone"/>
-	<entry name="Bug0Description" value="..."/>
+	<entry name="Bug0Description" value="Xenomorphs, also called &quot;Bugs&quot; by soldiers and civilians alike, are a dangerous insectoid native species of the planet. With the size of a man and their sheer numbers they can wipe out entire colonies when left unprotected and turn the wilderness of Pandora into a very dangerous place."/>
 	<entry name="Bug0Properties" value="<icon texture='GUI/Bullet'/>Light biological"/>
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Stockpiled with necessities to sustain life for a little while, Colonizers hold the power Humanity hungers for the most - expansion."/>
 	<entry name="ColonizerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Consumes a colonist<br/><icon texture='GUI/Bullet'/>Builds new cities"/>
 	<entry name="Flyer" value="Sciter"/>
-	<entry name="FlyerDescription" value="..."/>
+	<entry name="FlyerDescription" value="These predators of the sky travel large distances each day searching for pray. While smaller objects like us humans are relatively safe, there are several reports from Sciters mercilessly hunting down our large machinery."/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Airborne light biological"/>
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="A powerful, revolutionary machine capable of evolving and even transforming terrain. The future of Humanity and the solution to our resource struggles lies with life-changing apparatus such as this. But as all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical<br/><icon texture='GUI/Bullet'/>Improves terrain"/>
 	<entry name="Giant" value="Galeth"/>
-	<entry name="GiantDescription" value="..."/>
+	<entry name="GiantDescription" value="Fittingly dubbed as &quot;Giants&quot; due to their height of over a dozen meters, these beasts can pulp entire divisions when on a rampage. Their cranium-sting flat out bursts even our strongest armor, so combat should be avoided until we discover the technology required to best these abominations."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
 	<entry name="Leviathan" value="Leviathan"/>
-	<entry name="LeviathanDescription" value="Little is known about the Leviathan, ruler of the Pandorian Seas. This massive aquatic lifeform is only recognized as a force not to be trifled with, capable of dealing massive damage to the bulkiest water units in an instant, and highly reactive to the vibrations caused by common motorized boats."/>
+	<entry name="LeviathanDescription" value="Little is known about the Leviathan, ruler of the Pandorian Seas. This massive aquatic lifeform is only recognized as an insurmountable force, highly reactive to the vibrations caused by motorized watercraft and capable of sinking entire fleets on its own."/>
 	<entry name="LeviathanProperties" value="<icon texture='GUI/Bullet'/>Heavy biological"/>
 	<entry name="Mech0" value="Goliath Mech"/>
 	<entry name="Mech0Description" value="The tank, up to now our heaviest war machine on the ground, is fairly restricted in size due to maneuver limitations in rough terrain. Finally the time has come for a new era of mechanization:<br/><br/>The Goliath is a gigantic humanoid war machine with a total weight of over a hundred thousand tons, wielding unrivaled fire power to engage whole armies. The bipedal movement allows him to excel in rough terrain, and he can equip even the heaviest weapon modules."/>
