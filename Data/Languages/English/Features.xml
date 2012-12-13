@@ -7,13 +7,9 @@
 	<entry name="Blackout" value="Blackout"/>
 	<entry name="BlackoutDescription" value="This area is under complete loss of energy, all communications are halted and production is on hold."/>
 	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Cities produce no resources<br/><icon texture='GUI/Bullet'/>Mechanical units cannot move"/>
-	<entry name="City0" value="City"/>
-	<entry name="City0Description" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
-	<entry name="City0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
-	<entry name="City1" value="City"/>
-	<entry name="City1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
-	<entry name="City2" value="City"/>
-	<entry name="City2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="City" value="City"/>
+	<entry name="CityDescription" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
+	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="CreditsBonus0" value="Gold Vein"/>
 	<entry name="CreditsBonus0Description" value="Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old earth, and just like in our old homeworld, virtually all mineable gold on Pandora's surface has been deposited by meteorites which contained the element. A gold vein drastically increases the credits output of the city that controls the territory."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
@@ -60,13 +56,9 @@
 	<entry name="HillsDescription" value="Characterizes an altitude level between mountains and plains, and provides "/>
 	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1"/>
-	<entry name="Hive0" value="Hive"/>
-	<entry name="Hive0Description" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
-	<entry name="Hive0Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
-	<entry name="Hive1" value="Hive"/>
-	<entry name="Hive1Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
-	<entry name="Hive2" value="Hive"/>
-	<entry name="Hive2Properties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="Hive" value="Hive"/>
+	<entry name="HiveDescription" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Mine" value="Mine"/>
 	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
@@ -108,6 +100,7 @@
 	<entry name="ResearchBonus0" value="Observatory"/>
 	<entry name="ResearchBonus0Description" value="A largely intact observatory constructed with alien technology millenia ago is a marvelous sight and delicacy for our scientists. It greatly boosts the research output of the controlling city not only by allowing its scientists to study an alien sky, but also trying to understand the fundamentals of alien technology."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +25%"/>
 	<entry name="Ruin" value="Ruin"/>
 	<entry name="RuinDescription" value="Remnant of a long-gone civilization, these ruins can host great knowledge, richess... or danger.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
