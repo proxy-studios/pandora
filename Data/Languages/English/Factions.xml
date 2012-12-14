@@ -4,7 +4,7 @@
 	<entry name="Ecologic" value="Terra Salvum"/>
 	<entry name="EcologicLeader" value="Gardinier"/>
 	<entry name="EcologicLeaderTitle" value="Advocate"/>
-	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>-50% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>-50% alien aggression<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Production'/> production"/>
+	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>-25% alien aggression<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Production'/> production"/>
 	<entry name="EcologicTheme" value="Ecologic"/>
 	<entry name="EcologicWelcome" value="You are %1%, leader of the ecologic %2%. Your faction branched off one of the most important environmentalist groups on Earth, where it was once considered as bordering on terrorism. Your acts on Pandora have finally shown everyone, including native intelligent lifeforms, that your people are worthy of respect."/>
 	<entry name="Economic" value="Noxium Corporation"/>

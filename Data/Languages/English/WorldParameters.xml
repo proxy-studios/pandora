@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AlienAggression" value="Alien Aggression"/>
+	<entry name="AlienAggression0" value="Very Low"/>
+	<entry name="AlienAggression1" value="Low"/>
+	<entry name="AlienAggression2" value="Medium"/>
+	<entry name="AlienAggression3" value="High"/>
+	<entry name="AlienAggression4" value="Very High"/>
 	<entry name="Shape" value="Shape"/>
 	<entry name="Shape0" value="Archipelago"/>
 	<entry name="Shape1" value="Continents"/>
