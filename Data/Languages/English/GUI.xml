@@ -220,5 +220,6 @@
 	<entry name="Weapon" value="Weapon"/>
 	<entry name="Weapons" value="Weapons"/>
 	<entry name="Workshop" value="Workshop"/>
+	<entry name="XOutOfY" value="%1% out of %2%"/>
 	<entry name="Year" value="Year %1% AD"/>
 </language>
