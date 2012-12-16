@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
-	<entry name="CityGrown" value="%1% grown."/>
+	<entry name="CityGrown" value="%1% has grown."/>
 	<entry name="CityLost" value="%1% lost."/>
 	<entry name="Discovered" value="%1% discovered."/>
+	<entry name="EnemyDetected" value="Enemy detected."/>
 	<entry name="ImprovementLost" value="%1% lost."/>
 	<entry name="OperationProductionComplete" value="%1% produced %2%."/>
 	<entry name="OutOfCredits" value="Out of <icon texture='Resources/Credits'/> credits."/>
 	<entry name="OutOfFood" value="Out of <icon texture='Resources/Food'/> food."/>
 	<entry name="OutOfMinerals" value="Out of <icon texture='Resources/Minerals'/> minerals."/>
+	<entry name="ResearchComplete" value="%1% researched."/>
+	<entry name="UnitAttacked" value="%1% was attacked."/>
 	<entry name="UnitLost" value="%1% lost."/>
 	<entry name="UnitProductionComplete" value="%1% produced %2%."/>
 </language>

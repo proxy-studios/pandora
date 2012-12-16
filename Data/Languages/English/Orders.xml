@@ -24,7 +24,7 @@
 	<entry name="DisbandHint" value="Disband"/>
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1<br/><icon texture='GUI/Bullet'/>3 turn work duration"/>
-	<entry name="Heal" value="Hold Until Healed"/>
+	<entry name="Heal" value="Heal"/>
 	<entry name="HealHint" value="Heal [E]"/>
 	<entry name="HoldPosition" value="Hold Position"/>
 	<entry name="HoldPositionHint" value="Hold Position [D]"/>
