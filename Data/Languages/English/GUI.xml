@@ -111,7 +111,7 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="December"/>
 	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% total<br/><icon texture='GUI/Bullet'/>%2% from territories<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from overpopulation<br/><icon texture='GUI/Bullet'/>%5% from pollution<br/><icon texture='GUI/Bullet'/>%6% from other"/>
+	<entry name="MoraleCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% total<br/><icon texture='GUI/Bullet'/>%2% from territories<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from overpopulation<br/><icon texture='GUI/Bullet'/>%5% from pollution<br/><icon texture='GUI/Bullet'/>%6% from taxes<br/><icon texture='GUI/Bullet'/>%7% from other"/>
 	<entry name="MoraleHint" value="Morale<br/>Overall population state. Affects the growth rate and all resource gains."/>
 	<entry name="MoralePlayerHint" value="<icon texture='GUI/Bullet'/>%1% from buildings<br/><icon texture='GUI/Bullet'/>%2% from population"/>
 	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
