@@ -76,7 +76,7 @@
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4"/>
 	<entry name="MoraleBonus0" value="Hot Springs"/>
-	<entry name="MoraleBonus0Description" value="Our colonists have learned to greatly enjoy the steaming baths of hot springs, granting them some distance from the daily burderns of a colonist and time to refill their spirit."/>
+	<entry name="MoraleBonus0Description" value="Our colonists have learned to greatly enjoy the steaming baths of hot springs, granting them some distance from the daily burderns of colonial life and time to refill their spirit."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
 	<entry name="Mountains" value="Mountains"/>
