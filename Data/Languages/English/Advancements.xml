@@ -5,7 +5,7 @@
 	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>-50% alien invader aggression"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
 	<entry name="AssaultDescription" value="Devised by tactics and logistics experts, operation Valkyrie is the codename for a large scale reconnaissance operation followed by orbital troop deployment. The intended purpose is a swift and powerful strike behind the enemy lines that can decide the outcome of an entire campaign."/>
-	<entry name="AssaultProperties" value="<icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/ScanIcon' width='16' height='16'/> satellite scans upon discovery<br/><icon texture='GUI/Bullet'/>Provides <icon texture='Operations/DropPodIcon' width='16' height='16'/> drop pod upon discovery"/>
+	<entry name="AssaultProperties" value="<icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/ScanIcon' height='16'/> satellite scans upon discovery<br/><icon texture='GUI/Bullet'/>Provides <icon texture='Operations/DropPodIcon' height='16'/> drop pod upon discovery"/>
 	<entry name="Colonization" value="Colonization Fervor"/>
 	<entry name="ColonizationDescription" value="The rush for territorial domination on Pandora is an uphill battle. All of our colonists are dedicated to making us king of the hill, which should give us a headstart in colonization."/>
 	<entry name="ColonizationProperties" value="<icon texture='GUI/Bullet'/>Provides a colonizer in your largest city upon discovery"/>
@@ -26,7 +26,7 @@
 	<entry name="GoldenAgeProperties" value="<icon texture='GUI/Bullet'/>+5 <icon texture='Resources/Morale'/> morale in every city for 10 turns upon discovery"/>
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="The strategy and tactics of guerrilla warfare tend to focus around the use of a small, mobile force competing against a larger, more unwieldy one. Tactics such as ambushes, sabotage, raids, the element of surprise, and extraordinary mobility are used to harass a larger and less-mobile traditional army, or strike a vulnerable target and withdraw almost immediately.<br/><br/><style oblique='1'/>&quot;The conventional army loses if it does not win. The guerrilla wins if he does not lose.&quot;<br/>    -- Henry Kissinger"/>
-	<entry name="GuerrillaProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light units in forests or mountains"/>
+	<entry name="GuerrillaProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units in forests or mountains"/>
 	<entry name="Movement" value="Advanced Time Dilation"/>
 	<entry name="MovementDescription" value="Time had always been overlooked as only a matter of perception. Time compression and dilation is now a full-fledged research field and the first results are encouraging, allowing us to move further in much less time. It will probably take centuries to fully master the manipulation of this very peculiar dimension, but it already grants us better movement for the time being."/>
 	<entry name="MovementProperties" value="<icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Sight'/> movement"/>	
