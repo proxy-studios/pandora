@@ -115,7 +115,7 @@
 	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
 	<entry name="SeafoodBonus0" value="Fish"/>
-	<entry name="SeafoodBonus0Description" value="..."/>
+	<entry name="SeafoodBonus0Description" value="The sea in this area has shown to be home to numerous edible lifeforms, which would greatly facilitate sustainment of nearby cities."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="Road" value="Road"/>
 	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
