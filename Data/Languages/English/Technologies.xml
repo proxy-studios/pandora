@@ -114,6 +114,8 @@
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
 	<entry name="Laser2" value="Graviton Particles"/>
 	<entry name="Laser2Description" value="The discovery of graviton particles along with their utilization in beam weapons."/>
+	<entry name="LeviathanArmor" value="Leviathan Armor"/>
+	<entry name="LeviathanArmorDescription" value="..."/>
 	<entry name="Mech0" value="Humanoid War Machines"/>
 	<entry name="Mech0Description" value="Gigantic war machines that dominate the battle field."/>
 	<entry name="Mech1" value="Adamantium Hull"/>
