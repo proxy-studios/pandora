@@ -22,6 +22,7 @@
 	<entry name="COST" value="<style name='Small' color='Gray'/>%1% cost<style name='Default'/>"/>
 	<entry name="Cities" value="Cities"/>
 	<entry name="Class" value="Class"/>
+	<entry name="ContactPlayer" value="Click to contact %1%."/>
 	<entry name="CreateAccount" value="Create Account"/>
 	<entry name="CreateAccountPrompt" value="Please enter the required information:"/>
 	<entry name="Credits" value="Credits"/>
