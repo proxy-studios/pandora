@@ -26,7 +26,7 @@
 	<entry name="FarmDescription" value="With the advent of industrialization, huge areas can be used for agricuture, providing vast amounts of raw materials for food processing facilities."/>
 	<entry name="FarmProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
 	<entry name="FarmStats" value="<icon texture='Resources/Food'/> +1"/>
-	<entry name="FoodBonus0" value="Natural Plantage"/>
+	<entry name="FoodBonus0" value="Natural Plantation"/>
 	<entry name="FoodBonus0Description" value="Rich soil and ideal relief and sun exposure help obtain generous harvests in this area."/>
 	<entry name="FoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="FoodBonus0Stats" value="<icon texture='Resources/Food'/> +2"/>
@@ -93,7 +93,7 @@
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
-	<entry name="ProductionBonus0" value="Xenite Plantage"/>
+	<entry name="ProductionBonus0" value="Xenite Flowers"/>
 	<entry name="ProductionBonus0Description" value="Xenite is a wondrous plant that, when administered as a drug, allows the human body to enter a state of trance resistant to exhaustion and numb to pain. While a person's raw working capacity is significantly increased, even a slight overdose results in instant cardiac arrest -- thus requiring a continuous monitoring of the subject."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="ProductionBonus0Stats" value="<icon texture='Resources/Production'/> +25%"/>
