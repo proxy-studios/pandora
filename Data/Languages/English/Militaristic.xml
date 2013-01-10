@@ -5,16 +5,24 @@
  	%1% with faction leader title, e.g. "Lady".
  	%2% with faction leader name, e.g. "Vermillion".
  	%3% with faction leader title and name, e.g. "Lady Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
 -->
 <language>
 	<entry name="AllianceAccepted" value="&quot;Yes! With our forces combined, there will be no one to dare challenge us.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Do not take it the wrong way, %2%, but not right now. Thanks.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;&quot;"/>
+	<entry name="Compliment0" value=""/>
+	<entry name="Compliment1" value=""/>
+	<entry name="Compliment2" value=""/>
 	<entry name="DeclareWar" value="&quot;Alright, the time has come. From here on out it's total war.&quot;"/>
 	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;"/>
 	<entry name="Greet2" value="&quot;Greetings, comrade %2%! How can I help you out?&quot;"/>
+	<entry name="Insult0" value=""/>
+	<entry name="Insult1" value=""/>
+	<entry name="Insult2" value=""/>
 	<entry name="NonAggressionPactAccepted" value="&quot;Good choice. There is enough warmongering to be done elsewhere.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;Nah, I prefer my soldiers to be on edge. Makes them harder. Stronger.&quot;"/>
 	<entry name="NonAggressionPactTerminated" value="&quot;To be frank, I considered this option myself already. Time for some troop exercises at the borders.&quot;"/>

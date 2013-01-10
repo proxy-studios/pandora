@@ -5,16 +5,24 @@
  	%1% with faction leader title, e.g. "Lady".
  	%2% with faction leader name, e.g. "Vermillion".
  	%3% with faction leader title and name, e.g. "Lady Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
 -->
 <language>
 	<entry name="AllianceAccepted" value="&quot;Glady do we accept, my dear friend! Let us rule this world together in the name of God.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Your offer honors us, but we do not think it would be a wise choice at this point in time.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;So be it. Leave it to the Lord to sort the chaff from the wheat.&quot;"/>
+	<entry name="Compliment0" value=""/>
+	<entry name="Compliment1" value=""/>
+	<entry name="Compliment2" value=""/>
 	<entry name="DeclareWar" value="&quot;We have been on each other's toes long enough!&quot;"/>
 	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;You better come here to beg for forgiveness, sinner.&quot;"/>
 	<entry name="Greet1" value="&quot;Speak freely but true, %3%. God is always watching.&quot;"/>
 	<entry name="Greet2" value="&quot;Welcome, my dear friend! How may I be of service?&quot;"/>
+	<entry name="Insult0" value=""/>
+	<entry name="Insult1" value=""/>
+	<entry name="Insult2" value=""/>
 	<entry name="NonAggressionPactAccepted" value="&quot;So be it. May our factions prosper in the years of peace to come.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;You might not like to hear this, my dear %1%, but we are not interested.&quot;"/>
 	<entry name="NonAggressionPactTerminated" value="&quot;The termination of a non-aggression pact has well-known implications. We will remember this, %2%. The holy warriors stand prepared.&quot;"/>

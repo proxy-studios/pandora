@@ -39,8 +39,8 @@
 	<entry name="DetailedStanding0" value="Furious"/>
 	<entry name="DetailedStanding1" value="Angry"/>
 	<entry name="DetailedStanding2" value="Reserved"/>
-	<entry name="DetailedStanding3" value="Neutral"/>
-	<entry name="DetailedStanding4" value="Polite"/>
+	<entry name="DetailedStanding3" value="Polite"/>
+	<entry name="DetailedStanding4" value="Cooperative"/>
 	<entry name="DetailedStanding5" value="Friendly"/>
 	<entry name="DetailedStanding6" value="Generous"/>
 	<entry name="Dialogue" value="Dialogue"/>
