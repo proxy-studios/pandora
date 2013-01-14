@@ -15,7 +15,6 @@
 	<entry name="ChooseProductionHint" value="Choose which item you would like to produce [Space]."/>
 	<entry name="ChooseResearch" value="Choose Research"/>
 	<entry name="ChooseResearchHint" value="Choose your research focus [Space]."/>
-	<entry name="Colonists" value="Colonists"/>
 	<entry name="ConfirmPassword" value="Confirm Password"/>
 	<entry name="Connect" value="Connect"/>
 	<entry name="Continue" value="Continue"/>
@@ -152,6 +151,7 @@
 	<entry name="Population" value="Population"/>
 	<entry name="PopulationCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% of %2% total<br/><icon texture='GUI/Bullet'/>%3% farmers<br/><icon texture='GUI/Bullet'/>%4% miners<br/><icon texture='GUI/Bullet'/>%5% workers<br/><icon texture='GUI/Bullet'/>%6% researchers"/>
 	<entry name="PopulationHint" value="Population<br/>Assigned to tasks."/>
+	<entry name="PopulationXOutOfY" value="Population (%1% / %2%)"/>
 	<entry name="PowerHint" value="Power<br/>Indicates the base attacking and defending strength. Power proportionally lowers with missing health."/>
 	<entry name="Production" value="Production"/>
 	<entry name="ProductionCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from workers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from territories<br/><icon texture='GUI/Bullet'/>%6% from buildings<br/><icon texture='GUI/Bullet'/>%7% from other<br/><icon texture='GUI/Bullet'/>%8% from minerals"/>
