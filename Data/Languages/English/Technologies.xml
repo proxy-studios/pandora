@@ -155,7 +155,7 @@
 	<entry name="Pollution2" value="Artificial Atmosphere"/>
 	<entry name="Pollution2Description" value="Create a wholly new atmosphere from existing data."/>
 	<entry name="Population" value="Advanced City Planning"/>
-	<entry name="PopulationDescription" value="Optimize space occupation and population growth in your colonies."/>
+	<entry name="PopulationDescription" value="Optimize space occupation in your colonies."/>
 	<entry name="Population0" value="Wendo Housing Design"/>
 	<entry name="Population0Description" value="Efficient and modular housing system."/>
 	<entry name="Population1" value="Podkletnov Field"/>
