@@ -58,7 +58,7 @@
 	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="Hive" value="Hive"/>
 	<entry name="HiveDescription" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
-	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Mine" value="Mine"/>
 	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
@@ -99,11 +99,11 @@
 	<entry name="ProductionBonus0Stats" value="<icon texture='Resources/Production'/> +25%"/>
 	<entry name="ResearchBonus0" value="Observatory"/>
 	<entry name="ResearchBonus0Description" value="A largely intact observatory constructed with alien technology millenia ago is a marvelous sight and delicacy for our scientists. It greatly boosts the research output of the controlling city not only by allowing its scientists to study an alien sky, but also trying to understand the fundamentals of alien technology."/>
-	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
 	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +25%"/>
 	<entry name="Ruin" value="Ruin"/>
-	<entry name="RuinDescription" value="Remnant of a long-gone civilization, these ruins can host great knowledge, richess... or danger.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
-	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="RuinDescription" value="Remnant of a long-gone alien civilization, these ruins can host great knowledge, richess... or danger.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
+	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
 	<entry name="Savanna" value="Savanna"/>
 	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with wide plains they are a candidate for agriculture."/>
 	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
