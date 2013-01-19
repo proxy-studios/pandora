@@ -25,4 +25,21 @@
 	<entry name="UnitDamageReward" value="<icon texture='GUI/Bullet'/> Taken <style color='Red'/>%1$.2f<style color='Default'/> unit damage."/>
 	<entry name="UnitRankReward" value="<icon texture='GUI/Bullet'/> Gained %1$.0f <icon texture='Attributes/Rank'/> unit rank."/>
 	<entry name="Welcome" value="Welcome to Pandora,<br/>%1%!"/>
+	
+<!-- Not yet used. Atmospheric reports. They should show up when a turn starts even if they trigger based on your actions. They represent the past months. -->
+	<entry name="PlanetTurnsHostile" value="Planetary life has been identified as hostile and dangerous. They seem to view us as a threat."/>
+	<entry name="Alliance" value="..."/>
+	<entry name="War" value="..."/>
+	<entry name="Growth" value="..."/>
+	<entry name="CityCaptured" value="..."/>
+	
+	<!-- 1/3 progress to invasion --><entry name="Invasion0" value="Ruins of an old civilization can be found throughout the surface. Who were they? What happened to them?"/>
+	<!-- 2/3 progress to invasion --><entry name="Invasion1" value="The alien ruins seem to be emitting some sort of signal."/>
+	<!-- 3/3 progress to invasion --><entry name="Invasion2" value="They came from the skies. An invasion without warning."/>
+	<!-- 1/3 invasion cleared --><entry name="Invasion3" value="They call themselves The Skorg. Beings fused with machinery. Their technology is far superior to ours. All our communication attempts have been ignored and they continue attacking us at all fronts. We must unite as a species if we are to drive them back and preserve Humanity."/>
+	<!-- 2/3 invasion cleared --><entry name="Invasion4" value="We have retrieved some information from a captured Skorg. All data suggests that they view us as a petty species. They have been roaming from world to world only to consume them of all resources and move on. At this rate, Pandora will be ruined even if we are victorious."/>
+	<!-- 3/3 invasion cleared --><entry name="Invasion5" value="Finally, the Skorg invasion appears to have stopped. We have shown them Humans are not to be underestimated. Pandora, however, is in state of decay and we must be wary to not repeat Earth's history."/>
+	
+	<entry name="MechanizationEra" value="<style oblique='1'/>&quot;Welcome to Central Industrial. We are the future.&quot;"/>
+	<entry name="TranscendenceEra" value=""/>
 </language>
