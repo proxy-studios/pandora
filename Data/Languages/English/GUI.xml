@@ -210,7 +210,7 @@
 	<entry name="TradingPact" value="Trading Pact"/>
 	<entry name="Turn" value="Turn"/>
 	<entry name="TURNS" value="<style name='Small' color='Gray'/>%1% turns<style name='Default'/>"/>
-	<entry name="(TURNS)" value="<style name='Small' color='Gray'/>(%1% turns)<style name='Default'/>"/>
+	<entry name="(TURNS)" value="<style name='Small' color='Gray'/>(%1% turns<style name='Small' color='Gray'/>)<style name='Default'/>"/>
 	<entry name="UnitWorkshop" value="Unit Workshop"/>
 	<entry name="Unit" value="Unit"/>
 	<entry name="Units" value="Units"/>
