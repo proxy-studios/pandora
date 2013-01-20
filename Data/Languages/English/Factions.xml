@@ -38,7 +38,7 @@
 	<entry name="Scientific" value="Scholars of Eden"/>
 	<entry name="ScientificLeader" value="Schreiber"/>
 	<entry name="ScientificLeaderTitle" value="Doctor"/>
-	<entry name="ScientificProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> research"/>
+	<entry name="ScientificProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Research'/> research<br/><icon texture='GUI/Bullet'/>-2 <icon texture='Resources/Morale'/> morale"/>
 	<entry name="ScientificTheme" value="Scientific"/>
 	<entry name="ScientificWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect and academic virtues, highly respecting personal freedom. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity and are among the brightest in the known universe."/>
 </language>
