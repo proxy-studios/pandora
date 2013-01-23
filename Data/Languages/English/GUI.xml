@@ -72,6 +72,7 @@
 	<entry name="FoodColonists" value="Farmers"/>
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
 	<entry name="FoodPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from farmers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from population"/>
+	<entry name="ForceEndTurnHint" value="Force end your turn [Ctrl + Space]."/>
 	<entry name="Friendly" value="Friendly"/>
 	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="GameLobby" value="Game Lobby"/>
@@ -134,8 +135,8 @@
 	<entry name="OK" value="OK"/>
 	<entry name="Operation" value="Operation"/>
 	<entry name="Operations" value="Operations"/>
-	<entry name="OrderUnit" value="Order Unit"/>
-	<entry name="OrderUnitHint" value="Choose order for idle unit."/>
+	<entry name="OrderUnits" value="Order Units (%1%)"/>
+	<entry name="OrderUnitsHint" value="Choose order for idle unit."/>
 	<entry name="Other" value="Other"/>
 	<entry name="Overwrite" value="Overwrite"/>
 	<entry name="OverwriteSavedGameTitle" value="Overwrite Saved Game"/>
@@ -220,6 +221,5 @@
 	<entry name="Weapon" value="Weapon"/>
 	<entry name="Weapons" value="Weapons"/>
 	<entry name="Workshop" value="Workshop"/>
-	<entry name="XOutOfY" value="%1% / %2%"/>
 	<entry name="Year" value="Year %1% AD"/>
 </language>
