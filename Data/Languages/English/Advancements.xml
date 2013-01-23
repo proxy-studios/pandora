@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Alien" value="Xenology"/>
-	<entry name="AlienDescription" value="Detention, examination and dissection of Xenomorphs, as well as behavioral neuroscience and genetic research leads us to a better comprehension of the enemy, and thus to be better prepared to fight and overcome the threat they represent."/>
-	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>-50% alien invader aggression"/>
+	<entry name="AlienDescription" value="Detention, examination and dissection of alien races, as well as behavioral neuroscience and genetic research leads us to a better comprehension of the enemy, and thus to be better prepared to fight and overcome the threat they represent."/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>-50% alien aggression"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
 	<entry name="AssaultDescription" value="Devised by tactics and logistics experts, operation Valkyrie is the codename for a large scale reconnaissance operation followed by orbital troop deployment. The intended purpose is a swift and powerful strike behind the enemy lines that can decide the outcome of an entire campaign."/>
 	<entry name="AssaultProperties" value="<icon texture='GUI/Bullet'/>Provides 3 <icon texture='Operations/ScanIcon' height='16'/> satellite scans upon discovery<br/><icon texture='GUI/Bullet'/>Provides 1 <icon texture='Operations/DropPodIcon' height='16'/> drop pod upon discovery"/>
@@ -14,7 +14,7 @@
 	<entry name="CreditsProperties" value="<icon texture='GUI/Bullet'/>-10% <icon texture='Resources/Credits'/> credits purchase cost"/>
 	<entry name="Defense" value="Command Nexus"/>
 	<entry name="DefenseDescription" value="Establishing a centralized command center is a risky move, as destruction of the headquarters would be disastrous, but it has its rewards, as it helps dispatch the much needed information instantaneously and can provide backup in case it is ever needed."/>
-	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for units inside your borders"/>
+	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/>+10% <icon texture='Attributes/Power'/> power for units inside your borders"/>
 	<entry name="Diplomacy" value="Planetary Council"/>
 	<entry name="DiplomacyDescription" value="The establishment of a worldwide diplomatic organization to facilitate cooperation and negotiation between all factions will most likely boost our reputation and standing among all races."/>
 	<entry name="DiplomacyProperties" value="<icon texture='GUI/Bullet'/>Increases standings with every faction upon discovery"/>
