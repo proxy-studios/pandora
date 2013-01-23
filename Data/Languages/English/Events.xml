@@ -10,6 +10,7 @@
 	<entry name="OutOfCredits" value="Out of <icon texture='Resources/Credits'/> credits."/>
 	<entry name="OutOfFood" value="Out of <icon texture='Resources/Food'/> food."/>
 	<entry name="OutOfMinerals" value="Out of <icon texture='Resources/Minerals'/> minerals."/>
+	<entry name="PlayerEliminated" value="%1% eliminated."/>
 	<entry name="ResearchComplete" value="%1% researched."/>
 	<entry name="UnitAttacked" value="%1% was attacked."/>
 	<entry name="UnitLost" value="%1% lost."/>

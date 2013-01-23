@@ -51,6 +51,7 @@
 	<entry name="Economy" value="Economy"/>
 	<entry name="EconomyVictoryDescription" value="Accumulate enough credits to purchase 75% of other players' economies to win an economic victory."/>
 	<entry name="EconomyVictoryProgress" value="Economic victory progress: %1%%%"/>
+	<entry name="Eliminated" value="Eliminated"/>
 	<entry name="Email" value="Email"/>
 	<entry name="EndGame" value="End Game"/>
 	<entry name="EndGameHint" value="End the game and return to the main menu."/>
