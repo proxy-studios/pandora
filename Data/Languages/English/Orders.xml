@@ -21,11 +21,11 @@
 	<entry name="Deploy" value="Deploy"/>
 	<entry name="DeployHint" value="Deploy"/>
 	<entry name="Disband" value="Disband"/>
-	<entry name="DisbandHint" value="Disband"/>
+	<entry name="DisbandHint" value="Disband [Delete]<br/><style name='Small'/><icon texture='GUI/Bullet'/>20%% of unit's <icon texture='Resources/Credits'/> credits cost received if disbanded in allied territory<br/><icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Credits'/> credits received if disbanded here"/>
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1<br/><icon texture='GUI/Bullet'/>3 turn work duration"/>
 	<entry name="Heal" value="Heal"/>
-	<entry name="HealHint" value="Heal [E]"/>
+	<entry name="HealHint" value="Heal [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Hold position until healed"/>
 	<entry name="HoldPosition" value="Hold Position"/>
 	<entry name="HoldPositionHint" value="Hold Position [D]"/>
 	<entry name="Idle" value="Idle"/>
@@ -34,5 +34,5 @@
 	<entry name="Pillage" value="Pillage"/>
 	<entry name="PillageHint" value="Pillage<br/><style name='Small'/><icon texture='GUI/Bullet'/>Destroys territory improvement"/>
 	<entry name="Skip" value="Skip"/>
-	<entry name="SkipHint" value="Skip [S]"/>
+	<entry name="SkipHint" value="Skip [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Skip this turn"/>
 </language>
