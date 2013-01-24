@@ -20,9 +20,9 @@
 	<entry name="RuinExploredMineralsReward" value="Scavenging through an old ruin left behind by a race long forgotten, your troops discover a large chunk of minerals in a derelict storage facility."/>
 	<entry name="RuinExploredPolluteReward" value="While exploring an ancient ruin, your troops accidently release an alien contaminant that is deadly for the planet's flora and fauna."/>
 	<entry name="RuinExploredResearchReward" value="After analyzing mysterious scriptures on the surfaces of an ancient ruin, your scientists are able to incorporate it into their work."/>
-	<entry name="RuinExploredUnitReward" value="..."/>
+	<entry name="RuinExploredUnitReward" value="While exploring an ancient ruin, your troops discover a pack of xenomorph drones which were separated from the their collective mind, thus being domesticable."/>
 	<entry name="RuinExploredUnitDamageReward" value="While exploring an ancient ruin, your troops accidently trigger an explosive trap most likely put in place to protect against alien wildlife."/>
-	<entry name="RuinExploredUnitRankReward" value="While exploring an ancient ruin, your troops show tactical fortitude by dispatching a lair of man-sized alien leeches without suffering casualties."/>
+	<entry name="RuinExploredUnitRankReward" value="While exploring an ancient ruin, your troops show outstanding tactical fortitude by dispatching a lair of man-sized alien leeches without suffering any casualties."/>
 	<entry name="UnitReward" value="<icon texture='GUI/Bullet'/> Gained %1% <icon texture='Units/BugIcon' height='16'/> Xenomorph Drone."/>
 	<entry name="UnitDamageReward" value="<icon texture='GUI/Bullet'/> Taken <style color='Red'/>%1$.2f<style color='Default'/> unit damage."/>
 	<entry name="UnitRankReward" value="<icon texture='GUI/Bullet'/> Gained %1$.0f <icon texture='Attributes/Rank'/> unit rank."/>
