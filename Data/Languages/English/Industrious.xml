@@ -16,6 +16,7 @@
 	<entry name="Compliment1" value=""/>
 	<entry name="Compliment2" value=""/>
 	<entry name="DeclareWar" value="&quot;I will teach you a lesson about the art of war.&quot; (declares war)"/>
+	<!-- TODO --> <entry name="Eliminated" value="&quot;We shall meet again.&quot;"/>
 	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, treacherous %2%?&quot;"/>
 	<entry name="Greet1" value="&quot;I greet you, %3%, under this alien sky. How will our destinies unfold?&quot;"/>

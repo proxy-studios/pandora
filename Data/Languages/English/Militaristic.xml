@@ -16,6 +16,7 @@
 	<entry name="Compliment1" value=""/>
 	<entry name="Compliment2" value=""/>
 	<entry name="DeclareWar" value="&quot;Alright, the time has come. From here on out it's total war.&quot;"/>
+	<!-- TODO --> <entry name="Eliminated" value="&quot;We shall meet again.&quot;"/>
 	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
 	<entry name="Greet0" value="&quot;What do you want, %2%? I have better things to do than talk to the likes of you.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%! Though I am busy devising new strategies, there is always some time for you.&quot;"/>
