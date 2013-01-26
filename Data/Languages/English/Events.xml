@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AllianceEntered" value="%1% formed alliance with %2%."/>
+	<entry name="AllianceTerminated" value="%1% terminated alliance with %2%."/>
 	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
 	<entry name="CityGrown" value="%1% has grown."/>
 	<entry name="CityLost" value="%1% lost."/>
 	<entry name="Discovered" value="%1% discovered."/>
 	<entry name="EnemyDetected" value="Enemy detected."/>
 	<entry name="ImprovementLost" value="%1% lost."/>
+	<entry name="NonAggressionEntered" value="%1% signed non aggression pact with %2%."/>
+	<entry name="NonAggressionTerminated" value="%1% terminated non aggression pact with %2%."/>
 	<entry name="OperationProductionComplete" value="%1% produced %2%."/>
 	<entry name="OutOfCredits" value="Out of <icon texture='Resources/Credits'/> credits."/>
 	<entry name="OutOfFood" value="Out of <icon texture='Resources/Food'/> food."/>
 	<entry name="OutOfMinerals" value="Out of <icon texture='Resources/Minerals'/> minerals."/>
+	<entry name="PeaceEntered" value="%1% signed peace with %2%."/>
 	<entry name="PlayerEliminated" value="%1% eliminated."/>
 	<entry name="ResearchComplete" value="%1% researched."/>
 	<entry name="UnitAttacked" value="%1% was attacked."/>
 	<entry name="UnitLost" value="%1% lost."/>
 	<entry name="UnitProductionComplete" value="%1% produced %2%."/>
+	<entry name="WarEntered" value="%1% declared war on %2%."/>
 </language>
