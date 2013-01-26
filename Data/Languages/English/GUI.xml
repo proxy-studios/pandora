@@ -27,7 +27,6 @@
 	<entry name="Credits" value="Credits"/>
 	<entry name="CreditsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from population<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from territories<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from building upkeep"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
-	<entry name="CreditsPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from population<br/><icon texture='GUI/Bullet'/>%4% from population<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from trading pacts<br/><icon texture='GUI/Bullet'/>%8% from building upkeep<br/><icon texture='GUI/Bullet'/>%9% from unit upkeep"/>
 	<entry name="CurrentResearchHint" value="Currently researched technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="Delete" value="Delete"/>
@@ -72,7 +71,6 @@
 	<entry name="FoodCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from farmers<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from buildings"/>
 	<entry name="FoodColonists" value="Farmers"/>
 	<entry name="FoodHint" value="Food<br/>Sustains population. Without food your colonists will starve and die."/>
-	<entry name="FoodPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from farmers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from population"/>
 	<entry name="ForceEndTurnHint" value="Force end your turn [Ctrl + Space]."/>
 	<entry name="Friendly" value="Friendly"/>
 	<entry name="GameBrowser" value="Game Browser"/>
@@ -101,7 +99,6 @@
 	<entry name="MineralsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from miners<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from buildings"/>
 	<entry name="MineralsColonists" value="Miners"/>
 	<entry name="MineralsHint" value="Minerals<br/>Sustains production. Without minerals your colonists cannot produce goods."/>
-	<entry name="MineralsPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from miners<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from production"/>
 	<entry name="Minimap" value="Minimap"/>
 	<entry name="Month0" value="January"/>
 	<entry name="Month1" value="February"/>
@@ -118,7 +115,6 @@
 	<entry name="Morale" value="Morale"/>
 	<entry name="MoraleCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% total<br/><icon texture='GUI/Bullet'/>%2% from territories<br/><icon texture='GUI/Bullet'/>%3% from buildings<br/><icon texture='GUI/Bullet'/>%4% from overpopulation<br/><icon texture='GUI/Bullet'/>%5% from pollution<br/><icon texture='GUI/Bullet'/>%6% from taxes<br/><icon texture='GUI/Bullet'/>%7% from other"/>
 	<entry name="MoraleHint" value="Morale<br/>Overall population state. Affects the growth rate and all resource gains."/>
-	<entry name="MoralePlayerHint" value="<icon texture='GUI/Bullet'/>%1% from buildings<br/><icon texture='GUI/Bullet'/>%2% from population"/>
 	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
 	<entry name="Multiplayer" value="Multiplayer"/>
 	<entry name="Name" value="Name"/>
@@ -181,11 +177,25 @@
 	<entry name="ResearchCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from researchers<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from territories<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other"/>
 	<entry name="ResearchColonists" value="Researchers"/>
 	<entry name="ResearchHint" value="Research<br/>Cumulation of knowledge. Used to discover new technologies."/>
-	<entry name="ResearchPlayerHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% accumulated<br/><br/><icon texture='GUI/Bullet'/>%2% per turn<br/><icon texture='GUI/Bullet'/>%3% from researchers<br/><icon texture='GUI/Bullet'/>%4% from morale<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from research pacts"/>
 	<entry name="ResearchPact" value="Research Pact"/>
 	<entry name="ResearchVictoryDescription" value="Research 75% of all technologies to win a research victory."/>
 	<entry name="ResearchVictoryProgress" value="Research victory progress: %1%%%"/>
 	<entry name="ResetPassword" value="Reset Password"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulated"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% per turn"/>
+	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% from building upkeep"/>
+	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% from buildings"/>
+	<entry name="ResourcePerTurnFromFarmers" value="<icon texture='GUI/Bullet'/>%1% from farmers"/>
+	<entry name="ResourcePerTurnFromMiners" value="<icon texture='GUI/Bullet'/>%1% from miners"/>
+	<entry name="ResourcePerTurnFromMorale" value="<icon texture='GUI/Bullet'/>%1% from morale"/>
+	<entry name="ResourcePerTurnFromOther" value="<icon texture='GUI/Bullet'/>%1% from other"/>
+	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% from population"/>
+	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% from production"/>
+	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% from researchers"/>
+	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% from research pacts"/>
+	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% from territories"/>
+	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% from trading pacts"/>
+	<entry name="ResourcePerTurnFromUnitUpkeep" value="<icon texture='GUI/Bullet'/>%1% from unit upkeep"/>	
 	<entry name="Return" value="Return"/>
 	<entry name="ReturnToMap" value="Return to Map"/>
 	<entry name="Save" value="Save"/>
