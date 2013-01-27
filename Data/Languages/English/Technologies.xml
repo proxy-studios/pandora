@@ -23,7 +23,7 @@
 	<entry name="Armor3" value="Gauss Optimization"/>
 	<entry name="Armor3Description" value="A new formula that allows us to analyze and optimize armor on a molecular level."/>
 	<entry name="Armor4" value="Adamantium Processing"/>
-	<entry name="Armor4Description" value="The techniques required to process adamantium, a very heavy and resistant material found deep below the planetary surface that is highly suited for armors."/>
+	<entry name="Armor4Description" value="The techniques required to process adamantium, a heavy, resistant material suitable for armors."/>
 	<entry name="Armor5" value="Silksteel Alloy"/>
 	<entry name="Armor5Description" value="An alloy for armors that is ultra light but extremely robust."/>
 	<entry name="Armor6" value="Neutron Roaming"/>
