@@ -7,6 +7,8 @@
 	<entry name="CityLost" value="%1% lost."/>
 	<entry name="Discovered" value="%1% discovered."/>
 	<entry name="EnemyDetected" value="Enemy detected."/>
+	<entry name="Era1Entered" value="%1% entered the Mechanization Era."/>
+	<entry name="Era2Entered" value="%1% entered the Transcendence Era."/>
 	<entry name="ImprovementLost" value="%1% lost."/>
 	<entry name="NonAggressionEntered" value="%1% signed non aggression pact with %2%."/>
 	<entry name="NonAggressionTerminated" value="%1% terminated non aggression pact with %2%."/>

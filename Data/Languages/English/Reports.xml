@@ -58,6 +58,6 @@
 	<!-- 2/3 invasion cleared --><entry name="Invasion4" value="We have retrieved some information from a captured Skorg. All data suggests that they view us as a petty species. They have been roaming from world to world only to consume them of all resources and move on. At this rate, Pandora will be ruined even if we are victorious."/>
 	<!-- 3/3 invasion cleared --><entry name="Invasion5" value="Finally, the Skorg invasion appears to have stopped. We have shown them Humans are not to be underestimated. Pandora, however, is in state of decay and we must be wary to not repeat Earth's history."/>
 	
-	<entry name="MechanizationEra" value="<style oblique='1'/>&quot;Welcome to Central Industrial. We are the future.&quot;"/>
-	<entry name="TranscendenceEra" value=""/>
+	<entry name="Era1Entered" value="<style name='Heading'/>Mechanization Era<style name='Default'/><br/><br/><style oblique='1'/>&quot;Welcome to Central Industrial. We are the future.&quot;"/>
+	<entry name="Era2Entered" value="<style name='Heading'/>Transcendence Era<style name='Default'/><br/><br/>"/>
 </language>
