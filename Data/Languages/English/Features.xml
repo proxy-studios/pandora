@@ -102,7 +102,7 @@
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
 	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +25%"/>
 	<entry name="Ruin" value="Ruin"/>
-	<entry name="RuinDescription" value="Remnant of a long-gone alien civilization, these ruins can host great knowledge, richess... or danger.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
+	<entry name="RuinDescription" value="Remnant of a long-gone alien civilization, these ruins can host great knowledge and richess.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
 	<entry name="Savanna" value="Savanna"/>
 	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with wide plains they are a candidate for agriculture."/>
