@@ -16,7 +16,7 @@
 	<entry name="Fanatic" value="Divine Ascension"/>
 	<entry name="FanaticLeader" value="Vermillion"/>
 	<entry name="FanaticLeaderTitle" value="Lady"/>
-	<entry name="FanaticProperties" value="<icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Research'/> research"/>
+	<entry name="FanaticProperties" value="<icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Resources/Research'/> research"/>
 	<entry name="FanaticTheme" value="Fanatic"/>
 	<entry name="FanaticWelcome" value="You are %1% of the fanatic %2%. You are the head of a theocratic monarchy, and your followers worship you for being god's instrument to express his will among men. It is your destiny to show your people the right path, and lead them to a prosperous future in a promised land."/>
 	<entry name="Flyers" value="Flyers"/>
