@@ -67,6 +67,7 @@
 	<entry name="Factions" value="Factions"/>
 	<entry name="Feature" value="Feature"/>
 	<entry name="Features" value="Features"/>
+	<entry name="Flanking" value="Flanking"/>
 	<entry name="Food" value="Food"/>
 	<entry name="FoodCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from farmers<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from buildings"/>
 	<entry name="FoodColonists" value="Farmers"/>
