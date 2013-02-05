@@ -18,6 +18,8 @@
 	<entry name="ConfirmPassword" value="Confirm Password"/>
 	<entry name="Connect" value="Connect"/>
 	<entry name="Continue" value="Continue"/>
+	<entry name="Copy" value="Copy"/>
+	<entry name="CopyUnitDesignHint" value="Copy unit design."/>
 	<entry name="COST" value="<style name='Small' color='Gray'/>%1% cost<style name='Default'/>"/>
 	<entry name="Cities" value="Cities"/>
 	<entry name="Class" value="Class"/>
