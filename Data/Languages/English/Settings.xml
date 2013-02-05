@@ -5,6 +5,7 @@
 	<entry name="AntiAliasing" value="Anti-Aliasing"/>
 	<entry name="AutoCycleUnits" value="Auto Cycle Units"/>
 	<entry name="AutoSave" value="Autosave"/>
+	<entry name="CinematicsVolume" value="Cinematics Volume"/>
 	<entry name="DiscoveryHelp" value="Discovery Help"/>
 	<entry name="EffectsVolume" value="Effects Volume"/>
 	<entry name="FullScreen" value="Fullscreen"/>
@@ -17,7 +18,7 @@
 	<entry name="MasterVolume" value="Master Volume"/>
 	<entry name="MouseScrollSpeed" value="Mouse Scroll Speed"/>
 	<entry name="MusicVolume" value="Music Volume"/>
-	<entry name="PlayerName" value="Player Name"/>
+	<entry name="PlayCinematics" value="Play Cinematics"/>
 	<entry name="PopupTips" value="Popup Tips"/>
 	<entry name="ProductKey" value="Product Key"/>
 	<entry name="ServerName" value="Server Name"/>
