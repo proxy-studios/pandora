@@ -24,7 +24,7 @@
 	<entry name="Industrious" value="Solar Dynasty"/>
 	<entry name="IndustriousLeader" value="Xi"/>
 	<entry name="IndustriousLeaderTitle" value="Prime Minister"/>
-	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/Population'/> growth<br/><icon texture='GUI/Bullet'/>Industrios: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
+	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/Population'/> growth<br/><icon texture='GUI/Bullet'/>Industrious: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
 	<entry name="IndustriousTheme" value="Industrious"/>
 	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers believe in your absolute authority, and it is your doctrine that each individual has to be willing to sacrifice everything for the greater good. One should not strive for personal goals, but for those of the collective."/>
 	<entry name="Leviathan" value="Leviathan"/>
