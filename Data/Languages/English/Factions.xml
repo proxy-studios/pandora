@@ -4,29 +4,29 @@
 	<entry name="Ecologic" value="Terra Salvum"/>
 	<entry name="EcologicLeader" value="Gardinier"/>
 	<entry name="EcologicLeaderTitle" value="Advocate"/>
-	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -25% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Peaceful: -25% alien aggression<br/><icon texture='GUI/Bullet'/>Weak industry: -25% <icon texture='Resources/Production'/> production"/>
+	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -25% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Sympathetic: -25% alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -10% <icon texture='Attributes/Power'/> power"/>
 	<entry name="EcologicTheme" value="Ecologic"/>
-	<entry name="EcologicWelcome" value="You are %1%, leader of the ecologic %2%. Your faction branched off one of the most important environmentalist groups on Earth, where it was once considered as bordering on terrorism. Your acts on Pandora have finally shown everyone, including native intelligent lifeforms, that your people are worthy of respect."/>
+	<entry name="EcologicWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources have bled out old Earth, our once rich and abundant homeworld is nothing but a shadow of its former self. While other factions might be on a path to repeat the same mistakes again, you and your followers have faith in humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Economic" value="Noxium Corporation"/>
 	<entry name="EconomicLeader" value="Qasdan"/>
 	<entry name="EconomicLeaderTitle" value="Director"/>
-	<entry name="EconomicProperties" value="<icon texture='GUI/Bullet'/>Economic: +25% <icon texture='Resources/Credits'/> credits<br/><icon texture='GUI/Bullet'/>Extravagant: +25% <icon texture='Attributes/Upkeep'/> building upkeep"/>
+	<entry name="EconomicProperties" value="<icon texture='GUI/Bullet'/>Economic: +25% <icon texture='Resources/Credits'/> credits<br/><icon texture='GUI/Bullet'/>Extravagant: -25% <icon texture='Resources/Population'/> population limit"/>
 	<entry name="EconomicTheme" value="Economic"/>
-	<entry name="EconomicWelcome" value="You are %1%, leader of the economic %2%. Your people value richess above everything and have elevated trade and haggling to art forms. They are highly skilled in all forms of commerce, but their taste for luxury and decorum can sometimes lead them to reckless expenses."/>
+	<entry name="EconomicWelcome" value="You are %1%, leader of the economic %2%. Your people value richess above everything and have elevated trade and haggling to art forms. They are highly skilled in all forms of commerce, but their taste for luxury and decorum in grand style leads to a lack of living space for the less fortunate."/>
 	<entry name="Fanatic" value="Divine Ascension"/>
 	<entry name="FanaticLeader" value="Vermillion"/>
 	<entry name="FanaticLeaderTitle" value="Lady"/>
 	<entry name="FanaticProperties" value="<icon texture='GUI/Bullet'/>Zealous: +4 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Fanatic: +10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Conservative: -25% <icon texture='Resources/Research'/> research"/>
 	<entry name="FanaticTheme" value="Fanatic"/>
-	<entry name="FanaticWelcome" value="You are %1% of the fanatic %2%. You are the head of a theocratic monarchy, and your followers worship you for being god's instrument to express his will among men. It is your destiny to show your people the right path, and lead them to a prosperous future in a promised land."/>
+	<entry name="FanaticWelcome" value="You are %1% of the fanatic %2%. You are the head of a theocratic monarchy, and your zealous followers worship you for being god's instrument to express his will among men. It is your destiny to show your people the right path, and lead them to a prosperous future in a promised land."/>
 	<entry name="Flyers" value="Flyers"/>
 	<entry name="Giants" value="Giants"/>
 	<entry name="Industrious" value="Solar Dynasty"/>
 	<entry name="IndustriousLeader" value="Xi"/>
 	<entry name="IndustriousLeaderTitle" value="Prime Minister"/>
-	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/Population'/> growth<br/><icon texture='GUI/Bullet'/>Industrious: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
+	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Industrious: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
 	<entry name="IndustriousTheme" value="Industrious"/>
-	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers believe in your absolute authority, and it is your doctrine that each individual has to be willing to sacrifice everything for the greater good. One should not strive for personal goals, but for those of the collective."/>
+	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers, and you control them with absolute authority by suppression and censorship. It is your doctrine that sovereignty is achieved on the back of a strong industry, and if planet or people have to suffer for the greater goal, so be it."/>
 	<entry name="Leviathan" value="Leviathan"/>
 	<entry name="Militaristic" value="Imperium"/>
 	<entry name="MilitaristicLeader" value="Heid"/>
