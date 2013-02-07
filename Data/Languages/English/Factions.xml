@@ -26,7 +26,7 @@
 	<entry name="IndustriousLeaderTitle" value="Prime Minister"/>
 	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Industrious: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
 	<entry name="IndustriousTheme" value="Industrious"/>
-	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers, and you control them with absolute authority by suppression and censorship. It is your doctrine that sovereignty is achieved on the back of a strong industry, and if planet or people have to suffer for the greater goal, so be it."/>
+	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers, and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if people or planet have to suffer for the greater goal, so be it."/>
 	<entry name="Leviathan" value="Leviathan"/>
 	<entry name="Militaristic" value="Imperium"/>
 	<entry name="MilitaristicLeader" value="Heid"/>
