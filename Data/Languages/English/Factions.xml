@@ -4,7 +4,7 @@
 	<entry name="Ecologic" value="Terra Salvum"/>
 	<entry name="EcologicLeader" value="Gardinier"/>
 	<entry name="EcologicLeaderTitle" value="Advocate"/>
-	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -50% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Sympathetic: -50% alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -25% <icon texture='Attributes/Power'/> power"/>
+	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -50% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Sympathetic: -50% <icon texture='Factions/NativeIcon'/> alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -25% <icon texture='Attributes/Power'/> power"/>
 	<entry name="EcologicTheme" value="Ecologic"/>
 	<entry name="EcologicWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources have bled out old Earth, our once rich and abundant homeworld is nothing but a shadow of its former self. While other factions might be on a path to repeat the same mistakes again, you and your followers have faith in humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Economic" value="Noxium Corporation"/>
@@ -12,7 +12,7 @@
 	<entry name="EconomicLeaderTitle" value="Director"/>
 	<entry name="EconomicProperties" value="<icon texture='GUI/Bullet'/>Economic: +50% <icon texture='Resources/Credits'/> credits<br/><icon texture='GUI/Bullet'/>Extravagant: -50% <icon texture='Resources/Population'/> population limit"/>
 	<entry name="EconomicTheme" value="Economic"/>
-	<entry name="EconomicWelcome" value="You are %1%, leader of the economic %2%. Your people value richess above everything and have elevated trade and haggling to art forms. They are highly skilled in all forms of commerce, but their taste for luxury and decorum in grand style leads to a lack of living space for the less fortunate."/>
+	<entry name="EconomicWelcome" value="You are %1%, leader of the economic %2%. Your people value richess above everything and have elevated trade and haggling to art forms. They are highly skilled in all forms of commerce, but their taste for luxury and decorum in grand style leads to a lack of living space for the less fortunate individuals in your society."/>
 	<entry name="Fanatic" value="Divine Ascension"/>
 	<entry name="FanaticLeader" value="Vermillion"/>
 	<entry name="FanaticLeaderTitle" value="Lady"/>

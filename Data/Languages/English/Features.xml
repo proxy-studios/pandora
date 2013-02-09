@@ -119,7 +119,7 @@
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
 	<entry name="Road" value="Road"/>
 	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
-	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>-50% movement cost for units"/>
+	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Movement'/> movement cost for units"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="Torrid climate and lush vegetation - even though the soil is rather poor in nutrients - are the main characteristics of tropical zones."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
