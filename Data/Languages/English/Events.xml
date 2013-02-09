@@ -4,6 +4,7 @@
 	<entry name="AllianceTerminated" value="%1% terminated alliance with %2%."/>
 	<entry name="BuildingDismantled" value="%1% dismantled %2%."/>
 	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
+	<entry name="CityAttacked" value="%1% was attacked."/>
 	<entry name="CityGrown" value="%1% has grown."/>
 	<entry name="CityLost" value="%1% lost."/>
 	<entry name="Discovered" value="%1% discovered."/>
