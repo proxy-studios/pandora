@@ -4,19 +4,19 @@
 	<entry name="Ecologic" value="Terra Salvum"/>
 	<entry name="EcologicLeader" value="Gardinier"/>
 	<entry name="EcologicLeaderTitle" value="Advocate"/>
-	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -25% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Sympathetic: -25% alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -10% <icon texture='Attributes/Power'/> power"/>
+	<entry name="EcologicProperties" value="<icon texture='GUI/Bullet'/>Nature aware: -50% <icon texture='Resources/Pollution'/> pollution<br/><icon texture='GUI/Bullet'/>Sympathetic: -50% alien aggression<br/><icon texture='GUI/Bullet'/>Peaceful: -25% <icon texture='Attributes/Power'/> power"/>
 	<entry name="EcologicTheme" value="Ecologic"/>
 	<entry name="EcologicWelcome" value="You are %1%, leader of the ecologic %2%. Reckless industries and the war for natural resources have bled out old Earth, our once rich and abundant homeworld is nothing but a shadow of its former self. While other factions might be on a path to repeat the same mistakes again, you and your followers have faith in humanity, treating the planet and its children with the respect they deserve."/>
 	<entry name="Economic" value="Noxium Corporation"/>
 	<entry name="EconomicLeader" value="Qasdan"/>
 	<entry name="EconomicLeaderTitle" value="Director"/>
-	<entry name="EconomicProperties" value="<icon texture='GUI/Bullet'/>Economic: +25% <icon texture='Resources/Credits'/> credits<br/><icon texture='GUI/Bullet'/>Extravagant: -25% <icon texture='Resources/Population'/> population limit"/>
+	<entry name="EconomicProperties" value="<icon texture='GUI/Bullet'/>Economic: +50% <icon texture='Resources/Credits'/> credits<br/><icon texture='GUI/Bullet'/>Extravagant: -50% <icon texture='Resources/Population'/> population limit"/>
 	<entry name="EconomicTheme" value="Economic"/>
 	<entry name="EconomicWelcome" value="You are %1%, leader of the economic %2%. Your people value richess above everything and have elevated trade and haggling to art forms. They are highly skilled in all forms of commerce, but their taste for luxury and decorum in grand style leads to a lack of living space for the less fortunate."/>
 	<entry name="Fanatic" value="Divine Ascension"/>
 	<entry name="FanaticLeader" value="Vermillion"/>
 	<entry name="FanaticLeaderTitle" value="Lady"/>
-	<entry name="FanaticProperties" value="<icon texture='GUI/Bullet'/>Zealous: +4 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Fanatic: +10% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Conservative: -25% <icon texture='Resources/Research'/> research"/>
+	<entry name="FanaticProperties" value="<icon texture='GUI/Bullet'/>Fanatic: +25% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>Zealous: +4 <icon texture='Resources/Morale'/> morale<br/><icon texture='GUI/Bullet'/>Conservative: -50% <icon texture='Resources/Research'/> research"/>
 	<entry name="FanaticTheme" value="Fanatic"/>
 	<entry name="FanaticWelcome" value="You are %1% of the fanatic %2%. You are the head of a theocratic monarchy, and your zealous followers worship you for being god's instrument to express his will among men. It is your destiny to show your people the right path, and lead them to a prosperous future in a promised land."/>
 	<entry name="Flyers" value="Flyers"/>
@@ -24,21 +24,21 @@
 	<entry name="Industrious" value="Solar Dynasty"/>
 	<entry name="IndustriousLeader" value="Xi"/>
 	<entry name="IndustriousLeaderTitle" value="Prime Minister"/>
-	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Industrious: +25% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Reckless: +25% <icon texture='Resources/Pollution'/> pollution"/>
+	<entry name="IndustriousProperties" value="<icon texture='GUI/Bullet'/>Industrious: +50% <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>Fertile: +25% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>Reckless: +50% <icon texture='Resources/Pollution'/> pollution"/>
 	<entry name="IndustriousTheme" value="Industrious"/>
 	<entry name="IndustriousWelcome" value="You are %1% of the industrious %2%. Your followers are large in numbers, and you control them with absolute authority by suppression and censorship. It is your doctrine that planetary sovereignty is achieved on the back of a strong industry, and if people or planet have to suffer for the greater goal, so be it."/>
 	<entry name="Leviathan" value="Leviathan"/>
 	<entry name="Militaristic" value="Imperium"/>
 	<entry name="MilitaristicLeader" value="Heid"/>
 	<entry name="MilitaristicLeaderTitle" value="Admiral"/>
-	<entry name="MilitaristicProperties" value="<icon texture='GUI/Bullet'/>Well-trained: +25% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>High pay: +25% <icon texture='Attributes/Upkeep'/> unit upkeep"/>
+	<entry name="MilitaristicProperties" value="<icon texture='GUI/Bullet'/>Well-trained: +50% <icon texture='Attributes/Power'/> power<br/><icon texture='GUI/Bullet'/>High pay: +100% <icon texture='Attributes/Upkeep'/> unit upkeep"/>
 	<entry name="MilitaristicTheme" value="Militaristic"/>
 	<entry name="MilitaristicWelcome" value="You are %1% of the militaristic %2%. Your specialty is warfare with all of its facets, and your imperial legions are feared across the known solar systems. Your society follows a strict military codex, with members learning discipline and the chain of command from early on in childhood. When on duty any imperial soldier is expected to excel, but the Imperium rewards that with a very high pay."/>
 	<entry name="Random" value="Random"/>
 	<entry name="Scientific" value="Scholars of Eden"/>
 	<entry name="ScientificLeader" value="Schreiber"/>
 	<entry name="ScientificLeaderTitle" value="Doctor"/>
-	<entry name="ScientificProperties" value="<icon texture='GUI/Bullet'/>Creative: +25% <icon texture='Resources/Research'/> research<br/><icon texture='GUI/Bullet'/>Free-spirited: -2 <icon texture='Resources/Morale'/> morale"/>
+	<entry name="ScientificProperties" value="<icon texture='GUI/Bullet'/>Creative: +50% <icon texture='Resources/Research'/> research<br/><icon texture='GUI/Bullet'/>Free-spirited: -4 <icon texture='Resources/Morale'/> morale"/>
 	<entry name="ScientificTheme" value="Scientific"/>
 	<entry name="ScientificWelcome" value="You are %1% of the scientific %2%. Your faction values the human intellect and academic virtues, highly respecting personal freedom. While this freedom might result in a lack of discipline or motivation at times, your scientists show unrivaled creativity and are among the brightest in the known universe."/>
 </language>
