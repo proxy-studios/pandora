@@ -79,7 +79,7 @@
 	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="GameLobby" value="Game Lobby"/>
 	<entry name="Growth" value="Growth"/>
-	<entry name="GrowthCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% population<br/><br/><icon texture='GUI/Bullet'/>%3% turns remaining<br/><icon texture='GUI/Bullet'/>%4% / %5% accumulated<br/><br/><icon texture='GUI/Bullet'/>%6% per turn<br/><icon texture='GUI/Bullet'/>%7% from food<br/><icon texture='GUI/Bullet'/>%8% from morale<br/><icon texture='GUI/Bullet'/>%9% from other"/>
+	<entry name="GrowthCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% accumulated<br/><icon texture='GUI/Bullet'/>%3% turns remaining<br/><br/><icon texture='GUI/Bullet'/>%4% per turn<br/><icon texture='GUI/Bullet'/>%5% from food<br/><icon texture='GUI/Bullet'/>%6% from morale<br/><icon texture='GUI/Bullet'/>%7% from other"/>
 	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost."/>
 	<entry name="HealthHint" value="Health<br/>The overall condition."/>
 	<entry name="Help" value="Help"/>
@@ -147,7 +147,7 @@
 	<entry name="PleaseWait" value="Please Wait ..."/>
 	<entry name="PleaseWaitHint" value=""/>
 	<entry name="Pollution" value="Pollution"/>
-	<entry name="PollutionCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% accumulated<br/><br/><icon texture='GUI/Bullet'/>%3% per turn<br/><icon texture='GUI/Bullet'/>%4% from food<br/><icon texture='GUI/Bullet'/>%5% from minerals<br/><icon texture='GUI/Bullet'/>%6% from production<br/><icon texture='GUI/Bullet'/>%7% from research<br/><icon texture='GUI/Bullet'/>%8% from other"/>
+	<entry name="PollutionCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% accumulated<br/><icon texture='GUI/Bullet'/>%3% turns remaining<br/><br/><icon texture='GUI/Bullet'/>%4% per turn<br/><icon texture='GUI/Bullet'/>%5% from food<br/><icon texture='GUI/Bullet'/>%6% from minerals<br/><icon texture='GUI/Bullet'/>%7% from production<br/><icon texture='GUI/Bullet'/>%8% from research<br/><icon texture='GUI/Bullet'/>%9% from other"/>
 	<entry name="PollutionHint" value="Pollution<br/>The amount of industrial waste a city produces. Once enough waste has accumulated, a harvested territory in the city's influence range is polluted and no longer provides resources until cleaned up by a Former."/>
 	<entry name="Population" value="Population"/>
 	<entry name="PopulationCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% of %2% total<br/><icon texture='GUI/Bullet'/>%3% farmers<br/><icon texture='GUI/Bullet'/>%4% miners<br/><icon texture='GUI/Bullet'/>%5% workers<br/><icon texture='GUI/Bullet'/>%6% researchers"/>
