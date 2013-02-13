@@ -169,7 +169,7 @@
 	<entry name="QuickPlay" value="Quick Play"/>
 	<entry name="Quit" value="Quit"/>
 	<entry name="Random" value="Random"/>
-	<entry name="RankHint" value="Rank (%1%/%2%)<br/>Unit experience gained from combat. Each successive rank increases unit power by %3%%%."/>
+	<entry name="RankHint" value="Rank (%1% / %2%)<br/>Unit experience gained from combat. Each successive rank increases unit power by %3%%%."/>
 	<entry name="Ready" value="Ready"/>
 	<entry name="Refresh" value="Refresh"/>
 	<entry name="RememberPassword" value="Remember Password"/>	

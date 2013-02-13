@@ -9,7 +9,8 @@
 	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Cities produce no resources<br/><icon texture='GUI/Bullet'/>Mechanical units cannot move"/>
 	<entry name="City" value="City"/>
 	<entry name="CityDescription" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
-	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units"/>
+	<entry name="CityStats" value="<icon texture='Resources/Food'/> +1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="CreditsBonus0" value="Gold Vein"/>
 	<entry name="CreditsBonus0Description" value="Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old earth, and just like in our old homeworld, virtually all mineable gold on Pandora's surface has been deposited by meteorites which contained the element. A gold vein drastically increases the credits output of the city that controls the territory."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain bonus"/>
@@ -40,7 +41,7 @@
 	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4"/>
 	<entry name="Forest" value="Forest"/>
 	<entry name="ForestDescription" value="A forest is an area with a high density of trees and functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere."/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for light biological units"/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units"/>
 	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1"/>
 	<entry name="Fort" value="Fort"/>
 	<entry name="FortDescription" value="Massive fortifications that provide units a strong defensive and vision bonus. If stocked with artillery units they are optimal to protect borders or strategic key positions."/>
@@ -58,7 +59,7 @@
 	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="Hive" value="Hive"/>
 	<entry name="HiveDescription" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
-	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power for defending units"/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units"/>
 	<entry name="Mine" value="Mine"/>
 	<entry name="MineDescription" value="This structure dedicated to the extraction of mineral resources from the ground provides the colonists with raw materials."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
@@ -81,7 +82,7 @@
 	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
 	<entry name="Mountains" value="Mountains"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrains by several kilometers, the mountains  offer a distinctive strategical advantage to infantry units."/>
-	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
 	<entry name="Ocean" value="Ocean"/>
 	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous vegetal and animal lifeforms."/>
@@ -89,7 +90,7 @@
 	<entry name="OceanStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
 	<entry name="Plains" value="Plains"/>
 	<entry name="PlainsDescription" value="The low relief and quasi-absence of shrubs and trees make the plains of Pandora easily buildable areas, but offering little room for cover to infantry troops."/>
-	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for mechanical units"/>
+	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for mechanical units"/>
 	<entry name="Pollution" value="Pollution"/>
 	<entry name="PollutionDescription" value="The downside of industrialization is the rise in contaminants damaging the natural environment. This area is currently adversely impacted by pollution."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>

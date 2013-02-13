@@ -42,6 +42,9 @@
 	<entry name="Food2" value="Food Replicator"/>
 	<entry name="Food2Description" value="Growing plants seems inefficient at this point, since we have the technology to simply replicate food.<br/><br/>A replicator works by rearranging subatomic particles, which are abundant everywhere in the universe, to form molecules and arrange those molecules to form objects. Since matter patterns are stored at a molecular level it is only possible to replicate objects with simple quantum structures, such as food.<br/><br/><style oblique='1'/>Some people still refuse to eat replicated food, instead opting for the lengthy process of growing and preparing a meal like in the old times."/>
 	<entry name="Food2Properties" value="<icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Food'/> food"/>
+	<entry name="Headquarters" value="Headquarters"/>
+	<entry name="HeadquartersDescription" value="<style oblique='1'/>Nullus est instar domus."/>
+	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>Can only exist once per empire<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research"/>
 	<entry name="Minerals0" value="Refining Array"/>
 	<entry name="Minerals0Description" value="Minerals no longer have to be discarded if they do not pass the minimum purity threshold, but can now instead be refined into a smaller mass of minerals that are satisfactory for production purposes."/>
 	<entry name="Minerals0Properties" value="<icon texture='GUI/Bullet'/>+4 <icon texture='Resources/Minerals'/> minerals"/>
