@@ -27,7 +27,7 @@
 	<entry name="CreateAccount" value="Create Account"/>
 	<entry name="CreateAccountPrompt" value="Please enter the required information:"/>
 	<entry name="Credits" value="Credits"/>
-	<entry name="CreditsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from population<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from territories<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from building upkeep"/>
+	<entry name="CreditsCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% per turn<br/><icon texture='GUI/Bullet'/>%2% from population<br/><icon texture='GUI/Bullet'/>%3% from morale<br/><icon texture='GUI/Bullet'/>%4% from territories<br/><icon texture='GUI/Bullet'/>%5% from buildings<br/><icon texture='GUI/Bullet'/>%6% from other<br/><icon texture='GUI/Bullet'/>%7% from building upkeep<br/><icon texture='GUI/Bullet'/>%8% from frontier penalty"/>
 	<entry name="CreditsHint" value="Credits<br/>Cumulation of wealth. Used to purchase goods and pay upkeep costs. Without credits your units and buildings will be disbanded and dismantled."/>
 	<entry name="CurrentResearchHint" value="Currently researched technology. Click to change."/>
 	<entry name="Date" value="%1% %2% AD"/>
@@ -79,7 +79,7 @@
 	<entry name="GameBrowser" value="Game Browser"/>
 	<entry name="GameLobby" value="Game Lobby"/>
 	<entry name="Growth" value="Growth"/>
-	<entry name="GrowthCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% accumulated<br/><icon texture='GUI/Bullet'/>%3% turns remaining<br/><br/><icon texture='GUI/Bullet'/>%4% per turn<br/><icon texture='GUI/Bullet'/>%5% from food<br/><icon texture='GUI/Bullet'/>%6% from morale<br/><icon texture='GUI/Bullet'/>%7% from other"/>
+	<entry name="GrowthCityHint" value="<style name='Small'/><icon texture='GUI/Bullet'/>%1% / %2% accumulated<br/><icon texture='GUI/Bullet'/>%3% turns remaining<br/><br/><icon texture='GUI/Bullet'/>%4% per turn<br/><icon texture='GUI/Bullet'/>%5% from food<br/><icon texture='GUI/Bullet'/>%6% from morale<br/><icon texture='GUI/Bullet'/>%7% from other<br/><icon texture='GUI/Bullet'/>%8% from frontier penalty"/>
 	<entry name="GrowthHint" value="Growth<br/>The rate at which population increases or decreases. Once enough positive or negative growth has accumulated, a colonist is gained or lost."/>
 	<entry name="HealthHint" value="Health<br/>The overall condition."/>
 	<entry name="Help" value="Help"/>
