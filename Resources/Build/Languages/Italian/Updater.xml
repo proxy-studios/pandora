@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlreadyRunning" value="Applicazione già in esecuzione."/>
+	<entry name="ApplyingUpdate" value="Installazione aggiornamento..."/>
+	<entry name="Beta" value="Beta"/>
+	<entry name="ChangeLog" value="Change log"/>
+	<entry name="CheckingForUpdate" value="Ricerca aggiornamenti..."/>
+	<entry name="CloseOtherInstances" value="Ti preghiamo di chiudere tutte le istanze di Pandora."/>
+	<entry name="Done" value="Fatto."/>
+	<entry name="DownloadingUpdate" value="Download aggiornamento..."/>
+	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="Failed" value="Fallito."/>
+	<entry name="Notice" value="NOTA: Antivirus e firewall potrebbero interferire con il processo di aggiornamento."/>
+	<entry name="PreparingUpdate" value="Preparazione aggiornamento..."/>
+	<entry name="Quit" value="Esci"/>
+	<entry name="Release" value="Release"/>
+	<entry name="Retry" value="Riprova"/>
+	<entry name="Skip" value="Salta"/>
+	<entry name="Update" value="Aggiorna"/>
+	<entry name="UpdateDetected" value="Aggiornamento rilevato (%1%)."/>
+	<entry name="UpToDate" value="Aggiornato."/>
+	<entry name="WorkProgress" value="%1%%%"/>
+</language>

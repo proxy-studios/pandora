@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlreadyRunning" value="Es läuft bereits eine andere Instanz."/>
+	<entry name="ApplyingUpdate" value="Update wird durchgeführt ..."/>
+	<entry name="Beta" value="Beta"/>
+	<entry name="ChangeLog" value="Änderungsprotokoll"/>
+	<entry name="CheckingForUpdate" value="Überprüfe auf Updates ..."/>
+	<entry name="CloseOtherInstances" value="Bitte alle Instanzen von Pandora schließen."/>
+	<entry name="Done" value="Fertig."/>
+	<entry name="DownloadingUpdate" value="Update wird heruntergeladen ..."/>
+	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="Failed" value="Fehlgeschlagen."/>
+	<entry name="Notice" value="HINWEIS: Antiviren- und Firewallprogramme können den Update-Prozess beeinträchtigen."/>
+	<entry name="PreparingUpdate" value="Update wird vorbereitet ..."/>
+	<entry name="Quit" value="Beenden"/>
+	<entry name="Release" value="Release"/>
+	<entry name="Retry" value="Wiederholen"/>
+	<entry name="Skip" value="Überspringen"/>
+	<entry name="Update" value="Updaten"/>
+	<entry name="UpdateDetected" value="Update verfügbar (%1%)."/>
+	<entry name="UpToDate" value="Keine neuen Updates verfügbar."/>
+	<entry name="WorkProgress" value="%1%%%"/>
+</language>

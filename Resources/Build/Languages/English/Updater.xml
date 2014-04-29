@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlreadyRunning" value="Another instance is already running."/>
+	<entry name="ApplyingUpdate" value="Applying update ..."/>
+	<entry name="Beta" value="Beta"/>
+	<entry name="ChangeLog" value="Change log"/>
+	<entry name="CheckingForUpdate" value="Checking for update ..."/>
+	<entry name="CloseOtherInstances" value="Please close all other instances of Pandora."/>
+	<entry name="Done" value="Done."/>
+	<entry name="DownloadingUpdate" value="Downloading update ..."/>
+	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="Failed" value="Failed."/>
+	<entry name="Notice" value="NOTE: Antivirus and firewall software may interfere with the update process."/>
+	<entry name="PreparingUpdate" value="Preparing update ..."/>
+	<entry name="Quit" value="Quit"/>
+	<entry name="Release" value="Release"/>
+	<entry name="Retry" value="Retry"/>
+	<entry name="Skip" value="Skip"/>
+	<entry name="Update" value="Update"/>
+	<entry name="UpdateDetected" value="Update detected (%1%)."/>
+	<entry name="UpToDate" value="Up to date."/>
+	<entry name="WorkProgress" value="%1%%%"/>
+</language>
