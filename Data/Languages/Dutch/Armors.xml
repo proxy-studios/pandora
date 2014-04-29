@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Armor0" value="Staalbepantsering"/>
+	<entry name="Armor0Description" value="De bepantsering uit gehard staal verhoogt weliswaar de fabricagekosten, maar biedt daarvoor een eenvoudige bescherming tegen projectielen en springstoffen."/>
+	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor1" value="Titaniumbepantsering"/>
+	<entry name="Armor1Description" value="Deze bepantsering bestaat uit titanium - een hard, glanzend en corrosievast metaal - en biedt dubbel zo veel bescherming als gewone staalbepantsering."/>
+	<entry name="Armor1Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor2" value="Zortiumbepantsering"/>
+	<entry name="Armor2Description" value="Zoals we vastgesteld hebben, verkrijgt men, indien men een zuiverem mexallonisotoop chemisch met titanium verbindt, het zeer robuuste materiaal zortium, dat zich perfect voor toepassing in bepantseringen eigent."/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor3" value="Gaussbepantsering"/>
+	<entry name="Armor3Description" value="Explosies en kinetische botsingsenergie beschadigen bepantseringen op basis van hun structurele zwakte op moleculair vlak. Gaussbepanstsering is niets anders als een zortiumbepantsering met een sterk geoptimaliseerd moleculair patroon, dat de veerkracht evenwel flink verhoogd. Het optimalisatieproces is echter duur, gezien de optimalisatie voor iedere bepantsering na fabricage individueel doorgevoerd moet worden ."/>
+	<entry name="Armor3Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor4" value="Adamantiumbepantsering"/>
+	<entry name="Armor4Description" value="Het zwarte en uiterst sterkte adamantium is een superdicht materiaal, dat meerdere honderden kilometers onder het planeetoppervlak te vinden is. De ontginning en de bewerking zijn erg moeilijk en het dragen van de bepantsering is inspannend, maar de weestandskracht beschermt zelfs tegen de sterkste treffers.<br/><br/><style name='Italic'/>In militaire kringen worden soldaten, die de donkere en robuuste adamantiumbepantsering dragen, &quot;Kevers&quot; genoemd."/>
+	<entry name="Armor4Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor5" value="Zijdestaalbepantsering"/>
+	<entry name="Armor5Description" value="Deze bepantsering is dun als zijde en tegelijk zo hard als gewoon staal. Hierom is het onder troepen vanwege haar veelzijdigheiddaher en eenvoudig onderhoud zeer geliefd. De verbeterde manouvreerbaarheid zorgt in het algemeen voor een hogere overlevingskans als bij inzet als bij inzet van sterkere materialen."/>
+	<entry name="Armor5Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor6" value="Neutroniumbepantsering"/>
+	<entry name="Armor6Description" value="Een ingebouwde minireactor wekt aan één stuk door vrije neutronen op, die tussen twee magneetveldlagen zweven en vijandige stralen of projectielen neutraliseren alsook overschottige energie absorberen.<br/><br/><style name='Italic'/>&quot;Greg Johnson uit het 5e bataljon had men eens een neutroniumpantser van de eerste generatie gegeven. Een Galeth beschadigde toen met een gelukstreffer het reactorventiel, zodat de reactor neutronen in de arme Greg pompte. Hij heeft het niet langer dan een paar minuten uitgehouden.&quot;"/>
+	<entry name="Armor6Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor7" value="Antimateriebepantsering"/>
+	<entry name="Armor7Description" value="De persoon of machine wordt door een uiterst dunne laag antimaterie omgeven, dat door een magneetveld op zijn plaats wordt gehouden. Bij de juiste toepassing kan deze bepantsering zo goed als alle fysieke aanvallen absorberen.<br/><br/><style name='Italic'/>ACHTUNG: Nur die am besten ausgebildeten Truppen kÃ¶nnen diese bepantsering einsetzen: Ein Fehler im Umgang damit kann zu einem schrecklichen Tod fÃ¼hren."/>
+	<entry name="Armor7Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Armor8" value="Xenotroniumbepantsering"/>
+	<entry name="Armor8Description" value="Hierbij gaat het om de meest geavanceerde bepantsering, die tot dusver ontwikkeld is. Het is uitgerust met een kunstmatig bewustzijn, dat het het mogelijk maakt. greigende gevaren aan de hand van energiefluctuaties in de omgeving op te merken. Zodra de xenotroniumpanzerung registriert, dat een projectiel- of straalinslag op handen is, concentreert het binnen picoseconden de gehele absorptiecapaciteit op het betreffende punt, om het gevaar te neutraliseren."/>
+	<entry name="Armor8Properties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="Best" value="Beste bepantsering"/>
+	<entry name="BestProperties" value="<icon texture='GUI/Bullet'/>bepantsering"/>
+	<entry name="None" value="Geen bepantsering"/>
+	<entry name="NoneDescription" value="Eenheden zonder bepantsering beschikken niet over een aanvullende bescherming en zijn bij treffers enkel op hun kleding of romp aangewezen."/>
+</language>

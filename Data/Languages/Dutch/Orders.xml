@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Attack" value="Aanvallen"/>
+	<entry name="AttackHint" value="Aanvallen"/>
+	<entry name="Automatize" value="Automatiseren"/>
+	<entry name="AutomatizeHint" value="Automatiseren [A]"/>
+	<entry name="BuildCity" value="Stad stichten"/>
+	<entry name="BuildCityHint" value="Stad stichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Sterkte voor verdedigende lichte biologische eenheden.<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Geneeestempo<br/><icon texture='GUI/Bullet'/>Minimale afstand tussen steden: 2 gebieden<br/><icon texture='GUI/Bullet'/>Verwijdert alle gebiedsverbeteringen<br/><icon texture='GUI/Bullet'/>Kan niet in gebergtes verricht worden<br/><icon texture='GUI/Bullet'/>Kan niet op terrein met speciale eigenschappen verricht worden."/>
+	<entry name="BuildFarm" value="Boerderij aanleggen"/>
+	<entry name="BuildFarmHint" value="Boerderij aanleggen [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildFort" value="Fort aanleggen"/>
+	<entry name="BuildFortHint" value="Fort aanleggen [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> Sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>-1 operatieschade<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> geneestempo<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildMine" value="Mijn aanleggen"/>
+	<entry name="BuildMineHint" value="Mijn aanleggen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildRoad" value="Weg aanleggen"/>
+	<entry name="BuildRoadHint" value="Weg aanleggen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>50% bewegingskosten<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="ClearForest" value="Bos kappen"/>
+	<entry name="ClearForestHint" value="Bos kappen [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="ClearFungus" value="Schimmel opruimen"/>
+	<entry name="ClearFungusHint" value="Schimmel opruimen [Alt+U]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="ClearPollution" value="Vervuiling opruimen"/>
+	<entry name="ClearPollutionHint" value="Vervuiling opruimen [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="Deploy" value="Inzetten"/>
+	<entry name="DeployHint" value="Inzetten"/>
+	<entry name="DestroyImprovement" value="Verbetering verwoesten"/>
+	<entry name="DestroyImprovementHint" value="Verbetering verwoesten [Alt+D]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Verwoest alle verbeteringen op wegen na"/>
+	<entry name="DestroyRoad" value="Weg verwoesten"/>
+	<entry name="DestroyRoadHint" value="Weg verwoesten [Alt+R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Verwoest wegen"/>
+	<entry name="Disband" value="Ontbinden"/>
+	<entry name="DisbandHint" value="Ontbinden [Del]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Je verkrijgt 25%% van de eenheidswaarde in <icon texture='Resources/Credits'/> kredieten, indien de eenheid in geällieerd gebied ontbonden wordt<br/><icon texture='GUI/Bullet'/>Je verkrijgt %1% <icon texture='Resources/Credits'/> kredieten, indien de eenheid hier ontbonden wordt."/>
+	<entry name="Drop" value="Afwerpen"/>
+	<entry name="DropHint" value="Landing vanuit de ruimte<br/><icon texture='GUI/Bullet'/>Plaatst de eenheid in een bekend, niet bezet gebied op de planeet<br/><icon texture='GUI/Bullet'/>De eenheid moet in een stad gestationeerd zijn, die onder bestuur van de speler staat.<br/><icon texture='GUI/Bullet'/>Verbruikt een afwerpcapsuleoperatie"/>
+	<entry name="Guard" value="Bewaken"/>
+	<entry name="GuardHint" value="Bewaken [G]<br/><style name='Small'/><icon texture='GUI/Bullet'/>De eenheid blijft op zijn positie, totdat een tegenstander binnen aanvalsbereik komt, of de eenheid aangevallen wordt."/>
+	<entry name="GrowForest" value="Bos aanplanten"/>
+	<entry name="GrowForestHint" value="Bos aanplanten [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="GrowFungus" value="Schimmel aanplanten"/>
+	<entry name="GrowFungusHint" value="Schimmel aanplanten [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="Heal" value="Genezen"/>
+	<entry name="HealHint" value="Genezen [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>De eenheid blijft op zijn positie, tot hij genezen is<br/><icon texture='GUI/Bullet'/>Heilt %1%%% per ronde<br/><icon texture='GUI/Bullet'/>%2% rondes tot volledige genezing"/>
+	<entry name="HoldPosition" value="Positie houden"/>
+	<entry name="HoldPositionHint" value="Positie houden [D]"/>
+	<entry name="Idle" value="Niets doen"/>
+	<entry name="ImproveClosestCity" value="Dichtstbijzijnde stad verbeteren"/>
+	<entry name="ImproveClosestCityHint" value="Dichtstbijzijnde stad verbeteren [Alt+A]"/>
+	<entry name="ImproveEcoregion" value="Ecoregio verbeteren"/>
+	<entry name="ImproveEcoregionHint" value="Ecoregion verbeteren [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="Move" value="Beweeg naar"/>
+	<entry name="MoveHint" value="Bewegen"/>
+	<entry name="Refit" value="Ombouwen"/>
+	<entry name="RefitHint" value="Ombouwen [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Het eenheidontwerp veranderen<br/><icon texture='GUI/Bullet'/>De eenheid moet in een stad gestationeerd zijn, die onder bestuur van de speler valt."/>
+	<entry name="Skip" value="Overslaan"/>
+	<entry name="SkipHint" value="Overslaan [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Deze ronde overslaan"/>
+	<entry name="WorsenEcoregion" value="Ecoregio verslechteren"/>
+	<entry name="WorsenEcoregionHint" value="Ecoregio verslechteren [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+</language>
