@@ -40,7 +40,7 @@
 	<entry name="HealHint" value="Genezen [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>De eenheid blijft op zijn positie, tot hij genezen is<br/><icon texture='GUI/Bullet'/>Heilt %1%%% per ronde<br/><icon texture='GUI/Bullet'/>%2% rondes tot volledige genezing"/>
 	<entry name="HoldPosition" value="Positie houden"/>
 	<entry name="HoldPositionHint" value="Positie houden [D]"/>
-	<entry name="Idle" value="Niets doen"/>
+	<entry name="Idle" value="Inactief"/>
 	<entry name="ImproveClosestCity" value="Dichtstbijzijnde stad verbeteren"/>
 	<entry name="ImproveClosestCityHint" value="Dichtstbijzijnde stad verbeteren [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Ecoregio verbeteren"/>
