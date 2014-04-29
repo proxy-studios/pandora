@@ -361,6 +361,9 @@
 	<entry name="StopGrowthHint" value=""/>
 	<entry name="StopRazing" value="<style color='Red'/>Verwoesting beëindigen"/>
 	<entry name="StopRazingHint" value="Klik om de verwoesting van de stad te beëindigen."/>
+	<entry name="Stories" value="Verhalen"/>
+	<entry name="StoriesHelp" value="Hierin zul je verhalen uit het verleden vinden. Men zegt dat het kennen van je geschiedenis je beter in staat stelt het heden te begrijpen en je voor te bereiden op de toekomst."/>
+	<entry name="Story" value="Verhaal"/>
 	<entry name="Targets" value="Doelwitten"/>
 	<entry name="TargetPower" value="Doelwitsterkte"/>
 	<entry name="Technologies" value="Technologieën"/>
