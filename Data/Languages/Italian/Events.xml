@@ -3,6 +3,7 @@
 	<entry name="NearX" value=" vicino a %1%"/>
 
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AdvancementProductionComplete" value="%1% ha completato %2%."/>
 	<entry name="AllianceEntered" value="%1% ha stretto un'alleanza con %2%."/>
 	<entry name="AllianceTerminated" value="%1% ha terminato l'alleanza con %2%."/>
 	<entry name="BuildingDismantled" value="%1% ha smantellato %2%."/>

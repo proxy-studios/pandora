@@ -365,7 +365,7 @@
 	<entry name="StopRazing" value="<style color='Red'/>Stop Razing"/>
 	<entry name="StopRazingHint" value="Click to stop razing the city."/>
 	<entry name="Stories" value="Stories"/>
-	<entry name="StoriesHelp" value="Herein you will find stories of the past. They say that knowing your history will let you better understand the present and prepare for the future."/>
+	<entry name="StoriesHelp" value="Here you can find short stories about the world of Pandora. Enjoy the reading!"/>
 	<entry name="Story" value="Story"/>
 	<entry name="Targets" value="Targets"/>
 	<entry name="TargetPower" value="Target Power"/>
