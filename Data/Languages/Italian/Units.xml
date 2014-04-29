@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Aircraft0" value="Caccia"/>
+	<entry name="Aircraft0Description" value="<style name='Italic'/>&quot;Combatti e vola fino all'ultima goccia di sangue e carburante, fino all'ultimo battito del tuo cuore.&quot;<br/>    -- Barone Manfred von Richthofen<style name='Default'/><br/><br/>Il problema del volo nell'inaffidabile atmosfera di Pandora è stato risolto. Il carburante gassoso viene ionizzato ed iniettato in una camera d'accelerazione contenente campi magnetici ed elettrici, dove le particelle vengono spinte fino alla camera di scarico dalla forza di Lorentz. Questo processo produce una forza di propulsione di oltre 10.000 metri al secondo, permettendo ai piccoli aeroplani dall'energia limitata di evolversi in veloci ed agili macchine da guerra."/>
+	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aircraft1" value="Caccia Hurricane"/>
+	<entry name="Aircraft1Description" value="L'Hurricane svetta su ogni aeroplano esistente, combinando i suoi innovativi sistemi d'evasione pari a quelli dei caccia leggeri alla potenza di fuoco di un caccia-bombardiere."/>
+	<entry name="Aircraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aircraft2" value="Caccia Nusselt"/>
+	<entry name="Aircraft2Description" value="Il caccia Nusselt possiede un enorme vantaggio tattico rispetto agli aeroplani tradizionali. Il suo scafo geomagnetico gli permette di viaggiare nella termosfera di Pandora, dove i densi campi ionici possono essere utilizzati per super-caricare il caccia e le sue armi. Dopodiché si può abbattere sui nemici a velocità spaventosa."/>
+	<entry name="Aircraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aspidoch" value="Aspidoch"/>
+	<entry name="AspidochDescription" value="Una balenottera azzurra, sulla Terra, può essere lunga fino a 33 metri e pesare 180 tonnellate. In confronto all'Aspidoch di Pandora, però, la balenottera è un pesciolino. L'Aspidoch potrebbe letteralmente inghiottirla in un boccone. Data l'alta gravità di Pandora, una creatura del genere può sopravvivere solo negli oceani. È stato avvistato un solo Aspidoch, quindi non si può dire se sia l'ultimo della specie o semplicemente un raro esemplare... ma è la creatura più grande e letale che sia mai stata scoperta."/>
+	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> all'energia in difesa"/>
+	<entry name="ATV0" value="ATV Ricognitore"/>
+	<entry name="ATV0Description" value="Nonostante le varie somiglianze tra Pandora e la vecchia Terra, la corretta regolazione delle proprietà di massa e movimento d'inerzia di un veicolo leggero può fare la differenza tra la vita e la morte del pilota. La velocità rilevata di alcune specie xenomorfe è attorno ai 240 Kmh, quindi in alcuni ambienti militari l'esplorazione è diventata un'ottima punizione per l'insubordinazione.<br/><br/><style name='Italic'/>Roger Raynor ed il suo ricognitore a tre ruote sono leggende tra gli esploratori, le loro avventure vengono spesso raccontate attorno al fuoco: come mise nel sacco il grande Galeth guidando in circolo, come rubò lo scarabeo d'oro dei Vermillion fuggendo attraverso il Mare Erboso, e come cercò di superare in velocità un gruppo di xenomorfi neri. La storia, purtroppo, finisce qui."/>
+	<entry name="ATV0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera"/>
+	<entry name="ATV1" value="ATV Leggero"/>
+	<entry name="ATV1Description" value="Un essenziale aggiornamento della sua controparte più piccola, il Ricognitore; l'ATV Leggero riesce a sopportare ogni tipo di torsione, urto e danno senza battere ciglio. Le sue capacità d'assorbimento degli urti rendono la sua manovrabilità senza paragoni."/>
+	<entry name="ATV1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera"/>
+	<entry name="ATV2" value="ATV Atlas"/>
+	<entry name="ATV2Description" value="La sua corazza caricata elettromagneticamente non solo lo protegge dai danni dovuti ai dissestamenti stradali, ma lo fornisce anche di una ragionevole protezione contro la maggior parte delle armi comuni, il che lo rende prezioso sia per la ricognizione che come unità colpisci e scappa."/>
+	<entry name="ATV2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera"/>
+	<entry name="Bug0" value="Fuco Xenomorfo"/>
+	<entry name="Bug0Description" value="Gli Xenomorfi, chiamati anche &quot;Insetti&quot; dai soldati e dai civili, sono le creature insettoidi native del pianeta. Hanno le dimensioni di un umano ma con il loro numero potrebbero spazzare via facilmente intere colonie, se diventassero ostili. Fanno della tranquilla superficie deserta di Pandora un luogo estremamente pericoloso."/>
+	<entry name="Bug0Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>
+	<entry name="BugQueen" value="Regina Xenomorfa"/>
+	<entry name="BugQueenDescription" value="Le Regine sono decisamente più grandi e più forti dei Fuchi. I nostri scienziati pensano che lascino raramente i loro alveari, in cui depongono le uova e si prendono cura delle larve. Come molte specie, difendono ferocemente la loro prole, il che rende la distruzione di un alveare un compito molto pericoloso."/>
+	<entry name="BugQueenProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> all'energia in difesa"/>
+	<entry name="Colonizer" value="Colonizzatore"/>
+	<entry name="ColonizerDescription" value="Fragili veicoli da esplorazione che vengono caricati con tutto il necessario per sostenere la vita, i Colonizzatori detengono il più importante dei bisogni umani... l'espansione."/>
+	<entry name="ColonizerProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Consuma un colono<br/><icon texture='GUI/Bullet'/>Costruisce nuove città<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="Flyer" value="Scite"/>
+	<entry name="FlyerDescription" value="Stormi di questi predatori volanti coprono enormi distanze ogni giorno, in cerca di prede. Mentre gli essere più piccoli, come gli esseri umani, sembrano essere al sicuro, ci sono giunte notizie di attacchi da parte degli Scite nei confronti dei nostri mezzi meccanici."/>
+	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure"/>
+	<entry name="Former" value="Terraformer"/>
+	<entry name="FormerDescription" value="Il Terraformer è una macchina potente e rivoluzionaria, in grado di terraformare quasi ogni tipo di territorio. La soluzione alla lotta per le risorse risiede in apparati in grado di manipolare la vita, come questo. Ma, come per tutti gli attrezzi, dev'essere utilizzato con cautela."/>
+	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Migliora un territorio<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="Former1" value="Terraformer Anfibio"/>
+	<entry name="Former1Description" value="I Terraformer originali sono legati al terreno a causa del loro peso elevato... ma appena abbiamo esplorato i mari, abbiamo capito quanto potrebbe essere vantaggioso lo sviluppo acquatico. Questi nuovi modelli sono a tenuta stagna e molto più leggeri, quindi sono in grado di eseguire compiti in ambienti anfibi."/>
+	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante anfibia<br/><icon texture='GUI/Bullet'/>Migliora un territorio<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="Giant" value="Galeth"/>
+	<entry name="GiantDescription" value="Giustamente soprannominati &quot;Giganti&quot; a causa della loro altezza di oltre dodici metri, questi goffi bestioni possono facilmente polverizzare mezzi blindati od interi quartieri, quando sono infuriati. Il loro bizzarro cranio a punta può facilmente trapassare anche la più robusta delle nostre corazze, quindi lo scontro con un Galeth dovrebbe essere evitato finché non scopriremo una tecnologia militare più avanzata."/>
+	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> alla potenza contro le città senza difese"/>
+	<entry name="Leviathan" value="Leviatano"/>
+	<entry name="LeviathanDescription" value="Poco si conosce sul Leviatano, dominatore dei mari di Pandora. Di questa forma di vita acquatica massiccia si conoscono solo la forza insormontabile, l'alta reattività alle vibrazioni causate dai motori delle imbarcazioni e la capacità di affondare intere flotte senza problemi."/>
+	<entry name="LeviathanProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante"/>
+	<entry name="Mech0" value="Mech Golia"/>
+	<entry name="Mech0Description" value="Il carro armato, la nostra macchina da guerra più pesante, è di dimensioni ridotte a causa della difficoltà di manovra sul terreno accidentato di Pandora. Finalmente è giunta una nuova era della meccanizzazione.<br/><br/>Il Golia è una gigantesca macchina da guerra umanoide con un peso totale di oltre centomila tonnellate, tanto quanto la più grande portaerei Terrestre. Può trasportare abbastanza potenza di fuoco da tener testa ad interi eserciti, e può equipaggiare i più pesanti moduli offensivi."/>
+	<entry name="Mech0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Non influenzato dalle strade<br/><icon texture='GUI/Bullet'/>Non può eseguire schieramento orbitale"/>
+	<entry name="Mech1" value="Mech Cerbero"/>
+	<entry name="Mech1Description" value="Per incrementare ulteriormente la dimensione dello scafo pur mantenendo la stabilità, abbiamo aggiunto due zampe addizionali alla macchina. Soprannominato &quot;Cerbero&quot;, una bestia della mitologia antica a guardia degli inferi, l'ombra di questo mech oscura un'intera città."/>
+	<entry name="Mech1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Non influenzato dalle strade<br/><icon texture='GUI/Bullet'/>Non può eseguire schieramento orbitale"/>
+	<entry name="Mech2" value="Mech Titan"/>
+	<entry name="Mech2Description" value="L'organico Titan è il più avanzato ibrido uomo/macchina mai progettato. Intere città tremano quando si avvicina, con il suo milione di tonnellate di peso e la sua altezza di oltre un chilometro. Adeguatamente equipaggiato e corazzato, un Titan è praticamente inarrestabile e può resistere anche ai missili nucleari."/>
+	<entry name="Mech2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Non influenzato dalle strade<br/><icon texture='GUI/Bullet'/>Non può eseguire schieramento orbitale"/>
+	<entry name="QueenFlyer" value="Divoratore"/>
+	<entry name="QueenFlyerDescription" value="Un'enorme bestia alata; l'ombra del Divoratore è ampiamente interpretata come &quot;Messaggera di Morte&quot;. Con i suoi artigli e le sue zanne lunghe un metro, la creatura può sollevare ed ingoiare anche i carri armati più pesanti."/>
+	<entry name="QueenFlyerProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure"/>
+	<entry name="Shark" value="Carcarodonte"/>
+	<entry name="SharkDescription" value="I Carcarodonti sono predatori acquatici lunghi diversi metri. Di solito vagano negli oceani in branchi. Anche se sono giunte notizie di attacchi a grandi navi da guerra da parte di queste creature, solitamente se la prendono con oggetti non più grandi di loro."/>
+	<entry name="SharkProperties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera acquatica"/>
+	<entry name="SpitterBug" value="Sputatore Xenomorfo"/>
+	<entry name="SpitterBugDescription" value="Questa grande creatura utilizza la sua gola evoluta per sputare un liquido altamente corrosivo a lunghissima distanza. Questi &quot;Acquazzoni&quot; sono diventati un flagello sia per il personale militare che civile. I cittadini sono invitati a cercare riparo non appena le sirene annunciano l'attacco di uno Sputatore."/>
+	<entry name="SpitterBugProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante"/>
+	<entry name="Tank0" value="Carro Armato Avenger"/>
+	<entry name="Tank0Description" value="Il trasporto delle macchine da guerra dalla Terra era estremamente costoso, ma ci serviva dell'equipaggiamento per poterci difendere dalle forme di vita pericolose del pianeta e dalle altre fazioni. Con questo in mente, abbiamo progettato una versione modificata della più temuta arma da campo umana: il carro armato.<br/><br/>Dispensatori di morte e distruzione, i carri armati avevano spesso l'ultima parola sul campo di battaglia Terrestre. Massimizzati per adattarsi alla gravità ed al terreno di Pandora, possono essere configurati con molti tipi differenti di torrette.<br/><br/><style name='Italic'/>&quot;Schiacciateli.&quot;"/>
+	<entry name="Tank0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
+	<entry name="Tank1" value="Carro Armato Demolitore"/>
+	<entry name="Tank1Description" value="Fratello maggiore dell'Avenger, il Demolitore possiede una corazza spessa come le mura di un castello. Questa fortezza mobile non si ferma davanti a nulla."/>
+	<entry name="Tank1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
+	<entry name="Tank2" value="Carro Armato Liberator"/>
+	<entry name="Tank2Description" value="Negli ultimi decenni le nostre conoscenze sull'interfaccia uomo/macchina sono progredite notevolmente, ma solo studiando le più grandi creature aliene abbiamo finalmente eccelso nella tecnologia dell'interfaccia organica. Il Liberator è una simbiosi completa tra uomo e macchina, ed è terribilmente letale.<br/><br/><style name='Italic'/>&quot;Mi dica, Comandante, come si sente ad essere tutt'uno con il suo carro armato?&quot;<br/>&quot;È liberatorio.&quot;"/>
+	<entry name="Tank2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
+	<entry name="Transport" value="Trasporto"/>
+	<entry name="TransportDescription" value="I Trasporti sono imbarcazioni militari non armate che possono trasportare le tue truppe di terra attraverso l'acqua. Sono estremamente vulnerabili agli attacchi aerei o navali, e dovrebbero essere protetti il più possibile."/>
+	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Trasporta unità di terra<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="Trooper0" value="Soldato Coloniale"/>
+	<entry name="Trooper0Description" value="La prima linea di difesa per la maggior parte delle battaglie, addestrati per svariati scenari bellici, i Soldati Coloniali sono la spina dorsale degli eserciti moderni.<br/><br/><style name='Italic'/>&quot;Datemi dieci soldati ed una settimana, e cambierò il corso della storia.&quot;"/>
+	<entry name="Trooper0Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>
+	<entry name="Trooper1" value="Soldato d'Assalto"/>
+	<entry name="Trooper1Description" value="Mobili, agili ed estremamente corazzati, i Soldati d'Assalto sono le truppe del futuro. La tuta rinforzata che indossano è in grado di sopportare attacchi notevoli e, comunque, riesce a garantire abbastanza reattività motrice.<br/><br/><style name='Italic'/>Durante la sua prova sul campo, un giovane tenente di nome Wilkins, ultimo della sua unità, fece fuori tre carri armati Avenger nemici da solo. La storia si diffuse a macchia d'olio tra i ranghi, e &quot;tirare un Wilkins&quot; è diventato sinonimo di sfidare le probabilità."/>
+	<entry name="Trooper1Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>
+	<entry name="Trooper1Shock" value="Soldato Shock"/>
+	<entry name="Trooper1ShockDescription" value="Come suggerisce il nome, i Soldati Shock vengono utilizzati per sbilanciare le battaglie chiave, schierati per colpire duro prima che il nemico possa reagire. Le loro inespugnabili corazze da battaglia li rendono equivalenti a dieci soldati semplici."/>
+	<entry name="Trooper1ShockProperties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>
+	<entry name="Trooper2" value="Soldato Precentore"/>
+	<entry name="Trooper2Description" value="L'analisi delle tecnologie aliene ha spalancato le porte ad un nuovo tipo di fanteria dotata di corazza organica. Ogni corazza è geneticamente studiata per donare all'indossatore forza, tenacia e resistenza sovrannaturali."/>
+	<entry name="Trooper2Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>	
+	<entry name="Watercraft0" value="Watercraft Barracuda"/>
+	<entry name="Watercraft0Description" value="La propulsione elettrica è stata portata nelle acque di Pandora, consentendo l'attraversamento di laghi ed oceani. Tramite l'utilizzo di collettori solari efficienti, delle piccole cannoniere da schermaglia possono viaggiare per distanze illimitate velocemente ed efficientemente."/>
+	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+	<entry name="Watercraft1" value="Watercraft Dreadnought"/>
+	<entry name="Watercraft1Description" value="Avendo la possibilità di installare due torrette, questo watercraft incrociatore è una formidabile linea di difesa marittima."/>
+	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+	<entry name="Watercraft2" value="Watercraft Tangaroa"/>
+	<entry name="Watercraft2Description" value="Una gigantesca struttura galleggiante in grado di affrontare la maggior parte dei nemici senza un solo graffio, il Tangaroa si muove a velocità spaventosa e colpisce con una forza senza pari."/>
+	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+</language>

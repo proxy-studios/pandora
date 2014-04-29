@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="0Description" value="Kolonisatoren sind sehr große Baueinheiten, mit denen Sie die Städte errichten können, die das Rückgrat Ihres Reichs darstellen. Klicken Sie auf den Button &quot;Stadt bauen&quot; im Auswahlfenster auf der linken Seite, um Ihre erste Stadt auf Pandora zu errichten. Beachten Sie, dass der Kolonisator beim Ausführen dieses Befehls verbraucht wird."/>
+	<entry name="0Name" value="Kolonisator"/>
+	<entry name="1Description" value="Diese Einheit stellt Ihre erste Verteidigungslinie gegen konkurrierende Fraktionen und feindliche Außerirdische dar. Sie können entweder auf Nummer sicher gehen und die Einheit in Ihrer Stadt verschanzen, oder aber Sie schicken sie auf Erkundungstour, indem Sie auf das gewünschte Ziel rechtsklicken. Erkunden ist zwar riskant, kann sich aber enorm lohnen!"/>
+	<entry name="1Name" value="Kampfeinheit"/>
+	<entry name="2Description" value="Eine Stadt kann nur ein Objekt auf einmal produzieren (wie etwa eine Einheit oder ein Gebäude). Oben rechts sehen Sie Ihre Produktionsoptionen. Wenn Sie auf eine Option klicken, wird sie zur Produktionsschleife hinzugefügt und die Produktion beginnt nach dem Ende Ihres Zuges. Sie können die Reihenfolge in der Produktionsschleife mittels Klicken und Ziehen ändern."/>
+	<entry name="2Name" value="Produktionsoptionen in der Stadt"/>
+	<entry name="3Description" value="Im Bevölkerungsfenster können Sie Ihre Untertanen in unterschiedliche Tätigkeitsbereiche einteilen, indem Sie sie von einem Bereich abziehen und in einem anderen Bereich ablegen. Die Auswirkungen dieser Einteilungen können Sie im Statistikfenster darüber sehen. Die richtige Einteilung kann den Unterschied zwischen einem florierenden und einem erfolglosen Reich ausmachen."/>
+	<entry name="3Name" value="Stadtbevölkerung"/>
+	<entry name="4Description" value="Wenn Sie über genügend <icon texture='Resources/Credits'/> Credits verfügen, können Sie sie investieren, um die Produktion schnell abzuschließen. Klicken Sie dazu auf die kleinen <icon texture='Resources/Credits'/> Credits-Symbole."/>
+	<entry name="4Name" value="Kaufvorgänge in der Stadt"/>
+	<entry name="5Description" value="Links unten in der Stadtansicht sehen Sie eine Liste aller Gebäude, die in dieser Stadt errichtet wurden. Wenn Sie ein Gebäude verkaufen wollen, müssen Sie einfach darauf klicken."/>
+	<entry name="5Name" value="Gebäude in der Stadt"/>
+	<entry name="6Description" value="Einheiten werden nach Entwürfen gebaut und in der Werkstatt können Sie Ihre Entwürfe verwalten und modifizieren. Klicken Sie zum Erstellen eines neuen Entwurfs auf den Button &quot;Neu&quot;. Dadurch wird eine Kopie des momentan ausgewählten Entwurfs angelegt und Sie können diesen nun bearbeiten, ohne das Original zu verändern."/>
+	<entry name="6Name" value="Entwürfe in der Werkstatt"/>
+	<entry name="7Description" value="Formereinheiten bauen Geländemodifikationen wie Farmen oder Minen, die den Rohstoffgewinn von Gebieten erhöhen, welche von Städten genutzt werden. Um Ihre Arbeit zu vereinfachen, können Sie die Former automatisieren, indem Sie im Auswahlfenster auf den Button &quot;Automatisieren&quot; klicken."/>
+	<entry name="7Name" value="Former"/>
+	<entry name="8Description" value="Ihre Ressourcen neigen sich dem Ende zu! Bewegen Sie den Mauszeiger auf die Ressourcenanzeigen in der linken oberen Bildschirmecke, um zu sehen, wo genau das Problem liegt. Vielleicht schaffen Sie Abhilfe, indem Sie die Prioritäten Ihrer Städte anpassen, ein oder zwei neue Gebäude bauen oder mit einem Kolonisator eine neue Stadt errichten."/>
+	<entry name="8Name" value="Keine Ressourcen mehr"/>
+	<entry name="9Description" value="Willkommen auf Pandora! Halten Sie zum Umherbewegen auf der Welt die linke Maustaste auf der Karte gedrückt und bewegen Sie die Maus. Alternativ können Sie auch die Pfeiltasten benutzen. Sobald Sie sich genügend umgesehen haben, linksklicken Sie bitte auf Ihre Einheit in der Mitte der erkundeten Welt und danach auf &quot;OK&quot;."/>
+	<entry name="9Name" value="Start"/>
+	<entry name="10Description" value="Lassen Sie sich ruhig Zeit dabei, das Interface kennenzulernen. Jeder Button und jedes Symbol verfügt über einen Hinweistext, der Ihnen die relevanten Informationen gibt. Wenn Sie sich nicht sicher sind, was Sie als Nächstes tun sollten, können Sie auf den leuchtenden Button rechts unten klicken. Dieser Button hilft Ihnen dabei, sich um die nächste anstehende Aufgabe zu kümmern, bevor Sie Ihren Zug beenden."/>
+	<entry name="10Name" value="Zug-Button"/>
+	<entry name="11Description" value="Wichtige Ressourcen wie Nahrungsmittel, Mineralien, Forschung und Credits werden global in Ihrem Reich gesammelt und verteilt. Jede Ihrer Städte speist ihre Ressourcen in einen gemeinsamen Pool ein, aus dem sie auch ihre benötigten Ressourcen bezieht. Damit können Sie Ihre Städte auf bestimmte Bereiche spezialisieren oder etwa Vorräte für schlechtere Zeiten anlegen. "/>
+	<entry name="11Name" value="Globaler Ressourcenpool"/>
+	<entry name="12Description" value="Sie haben Ihre erste Operation erforscht. Operationen können unterschiedlichste Wirkungen haben, die von Boni für Ihre Einheiten bis zu direkten Schäden beim Feind reichen. Nach der Erforschung einer Operation oder des entsprechenden Gebäudes können Sie sie auf ganz Pandora einsetzen."/>
+	<entry name="12Name" value="Erforschen von Operationen"/>
+	<entry name="13Description" value="Ihre erste Operation ist einsatzbereit. Wählen Sie sie im Operationsfenster aus und legen Sie los. Gebäude, die Operationen zur Verfügung stellen, benötigen nach dem Einsatz eine gewisse Zeit, um wieder einsatzbereit zu sein. Gehen Sie daher mit Bedacht vor. Ein kluger Umgang mit Operationen kann sich entscheidend auf den Ausgang eines Krieges auswirken."/>
+	<entry name="13Name" value="Verfügbarkeit von Operation"/>
+	<entry name="14Description" value="Ihre Einheit hat Schaden genommen und ist verletzt bzw. beschädigt. Ihre Stärke ist gesunken und sie wird den nächsten Kampf wahrscheinlich nicht überleben. Um zu regenerieren, muss sie stillstehen und darf an keinem Kampf teilnehmen. Sie können den Regenerationsprozess beschleunigen, indem Sie die Einheit in eine Stadt bewegen."/>
+	<entry name="14Name" value="Heilung"/>
+	<entry name="15Description" value="Jede Einheit kann pro Runde eine bestimmte Entfernung zurücklegen, die von ihrer Bewegungsgeschwindigkeit abhängt. Sobald sich eine Einheit in der aktuellen Runde nicht mehr bewegen kann, wird die Stärkeanzeige über der Einheit grau dargestellt."/>
+	<entry name="15Name" value="Bewegung"/>
+	<entry name="16Description" value="Im Wirtschaftsfenster finden Sie eine Übersicht über alle Ihre Städte. Hier können Sie auf einfachem Wege die Produktion ändern, die Bevölkerung nach Ihren Wünschen in Arbeitsbereiche einteilen und sogar den globalen Steuersatz einstellen."/>
+	<entry name="16Name" value="Wirtschaftsfenster"/>
+	<entry name="17Description" value="Wenn Sie den gewünschten Entwurf ausgewählt haben, können Sie ihn bearbeiten, indem Sie zuerst eine Klasse festlegen und danach eine kompatible Waffe, Ausrüstung und Panzerung auswählen. Jedes Einheitenmodul hat seine Stärken und Schwächen und im Spielverlauf werden Sie Zugriff auf eine Vielzahl von Modulen erhalten."/>
+	<entry name="17Name" value="Bearbeiten von Entwürfen"/>
+	<entry name="18Description" value="Die Globalisierung wirkt sich auch auf das Bevölkerungswachstum aus. Während die Wachstumsrate über ihr gesamtes Reich unabhängig von der Anzahl an Städten ist, erfolgt die Migration Ihrer Kolonisten zwischen Ihren Städten abhängig von deren Moral ab. Faktoren wie starke Umweltverschmutzung und nicht ausreichend vorhandener Wohnraum sorgen dafür, dass sie sich in lebenswertere Gebiete Ihres Reichs begeben."/>
+	<entry name="18Name" value="Globales Wachstum"/>
+	<entry name="19Description" value="Die vollständige Kontrolle über Pandora kann auf drei Arten erreicht werden: durch globale Vorherrschaft, durch die Übernahme aller unabhängigen Fraktionen und durch die wissenschaftliche Transzendenz. Weitere Details und Fortschrittshinweise über diese Siegbedingungen erhalten Sie über die Militär-, Wirtschaft- und Forschung-Buttons am unteren Bildschirmrand."/>
+	<entry name="19Name" value="Siegbedingungen"/>
+	<entry name="20Description" value="Im Forschungsfenster finden Sie den zufällig festgelegten Forschungsbaum. Mit einem Klick auf eine Technologie legen Sie fest, dass sich Ihre Forscher auf diese Technologie konzentrieren. Mit Shiftklick können Sie Technologien aneinandereihen. Wenn Sie den Mauszeiger auf einer Technologie platzieren, werden Informationen darüber eingeblendet."/>
+	<entry name="20Name" value="Forschungsfenster"/>
+	<entry name="21Description" value="Um in die Stadtansicht zu wechseln, können Sie auf den Namen der Stadt klicken, oder aber auf die Stadt selbst, wenn sich keine Einheit darin befindet. Schützen Sie Ihre Städte auf jeden Fall gut!"/>
+	<entry name="21Name" value="Stadtansicht öffnen"/>
+	<entry name="22Description" value="Die Wirtschaft- und Militärfenster helfen Ihnen bei der Verwaltung Ihres Reichs und können über die Buttons am unteren Bildschirmrand erreicht werden. Wenn sich Ihr Reich erst einmal über ganz Pandora ausgebreitet hat, werden Ihnen diese Werkzeuge bei Ihrer Regierungsarbeit eine große Hilfe sein."/>
+	<entry name="22Name" value="Verwaltung des Reichs"/>
+	<entry name="23Description" value="Mehrere Einheiten können auf unterschiedliche Arten ausgewählt werden. Mit einem Doppelklick auf ein Gebiet wählen Sie alle dort stationierten Einheiten aus. Wenn Sie die Umschalt- oder Strg-Taste gedrückt halten, während Sie auf das Armeefenster klicken, fügen Sie die entsprechenden Einheiten Ihrer Auswahl hinzu."/>
+	<entry name="23Name" value="Armeekontrolle"/>
+	<entry name="24Description" value="Im Kompendium finden Sie eine Reihe von interessanten Informationen über das Spiel. Sie können dort weitergehende Details über die Fraktionen, die Gebäude und die Einheiten erhalten, die Hinweistexte erneut lesen und noch vieles mehr."/>
+	<entry name="24Name" value="Das Kompendium"/>
+</language>

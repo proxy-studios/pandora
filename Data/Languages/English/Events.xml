@@ -1,28 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="NearX" value=" near %1%"/>
+
+	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AdvancementProductionComplete" value="%1% completed %2%."/>
 	<entry name="AllianceEntered" value="%1% formed alliance with %2%."/>
 	<entry name="AllianceTerminated" value="%1% terminated alliance with %2%."/>
 	<entry name="BuildingDismantled" value="%1% dismantled %2%."/>
-	<entry name="BuildingProductionComplete" value="%1% produced %2%."/>
-	<entry name="CityAttacked" value="%1% was attacked."/>
+	<entry name="BuildingProductionComplete" value="%1% completed %2%."/>
+	<entry name="CityAttackedByUnit" value="%1% was attacked by a %2%."/>
+	<entry name="CityCapturedByPlayer" value="%1% was captured by %2%."/>
+	<entry name="CityDamagedByOther" value="%1% was damaged by a %2%."/>
 	<entry name="CityGrown" value="%1% has grown."/>
-	<entry name="CityLost" value="%1% lost."/>
+	<entry name="CityRazedByOther" value="%1% was razed by a %2%."/>
+	<entry name="CityRazedByUnit" value="%1% was razed by a %2%."/>
+	<entry name="ContactEstablished" value="Contact established with %1%."/>
 	<entry name="Discovered" value="%1% discovered."/>
-	<entry name="EnemyDetected" value="Enemy detected."/>
+	<entry name="Denounced" value="%1% denounced %2%."/>
+	<entry name="EnemyDetected" value="Enemy %1% detected%2%."/>
 	<entry name="Era1Entered" value="%1% entered the Mechanization Era."/>
 	<entry name="Era2Entered" value="%1% entered the Transcendence Era."/>
-	<entry name="ImprovementLost" value="%1% lost."/>
+	<entry name="HintInflictedDamage" value="<icon texture='GUI/Bullet'/>Inflicted %1% <icon texture='Attributes/Power'/> damage, %2% <icon texture='Attributes/Power'/> power remaining.<br/>"/>
+	<entry name="HintPopulationLost" value="<icon texture='GUI/Bullet'/>Lost %1% <icon texture='Resources/Population'/> population, %2% remaining.<br/>"/>
+	<entry name="HintSufferedDamage" value="<icon texture='GUI/Bullet'/>Suffered %1% <icon texture='Attributes/Power'/> damage, %2% <icon texture='Attributes/Power'/> power remaining.<br/>"/>
+	<entry name="HiveDestroyed" value="Hive destroyed."/>
+	<entry name="ImprovementLost" value="%1% lost%2%."/>
 	<entry name="NonAggressionEntered" value="%1% signed non aggression pact with %2%."/>
 	<entry name="NonAggressionTerminated" value="%1% terminated non aggression pact with %2%."/>
-	<entry name="OperationProductionComplete" value="%1% produced %2%."/>
+	<entry name="ObservatoryExplored" value="Observatory explored."/>
+	<entry name="OperationProductionComplete" value="%1% completed %2%."/>
+	<entry name="OtherDamagedCity" value="%2% damaged %1%."/>
+	<entry name="OtherDamagedUnit" value="%2% damaged %1%%3%."/>
+	<entry name="OtherKilledUnit" value="%2% killed %1%%3%."/>
+	<entry name="OtherRazedCity" value="%2% razed %1%."/>
 	<entry name="OutOfCredits" value="Out of <icon texture='Resources/Credits'/> credits."/>
+	<entry name="OutOfCreditsHint" value="To recoup losses units will start being disbanded and buildings dismantled!"/>
 	<entry name="OutOfFood" value="Out of <icon texture='Resources/Food'/> food."/>
+	<entry name="OutOfFoodHint" value="Your people are starving!"/>
 	<entry name="OutOfMinerals" value="Out of <icon texture='Resources/Minerals'/> minerals."/>
+	<entry name="OutOfMineralsHint" value="Production is impaired!"/>
 	<entry name="PeaceEntered" value="%1% signed peace with %2%."/>
-	<entry name="PlayerEliminated" value="%1% eliminated."/>
+	<entry name="PlayerProducedItem" value="%1% completed %2%."/>
+	<entry name="Praised" value="%1% praised %2%."/>
+	<entry name="AdvancementProductionComplete" value="%1% completed %2%."/>
 	<entry name="ResearchComplete" value="%1% researched."/>
-	<entry name="UnitAttacked" value="%1% was attacked."/>
-	<entry name="UnitLost" value="%1% lost."/>
-	<entry name="UnitProductionComplete" value="%1% produced %2%."/>
+	<entry name="UnitAttackedByUnit" value="%1% was attacked by a %2%%3%."/>
+	<entry name="UnitAttackedCity" value="%1% attacked %2%."/>
+	<entry name="UnitAttackedUnit" value="%1% attacked a %2%%3%."/>
+	<entry name="UnitCapturedCity" value="%1% captured %2%."/>
+	<entry name="UnitDamagedByOther" value="%1% was damaged by a %2%%3%."/>
+	<entry name="UnitDisbanded" value="%1% disbanded."/>
+	<entry name="UnitProductionComplete" value="%1% completed %2%."/>
+	<entry name="UnitRazedCity" value="%1% razed %2%."/>
+	<entry name="UnitKilledByOther" value="%1% was killed by a %2%%3%."/>
+	<entry name="UnitKilledByUnit" value="%1% was killed by a %2%%3%."/>
+	<entry name="UnitKilledUnit" value="%1% killed a %2%%3%."/>
 	<entry name="WarEntered" value="%1% declared war on %2%."/>
+	
+	<entry name="AlienAggressionImminent" value="Alien aggression imminent."/>
+	<entry name="AlienGenocideComplete" value="Alien genocide complete."/>
+	<entry name="AlienSighted" value="Alien sighted."/>
+	<entry name="PlanetFullyExplored" value="Planet fully explored."/>
+	<entry name="PopulationLimitReached" value="Population limit reached."/>
+	<entry name="RuinInSight" value="Ruin in sight."/>
+	
+	<entry name="BlackHoleGeneratorBuilt" value="%1% built a black hole generator."/>
+	<entry name="EconomyVictoryNear" value="%1% nears an economic victory."/>
+	<entry name="FactionEliminated" value="%1% eliminated."/>
+	<entry name="GlobalPollutionThresholdReached" value="High global pollution."/>
+	<entry name="MilitaryVictoryNear" value="%1% nears a military victory."/>
+	<entry name="NuclearLaunchCenterBuilt" value="%1% built a nuclear launch center."/>
+	<entry name="ResearchVictoryNear" value="%1% nears a research victory."/>
+	
+	<entry name="RuinExplored" value="Ruin explored."/>
+	<entry name="SunkenRuinExplored" value="Sunken ruin explored."/>
 </language>

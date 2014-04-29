@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Rank0" value="Private (1 / 8)"/>
+	<!-- <entry name="Rank0" value="Private (1 / 8)"/>
 	<entry name="Rank1" value="Corporal (2 / 8)"/>
 	<entry name="Rank2" value="Sergeant (3 / 8)"/>
 	<entry name="Rank3" value="Lieutenant (4 / 8)"/>
 	<entry name="Rank4" value="Captain (5 / 8)"/>
 	<entry name="Rank5" value="Major (6 / 8)"/>
 	<entry name="Rank6" value="Colonel (7 / 8)"/>
-	<entry name="Rank7" value="General (8 / 8)"/>
+	<entry name="Rank7" value="General (8 / 8)"/> -->
 </language>

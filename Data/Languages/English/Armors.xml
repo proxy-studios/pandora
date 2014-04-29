@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="Armor0" value="Steel Armor"/>
-	<entry name="Armor0Description" value="Ironclad steel that provides a basic protection against incoming projectiles and explosives for increased manufacturing costs."/>
+	<entry name="Armor0Description" value="Thickened 'Ironclad' steel armor provides basic protection against incoming projectiles and explosives for an increased manufacturing cost."/>
+	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor1" value="Titanium Armor"/>
-	<entry name="Armor1Description" value="Forged from titanium, a strong, lustrous, corrosion-resistant metal, this armor provides double the protection of regular steel armor."/>
+	<entry name="Armor1Description" value="Forged from titanium, that strong, lustrous and corrosion-resistant metal, this advanced armor provides double the protection of regular steel."/>
+	<entry name="Armor1Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor2" value="Zortium Armor"/>
-	<entry name="Armor2Description" value="We have discovered that pure mexallon isotopes allow chemical bonds with titanium, resulting in a very robust material called zortium, which is ideally suited for armors."/>
+	<entry name="Armor2Description" value="We have discovered that pure mexallon isotopes chemically bond with titanium, resulting in a very robust material we call Zortium, which is ideally suited for armor."/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor3" value="Gauss Armor"/>
-	<entry name="Armor3Description" value="Explosions and kinetic impacts damage armor based on its structural weaknesses on a molecular level. Gauss armor is nothing else than zortium armor with a highly optimized molecular layout, but the optimization process is expensive as it has to be performed for each armor individually after manufacture."/>
+	<entry name="Armor3Description" value="Explosions and kinetic impacts damage armor based on its structural weakness at a molecular level. Gauss armor is nothing other than Zortium armor with a highly optimized molecular layout, but this massively improves its resilience. However, the optimization process has to be performed for each armor individually after manufacture so is extremely expensive."/>
+	<entry name="Armor3Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor4" value="Adamantium Armor"/>
-	<entry name="Armor4Description" value="Pitch black and extremely heavy, adamantium is a material found several hundred kilometers below the planetary surface. While mining, refining, and wearing the armor is difficult or cumbersome, it can withstand even massive impacts.<br/><br/><style oblique='1'/>In military circles troopers geared up with adamantium armor are called &quot;terminators&quot;: Dark, durable and deadly."/>
+	<entry name="Armor4Description" value="Pitch black and extremely heavy, Adamantium is a superdense material found several hundred kilometers below the planetary surface and is difficult to both mine and refine. Even wearing the armor is cumbersome, yet it can withstand even massive impacts.<br/><br/><style name='Italic'/>In military circles, troopers geared up with the dark and durable Adamantium armor are called &quot;Beetles&quot;."/>
+	<entry name="Armor4Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor5" value="Silksteel Armor"/>
-	<entry name="Armor5Description" value="Thin as silk but a magnitude more robust than regular steel, this armor has all the characteristics of an alloy and is highly appreciated among the troops due to its high maintainability."/>
+	<entry name="Armor5Description" value="Thin as silk but a magnitude more robust than regular steel, this armor is highly appreciated among the troops due to its flexibility and easy maintenance. The extra manoeuvrability means users often have higher survivability than those equipped with armor made from stronger materials."/>
+	<entry name="Armor5Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor6" value="Neutronium Armor"/>
-	<entry name="Armor6Description" value="An integrated mini reactor constantly produces free neutrons that are roaming between two magnetized layers and neutralize incoming beams or projectiles.<br/><br/><style oblique='1'/>&quot;You know, pretty boy Greg Johnson from the fifth battalion had such a piece in its first generation. A Xenomorph damaged the reactor with an unlucky cut, so a few k gray were leaking into poor Greg. During his next and last minutes he didn't look that pretty anymore.&quot;"/>
+	<entry name="Armor6Description" value="An integrated mini reactor constantly produces free neutrons that are roaming between two magnetized layers and neutralize incoming beams, or projectiles and soak up excess energy.<br/><br/><style name='Italic'/>&quot;You know, Pretty Boy Johnson from the fifth battalion was kitted out with first-gen Neutronium. A Galeth damaged the reactor outlet with an lucky cut and left neutrons leaking straight into poor Greg. A few minutes later... well, let's just say that he just didn't look that pretty anymore.&quot;"/>
+	<entry name="Armor6Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor7" value="Anti-Matter Armor"/>
-	<entry name="Armor7Description" value="Mantles the wearer or coated machine with a super thin layer of anti-matter that absorbs almost anything on contact.<br/><br/><style oblique='1'/>Only the most advanced and trained troops are able to handle this type of armor: wrong usage can result in dismemberment."/>
+	<entry name="Armor7Description" value="Covers the wearer or coated machine with a superfine layer of anti-matter particles held in place with a magnetic field. Properly used, the armor absorbs almost any physical attack on contact.<br/><br/><style name='Italic'/>WARNING: Only the most advanced and trained troops are able to handle this type of armor. Incorrect usage will result in dismemberment, at best."/>
+	<entry name="Armor7Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor8" value="Xenotronium Armor"/>
-	<entry name="Armor8Description" value="Xenotronium is the most advanced protection ever designed. The armor is self aware and detects incoming threats via energy fluctuation in the environment. Whenever there is an incoming beam or projectile, all the anti-matter absorption capability is focused in pico-seconds to neutralize the threat."/>
-	<entry name="Leviathan" value="Leviathan Armor"/>
-	<entry name="LeviathanDescription" value="..."/>
+	<entry name="Armor8Description" value="Xenotronium is the most advanced protection ever designed, based on anti-matter principles. The armor is self-aware and detects incoming threats via energy fluctuation in the environment. If there is an incoming beam or projectile within several miles, in pico-seconds all the defensive capabilities are focused on defending the attack location to neutralize the threat."/>
+	<entry name="Armor8Properties" value="<icon texture='GUI/Bullet'/>Armor"/>
+	<entry name="Best" value="Best Armor"/>
+	<entry name="BestProperties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="None" value="No Armor"/>
-	<entry name="NoneDescription" value="Units without armor have no additional protection and rely on their clothes or hull when hit."/>
+	<entry name="NoneDescription" value="Units without armor have no additional protection and must rely on their clothes or hull when attacked."/>
 </language>

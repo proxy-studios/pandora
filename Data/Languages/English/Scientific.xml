@@ -3,46 +3,162 @@
 	The following tokens are replaced by the game:
  
  	%1% with faction leader title, e.g. "Lady".
- 	%2% with faction leader name, e.g. "Vermillion".
- 	%3% with faction leader title and name, e.g. "Lady Vermillion".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
  	%4% with a random insult.
  	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
 -->
 <language>
-	<entry name="AllianceAccepted" value="&quot;Yes, let us toast to a shared venture into a new age!&quot;"/>
-	<entry name="AllianceRejected" value="&quot;Too soon, %1%. Too soon.&quot;"/>
+
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="&quot;May I introduce myself? I am Doctor Alpheus Schreiber, nominal head of Togra University. It was our creations, such as the Alcubierre drive, that brought man to Pandora. Given that, I don't think you grudge us a chance to research this fascinating new world and to expand the borders of human thought, would you? I thought not. I can see we're going to get along... famously.&quot;"/>
+
+	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="&quot;I don't need to tell you how I know but... you're under threat.&quot;"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="&quot;Really? Why would anyone do that? We don't mean to hurt anyone. Except in the course of research.&quot;"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="&quot;Excuse me, I'm rather busy. These rats won't eviscerate themselves.&quot;"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="&quot;Really? I'll put that in my notes. Most fascinating. Thank you again.&quot;"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="&quot;Why would anyone do that? We're scientists. It's like kicking puppies, outside of a correct puppy-kicking trial. I jest, of course.&quot;"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We know about your pacts and, our medium-term predictions for you aren't good if you carry them on. I wouldn't dare ask about the long-term if I were you... &quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Well, I suppose we don't need help to do research. But we do for trade. Hmm, who?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;You know the rumours about my IQ - are you sure you want to attempt such blatant manipulation with me?&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Dumbkopfs! I knew they would do this of course. But it's always such a disappointment.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Lionel, could you pass the wrench? I need to fix this person -- he appears to speaking rot.&quot;"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Could you stop fighting please? The seismic activity is affecting our studies.&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Gladly! War is an inefficient way to solve our problems.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;I'm sorry, we're keen to test this new projectile's effect on human organs. We've already got funding.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;Makes sense to me.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;I don't think I quite remember how to turn the automated guns off. What a shame that is. A dreadful... shame.&quot;"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="&quot;Our predictions have you in a war within two periods. And you don't want to fight our predictions.&quot;"/> 
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="&quot;Oh, really? Who are we meant to be fighting? &quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="&quot;Haha, no. You must be confusing us with another scientific institution on Pandora.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="&quot;We were at war with them ten minutes before you called. But it's so pleasant to watch you think you have some power on this world.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;It's funny, but I don't seem to have a war in my diary. And I can't mess up my diary. Do call again.&quot;"/>
+	
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="&quot;Our data analysis labs has made some beautiful 11 dimensional maps, though they do always end up looking a bit like torii - donuts to you. We could render them down to a 2D form, if you wanted to understand a fragment of what we do.&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;We're just downscaling it - the 1:1 data scale will probably fritz your old Earth-based computers.&quot;"/>
+	<entry name="RejectShareMap" value="&quot;The AI resources of old Earth could just about comprehend our map. I'm not sure an ape like you would know whether to eat it or mate with it.&quot;"/>
+	
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="&quot;Shall we loosen our border restrictions? We already know everything you've got, anyway.&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;Of course, you're welcome in. Just avoid the testing zones. You'll know when you're in them, because you won't exist any more.&quot;"/>
+	<entry name="RejectOpenBorders" value="&quot;The very concept of borders is so outmoded in this post-nation state society, that your request makes no sense. I'd encourage you not to cross them all the same.&quot;"/>
+	<entry name="TerminateOpenBorders" value="&quot;We've started field tests on weapons that must not end up in the wrong hands -- so in an effort to minimize the dangers of espionage, I hereby terminate our agreement on open borders. My apologies, %1%.&quot;"/>
+	<entry name="AcceptOpenBordersTerminated" value="&quot;I hope the real reason is not that you're afraid we would steal your technology, because let me assure you my dear %1%, that is never going to happen.&quot;"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="You make these wonderful discoveries and let man-shaped monsters turn them into weapons. Are you careless or malicious, I wonder?"/>
+	<entry name="Crime1" value="How much local wildlife has died in your vivisection labs? "/>
+	<entry name="Crime2" value="Every domestic device you design kills another half-a-dozen of my people. Don't you test your tech? Or is this another strand to your plan?"/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="&quot;%7% This is not scientific.&quot;"/>
+	<entry name="AcceptDenounce" value="&quot;Yes, yes. That was us. And we'd do it again. You can't possibly understand our reasons. And I can prove that.&quot;"/>
+	<entry name="RejectDenounce" value="&quot;What do you think we are, mad scientists? You may consider our precepts mad, but our ratiocination is provably perfect (or it would be, save for cursed Gödel.)&quot;"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="&quot;%5% You're a very advanced monkey. That was intended as a compliment. I like monkeys. Very useful for... research.&quot;"/>
+	<entry name="AcceptPraise" value="&quot;Why, thank you. Another Nobel would do nicely.&quot;"/>
+	<entry name="RejectPraise" value="&quot;There's a 97.34%% you're flattering us to get something. How... cute.&quot;"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="&quot;Well, sadly, I predicted this from the start. But our master plan will come to fruition soon enough. In the meantime, we'd like to surrender to you.&quot;"/>
+	<entry name="AcceptSurrender" value="&quot;Yes, yes, just put it in the in-tray. Welcome aboard.&quot;"/>
+	<entry name="RejectSurrender" value="&quot;No, we don't have the teachers available to teach quantum synchronistic infundubula to your entire population, and it would be pointless you attempting to enter our society without knowing the basics.&quot;"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Any sufficiently advanced science is indistinguishable from magic. And you are wizards!"/>
+	<entry name="Compliment1" value="Without people like you, mankind would never have crawled out of its shell. We are born in shells, right?"/>
+	<entry name="Compliment2" value="Pandora is blessed that it has explorers like you to uncover its mysteries!"/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="Your anarchistic ideologies and unethical experiments are no longer tolerable."/>
+	<entry name="Insult1" value="You've no idea why you're doing what you're doing, do you? You obviously don't care."/>
+	<entry name="Insult2" value="You have made monsters of men."/>
+	
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="&quot;We have some spare credits lying around. Do you want them?&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;What do you propose?&quot;"/>
+	<entry name="GiftAccepted1" value="&quot;That'll make a big difference to our research efforts.&quot;"/>
+	<entry name="GiftRejected0" value="&quot;Why do we need your money, when we can turn lead into gold?&quot;"/>
+	<entry name="GiftRejected1" value="&quot;Sorry, that's not enough, even for a Large Millimeter Array.&quot;"/>
+	
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="&quot;You know, a little bit of money to our research efforts, will mean that we won't try our evolutionary tests on you.&quot;"/>
+	<entry name="TributeAccepted0" value="&quot;I'm sure I can skim some off the pointless commercial projects - there's money here for frictionless shower curtains. How much do you need?&quot;"/>
+	<entry name="TributeAccepted1" value="&quot;Okay, money skimmed. Hope you use it well.&quot;"/>
+	<entry name="TributeRejected0" value="&quot;How pitiable you are. I have some change for coffee, if that would help?&quot;"/>
+	<entry name="TributeRejected1" value="&quot;No. The budget doesn't stretch to that.&quot;"/>	
+	
+	<entry name="AcceptCreditsForDeal0" value="&quot; %1%, what amount would make this work?&quot;"/>
+	<entry name="AcceptCreditsForDeal1" value="&quot;Rational. The money is yours. Now let's talk.&quot;"/>
+	<entry name="RejectCreditsForDeal0" value="&quot;Sorry, %1%, but this conversation is irrelevant.&quot;"/>
+	<entry name="RejectCreditsForDeal1" value="&quot;We don't pay in Australium. What planet are you from?&quot;"/>
+	<entry name="CreditsForDealRejected" value="&quot;Science is beyond money.&quot;"/>
+	<entry name="DemandCreditsForDeal" value="&quot;We need some funds for research. Can you make a donation?&quot;"/>
+	<entry name="DemandCredits0" value="&quot;New neutrino factories for all our labs should only cost %6% <icon texture='Resources/Credits'/> credits.&quot;"/>
+	<entry name="DemandCredits1" value="&quot;Hmm, with %6% <icon texture='Resources/Credits'/> credits we can build the Notional Boson Impacter the particle team want.&quot;"/>
+	<entry name="DemandCredits2" value="&quot;Just send over %6% <icon texture='Resources/Credits'/> credits. It'll all go to science.&quot;"/>
+	<entry name="DemandCredits3" value="&quot;We want to indulge in pure research -- so we need pure money. Every cent you've got.&quot; (%6% <icon texture='Resources/Credits'/> credits)"/>
+	<entry name="OfferCredits0" value="&quot;Would a sum of %6% <icon texture='Resources/Credits'/> credits help with your gamete reassignment surgery?&quot;"/>
+	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> credits. The cost of the Human Genome Project, in today's money. Does that work?&quot;"/>
+	<entry name="OfferCredits2" value="&quot;These %6% <icon texture='Resources/Credits'/> credits were meant to be for curing cancer and solving world hunger. Perhaps someone else on this planet has that covered? Take them.&quot;"/>
+	<entry name="OfferCredits3" value="&quot;%6% <icon texture='Resources/Credits'/> credits -- and that's my entire fortune! Every quark of every atom of every molecule of every credit.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Yes, let us toast to a shared venture into a new age! I made this whiskey myself, in our Large Scale Atom Assembler.&quot;"/>
+	<entry name="AllianceRejected" value="&quot;We're scientists. We're meant to be non-aligned!&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;I really hoped for a longer journey together...&quot;"/>
-	<entry name="Compliment0" value=""/>
-	<entry name="Compliment1" value=""/>
-	<entry name="Compliment2" value=""/>
-	<entry name="DeclareWar" value="&quot;I had sincere hopes we could avoid a war, but the time has finally come.&quot;"/>
-	<!-- TODO --> <entry name="Eliminated" value="&quot;We shall meet again.&quot;"/>
-	<entry name="Goodbye" value="&quot;We're done here.&quot;"/>
-	<entry name="Greet0" value="&quot;I have better things to do than argue with simpletons, so make your demands.&quot;"/>
+	<entry name="Condemn" value="&quot;You murdering bastard! I blame myself that the technology to wipe out entire countries ended up in your hands!&quot;"/>
+	<entry name="CondemnAccepted" value="&quot;%4% Be assured, I did not make this choice lightly. &quot;"/>	
+	<entry name="DeclareWar" value="&quot;%4% I had sincere hopes we could avoid a war, but the time has finally come.&quot;"/>
+	<entry name="DemandWithdrawal" value="&quot;Don't think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal, or there will be consequences...&quot;"/>
+	<entry name="Eliminated" value="&quot;This world is doomed without science. Something is... coming.&quot;"/>
+	<entry name="Goodbye" value="&quot;Schreiber out.&quot;"/>
+	<entry name="Greet0" value="&quot;I have better things to do than argue with simpletons, so make your demands clear.&quot;"/>
 	<entry name="Greet1" value="&quot;Greetings, %3%. What are the latest discoveries in your empire?&quot;"/>
-	<entry name="Greet2" value="&quot;Always a delight to meet you, %1%. What is on your mind?&quot;"/>
-	<entry name="Insult0" value=""/>
-	<entry name="Insult1" value=""/>
-	<entry name="Insult2" value=""/>
-	<entry name="NonAggressionPactAccepted" value="&quot;Signed. We have no plans to attack you in the foreseeable future.&quot;"/>
+	<entry name="Greet2" value="&quot;Always a delight to see you, %1%. What is on your mind?&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Signed. We have no plans to attack you in the foreseeable future. Or the past, either. My little joke.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;Thanks for the offer, but I can't give that guarantee.&quot;"/>
 	<entry name="NonAggressionPactTerminated" value="&quot;Now I have to plan for such mundane tasks as winning a war.&quot;"/>
-	<entry name="OfferAlliance" value="&quot;Let us take the journey into a new age together!&quot; (offers alliance)"/>
-	<entry name="OfferNonAggressionPact" value="&quot;What do you think about a non-aggression pact between our parties?&quot;"/>
-	<entry name="OfferPeace" value="&quot;Be a responsible leader, %2%, and accept our peace offer.&quot;"/>
-	<entry name="OfferResearchPact" value="&quot;Let's combine our research efforts and leave the others behind!&quot;"/>
-	<entry name="OfferTradingPact" value="&quot;How about a trading pact? Both sides profit.&quot;"/>
+	<entry name="OfferAlliance" value="&quot;We're not wonderful at this fighting thing. Could you help us out?&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;How about a non-aggression pact? Though I doubt you understand more than 'I agree to not punch anyone wearing glasses.'&quot;"/>
+	<entry name="OfferPeace" value="&quot;Whoah, can we stop this war already? The shell impacts are disturbing our experiments.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;I can't believe you haven't asked us, but... do you want to share in our scientific discoveries?&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;We'd like to trade. Oh, have you ever heard of the Prisoner's Dilemma? No? Good.&quot;"/>
 	<entry name="PeaceAccepted" value="&quot;Maybe you're not that unreasonable after all, %2%. Accepted.&quot;"/>
 	<entry name="PeaceRejected" value="&quot;Declined. Plain and simple.&quot;"/>
 	<entry name="ResearchPactAccepted" value="&quot;An excellent suggestion. We accept.&quot;"/>
 	<entry name="ResearchPactRejected" value="&quot;Hehe, no thanks, %1%.&quot;"/>
 	<entry name="ResearchPactTerminated" value="&quot;You are insulting my intelligence, %2%. I will not forget this.&quot;"/>
 	<entry name="TerminateAlliance" value="&quot;It feels as if lately our interests have grown apart, an alliance is no longer justified.&quot;"/>
-	<entry name="TerminateNonAggressionPact" value="&quot;I'm afraid I can no longer guarantee the peace between our factions.&quot; (cancels non-aggression pact, loses reputation among all factions)"/>
-	<entry name="TerminateResearchPact" value="&quot;Let's be honest %1%, you profit significantly more from our research pact...&quot; (cancels research pact)"/>
-	<entry name="TerminateTradingPact" value="&quot;Our profits from the trade pact are marginal at best...&quot; (cancels trading pact)"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;I'm afraid I can no longer guarantee the peace between our factions.&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;Let's be honest %1%, you profit significantly more from our research pact...&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;Our profits from the trade pact are marginal at best...&quot;"/>
 	<entry name="TradingPactAccepted" value="&quot;Yes, let's give it a try.&quot;"/>
 	<entry name="TradingPactRejected" value="&quot;No thanks, %1%. Maybe in the future.&quot;"/>
 	<entry name="TradingPactTerminated" value="&quot;%2%, don't be so irrational!&quot;"/>
 	<entry name="WarAccepted" value="&quot;Tiresome, but unavoidable. I guess.&quot;"/>
+	<entry name="WithdrawalAccepted" value="&quot;Quantum uncertainty dictates that our the entangled particles that constitute our troops could be just about anywhere. But we'll make sure that they're not on your territory.&quot;"/>
+	<entry name="WithdrawalRejected" value="&quot;Do you think we would have put our troops somewhere we didn't mean them to be? You underestimate me, sir.&quot;"/>
 </language>

@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AddProductKey" value="Aggiungi Product Key"/>
+	<entry name="AddProductKeyPrompt" value="Inserisci un Product Key valido da aggiungere al tuo account Slitherine:"/>
+	<entry name="Advanced" value="Avanzate"/>
+	<entry name="Advancement" value="Avanzamento"/>
+	<entry name="Advancements" value="Avanzamenti"/>
+	<entry name="AdvancementsHelp" value="Gli avanzamenti forniscono bonus temporanei o permanenti al tuo impero appena vengono sviluppati in una delle tue città. Questi bonus spaziano da un semplice guadagno una tantum di risorse, ad unità bonus, fino a strategie e tecnologie avanzate che concedono significanti vantaggi sul campo di battaglia."/>
+	<entry name="All" value="Tutto"/>
+	<entry name="Alliance" value="Alleanza"/>
+	<entry name="AllocationLocked" value="I coloni non verranno assegnati automaticamente a questo compito."/>
+	<entry name="AllocationUnlocked" value="I coloni verranno assegnati automaticamente a questo compito"/>
+	<entry name="Armor" value="Corazza"/>
+	<entry name="Armors" value="Corazze"/>
+	<entry name="ArmorsHelp" value="Nel laboratorio possono essere applicate delle corazze alle unità, in termini di gioco forniscono energia aggiuntiva per un aumento dei costi di produzione.<br/><br/>Una migliore corazza non significa un incremento dei costi di produzione, è una buona idea equipaggiare sempre la miglior corazza finché il costo del design rimane accettabile."/>
+	<entry name="Army" value="Armata"/>
+	<entry name="Background" value="Storia"/>
+	<entry name="Building" value="Costruzione"/>
+	<entry name="Buildings" value="Costruzioni"/>
+	<entry name="BuildingsHelp" value="Le costruzioni vengono prodotte nelle città per migliorare l'economia e l'industria del tuo impero. Mentre alcune costruzioni semplicemente aumentano la produzione di risorse di una città, altre forniscono benefici difensivi o servono a sviluppare operazioni.<br/><br/>Nota che le costruzioni hanno un costo di mantenimento, quindi dovresti costruirle solo dove sono realmente necessarie."/>
+	<entry name="Buy" value="Compra"/>
+	<entry name="Cancel" value="Annulla"/>
+	<entry name="CancelOrder" value="Annulla ordine"/>
+	<entry name="CannotHarvestTerritoryHint" value="Impossibile sfruttare il territorio."/>
+	<entry name="ChooseProduction" value="Scegli Produzione"/>
+	<entry name="ChooseProductionHint" value="Scegli l'elemento che desideri produrre [Spazio]."/>
+	<entry name="ChooseResearch" value="Scegli Ricerca"/>
+	<entry name="ChooseResearchHint" value="Scegli la ricerca da sviluppare [Spazio]."/>
+	<entry name="CompatibleDesigns" value="Design Compatibili"/>
+	<entry name="Compendium" value="Enciclopedia"/>
+	<entry name="ConfirmPassword" value="Conferma Password"/>
+	<entry name="Connect" value="Connetti"/>
+	<entry name="Contacts" value="Contatti"/>
+	<entry name="Continue" value="Continua"/>
+	<entry name="ContinuePlaying" value="Continua Partita"/>
+	<entry name="COST" value="<style name='Small' color='Gray'/>%1% del costo<style name='Default'/>"/>
+	<entry name="ConversionsHint" value="Conversioni<br/>Numero degli alieni indigeni convertiti."/>
+	<entry name="Cities" value="Città"/>
+	<entry name="City" value="Città"/>
+	<entry name="CityPopulation" value="Popolazione della città."/>
+	<entry name="CityTaxRate" value="Percentuale Tasse"/>
+	<entry name="CityTaxSliderHint" value="Percentuale Tasse<br/>Regola la percentuale di tasse cittadine. Tasse alte aumentano gli <icon texture='Resources/Credits'/> introiti, tasse basse il <icon texture='Resources/Morale'/> morale."/>
+	<entry name="Class" value="Classe"/>
+	<entry name="Close" value="Chiudi"/>
+	<entry name="ContactPlayer" value="Clicca per contattare %1%."/>
+	<entry name="CreateAccount" value="Crea Account"/>
+	<entry name="CreateAccountPrompt" value="Inserisci le informazioni richieste:"/>
+	<entry name="Credits" value="Crediti"/>
+	<entry name="CreditsHint" value="Crediti<br/>Una riserva di ricchezza utilizzata per acquistare beni e pagare i costi di mantenimento. Senza crediti le tue unità e le tue costruzioni saranno congedate o smantellate."/>
+	<entry name="Culture" value="Cultura"/>
+	<entry name="CultureColonists" value="Artisti"/>
+	<entry name="CultureColonistsHint" value="Gli artisti accumulano cultura per espandere i confini delle tue città ed innalzare il morale."/>
+	<entry name="CultureHint" value="Cultura<br/>Utilizzata per espandere i confini ed innalzare il morale."/>
+	<entry name="CurrentResearchHint" value="Tecnologia attualmente in sviluppo. Clicca per modificare."/>
+	<entry name="Date" value="%1% %2% DC"/>
+	<entry name="DEFEAT!" value="SCONFITTA!"/>
+	<entry name="Delete" value="Elimina"/>
+	<entry name="DeleteSavedGameTitle" value="Elimina Salvataggio"/>
+	<entry name="DeleteSavedGameMessage" value="Eliminerai definitivamente il salvataggio. Sei sicuro di voler continuare?"/>
+	<entry name="DeleteUnitDesignHint" value="Elimina il design selezionato."/>
+	<entry name="Demographics" value="Demografia"/>
+	<entry name="DesignNameHint" value="Nome del design. Clicca per rinominare."/>
+	<entry name="Designs" value="Design"/>
+	<entry name="DetailedStanding0" value="Furibondo"/>
+	<entry name="DetailedStanding1" value="Arrabbiato"/>
+	<entry name="DetailedStanding2" value="Riservato"/>
+	<entry name="DetailedStanding3" value="Educato"/>
+	<entry name="DetailedStanding4" value="Cooperativo"/>
+	<entry name="DetailedStanding5" value="Amichevole"/>
+	<entry name="DetailedStanding6" value="Generoso"/>
+	<entry name="Device" value="Dispositivo"/>
+	<entry name="Devices" value="Dispositivi"/>
+	<entry name="DevicesHelp" value="Applicati ai design tramite il laboratorio, i dispositivi forniscono diversi bonus alle unità in cambio dell'aumento del costo di produzione.<br/><br/>A differenza del semplice bonus energetico derivante dalle corazze, i bonus dei dispositivi dipendono dalle situazioni... quindi cerca di utilizzarli in modo corretto."/>
+	<entry name="Dialogue" value="Dialogo"/>
+	<entry name="Diplomacy" value="Diplomazia"/>
+	<entry name="Diplomacy1" value="Isolato ed odiato dalle altre fazioni"/>
+	<entry name="Diplomacy2" value="Relazioni diplomatiche deludenti"/>
+	<entry name="Diplomacy3" value="Rispettato dalle altre fazioni"/>
+	<entry name="Diplomacy4" value="Buone relazioni diplomatiche"/>
+	<entry name="Diplomacy5" value="Amato se non idolatrato dalle altre fazioni"/>
+	<entry name="Directory" value="Cartella"/>
+	<entry name="DirectConnect" value="Connessione Diretta"/>
+	<entry name="DisableTips" value="Disabilita"/>
+	<entry name="DisableTipsHint" value="Non mostrare più i suggerimenti. Puoi riabilitarli dal pannello impostazioni."/>
+	<entry name="Economy" value="Economia"/>
+	<entry name="Economy1" value="Abisso economico"/>
+	<entry name="Economy2" value="Economia povera"/>
+	<entry name="Economy3" value="Economia fiorente"/>
+	<entry name="Economy4" value="Economia superiore"/>
+	<entry name="Economy5" value="Economia senza rivali"/>
+	<entry name="EconomyVictoryDescription" value="Accumula abbastanza crediti per acquistare il 75% delle altre fazioni indipendenti per ottenere la vittoria economica."/>
+	<entry name="EconomyVictoryProgress" value="Progresso vittoria economica: %1%%%"/>
+	<entry name="Efficiency" value="Efficienza"/>
+	<entry name="Eliminated" value="Eliminato"/>
+	<entry name="Email" value="Email"/>
+	<entry name="EndTurn" value="Fine Turno"/>
+	<entry name="EndTurnHint" value="Termina il tuo turno [Spazio]."/>
+	<entry name="Enter" value="Entra"/>
+	<entry name="EnterCityHint" value="Clicca per entrare nel pannello cittadino."/>
+	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> danno"/>
+	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> energia"/>
+	<entry name="Era0" value="Era della Colonizzazione"/>
+	<entry name="Era1" value="Era della Meccanizzazione"/>
+	<entry name="Era2" value="Era della Trascendenza"/>
+	<entry name="EstimatedCasualties" value="Casualità Stimata"/>
+	<entry name="Events" value="Eventi"/>
+	<entry name="ExitToDesktop" value="Esci al Desktop"/>
+	<entry name="ExitToMainMenu" value="Esci al Menu"/>
+	<entry name="Faction" value="Fazione"/>
+	<entry name="Factions" value="Fazioni"/>
+	<entry name="FactionsHelp" value="La globalizzazione, la colonizzazione di un pianeta extraterrestre del nostro sistema solare, ed il primo successo nella costruzione di un Drive Alcubierre nella seconda metà del ventunesimo secolo, uniti per minare rapidamente il vecchio ordine terrestre.<br/><br/>Per rimanere in affari e sostenere gli enormi costi necessari ad affrontare l'inquinamento globale e l'ingegneria extraterrestre, la maggior parte delle nazioni si unirono in federazioni o in potenti mega corporazioni.<br/><br/>Le fazioni che ne risultarono differiscono enormemente per ideologie e credenze su come la razza umana dovrebbe progredire nello sconosciuto futuro."/>
+	<entry name="Feature" value="Caratteristica"/>
+	<entry name="Features" value="Caratteristiche"/>
+	<entry name="FeaturesHelp" value="Le caratteristiche vengono utilizzare per classificare lo stato dei territori. Possono essere semplici caratteristiche territoriali come pianure o foreste, costruzioni come strade e fattorie o anche strutture sofisticate create dalle operazioni."/>
+	<entry name="Flanking" value="Affiancamento"/>
+	<entry name="Food" value="Cibo"/>
+	<entry name="FoodColonists" value="Agricoltori"/>
+	<entry name="FoodColonistsHint" value="Gli agricoltori producono cibo dal territorio per il sostentamento della tua popolazione."/>
+	<entry name="FoodHint" value="Cibo<br/>Sostentamento della popolazione. Senza cibo i tuoi coloni moriranno di fame."/>
+	<entry name="ForceEndTurnHint" value="Forza la fine del turno [Ctrl+Spazio]."/>
+	<entry name="Friendly" value="Amichevole"/>
+	<entry name="GameBrowser" value="Browser"/>
+	<entry name="GameLobby" value="Lobby"/>
+	<entry name="GameName" value="Nome Partita"/>
+	<entry name="GameOver" value="Game Over"/>
+	<entry name="GlobalTaxRate" value="Percentuale Globale Tasse"/>
+	<entry name="GlobalTaxSliderHint" value="Regola la percentuale globale delle tasse. Tasse alte aumentano gli <icon texture='Resources/Credits'/> introiti, tasse basse il <icon texture='Resources/Morale'/> morale."/>
+	<entry name="Growth" value="Crescita"/>
+	<entry name="GrowthHint" value="Crescita<br/>La percentuale di crescita o diminuzione della tua popolazione. Una volta raggiunto un livello positivo o negativo, guadagni o perdi un colono. Iniziando da un valore di 8, ogni volta che la tua città cresce, i tuoi confini si espandono."/>
+	<entry name="Habitat" value="Habitat"/>
+	<entry name="HabitatHint" value="Habitat<br/>Spazio vitale disponibile per la tua popolazione. Un valore negativo indica sovrappopolazione, che riduce il morale."/>
+	<entry name="HallOfFame" value="Hall of Fame"/>
+	<entry name="HealthHint" value="Salute<br/>La condizione generale."/>
+	<entry name="Help" value="Aiuto"/>
+	<entry name="HideAdditionalOrders" value="Nascondi ordini aggiuntivi."/>
+	<entry name="Host" value="Host"/>
+	<entry name="Hostile" value="Ostile"/>
+	<entry name="IdleUnitsHint" value="Seleziona la prossima unità inattiva [Tab]."/>
+	<entry name="Incompatible" value="Incompatibile"/>
+	<entry name="Info" value="Info"/>
+	<entry name="INFINITY" value="99"/>
+	<entry name="IP" value="IP"/>
+	<entry name="Join" value="Unisciti"/>
+	<entry name="LastPing" value="Ultimo Ping"/>
+	<entry name="LeadBy" value="Condotto da %1%"/>
+	<entry name="LeadsTo" value="Porta a:"/>
+	<entry name="Legend" value="Legenda"/>
+	<entry name="Lifeform" value="Forma di Vita"/>
+	<entry name="Load" value="Carica"/>
+	<entry name="LoadGame" value="Carica Partita"/>
+	<entry name="LoadGameHint" value="Carica Partita [Ctrl+L]<br/>Caricamento Veloce [F12]"/>
+	<entry name="LoadingSavedGame" value="Caricamento salvataggio"/>
+	<entry name="Login" value="Login"/>
+	<entry name="LoginPrompt" value="Inserisci le informazioni del tuo account Slitherine:"/>
+	<entry name="Lore" value="Tradizione"/>
+	<entry name="Market" value="Mercato"/>
+	<entry name="Menu" value="Menu"/>
+	<entry name="Military" value="Militare"/>
+	<entry name="Military1" value="Numero di truppe patetico"/>
+	<entry name="Military2" value="Bassa forza militare"/>
+	<entry name="Military3" value="Forze militari solide"/>
+	<entry name="Military4" value="Forte esercito permanente"/>
+	<entry name="Military5" value="Formazioni massicce di truppe"/>
+	<entry name="MilitaryVictoryDescription" value="Controlla il 75% della popolazione di Pandora per ottenere una vittoria militare."/>
+	<entry name="MilitaryVictoryProgress" value="Progresso vittoria militare: %1%%%"/>
+	<entry name="Minerals" value="Minerali"/>
+	<entry name="MineralsColonists" value="Minatori"/>
+	<entry name="MineralsColonistsHint" value="I minatori estraggono minerali dal territorio per utilizzarli nella produzione."/>
+	<entry name="MineralsHint" value="Minerali<br/>Sostentamento della produzione. Senza minerali i tuoi coloni non possono produrre beni."/>
+	<entry name="Minimap" value="Minimappa"/>
+	<entry name="Month0" value="Gennaio"/>
+	<entry name="Month1" value="Febbraio"/>
+	<entry name="Month2" value="Marzo"/>
+	<entry name="Month3" value="Aprile"/>
+	<entry name="Month4" value="Maggio"/>
+	<entry name="Month5" value="Giugno"/>
+	<entry name="Month6" value="Luglio"/>
+	<entry name="Month7" value="Agosto"/>
+	<entry name="Month8" value="Settembre"/>
+	<entry name="Month9" value="Ottobre"/>
+	<entry name="Month10" value="Novembre"/>
+	<entry name="Month11" value="Dicembre"/>
+	<entry name="Morale" value="Morale"/>
+	<entry name="MoraleHint" value="Morale<br/>Felicità globale della popolazione. Ogni punto positivo o negativo di morale aumenta o diminuisce la produzione di risorse della tua popolazione del 5%."/>
+	<entry name="More" value="Altro"/>
+	<entry name="MovementHint" value="Velocità di Movimento<br/>Il numero di territori che la tua unità può attraversare in un mese."/>
+	<entry name="Multiplayer" value="Multiplayer"/>
+	<entry name="Name" value="Nome"/>
+	<entry name="Neutral" value="Neutrale"/>
+	<entry name="New" value="Nuovo"/>
+	<entry name="NewGame" value="Nuova Partita"/>
+	<entry name="NewSaveGame" value="Nuovo Salvataggio"/>
+	<entry name="NewTypeDiscovered" value="Nuova Scoperta: %1%"/>
+ 	<entry name="NewUnitDesignHint" value="Crea nuovo design."/>
+ 	<entry name="NoEnemyRetaliation" value="<icon texture='GUI/Bullet'/>Nessuna ritorsione nemica"/>
+ 	<entry name="NoGainFromArmor" value="<icon texture='GUI/Bullet'/>Nessun guadagno dalla corazza"/>
+ 	<entry name="NoGainFromWeapon" value="<icon texture='GUI/Bullet'/>Nessun guadagno dall'arma"/>
+ 	<entry name="NoResearchSet" value="Nessuna ricerca in sviluppo"/>
+	<entry name="NonAggressionPact" value="Patto di non aggressione"/>
+	<entry name="None" value="Nessuno"/>
+	<entry name="NotReady" value="Non Pronto"/>
+	<entry name="NoCompatibleDesigns" value="Nessun design compatibile disponibile."/>
+	<entry name="NoUnitSelected" value="Nessuna unità selezionata"/>
+	<entry name="NoValidUnitsSelected" value="Nessuna unità valida selezionata."/>
+	<entry name="OK" value="OK"/>
+	<entry name="OpenBorders" value="Confini aperti"/>
+	<entry name="OpenCompendiumHint" value="Apri enciclopedia [F1]."/>
+	<entry name="OpenDiplomacyHint" value="Apri pannello diplomatico [F2]."/>
+	<entry name="OpenEconomyHint" value="Apri pannello economico [F3]."/>
+	<entry name="OpenEventsHint" value="Apri pannello eventi [F7]."/>
+	<entry name="OpenMenuHint" value="Apri menu [ESC]."/>
+	<entry name="OpenMilitaryHint" value="Apri pannello militare [F4]."/>
+	<entry name="OpenResearchHint" value="Apri pannello ricerca [F5]."/>
+	<entry name="OpenUnitWorkshopHint" value="Apri laboratorio [F6]."/>
+	<entry name="OpenWebsite" value="Apri il sito nel tuo browser preferito."/>
+	<entry name="Operation" value="Operazione"/>
+	<entry name="Operations" value="Operazioni"/>
+	<entry name="OperationsHelp" value="Che siano attivamente schierate in campo o passivamente consumate, le operazioni spaziano da piccoli vantaggi militari od economici fino ad armi dai poteri devastanti. Un utilizzo saggio delle operazioni può cambiare le sorti di ogni campagna, quindi è una buona idea incorporarle nelle tue strategie."/>
+	<entry name="OrderUnits" value="Ordini Unità (%1%)"/>
+	<entry name="OrderUnitsHint" value="Scegli un ordine per le unità inattive."/>
+	<entry name="Other" value="Altro"/>
+	<entry name="Overwrite" value="Sovrascrivi"/>
+	<entry name="OverwriteSavedGameTitle" value="Sovrascrivi Salvataggio"/>
+	<entry name="OverwriteSavedGameMessage" value="Cancellerai definitivamente il salvataggio. Sei sicuro di voler continuare?"/>
+	<entry name="Parameters" value="Parametri"/>
+	<entry name="Password" value="Password"/>
+	<entry name="PlayerName" value="Nome Giocatore"/>
+	<entry name="Players" value="Giocatori"/>
+	<entry name="PleaseWait" value="Attendere Prego..."/>
+	<entry name="PleaseWaitHint" value=""/>
+	<entry name="Pollution" value="Inquinamento"/>
+	<entry name="PollutionHint" value="Inquinamento<br/>La quantità di scarti industriali prodotti dalla città; ha un effetto negativo sul morale."/>
+	<entry name="Population" value="Popolazione"/>
+	<entry name="PopulationHint" value="Popolazione<br/>Assegnata ai compiti."/>
+	<entry name="PopulationX" value="Popolazione (%1%)"/>
+	<entry name="Port" value="Porta"/>
+	<entry name="PowerHint" value="Energia<br/>Indica la forza difensiva ed offensiva base. L'energia diminuisce proporzionalmente alla salute."/>
+	<entry name="ProcessingTurn" value="Turno in corso..."/>
+	<entry name="ProducingProduceable" value="Producendo %1%."/>
+	<entry name="Production" value="Produzione"/>
+	<entry name="ProductionColonists" value="Operai"/>
+	<entry name="ProductionColonistsHint" value="Gli operai raffinano i minerali per creare produzione."/>
+	<entry name="ProductionCostHint" value="Costo Produzione"/>
+	<entry name="ProductionHint" value="Produzione<br/>Raffina i minerali per creare costruzioni, truppe od operazioni."/>
+	<entry name="ProductionOptions" value="Opzioni Produzione"/>
+	<entry name="ProductionQueue" value="Coda di Produzione"/>
+	<entry name="ProductKey" value="Product Key"/>
+	<entry name="Profile" value="Profilo"/>
+	<entry name="Provides" value="Fornisce:"/>
+	<entry name="PurchaseProductionItem" value="Compra per %1% <icon texture='Resources/Credits'/> crediti."/>
+	<entry name="PurchaseCost" value="%1% <icon texture='Resources/Credits'/>"/>
+	<entry name="PurchaseDescription" value="Compra"/>
+	<entry name="Quit" value="Esci"/>
+	<entry name="Random" value="Casuale"/>
+	<entry name="Rank" value="Grado"/>
+	<entry name="RankHint" value="Grado (%1% / %2%)<br/>Esperienza acquisita dall'unità in combattimento. Ogni grado successivo aumenta l'energia dell'unità di %3%%%."/>
+	<entry name="Raze" value="Razzia"/>
+	<entry name="RazeHint" value="Clicca per iniziare a razziare la città uccidendo 1 popolazione per ogni turno."/>
+	<entry name="RazeOrder" value="ordina razzia"/>
+	<entry name="Ready" value="Pronto"/>
+	<entry name="Refit" value="Aggiorna"/>
+	<entry name="RefitUnits" value="Aggiorna %1% / %2% unità per %3% <icon texture='Resources/Credits'/> crediti."/>
+	<entry name="Refresh" value="Aggiorna"/>
+	<entry name="RememberPassword" value="Recupera Password"/>	
+	<entry name="RemoteHost" value="Host Remoto"/>
+	<entry name="RemotePort" value="Porta Remota"/>
+	<entry name="Report" value="Rapporto"/>
+	<entry name="RequiresX" value="Necessita di %1% %2%."/>
+	<entry name="Research" value="Ricerca"/>
+	<entry name="Research1" value="Ricerca molto arretrata"/>
+	<entry name="Research2" value="Tecnologie datate"/>
+	<entry name="Research3" value="Progressi scientifici moderati"/>
+	<entry name="Research4" value="Tecnologie avanzate"/>
+	<entry name="Research5" value="Ricerca fuori dal comune e molto avanzata"/>
+	<entry name="ResearchColonists" value="Scienziati"/>
+	<entry name="ResearchColonistsHint" value="Gli scienziati accumulano ricerca per sviluppare nuove tecnologie."/>
+	<entry name="ResearchHint" value="Ricerca<br/>Accumulo di conoscenza. Utilizzata per sviluppare nuove tecnologie."/>
+	<entry name="ResearchPact" value="Patto di ricerca"/>
+	<entry name="ResearchVictoryDescription" value="Ricerca il 75% di tutte le tecnologie per ottenere una vittoria scientifica."/>
+	<entry name="ResearchVictoryProgress" value="Progresso vittoria scientifica: %1%%%"/>
+	<entry name="ResetPassword" value="Resetta Password"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulati"/>
+	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% accumulati"/>
+	<entry name="ResourcePerTurn" value="%1% per turno"/>
+	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% dagli aggiornamenti"/>
+	<entry name="ResourcePerTurnFromArtists" value="<icon texture='GUI/Bullet'/>%1% dagli artisti"/>
+	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% dal mantenimento delle costruzioni"/>
+	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% dalle costruzioni"/>
+	<entry name="ResourcePerTurnFromCity" value="<icon texture='GUI/Bullet'/>%1% dalla città"/>
+	<entry name="ResourcePerTurnFromFaction" value="<icon texture='GUI/Bullet'/>%1% dalla fazione"/>
+	<entry name="ResourcePerTurnFromFarmers" value="<icon texture='GUI/Bullet'/>%1% dagli agricoltori"/>
+	<entry name="ResourcePerTurnFromFrontierPenalty" value="<icon texture='GUI/Bullet'/>%1% dalla penalità di frontiera"/>
+	<entry name="ResourcePerTurnFromHabitat" value="<icon texture='GUI/Bullet'/>%1% dall'habitat"/>
+	<entry name="ResourcePerTurnFromMigration" value="<icon texture='GUI/Bullet'/>%1% dalla migrazione"/>
+	<entry name="ResourcePerTurnFromMineralShortage" value="<icon texture='GUI/Bullet'/>%1% dalla scarsità di minerali"/>
+	<entry name="ResourcePerTurnFromMiners" value="<icon texture='GUI/Bullet'/>%1% dai minatori"/>
+	<entry name="ResourcePerTurnFromMorale" value="<icon texture='GUI/Bullet'/>%1% dal morale"/>
+	<entry name="ResourcePerTurnFromNaturalGrowth" value="<icon texture='GUI/Bullet'/>%1% dalla crescita naturale"/>
+	<entry name="ResourcePerTurnFromOther" value="<icon texture='GUI/Bullet'/>%1% da altro"/>
+	<entry name="ResourcePerTurnFromPollution" value="<icon texture='GUI/Bullet'/>%1% dall'inquinamento"/>
+	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% dalla popolazione"/>
+	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% dalla produzione"/>
+	<entry name="ResourcePerTurnFromRazing" value="<icon texture='GUI/Bullet'/>%1% dalle razzie"/>
+	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% dalla ricerca"/>
+	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% dagli scienziati"/>
+	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% dai patti di ricerca"/>
+	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% dalla mancanza di cibo"/>
+	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% dalle acquisizioni"/>
+	<entry name="ResourcePerTurnFromTaxes" value="<icon texture='GUI/Bullet'/>%1% dalle tasse"/>
+	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% dai territori"/>
+	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% dai trattati commerciali"/>
+	<entry name="ResourcePerTurnFromUnits" value="<icon texture='GUI/Bullet'/>%1% dalle unità"/>
+	<entry name="ResourcePerTurnFromUnitUpkeep" value="<icon texture='GUI/Bullet'/>%1% dal mantenimento delle unità"/>
+	<entry name="ResourcePerTurnFromWorkers" value="<icon texture='GUI/Bullet'/>%1% dagli operai"/>
+	<entry name="ResourceTotal" value="%1% totale"/>
+	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>%1% turno/i rimanente/i"/>
+	<entry name="Return" value="Indietro"/>
+	<entry name="ReturnToMap" value="Torna alla Mappa"/>
+	<entry name="RazeOrder" value="ordina razzia"/>
+	<entry name="Save" value="Salva"/>
+	<entry name="SaveGame" value="Salva Partita"/>
+	<entry name="SaveGameHint" value="Salva Partita [Ctrl+S]<br/>Salvataggio Rapido [F11]"/>
+	<entry name="SelectCompatibleDesign" value="Seleziona un design compatibile."/>
+	<entry name="Sell" value="Vendi"/>
+	<entry name="SellBuildingTitle" value="Vendi Costruzioni"/>
+	<entry name="SellBuildingMessage" value="Sei sicuro di voler vendere %1% per %2% <icon texture='Resources/Credits'/> crediti?"/>
+	<entry name="SetTerritoryToAcquire" value="Imposta la futura acquisizione di questo territorio quando viene accumulata abbastanza popolazione <style color='Gray'/>(%1%)<style name='Default'/> <style color='Gray'/>(%2% turni)<style name='Default'/>."/>
+	<entry name="Score0" value="Nessuno"/>
+	<entry name="Score1" value="Molto Debole"/>
+	<entry name="Score2" value="Debole"/>
+	<entry name="Score3" value="Normale"/>
+	<entry name="Score4" value="Forte"/>
+	<entry name="Score5" value="Molto Forte"/>
+	<entry name="Selection" value="Selezione"/>
+	<entry name="Settings" value="Impostazioni"/>
+	<entry name="SettingsHint" value="Impostazioni [Ctrl+E]"/>
+	<entry name="ShowAdditionalOrders" value="Mostra ordini aggiuntivi."/>
+	<entry name="SightHint" value="Raggio di Percezione<br/>Quanto lontano può vedere l'unità."/>
+	<entry name="SortByClass" value="Ordina per Classe"/>
+	<entry name="SortByCredits" value="Ordina per Crediti"/>
+	<entry name="SortByDevice" value="Ordina per Dispositivo"/>
+	<entry name="SortByDesign" value="Ordina per Design"/>
+	<entry name="SortByFood" value="Ordina per Cibo"/>
+	<entry name="SortByGrowth" value="Ordina per Crescita"/>
+	<entry name="SortByHabitat" value="Ordina per Habitat"/>
+	<entry name="SortByHealth" value="Ordina per Salute"/>
+	<entry name="SortByMinerals" value="Ordina per Minerali"/>
+	<entry name="SortByMorale" value="Ordina per Morale"/>
+	<entry name="SortByMovement" value="Ordina per Movimento"/>
+	<entry name="SortByName" value="Ordina per Nome"/>
+	<entry name="SortByOrder" value="Ordina per Ordini"/>
+	<entry name="SortByPollution" value="Ordina per Inquinamento"/>
+	<entry name="SortByPopulation" value="Ordina per Popolazione"/>
+	<entry name="SortByProduction" value="Ordina per Produzione"/>
+	<entry name="SortByPower" value="Ordina per Energia"/>
+	<entry name="SortByResearch" value="Ordina per Ricerca"/>
+	<entry name="SortBySight" value="Ordina per Percezione"/>
+	<entry name="SortByUpkeep" value="Ordina per Mantenimento"/>
+	<entry name="SortByWeapon" value="Ordina per Arma"/>
+	<entry name="Spectating" value="Assistere"/>
+	<entry name="SpectatingHint" value=""/>
+	<entry name="Spectator" value="Spettatore"/>
+	<entry name="Start" value="Inizia"/>
+	<entry name="Statistics" value="Statistiche"/>
+	<entry name="StopRazing" value="<style color='Red'/>Ferma Razzia"/>
+	<entry name="StopRazingHint" value="Clicca per fermare la razzia della città."/>
+	<entry name="Stories" value="Storie"/>
+	<entry name="StoriesHelp" value=""/>
+	<entry name="Story" value="Storia"/>
+	<entry name="Targets" value="Bersagli"/>
+	<entry name="TargetPower" value="Energia Obiettivo"/>
+	<entry name="Team" value="Squadra"/>
+	<entry name="Team0" value="Nessuna"/>
+	<entry name="Team1" value="A"/>
+	<entry name="Team2" value="B"/>
+	<entry name="Team3" value="C"/>
+	<entry name="Team4" value="D"/>
+	<entry name="Team5" value="E"/>
+	<entry name="Team6" value="F"/>
+	<entry name="Team7" value="G"/>
+	<entry name="Team8" value="H"/>
+	<entry name="Technologies" value="Tecnologie"/>
+	<entry name="TechnologiesHelp" value="Nel corso della partita sbloccherai tecnologie più avanzate che di forniranno nuove costruzioni, unità, armi, dispositivi, operazioni e miglioramenti.<br/><br/>Se non è disattivata, lo sviluppo del 75% delle tecnologie disponibili porterà alla vittoria scientifica."/>
+	<entry name="TechnologyCost" value="Costo: %1% <icon texture='Resources/Research'/> ricerca <style name='Small' color='Gray'/>(%2% turni)"/>
+	<entry name="TerritorySetToAcquire" value="Questo territorio sarà acquisito quando accumulerai abbastanza popolazione <style color='Gray'/>(%1%)<style name='Default'/> <style color='Gray'/>(%2% turni)<style name='Default'/>."/>
+	<entry name="Timeline" value="Cronologia"/>
+	<entry name="TimelineHelp" value="Il viaggio è stato lungo e tumultuoso. Molte fazioni sono nate da opportunità ed ideologie slegate dai governi. Corporazioni private e movimenti religiosi hanno iniziato guerre per pura avidità o sete di potere. Molti sono morti e molte terre giacciono in rovina. Con la scoperta di Pandora, il futuro è incerto come lo è sempre stato. Abbiamo imparato qualcosa dalla storia o ripeteremo gli stessi errori?"/>
+	<entry name="Tip" value="Suggerimento"/>
+	<entry name="Tips" value="Suggerimenti"/>
+	<entry name="TipsHelp" value="I suggerimenti vengono mostrati durante la partita per aiutare il giocatore. Puoi leggere ogni suggerimento in questa sezione o resettarli nel pannello impostazioni perché vengano nuovamente mostrati in gioco."/>
+	<entry name="ToggleYieldOverlay" value="Attiva resa produzione [Ctrl+Y]."/>
+	<entry name="Total" value="Totale"/>
+	<entry name="TradingPact" value="Trattato commerciale"/>
+	<entry name="TransferControlToThisCityHint" value="Clicca per trasferire il controllo a questa città."/>
+	<entry name="Turn" value="Turno"/>
+	<entry name="TurnsUntilPopulationGrowth" value="Salta i turni fino alla crescita."/>
+	<entry name="TurnsUntilProductionComplete" value="Salta i turni fino al completamento della produzione."/>
+	<entry name="TURNS" value="<style name='Small' color='Gray'/>%1% turni<style name='Default'/>"/>
+	<entry name="(TURNS)" value="<style name='Small' color='Gray'/>(%1% turni<style name='Small' color='Gray'/>)<style name='Default'/>"/>
+	<entry name="UnitWorkshop" value="Laboratorio"/>
+	<entry name="Unit" value="Unità"/>
+	<entry name="Units" value="Unità"/>
+	<entry name="UnitsHelp" value="Le unità vengono modificate nei laboratori e prodotte dalle città. Le truppe militari consistono in unità biologiche (fanteria) ed unità meccaniche (dai veicoli leggeri da ricognizione alle enormi macchine da guerra), ed ogni classe possiede i suoi vantaggi e le sue debolezze. Esistono anche unità civili come i Colonizzatori (per fondare nuove città) e gli Operai (per modificare il territorio), che sono disarmate e necessitano di protezione.<br/><br/>Nota che quasi tutte le unità hanno un costo di mantenimento, quindi non investire in un'armata enorme finché non ne avrai bisogno."/>
+	<entry name="Unready" value="Non Pronto"/>
+	<entry name="UpkeepHint" value="Costo di Mantenimento<br/>Costo in crediti per mese."/>
+	<entry name="Version" value="Versione"/>
+	<entry name="VICTORY!" value="VITTORIA!"/>
+	<entry name="VS" value="CONTRO"/>
+	<entry name="VictoryChance" value="Possibilità di Vittoria"/>
+	<entry name="War" value="Guerra"/>
+	<entry name="Weapon" value="Arma"/>
+	<entry name="Weapons" value="Armi"/>
+	<entry name="WeaponsHelp" value="Le armi sono divise in pistole o torrette, e sono imbracciate dalla fanteria o montate sui veicoli. Ogni tipo di arma è più o meno efficace contro un certo tipo di unità od in certe situazioni, quindi equipaggiale con saggezza.<br/><br/>Se sei sotto attacco e stai difendendo i tuoi confini, è una buona idea aggiornare le unità con il comando 'Aggiorna' per contrastare al meglio le truppe nemiche."/>
+	<entry name="Website" value="Sito Web"/>
+	<entry name="Workshop" value="Laboratorio"/>
+	<entry name="XOutOfY" value="%1% / %2%"/>
+	<entry name="Year" value="Anno %1% DC"/>
+</language>

@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Tip0" value="Colonizers are massive construction units that allow you to build new cities which form the backbone of your empire. To found your first city on Pandora, click the &quot;Build City&quot; button in the selection panel to your left. Note that this order will consume your Colonizer."/>
-	<entry name="Tip1" value="Colonial Troopers are your first line of defense against rival factions and hostile alien species. You can either play safe by fortifying the troopers in your city, or send them out on exploration duty by right clicking on your destination territory. Exploration is risky, but can be very rewarding!"/>
-	<entry name="Tip2" value="You are currently in the city management view. A city can produce one item at a time (for example a unit or building), and on the upper left side you see your production options. By left clicking on an option it is added to the production queue and production will begin when the turn ends."/>
-	<entry name="Tip3" value="The priorities panel helps you focus your colonists into specific areas. Feel free to experiment, you can see the reflected changes in the statistics panel just below. Being smart about priorities can be the difference between a flourishing empire and a miserable one."/>
-	<entry name="Tip4" value="If you have enough credits available, you can invest them to speed up or quickly change production. However, you will want to be careful about changing your current production after it has started -- you will lose a portion of your accumulated production each turn you do so."/>
-	<entry name="Tip5" value="On the upper right side you see a list of all buildings that have been produced in this city. To sell a building, simply click on it."/>
-	<entry name="Tip6" value="The native alien life forms of this world are a constant threat to your empire. There exist different species in different climates, and some of them are extremely dangerous. Make sure to protect your cities and Formers from any alien onslaught!"/>
-	<entry name="Tip7" value="Units are built after designs, and the workshop allows you to manage and customize your designs by first choosing a class, followed by a compatible weapon and armor. Each module has their own strengths and weaknesses, and over the course of the game you will gain access to a plethora of new modules."/>
-	<entry name="Tip8" value="Formers build terrain modifications like farms and mines, which improve the resource output of territories utilized by cities. For greater convenience you can automatize Formers by pressing the &quot;Automatize&quot; button in the selection panel."/>
-	<entry name="Tip9" value="You are low on resources! Move your mouse over the resources on the top left of the screen to find out what is going on! Perhaps it would help to tweak your cities' priorities, produce a building or two, or establish a new city with a Colonizer."/>
-	<entry name="Tip10" value="If you are unsure what to do next, refer to the Task button on the right side of the screen. It will help you focus on the next task ahead before you proceed to end your turn."/>
+	<entry name="0Description" value="Colonizers are massive construction units that allow you to build the cities that form the backbone of your empire. To found your first city on Pandora, click the &quot;Build City&quot; button in the selection panel in the bottom left. Note that this order will consume your Colonizer."/>
+	<entry name="0Name" value="Colonizer"/>
+	<entry name="1Description" value="This unit is your first line of defense against rival factions and hostile alien species. You can either play safe by fortifying it in your city, or send it out on exploration duty by right-clicking on your destination. Exploration is risky, but can be very rewarding!"/>
+	<entry name="1Name" value="Combat Unit"/>
+	<entry name="2Description" value="A city can produce one item at a time, for example a unit or a building. In the upper right you can see your production options. By left-clicking on an option it is added to the production queue below and will begin production when the turn ends. You can reorder the production queue by dragging items up and down the queue."/>
+	<entry name="2Name" value="City Production"/>
+	<entry name="3Description" value="The population panel helps you focus your population into specific areas. Experiment by picking up and dropping colonists onto different tasks. You can see the reflected changes in the statistics panel just above. Being smart about colonist allocation can be the difference between a flourishing empire and a miserable one."/>
+	<entry name="3Name" value="City Population"/>
+	<entry name="4Description" value="If you have enough <icon texture='Resources/Credits'/> credits available, you can invest them to quickly finish production by clicking on the little <icon texture='Resources/Credits'/> credits buttons."/>
+	<entry name="4Name" value="City Purchasing"/>
+	<entry name="5Description" value="On the bottom left of the city view you can see a list of all the buildings that have been produced in the city. To sell a building, simply click on it."/>
+	<entry name="5Name" value="City Buildings"/>
+	<entry name="6Description" value="Units are built after designs, and the workshop allows you to manage and customize your designs. To create a new design, click the &quot;New&quot; button. This will duplicate the selected design and allow you to customize it without affecting the original."/>
+	<entry name="6Name" value="Workshop Design Creation"/>
+	<entry name="7Description" value="Formers build terrain modifications like farms and mines, which improve the resource output of territories utilized by cities. For greater convenience you can automate Formers by pressing the &quot;Automate&quot; button in the selection panel."/>
+	<entry name="7Name" value="Former"/>
+	<entry name="8Description" value="You are low on resources! Move your mouse over the resources on the top left of the screen to find out what is going on! Perhaps it would help to tweak your cities' priorities, produce a building or two, or establish a new city with a colonizer."/>
+	<entry name="8Name" value="Out of Resources"/>
+	<entry name="9Description" value="Welcome to Pandora! To move around the world you can hold down the left mouse button over terrain and move your mouse, or use the arrow keys. Once you are comfortable with your surroundings, left-click to select your unit in the center of the explored world and click OK."/>
+	<entry name="9Name" value="Start"/>
+	<entry name="10Description" value="Take your time to explore your way around the interface. Every button and label has a hint to provide you with relevant information. If you are unsure what to do next, refer to the glowing button on the right side of the screen. It will help you focus on the next task before you end your turn."/>
+	<entry name="10Name" value="Turn Button"/>
+	<entry name="11Description" value="Vital resources like food, minerals, research and credits are accumulated and shared globally. Every city provides and consumes these resources from the same pool, allowing you to fully specialize cities and even stock up on resources for harsher times."/>
+	<entry name="11Name" value="Global Pooled Resources"/>
+	<entry name="12Description" value="You have discovered your first operation. These have various effects, from buffing your units to damaging the enemy. After producing an operation, or its associated building, you will be able to use it across Pandora."/>
+	<entry name="12Name" value="Operation Discovery"/>
+	<entry name="13Description" value="Your first operation is ready for use. Select it in the operations panel and fire away. Buildings that provide operations take time to charge back up after usage, so use them wisely. Smart usage of operations can change the outcome of entire wars."/>
+	<entry name="13Name" value="Operation Availability"/>
+	<entry name="14Description" value="Your unit has taken damage and is injured. His power has diminished and he is more likely to die in the next fight. To heal, he must stay still and not participate in combat. You can accelerate the healing process by moving the unit to a city."/>
+	<entry name="14Name" value="Healing"/>
+	<entry name="15Description" value="Each unit can travel a certain distance each turn, indicated by its movement speed. Once it's no longer able to move or attack, the power display above the unit turns gray."/>
+	<entry name="15Name" value="Movement"/>
+	<entry name="16Description" value="The economy panel provides you with an overview of all your cities. Here you can conveniently change production, reallocate population and even change the global tax rate."/>
+	<entry name="16Name" value="Economy Panel"/>
+	<entry name="17Description" value="Once you have the intended design selected, you can modify it by first choosing a class, followed by a compatible weapon, device and armor. Each unit module has its own strengths and weaknesses, and over the course of the game you will gain access to a plethora of new modules."/>
+	<entry name="17Name" value="Workshop Design Modification"/>
+	<entry name="18Description" value="Globalization also affects population. While your total faction-wide growth stays unaffected by the amount of cities, your individual city growth migrates between cities based on morale. Factors such as high pollution, high taxes and a lack of living space will discourage growth in a city."/>
+	<entry name="18Name" value="Global Growth"/>
+	<entry name="19Description" value="Full control over Pandora can be achieved in three ways: by global domination, by buying out all independent factions or by scientific transcendence. For details and progress on each victory condition, refer to the military, economy and research buttons at the bottom of the screen."/>
+	<entry name="19Name" value="Victory Conditions"/>
+	<entry name="20Description" value="The research panel presents the randomized technology tree. Clicking on a technology will select the current research to focus on, while shift-clicking will queue up the research. To find out exactly what a technology provides, hover your mouse over the individual icons."/>
+	<entry name="20Name" value="Research Panel"/>
+	<entry name="21Description" value="To open the city screen, you can click on the city name or on the city itself, if it isn't garrisoned. Make sure to protect your city at all costs!"/>
+	<entry name="21Name" value="Opening the City Screen"/>
+	<entry name="22Description" value="To ease empire-wide management, you can use the economy and military panels, available from the bottom of your screen. These will be invaluable tools once your empire expands over all of Pandora."/>
+	<entry name="22Name" value="Empire Management"/>
+	<entry name="23Description" value="Multiple units can be selected in multiple ways. Double-clicking on the territory tile will select all units in that territory, while shift- or ctrl-clicking in the army panel will add units to your selection."/>
+	<entry name="23Name" value="Army Control"/>
+	<entry name="24Description" value="The Compendium stores a collection of useful game information. You can read up on factions, buildings, units, re-read tips and more."/>
+	<entry name="24Name" value="Compendium Panel"/>
+	<!-- <entry name="25Description" value=""/>
+	<entry name="25Name" value="Sight"/>
+	<entry name="26Description" value=""/>
+	<entry name="26Name" value="Flanking"/> -->
 </language>

@@ -11,14 +11,19 @@
 	<entry name="Countdown5" value="Starting in 5 ..."/>
 	<entry name="CountdownStopped" value="Countdown stopped."/>
 	<entry name="CreatingAccount" value="Creating account ..."/>
+	<entry name="DeployOperation" value="<style color='Green'/>Left-click to deploy operation"/>
 	<entry name="Error" value="Error"/>
 	<entry name="EverythingOK" value="Everything OK."/>
-	<entry name="GameLoaded" value="Game loaded."/>
-	<entry name="GameSaved" value="Game saved."/>
+	<entry name="ExecuteOrder" value="<style color='Green'/>Left-click to execute order"/>
+	<entry name="GameInitializationFailed" value="Could not initialize game. Background applications, particularly security and antivirus software, may be preventing Pandora from working normally."/>
+	<entry name="GameLoaded" value="Game loaded"/>
+	<entry name="GameSaved" value="Game saved"/>
+	<entry name="GameSaveError" value="Error saving game"/>
+	<entry name="IncompatibleVersion" value="Incompatible game version. Please update Pandora."/>
 	<entry name="Info" value="Info"/>
 	<entry name="InitializingGame" value="Initializing game ..."/>
-	<entry name="InitializingServer" value="Initializing server ..."/>
-	<entry name="InvalidCommand" value="Invalid command: &quot;%1%&quot;."/>
+	<entry name="InitializingWorld" value="Initializing world ..."/>
+	<entry name="InvalidCommand" value="Invalid command: &quot;%1%&quot;"/>
 	<entry name="InvalidEmail" value="Invalid email."/>
 	<entry name="InvalidName" value="Invalid name."/>
 	<entry name="InvalidProductKey" value="Invalid product key."/>
@@ -37,14 +42,16 @@
 	<entry name="OnlineError12" value="Email already taken."/>
 	<entry name="PasswordsDoNotMatch" value="Passwords do not match."/>
 	<entry name="PasswordTooShort" value="Password too short."/>
-	<entry name="PlayerJoined" value="%1% has joined."/>
-	<entry name="PlayerLeft" value="%1% has left."/>
+	<entry name="PlayerJoined" value="%1% has joined"/>
+	<entry name="PlayerLeft" value="%1% has left"/>
 	<entry name="ProductKeyEmpty" value="Product key empty."/>
+	<entry name="RestartRequired" value="A game restart is required for some settings to take effect."/>
 	<entry name="RetrievingList" value="Retrieving list ..."/>
+	<entry name="ScreenShotSaved" value="Screen shot saved to &quot;%1%&quot;"/>
+	<entry name="ScreenShotSaveError" value="Error capturing screen shot"/>
 	<entry name="ServerError" value="Server Error"/>
 	<entry name="ServerInfo" value="Server Info"/>
-	<entry name="ServerInitializationFailed" value="Could not initialize server."/>
 	<entry name="ServerShutDown" value="Server shut down."/>
 	<entry name="ServerUnreachable" value="Could not connect to server."/>
 	<entry name="Unknown" value="Unknown."/>
-</language>
+</language> 

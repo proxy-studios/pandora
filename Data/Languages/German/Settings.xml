@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlwaysShowHealthBars" value="Gesundheitsbalken immer anzeigen"/>
+	<entry name="AlwaysShowHealthBarsHint" value="Der Gesundheitsbalken wird immer angezeigt, selbst dann, wenn er voll ist."/>
+	<entry name="AmbientVolume" value="Lautstärke Umgebungsgeräusche"/>
+	<entry name="AmbientVolumeHint" value="Legt die Lautstärke der Umgebungsgeräusche fest."/>
+	<entry name="AnisotropicFiltering" value="Anisotropische Filterung"/>
+	<entry name="AntiAliasing" value="Antialiasing"/>
+	<entry name="AntiAliasingHint" value="Verringert die Treppchenbildung, indem die Kanten mit FXAA geglättet werden. Kann allerdings je nach verwendeter Hardware zu Leistungseinbußen führen."/>
+	<entry name="Audio" value="Sound"/>
+	<entry name="AutoCycleUnits" value="Einheiten automatisch durchschalten"/>
+	<entry name="AutoCycleUnitsHint" value="Es wird automatisch zur nächsten untätigen Einheit geschaltet."/>
+	<entry name="Automation" value="Automatisierung"/>
+	<entry name="AutoSave" value="Autosave"/>
+	<entry name="AutoSaveHint" value="Speichert das Spiel automatisch zu Beginn jeder Runde."/>
+	<entry name="CutsceneVolume" value="Lautstärke Zwischensequenzen"/>
+	<entry name="CutsceneVolumeHint" value="Legt die Lautstärke der Zwischensequenzen fest."/>
+	<entry name="DiscoveryHelp" value="Hilfe bei Neuheiten"/>
+	<entry name="DiscoveryHelpHint" value="Öffnet das Kompendium, wenn Sie auf neue Ereignisse zu Forschungen oder Entdeckungen klicken."/>
+	<entry name="DisplayMode" value="Anzeigemodus"/>
+	<entry name="DisplayModeHint" value="Legt den Anzeigemodus für das Spiel fest. Im Fenstermodus kann es zu Leistungseinbußen kommen.<br/><br/><style color='Yellow'/>Bei Aufnahmen in der nativen Auflösung ist der Fenstermodus möglicherweiße am besten geeignet."/>
+	<entry name="DisplayMode0" value="Vollbild"/>
+	<entry name="DisplayMode1" value="Fenster"/>
+	<entry name="DisplayMode2" value="Fenster (undekoriert)"/>
+	<entry name="EffectsVolume" value="Lautstärke Soundeffekte"/>
+	<entry name="EffectsVolumeHint" value="Legt die Lautstärke der Soundeffekte fest."/>
+	<entry name="FontStyle" value="Schriftart"/>
+	<entry name="FontStyleHint" value="Legt die verwendete Schriftart fest.<style color='Red'/>Sie müssen das Spiel neu starten, um eine Änderung dieser Einstellung zu übernehmen."/>
+	<entry name="FontStyle0" value="Futuristisch"/>
+	<entry name="FontStyle1" value="Einfach"/>
+	<entry name="FontStyle2" value="Einfach (groß)"/>
+	<entry name="FormersBuildFarms" value="Former bauen Farmen"/>
+	<entry name="FormersBuildMines" value="Former bauen Minen"/>
+	<entry name="FormersBuildRoads" value="Former bauen Straßen"/>
+	<entry name="FormersClearForests" value="Former reißen Wälder ab"/>
+	<entry name="FormersClearFungus" value="Former reißen Pilze ab"/>
+	<entry name="FormersClearPollution" value="Former säubern Ödland"/>
+	<entry name="FormersGrowForests" value="Former pflanzen Wälder an"/>
+	<entry name="FormersGrowFungus" value="Former pflanzen Pilze an"/>
+	<entry name="FormersImproveEcoregions" value="Former werten Ökoregionen auf"/>
+	<entry name="FormersWorsenEcoregions" value="Former werten Ökoregionen ab"/>
+	<entry name="General" value="Allgemein"/>
+	<entry name="GrabInput" value="Grab Input"/>
+	<entry name="InterfaceVolume" value="Lautstärke Interfaceeffekte"/>
+	<entry name="InterfaceVolumeHint" value="Legt die Lautstärke der Interfaceeffekte fest."/>
+	<entry name="KeyboardScrollSpeed" value="Tastaturscrollgeschwindigkeit"/>
+	<entry name="KeyboardScrollSpeedHint" value="Legt fest, wie schnell der Bildausschnitt mit der Tastatur gescrollt wird."/>
+	<entry name="Language" value="Sprache"/>
+	<entry name="MasterVolume" value="Gesamtlautstärke"/>
+	<entry name="MasterVolumeHint" value="Legt die Gesamtlautstärke fest."/>
+	<entry name="MouseScrollSpeed" value="Mausscrollgeschwindigkeit"/>
+	<entry name="MouseScrollSpeedHint" value="Legt fest, wie schnell der Bildausschnitt mit der Maus am Bildschirmrand gescrollt wird."/>
+	<entry name="MusicVolume" value="Lautstärke Musik"/>
+	<entry name="MusicVolumeHint" value="Legt die Lautstärke der Musik fest."/>
+	<entry name="Network" value="Netzwerk"/>
+	<entry name="PlayCutscenes" value="Zwischensequenzen abspielen"/>
+	<entry name="PlayCutscenesHint" value="Die Zwischensequenzen im Spiel werden angezeigt."/>
+	<entry name="ProductKey" value="Produktschlüssel"/>
+	<entry name="ResetTips" value="Hinweise zurücksetzen"/>
+	<entry name="ResetTipsHint" value="Setzt die Hinweistexte zurück, sodass sie wieder angezeigt werden."/>
+	<entry name="Resolution" value="Auflösung"/>
+	<entry name="ResolutionHint" value="Legt die Auflösung fest, in der das Spiel angezeigt wird. Eine höhere Auflösung verbessert die Darstellungsqualität, wirkt sich aber teilweise stark auf die Performance aus."/>
+	<entry name="ServerPort" value="Serverport"/>
+	<entry name="ServerPortHint" value="Der TCP-Port beim Hosten von Mehrspielerpartien, muss ein Wert ungleich Null sein. Es werden keine anderen Ports genutzt.<br/><br/><style color='Yellow'/>Wenn Sie Mehrspielerpartien hosten, sollten Sie eine entsprechende Port-Weiterleitung auf Ihrem Router einrichten, damit andere Spieler sich direkt mit Ihrer Partie verbinden können."/>
+	<entry name="ShadowQuality" value="Schattenqualität"/>
+	<entry name="ShadowQualityHint" value="Legt die Größe der Shadow-Map für die Berechnung der Schatten fest. Eine höhere Schattenqualität sorgt für eine detailliertere Schattendarstellung, erfordert jedoch mehr Grafikkartenspeicher (VRAM)."/>
+	<entry name="ShadowQuality0" value="Niedrig"/>
+	<entry name="ShadowQuality1" value="Mittel"/>
+	<entry name="ShadowQuality2" value="Hoch"/>
+	<entry name="ShowGrid" value="Gitternetz anzeigen"/>
+	<entry name="ShowGridHint" value="Zeigt die Gitternetzlinien auf der Karte an."/>
+	<entry name="ShowTips" value="Hinweise anzeigen"/>
+	<entry name="ShowTipsHint" value="Zeigt hilfreiche Hinweistexte an."/>
+	<entry name="SpokenLanguage" value="Sprache der Sprachausgabe"/>
+	<entry name="SpokenLanguageHint" value="Legt die Sprache der Sprachausgabe fest."/>
+	<entry name="TextureQuality" value="Texturenqualität"/>
+	<entry name="TextureQualityHint" value="Legt die Größe der im Spiel verwendeten Texturen fest. Eine höhere Texturenqualität sorgt für eine detailliertere Darstellung des Terrains und der Einheiten, erfordert jedoch mehr Grafikkartenspeicher (VRAM).<br/><br/>Niedrig: 256 MB<br/>Mittel: 512 MB<br/>Hoch: 1024 MB<br/><br/><style color='Red'/>Sie müssen das Spiel neu starten, um eine Änderung dieser Einstellung zu übernehmen."/>
+	<entry name="TextureQuality0" value="Niedrig"/>
+	<entry name="TextureQuality1" value="Mittel"/>
+	<entry name="TextureQuality2" value="Hoch"/>
+	<entry name="VerticalSynchronization" value="Vertikale Synchronisation"/>
+	<entry name="VerticalSynchronizationHint" value="Synchronisiert die Framerate im Spiel mit der Bildwiederholfrequenz Ihres Monitors. Damit werden Tearing-Effekte verhindert und die Hardwarelast verringert, allerdings kann es zu Leistungseinbußen kommen, wenn die verwendete Hardware Probleme damit hat, die Bildwiederholfrequenz des Monitors einzuhalten."/>
+	<entry name="Video" value="Grafik"/>
+	<entry name="VoiceVolume" value="Lautstärke Sprachausgabe"/>
+	<entry name="VoiceVolumeHint" value="Legt die Lautstärke der Sprachausgabe fest."/>
+	<entry name="WrittenLanguage" value="Sprache der Texte"/>
+	<entry name="WrittenLanguageHint" value="Legt die Sprache der Texte fest.<br/><br/><style color='Red'/>Sie müssen das Spiel neu starten, um eine Änderung dieser Einstellung zu übernehmen."/>
+
+</language>

@@ -1,31 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AlwaysShowHealthBars" value="Always Show Health Bars"/>
+	<entry name="AlwaysShowHealthBarsHint" value="Show unit health bars even when at full health."/>
 	<entry name="AmbientVolume" value="Ambient Volume"/>
+	<entry name="AmbientVolumeHint" value="Regulates the ambient volume."/>
 	<entry name="AnisotropicFiltering" value="Anisotropic Filtering"/>
-	<entry name="AntiAliasing" value="Anti-Aliasing"/>
+	<entry name="AntiAliasing" value="Anti-Aliasing"/>	
+	<entry name="AntiAliasingHint" value="Reduces aliasing by smoothing edges with FXAA, but may reduce performance. Relies on your graphics card's computing power."/>
+	<entry name="Audio" value="Audio"/>
 	<entry name="AutoCycleUnits" value="Auto Cycle Units"/>
+	<entry name="AutoCycleUnitsHint" value="Automatically cycle to the next idle unit."/>
+	<entry name="Automation" value="Automation"/>
 	<entry name="AutoSave" value="Autosave"/>
-	<entry name="CinematicsVolume" value="Cinematics Volume"/>
+	<entry name="AutoSaveHint" value="Automatically save the game at the start of each turn."/>
+	<entry name="CutsceneVolume" value="Cutscene Volume"/>
+	<entry name="CutsceneVolumeHint" value="Regulates the volume of cutscenes."/>
 	<entry name="DiscoveryHelp" value="Discovery Help"/>
+	<entry name="DiscoveryHelpHint" value="Open the compendium when left-clicking discovery events."/>
+	<entry name="DisplayMode" value="Display Mode"/>
+	<entry name="DisplayModeHint" value="Allows you to change the game's display mode. Windowed modes may cause a drop in performance.<br/><br/><style color='Yellow'/>Windowed mode may work best for recording in the native resolution."/>
+	<entry name="DisplayMode0" value="Fullscreen"/>
+	<entry name="DisplayMode1" value="Windowed"/>
+	<entry name="DisplayMode2" value="Windowed Undecorated"/>
 	<entry name="EffectsVolume" value="Effects Volume"/>
-	<entry name="FullScreen" value="Fullscreen"/>
-	<entry name="FullScreenResolution" value="Fullscreen Resolution"/>
+	<entry name="EffectsVolumeHint" value="Regulates the effects volume."/>
+	<entry name="FontStyle" value="Font Style"/>
+	<entry name="FontStyleHint" value="Determines the font style to use.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect."/>
+	<entry name="FontStyle0" value="Futuristic"/>
+	<entry name="FontStyle1" value="Plain"/>
+	<entry name="FontStyle2" value="Plain Large"/>
+	<entry name="FormersBuildFarms" value="Formers Build Farms"/>
+	<entry name="FormersBuildMines" value="Formers Build Mines"/>
+	<entry name="FormersBuildRoads" value="Formers Build Roads"/>
+	<entry name="FormersClearForests" value="Formers Clear Forests"/>
+	<entry name="FormersClearFungus" value="Formers Clear Fungus"/>
+	<entry name="FormersClearPollution" value="Formers Clear Wasteland"/>
+	<entry name="FormersGrowForests" value="Formers Grow Forests"/>
+	<entry name="FormersGrowFungus" value="Formers Grow Fungus"/>
+	<entry name="FormersImproveEcoregions" value="Formers Improve Ecoregions"/>
+	<entry name="FormersWorsenEcoregions" value="Formers Worsen Ecoregions"/>
+	<entry name="General" value="General"/>
 	<entry name="GrabInput" value="Grab Input"/>
-	<entry name="Grid" value="Grid"/>
 	<entry name="InterfaceVolume" value="Interface Volume"/>
+	<entry name="InterfaceVolumeHint" value="Regulates the interface volume."/>
 	<entry name="KeyboardScrollSpeed" value="Keyboard Scroll Speed"/>
+	<entry name="KeyboardScrollSpeedHint" value="Determines how fast the keyboard scrolls the camera."/>
 	<entry name="Language" value="Language"/>
 	<entry name="MasterVolume" value="Master Volume"/>
+	<entry name="MasterVolumeHint" value="Regulates the master volume."/>
 	<entry name="MouseScrollSpeed" value="Mouse Scroll Speed"/>
+	<entry name="MouseScrollSpeedHint" value="Determines how fast the mouse scrolls the camera at the edges of the screen."/>
 	<entry name="MusicVolume" value="Music Volume"/>
-	<entry name="PlayCinematics" value="Play Cinematics"/>
-	<entry name="PopupTips" value="Popup Tips"/>
+	<entry name="MusicVolumeHint" value="Regulates the music volume."/>
+	<entry name="Network" value="Network"/>
+	<entry name="PlayCutscenes" value="Play Cutscenes"/>
+	<entry name="PlayCutscenesHint" value="Play in-game cinematics."/>
 	<entry name="ProductKey" value="Product Key"/>
-	<entry name="ServerName" value="Server Name"/>
-	<entry name="ServerPassword" value="Server Password"/>
+	<entry name="ResetTips" value="Reset Tips"/>
+	<entry name="ResetTipsHint" value="Reset game tips."/>
+	<entry name="Resolution" value="Resolution"/>
+	<entry name="ResolutionHint" value="Allows you to change the game's display resolution. Higher resolutions will result in increased clarity, but greatly affect performance."/>
 	<entry name="ServerPort" value="Server Port"/>
+	<entry name="ServerPortHint" value="TCP port to use when hosting games. Must be defined to a nonzero value. No other ports are used.<br/><br/><style color='Yellow'/>When hosting multiplayer games, it is recommended that you forward this port on your router to guarantee that others are able to connect directly to your game."/>
 	<entry name="ShadowQuality" value="Shadow Quality"/>
+	<entry name="ShadowQualityHint" value="Determines the size of the shadow map used for rendering shadows. A higher shadow quality will result in more detailed shadows, but requires more video memory (VRAM)."/>
+	<entry name="ShadowQuality0" value="Low"/>
+	<entry name="ShadowQuality1" value="Medium"/>
+	<entry name="ShadowQuality2" value="High"/>
+	<entry name="ShowGrid" value="Show Grid"/>
+	<entry name="ShowGridHint" value="Display the ground grid."/>
+	<entry name="ShowTips" value="Show Tips"/>
+	<entry name="ShowTipsHint" value="Display helpful game tips."/>
+	<entry name="SpokenLanguage" value="Spoken Language"/>
+	<entry name="SpokenLanguageHint" value="Specifies the spoken language."/>
 	<entry name="TextureQuality" value="Texture Quality"/>
+	<entry name="TextureQualityHint" value="Determines the size of textures used throughout the game. Higher texture quality will result in more detailed terrain and units, but requires more video memory (VRAM).<br/><br/>Low: 256 MB<br/>Medium: 512 MB<br/>High: 1024 MB<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect."/>
+	<entry name="TextureQuality0" value="Low"/>
+	<entry name="TextureQuality1" value="Medium"/>
+	<entry name="TextureQuality2" value="High"/>
 	<entry name="VerticalSynchronization" value="Vertical Synchronization"/>
-	<entry name="WindowResolution" value="Window Resolution"/>
+	<entry name="VerticalSynchronizationHint" value="Synchronizes your frame rate to your primary monitor's refresh rate. This will eliminate screen tearing and reduce hardware load, but will also cause reduced performance if your hardware cannot keep up with the monitor's refresh rate."/>
+	<entry name="Video" value="Video"/>
+	<entry name="VoiceVolume" value="Voice Volume"/>
+	<entry name="VoiceVolumeHint" value="Regulates the voice volume."/>
+	<entry name="WrittenLanguage" value="Written Language"/>
+	<entry name="WrittenLanguageHint" value="Specifies the written language.<br/><br/><style color='Red'/>Changing this setting requires a game restart to take effect."/>
 </language>

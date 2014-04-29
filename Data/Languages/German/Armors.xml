@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Armor0" value="Stahlpanzerung"/>
+	<entry name="Armor0Description" value="Die Panzerung aus gehärtetem Stahl erhöht zwar die Herstellungskosten, bietet dafür aber einen einfachen Schutz gegen Projektile und Sprengstoffe."/>
+	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor1" value="Titanpanzerung"/>
+	<entry name="Armor1Description" value="Diese Panzerung besteht aus Titan - einem harten, glänzenden und korrosionsfesten Metall - und bietet doppelt so viel Schutz wie gewöhnliche Stahlpanzerung."/>
+	<entry name="Armor1Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor2" value="Zortiumpanzerung"/>
+	<entry name="Armor2Description" value="Wie wir festgestellt haben, erhält man, wenn man reine Mexallonisotope chemisch mit Titan verbindet, das sehr robuste Material Zortium, das sich perfekt für den Einsatz in Panzerungen eignet."/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor3" value="Gaußpanzerung"/>
+	<entry name="Armor3Description" value="Explosionen und kinetische Aufprallenergien beschädigen Panzerungen aufgrund ihrer strukturellen Schwäche auf molekularer Ebene. Gaußpanzerung ist nichts anderes als eine Zortiumpanzerung mit einem hochoptimierten molekularen Muster, das jedoch die Widerstandsfähigkeit enorm erhöht. Der Optimierungsprozess ist jedoch teuer, da er für jede Panzerung nach der Herstellung individuell durchgeführt werden muss."/>
+	<entry name="Armor3Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor4" value="Adamantpanzerung"/>
+	<entry name="Armor4Description" value="Der schwarze und äußerst schwere Adamant ist ein superdichtes Material, das mehrere hundert Kilometer unterhalb der Planetenoberfläche zu finden ist. Der Abbau und die Verarbeitung sind zwar schwierig und das Tragen der Panzerung anstrengend, aber die Widerstandskraft schützt selbst vor stärksten Treffern.<br/><br/><style name='Italic'/>In Militärkreisen werden Soldaten, die die dunkle und robuste Adamantpanzerung tragen, &quot;Beetles&quot; genannt."/>
+	<entry name="Armor4Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor5" value="Seidenstahlpanzerung"/>
+	<entry name="Armor5Description" value="Diese Panzerung ist dünn wie Seide und zugleich härter als gewöhnlicher Stahl, daher wird sie von den Truppen wegen ihrer Vielseitigkeit und der einfachen Handhabung sehr geschätzt. Die erhöhte Beweglichkeit sorgt im Allgemeinen für eine höhere Überlebensrate als beim Einsatz von stärkeren Materialien."/>
+	<entry name="Armor5Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor6" value="Neutroniumpanzerung"/>
+	<entry name="Armor6Description" value="Ein eingebauter Minireaktor erzeugt ständig freie Neutronen, die zwischen zwei Magnetfeldschichten schweben und gegnerische Strahlen oder Projektile neutralisieren sowie überschüssige Energie absorbieren.<br/><br/><style name='Italic'/>&quot;Greg Johnson vom 5. Bataillon hatten sie mal eine Neutroniumpanzerung der ersten Generation gegeben. Ein Galeth hat ihm dann mit einem Glückstreffer das Reaktorventil beschädigt, sodass der Reaktor Neutronen in den armen Greg gepumpt hat. Das hat er nicht länger als ein paar Minuten ausgehalten.&quot;"/>
+	<entry name="Armor6Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor7" value="Antimateriepanzerung"/>
+	<entry name="Armor7Description" value="Die Person oder Maschine wird von einer hauchdünnen Schicht aus Antimaterieteilchen umgeben, die von einem Magnetfeld in Schach gehalten werden. Bei richtigem Einsatz kann diese Panzerung so gut wie alle physischen Angriffe absorbieren.<br/><br/><style name='Italic'/>ACHTUNG: Nur die am besten ausgebildeten Truppen können diese Panzerung einsetzen: Ein Fehler im Umgang damit kann zu einem schrecklichen Tod führen."/>
+	<entry name="Armor7Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Armor8" value="Xenotroniumpanzerung"/>
+	<entry name="Armor8Description" value="Hierbei handelt es sich um die fortschrittlichste Panzerung, die bisher entwickelt wurde. Sie ist mit einer Art Bewusstsein ausgestattet, die es ihr erlaubt, drohende Gefahren anhand von Energiefluktuationen in der Umgebung zu erfassen. Sobald die Xenotroniumpanzerung registriert, dass ein Projektil- oder Strahleinschlag bevorsteht, konzentriert sie innerhalb von Pikosekunden die gesamten Absorptionskapazitäten auf den entsprechenden Punkt, um die Gefahr zu neutralisieren."/>
+	<entry name="Armor8Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="Best" value="Beste Panzerung"/>
+	<entry name="BestProperties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
+	<entry name="None" value="Keine Panzerung"/>
+	<entry name="NoneDescription" value="Einheiten ohne Panzerung verfügen über keinen zusätzlichen Schutz und sind bei Treffern lediglich auf ihre Kleidung bzw. Hülle angewiesen."/>
+</language>

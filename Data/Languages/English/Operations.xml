@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Bombardment" value="Orbital Bombardment"/>
+	<entry name="BombardmentDescription" value="<style name='Italic'/>&quot;Some religious fanatics still fear the gods striking from the heavens. While we will not dub ourselves gods for inventing such powers, it might instill fear into those brainless lunatics.&quot;<br/>    -- Admiral James Heid, The Callisto Conflict<style name='Default'/><br/><br/>Orbital weaponry is neither cheap nor easy to manage. Yet the capability to strike foes anytime and anywhere can dramatically alter the outcome of any war."/>
+	<entry name="BombardmentProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 1 <icon texture='Attributes/Power'/> power of damage to all units in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units"/>
 	<entry name="BlackHole" value="Black Hole"/>
-	<entry name="BlackHoleDescription" value="Contrary to mass destruction weapons based on fusion and fission, the black hole has no lasting effects on the environment, while holding even more destructive power, crushing everything in a wide radius around its creation point."/>
-	<entry name="BlackHoleProperties" value="<icon texture='GUI/Bullet'/>Destroys target territory and its neighbors"/>
+	<entry name="BlackHoleDescription" value="Unlike mass destruction weapons based on fusion and fission, this pseudo black hole has no lasting effects on the environment. Beyond its tremendous destructive power that is, as it crushes everything in a wide radius around its creation point."/>
+	<entry name="BlackHoleProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 64 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory and its neighbors<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland"/>
 	<entry name="DropPod" value="Drop Pod"/>
-	<entry name="DropPodDescription" value="Drop pods are hatch chambers launched from orbit, containing one or several troops, which gives us the possibility to drop them behind enemy lines with speed and precision."/>
-	<entry name="DropPodProperties" value="<icon texture='GUI/Bullet'/>Drops a selection of troopers into a territory"/>
+	<entry name="DropPodDescription" value="Drop pods are shielded chambers launched from orbit, containing one or several troops, giving us the possibility to drop them behind enemy lines with speed and precision."/>
+	<entry name="DropPodProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Not deployed directly, but consumed when a unit performs an orbital deployment"/>
 	<entry name="EMPBeam" value="EMP Beam"/>
-	<entry name="EMPBeamDescription" value="Unleashing a concentrated electromagnetic beam disrupts all ongoing productions, affects all electronic devices and induces malfunctions in all computer systems in the area. Targeted on a colony, it creates a massive and long-lasting blackout, the tactical advantages of which are innumerable."/>
-	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Causes a blackout that lasts 5 turns"/>
+	<entry name="EMPBeamDescription" value="Unleashing a concentrated electromagnetic beam disrupts all ongoing productions, affects all electronic devices and induces malfunctions in all computer systems in the area. Targeted on a colony, it creates a massive and long-lasting blackout."/>
+	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Causes a blackout which fully disables a city for 5 turns"/>
 	<entry name="Growth" value="Cloning Center"/>
-	<entry name="GrowthDescription" value="Applied auxology, stem cell modification and growth rate control allow us to quickly and efficiently replicate some of our colonists, which should boost population growth for a while."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Causes an accelerated growth that lasts 10 turns"/>	
+	<entry name="GrowthDescription" value="Applied auxology, stem cell modification and growth rate control allow us to quickly and efficiently replicate some of our colonists. This should boost population growth for a while."/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> growth in a city for 10 turns"/>	
 	<entry name="NanoRobots" value="Nano Robots"/>
-	<entry name="NanoRobotsDescription" value="Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose molecular structure of damaged and wounded units."/>
-	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Fully repairs all units in a territory"/>
+	<entry name="NanoRobotsDescription" value="Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose the molecular structure of damaged or wounded units."/>
+	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fully repairs all units in a territory"/>
 	<entry name="Nuke" value="Nuclear Missile"/>
-	<entry name="NukeDescription" value="Nuclear reactions release vast quantities of energy from relatively small amounts of matter. Weaponized into small nuclear devices no larger than traditional bombs it can devastate entire cities by blast, fire and radiation.<br/><br/>Delivering nuclear payloads successfully is as important and costly as producing the nuclear devices themselves. With long range ballistic missiles we are now able to deliver these weapons of mass destruction to our enemies' doorstep.<br/><br/><style oblique='1'/>Intellectuals have long been warning about a nuclear war resulting in mutually assured destruction."/>
-	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Kills all units in a territory"/>
+	<entry name="NukeDescription" value="Nuclear reactions release vast quantities of energy from relatively small amounts of matter. Weaponized into small nuclear devices no larger than traditional bombs it can devastate entire cities by blast, fire and radiation.<br/><br/>Delivering nuclear payloads successfully is as important and costly as producing the nuclear devices themselves. With long range ballistic missiles we are now able to deliver these weapons of mass destruction to our enemies' doorstep.<br/><br/><style name='Italic'/>Intellectuals have long been warning about a nuclear war resulting in mutually assured destruction."/>
+	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 8 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland"/>
 	<entry name="Promotion" value="Field Training"/>
-	<entry name="PromotionDescription" value="A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream of the crop survives it, and the gained knowledge gives them an edge in real warfare."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rank for all units in a territory"/>
+	<entry name="PromotionDescription" value="A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream survive, and the gained knowledge gives them an edge in real warfare."/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rank for all units in a territory below rank 5<br/><icon texture='GUI/Bullet'/>Deals 40% <icon texture='Attributes/Health'/> health damage to units ranked up"/>
 	<entry name="Scan" value="Satellite Scan"/>
-	<entry name="ScanDescription" value="Orbital reconnaissance has many advantages: it is discrete, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare."/>
-	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Reveals target territory and its neighbors for 1 turn"/>
+	<entry name="ScanDescription" value="Orbital reconnaissance has many advantages; it is discreet, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare."/>
+	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Reveals a territory and its neighbors for 1 turn"/>
 	<entry name="Teleportation" value="Planetary Gate"/>
-	<entry name="TeleportationDescription" value="While mostly known to laymen as wormholes or even blackholes, Planetary Gates are simply entrypoints into small scale white holes. Those devices allow any units to travel at superluminal speeds to a predefined point."/>
-	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Teleports all units from source to target territory"/>
+	<entry name="TeleportationDescription" value="While mostly known to laymen as wormholes, Planetary Gates are simply entrypoints into small scale white holes. Those devices allow any units to travel at superluminal speeds to a predefined point."/>
+	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Teleports all units from source to target territory"/>
 </language>

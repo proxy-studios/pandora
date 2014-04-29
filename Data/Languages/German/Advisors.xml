@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Economy0" value="&quot;Ohne Städte und Infrastruktur gibt es keine Wirtschaft.&quot;"/>
+	<entry name="Economy1" value="&quot;Überall rote Zahlen! Viel schlimmer kann es wohl kaum werden, oder?&quot;"/>
+	<entry name="Economy2" value="&quot;Unser Markt verblasst im Vergleich zu den Märkten unserer Konkurrenten.&quot;"/>
+	<entry name="Economy3" value="&quot;Wir haben eine florierende Wirtschaft!&quot;"/>
+	<entry name="Economy4" value="&quot;Unsere Wirtschaft ist eine der treibenden Kräfte hinter dem planetaren Markt.&quot;"/>
+	<entry name="Economy5" value="&quot;Wir ernten die Früchte unserer jahrelangen harten Arbeit: Unsere Wirtschaft ist konkurrenzlos!&quot;"/>
+	<entry name="Diplomacy0" value="&quot;Es besteht noch kein Kontakt zu anderen Fraktionen.&quot;"/>
+	<entry name="Diplomacy1" value="&quot;Wir sind isoliert und werden von vielen gehasst! Sie sollten unbedingt Ihre Handlungsweise überdenken!&quot;"/>
+	<entry name="Diplomacy2" value="&quot;Die anderen Fraktionen haben begonnen, sich von uns zu distanzieren.&quot;"/>
+	<entry name="Diplomacy3" value="&quot;Wir werden von den Anführern der anderen Fraktionen respektiert.&quot;"/>
+	<entry name="Diplomacy4" value="&quot;Unsere Beziehungen zu den anderen Fraktionen sind gut. Weiter so!&quot;"/>
+	<entry name="Diplomacy5" value="&quot;Fantastisch! Die Anführer der anderen Fraktionen mögen oder lieben uns gar! Wir können auf ihre Unterstützung bauen.&quot;"/>
+	<entry name="Military0" value="&quot;Wir haben kein Militär und sind völlig hilflos!&quot;"/>
+	<entry name="Military1" value="&quot;Unsere Truppengröße ist lächerlich! Jeder halbwegs ernstzunehmende Gegner würde uns einfach überrollen.&quot;"/>
+	<entry name="Military2" value="&quot;Unsere militärische Stärke ist zu gering, daher könnten wir eine Invasion vermutlich nicht abwehren.&quot;"/>
+	<entry name="Military3" value="&quot;Wir verfügen über ein stabiles Militär, das mit feindlichen Aggressoren fertigwerden kann.&quot;"/>
+	<entry name="Military4" value="&quot;Unsere Armee ist stark genug und in der Lage, längere Feldzüge durchzuführen.&quot;"/>
+	<entry name="Military5" value="&quot;Unsere Truppen sind die besten auf dem Planeten. Unsere Gegner erzittern in Furcht!&quot;"/>
+	<entry name="Research0" value="&quot;Wir haben noch keine Technologien erforscht.&quot;"/>
+	<entry name="Research1" value="&quot;Wir hinken um Jahre hinter den anderen Fraktionen her, die uns dafür belächeln!&quot;"/>
+	<entry name="Research2" value="&quot;Andere Fraktionen haben uns überholt. Es wird Zeit, unsere Prioritäten neu festzulegen!&quot;"/>
+	<entry name="Research3" value="&quot;Unsere Forschungen kommen gut voran.&quot;"/>
+	<entry name="Research4" value="&quot;Gute Neuigkeiten! Wir sind eine der fortschrittlichsten Fraktionen auf dem Planeten.&quot;"/>
+	<entry name="Research5" value="&quot;Voller Stolz kann ich Ihnen mitteilen, dass wir alle anderen Fraktionen hinter uns gelassen haben. Unsere Wissenschaftler sind wahre Koryphäen!&quot;"/>
+</language>

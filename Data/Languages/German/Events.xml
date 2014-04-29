@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="NearX" value=" in der Nähe von %1%"/>
+	
+	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AdvancementProductionComplete" value="%1% hat Fortschritt fertiggestellt: %2%."/>
+	<entry name="AllianceEntered" value="Die Fraktion %1% hat eine Allianz mit der Fraktion %2% gebildet."/>
+	<entry name="AllianceTerminated" value="Die Fraktion %1% hat die Allianz mit der Fraktion %2% aufgelöst."/>
+	<entry name="BuildingDismantled" value="%1% hat das Gebäude %2% abgerissen."/>
+	<entry name="BuildingProductionComplete" value="%1% hat Gebäude fertiggestellt: %2%."/>
+	<entry name="CityAttackedByUnit" value="%1% wurde angegriffen von: %2%."/>
+	<entry name="CityCapturedByPlayer" value="%1% wurde eingenommen von: %2%."/>
+	<entry name="CityDamagedByOther" value="%1% wurde beschädigt von: %2%."/>
+	<entry name="CityGrown" value="%1% ist gewachsen."/>
+	<entry name="CityRazedByOther" value="%2% hat %1% zerstört."/>
+	<entry name="CityRazedByUnit" value="%2% hat %1% zerstört."/>
+	<entry name="ContactEstablished" value="Kontakt hergestellt mit: %1%"/>
+	<entry name="Discovered" value="%1% gesichtet."/>
+	<entry name="Denounced" value="%1% hat %2% denunziert."/>
+	<entry name="EnemyDetected" value="Gegner%2% gesichtet: %1%"/>
+	<entry name="Era1Entered" value="Die Fraktion %1% hat das Zeitalter der Mechanisierung erreicht."/>
+	<entry name="Era2Entered" value="Die Fraktion %1% hat das Zeitalter der Transzendenz erreicht."/>
+	<entry name="HintInflictedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> Schaden verursacht, %2% <icon texture='Attributes/Power'/> Stärke übrig.<br/>"/>
+	<entry name="HintPopulationLost" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Population'/> Bevölkerung verloren, %2% übrig.<br/>"/>
+	<entry name="HintSufferedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> Schaden erlitten, %2% <icon texture='Attributes/Power'/> Stärke übrig.<br/>"/>
+	<entry name="HiveDestroyed" value="Alien-Bau zerstört."/>
+	<entry name="ImprovementLost" value="Aufwertung%2% verloren: %1%."/>
+	<entry name="NonAggressionEntered" value="%1% hat einen Nichtangriffspakt %2% geschlossen."/>
+	<entry name="NonAggressionTerminated" value="%1% hat den Nichtangriffspakt mit %2% beendet."/>
+	<entry name="ObservatoryExplored" value="Observatorium erkundet."/>
+	<entry name="OperationProductionComplete" value="%1% hat Operation fertiggestellt: %2%."/>
+	<entry name="OtherDamagedCity" value="%1% wurde beschädigt von: %2%."/>
+	<entry name="OtherDamagedUnit" value="%2% hat%3% der Einheit &quot;%1%&quot; Schaden zugefügt."/>
+	<entry name="OtherKilledUnit" value="%2% hat%3% die Einheit &quot;%1%&quot; ausgeschaltet."/>
+	<entry name="OtherRazedCity" value="%1% wurde zerstört von: %2%."/>
+	<entry name="OutOfCredits" value="Keine <icon texture='Resources/Credits'/> Credits mehr."/>
+	<entry name="OutOfCreditsHint" value="Um Verluste wiedergutzumachen, wird damit begonnen, Einheiten zu entlassen und Gebäude abzureißen!"/>
+	<entry name="OutOfFood" value="Keine <icon texture='Resources/Food'/> Nahrung mehr."/>
+	<entry name="OutOfFoodHint" value="Ihr Volk hungert!"/>
+	<entry name="OutOfMinerals" value="Keine <icon texture='Resources/Minerals'/> Mineralien mehr."/>
+	<entry name="OutOfMineralsHint" value="Die Produktion ist eingeschränkt!"/>
+	<entry name="PeaceEntered" value="%1% hat Frieden geschlossen mit %2%."/>
+	<entry name="PlayerProducedItem" value="%1% hat Produktion fertiggestellt: %2%."/>
+	<entry name="Praised" value="%1% hat %2% gelobt."/>
+	<entry name="ResearchComplete" value="Erforscht: %1%"/>
+	<entry name="UnitAttackedByUnit" value="%1% wurde%3% angegriffen von: %2%."/>
+	<entry name="UnitAttackedCity" value="%1% hat %2% angegriffen."/>
+	<entry name="UnitAttackedUnit" value="%2% wurde%3% angegriffen von: %1%."/>
+	<entry name="UnitCapturedCity" value="%1% hat %2% erobert."/>
+	<entry name="UnitDamagedByOther" value="%1% hat%3% Schaden erlitten durch: %2%."/>
+	<entry name="UnitDisbanded" value="%1% wurde aufgelöst."/>
+	<entry name="UnitProductionComplete" value="%1% hat Einheit fertiggestellt: %2%."/>
+	<entry name="UnitRazedCity" value="%1% hat %2% zerstört."/>
+	<entry name="UnitKilledByOther" value="%1% wurde%3% ausgeschaltet von: %2%."/>
+	<entry name="UnitKilledByUnit" value="%1% wurde%3% ausgeschaltet von: %2%."/>
+	<entry name="UnitKilledUnit" value="%2% wurde%3% ausgeschaltet von: %1%."/>
+	<entry name="WarEntered" value="%1% hat %2% den Krieg erklärt."/>
+	<entry name="AlienAggressionImminent" value="Alien-Aggression steht unmittelbar bevor."/>
+	<entry name="AlienGenocideComplete" value="Außerirdische vollständig ausgerottet."/>
+	<entry name="AlienSighted" value="Außerirdische gesichtet."/>
+	<entry name="PlanetFullyExplored" value="Planet vollständig erkundet."/>
+	<entry name="PopulationLimitReached" value="Bevölkerungslimit erreicht."/>
+	<entry name="RuinInSight" value="Ruine gesichtet."/>
+	
+	<entry name="BlackHoleGeneratorBuilt" value="%1% hat einen Schwarzes-Loch-Generator gebaut."/>	
+	<entry name="EconomyVictoryNear" value="%1% steht kurz vor einem wirtschaftlichen Sieg."/>
+	<entry name="FactionEliminated" value="%1% wurde eliminiert."/>
+	<entry name="GlobalPollutionThresholdReached" value="Hohe globale Umweltverschmutzung."/>
+	<entry name="MilitaryVictoryNear" value="%1% steht kurz vor einem militärischen Sieg."/>
+	<entry name="NuclearLaunchCenterBuilt" value="%1% hat ein Raketenkontrollzentrum gebaut."/>
+	<entry name="ResearchVictoryNear" value="%1% steht kurz vor einem wissenschaftlichen Sieg."/>
+	
+	<entry name="RuinExplored" value="Ruine erkundet."/>
+	<entry name="SunkenRuinExplored" value="Versunkene Ruine erkundet."/>
+</language>

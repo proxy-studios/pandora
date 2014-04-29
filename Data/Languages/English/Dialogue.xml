@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcceptCreditsForDeal0" value="(considers payment for deal)"/>
+	<entry name="AcceptCreditsForDeal1" value="(accepts payment for deal)"/>
+	<entry name="AcceptDenounce" value="(accepts denounce)"/>
+	<entry name="AcceptOpenBorders" value="(accepts open borders)"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="(considers peace offer to third party)"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="(accepts peace offer to third party)"/>
+	<entry name="AcceptPraise" value="(accepts praise)"/>
+	<entry name="AcceptShareMap" value="(accepts to share maps)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="(considers war declaration on third party)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="(accepts war declaration on third party)"/>
+	<entry name="RejectCreditsForDeal0" value="(rejects payment for deal)"/>
+	<entry name="RejectCreditsForDeal1" value="(rejects payment for deal)"/>
+	<entry name="AllianceAccepted" value="(accepts alliance)"/>
+	<entry name="AllianceHint" value="An alliance lasts at least 10 turns and allows both factions to enter each other's territory and fight side by side."/>
+	<entry name="AllianceRejected" value="(rejects alliance)"/>
+	<entry name="DeclareWar" value="(declares war)"/>
+	<entry name="DemandCreditsForDeal" value="(demands payment for deal)"/>
+	<entry name="DemandPeaceOfferToThirdParty0" value="(demands peace offer to third party)"/>
+	<entry name="DemandTribute0" value="(demands tribute)"/>
+	<entry name="DemandWarDeclarationOnThirdParty0" value="(demands war declaration on third party)"/>
+	<entry name="DemandWithdrawal" value="(demands withdrawal)"/>
+	<entry name="Denounce" value="(denounces publicly)"/>
+	<entry name="DenounceHint" value="Public accusations that decrease the standing of the denounced faction with your friends but increase the faction's standing with your rivals. If denied, the impact is lessened."/>
+	<entry name="GiftAccepted0" value="(considers to accept gift)"/>
+	<entry name="GiftAccepted1" value="(accepts gift)"/>
+	<entry name="GiftHint" value="A financial gift that, if accepted, increases the standing of the donor with the receiver."/>
+	<entry name="GiftRejected0" value="(rejects gift)"/>
+	<entry name="GiftRejected1" value="(rejects gift)"/>
+	<entry name="Goodbye" value="(ends dialogue)"/>
+	<entry name="LetMeKnow" value="(ends dialogue)"/>
+	<entry name="LetMeThink" value="(considers options)"/>
+	<entry name="NonAggressionPactAccepted" value="(accepts non-aggression pact)"/>
+	<entry name="NonAggressionPactHint" value="A non-aggression pact prevents both factions from declaring war on each other. Terminating this pact results in a significant standing loss with the other faction and, to a lesser degree, all other factions who know either of the two former pact partners."/>
+	<entry name="NonAggressionPactRejected" value="(rejects non-aggression pact)"/>
+	<entry name="OfferAlliance" value="(offers alliance)"/>
+	<entry name="OfferGift0" value="(offers gift)"/>
+	<entry name="OfferNonAggressionPact" value="(offers non-aggression pact)"/>
+	<entry name="OfferOpenBorders" value="(offers open borders)"/>
+	<entry name="OfferPeace" value="(offers peace)"/>
+	<entry name="OfferResearchPact" value="(offers research pact)"/>
+	<entry name="OfferShareMap" value="(offers to share maps)"/>
+	<entry name="OfferTradingPact" value="(offers trading pact)"/>
+	<entry name="OpenBordersHint" value="Allows both factions to enter each other's territory."/>
+	<entry name="PeaceAccepted" value="(accepts peace)"/>
+	<entry name="PeaceOfferToThirdPartyHint" value="Demands from the dialogue partner to offer peace to a third party. If both partners are in an alliance, refusing to offer peace results in a standing loss with the ally."/>
+	<entry name="PeaceRejected" value="(rejects peace)"/>
+	<entry name="Praise" value="(praises publicly)"/>
+	<entry name="PraiseHint" value="Public words of praise that, if accepted, increase the standing of the praised faction with your friends but decrease the faction's standing with your rivals."/>
+	<entry name="RejectDenounce" value="(rejects denounce)"/>
+	<entry name="RejectOpenBorders" value="(rejects open borders)"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="(rejects peace offer to third party)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(rejects peace offer to third party)"/>
+	<entry name="RejectPraise" value="(rejects praise)"/>
+	<entry name="RejectShareMap" value="(rejects to share maps)"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="(rejects war declaration on third party)"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="(rejects war declaration on third party)"/>
+	<entry name="ResearchPactAccepted" value="(accepts research pact)"/>
+	<entry name="ResearchPactHint" value="A research pact grants a bonus of up to 10% (based on its duration) of a faction's total research per turn to the partner. Thus, the faction with the lower research per turn profits more from the pact."/>
+	<entry name="ResearchPactRejected" value="(rejects research pact)"/>
+	<entry name="ShareMapHint" value="Both factions share their explored territories, but the fog of war is not revealed."/>
+	<entry name="TerminateAlliance" value="(terminates alliance)"/>
+	<entry name="TerminateNonAggressionPact" value="(terminates non-aggression pact)"/>
+	<entry name="TerminateOpenBorders" value="(terminates open borders)"/>
+	<entry name="TerminateResearchPact" value="(terminates research pact)"/>
+	<entry name="TerminateTradingPact" value="(terminates trading pact)"/>
+	<entry name="TradingPactAccepted" value="(accepts trading pact)"/>
+	<entry name="TradingPactHint" value="A trading pact grants a bonus of up to 10% (based on its duration) of a faction's total income per turn to the partner. Thus, the faction with the lower income per turn profits more from the pact."/>
+ 	<entry name="TradingPactRejected" value="(rejects trading pact)"/>
+	<entry name="TributeAccepted0" value="(considers to pay tribute)"/>
+	<entry name="TributeAccepted1" value="(accepts to pay tribute)"/>
+	<entry name="TributeHint" value="A reflection of the power balance between two factions, demanding or refusing tribute harms relations between the involved factions."/>
+	<entry name="TributeRejected0" value="(rejects to pay tribute)"/>
+	<entry name="TributeRejected1" value="(rejects to pay tribute)"/>
+	<entry name="WarHint" value="A war drastically decreases the standing between two factions and allows each party to enter the enemy's territory, attack their units and capture cities."/>
+	<entry name="WarDeclarationOnThirdPartyHint" value="Demands from the dialogue partner to declare war on a third party. If both partners are in an alliance, refusing to declare war results in a standing loss with the ally."/>
+	<entry name="WithdrawalAccepted" value="(accepts to withdraw)"/>
+	<entry name="WithdrawalRejected" value="(rejects to withdraw)"/>
+</language>

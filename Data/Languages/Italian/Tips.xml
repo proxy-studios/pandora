@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="0Description" value="I Colonizzatori sono enormi unità da costruzione che permettono di erigere le città che costituiranno la spina dorsale del tuo impero. Per fondare la tua prima città su Pandora, clicca sul pulsante &quot;Costruisci Città&quot; nel pannello di selezione in basso a sinistra. Nota che quest'azione consumerà il tuo Colonizzatore."/>
+	<entry name="0Name" value="Colonizzatore"/>
+	<entry name="1Description" value="Questa unità è la tua prima linea di difesa contro le fazioni rivali e le specie aliene ostili. Puoi decidere di stanziarla all'interno della tua città, o di mandarla in esplorazione cliccando col pulsante destro su una destinazione. L'esplorazione è rischiosa, ma può essere anche molto fruttuosa!"/>
+	<entry name="1Name" value="Combattente"/>
+	<entry name="2Description" value="Una città può produrre un elemento alla volta, per esempio un'unità o una costruzione. In alto a destra puoi vedere le tue opzioni di produzione. Cliccando un'opzione, essa verrà aggiunta alla coda di produzione alla fine del turno. Puoi riordinare la coda di produzione spostando gli elementi in alto o in basso."/>
+	<entry name="2Name" value="Produzione della Città"/>
+	<entry name="3Description" value="Il pannello della popolazione ti aiuta a focalizzare la tua popolazione in aree specifiche. Prova a spostare i coloni su compiti differenti. Potrai notare subito dei cambiamenti nel pannello delle statistiche qua sotto. Assegnare in maniera intelligente i coloni può fare la differenza tra un impero fiorente ed uno miserabile."/>
+	<entry name="3Name" value="Popolazione della Città"/>
+	<entry name="4Description" value="Se possiedi abbastanza <icon texture='Resources/Credits'/> crediti, puoi investirli per completare velocemente la produzione, cliccando sul piccolo <icon texture='Resources/Credits'/> pulsante crediti."/>
+	<entry name="4Name" value="Acquisti della Città"/>
+	<entry name="5Description" value="Nella parte inferiore sinistra del pannello cittadino puoi vedere un elenco di tutte le costruzioni prodotte in questa città. Per vendere una costruzione, clicca semplicemente su essa."/>
+	<entry name="5Name" value="Costruzioni della Città"/>
+	<entry name="6Description" value="Ogni unità viene prodotta tramite un design; il laboratorio ti permette di personalizzare i tuoi design. Per creare un nuovo design, clicca sul pulsante &quot;Nuovo&quot;. Facendo così, duplicherai il design selezionato e ti sarà permesso modificarlo senza intaccare quello originale."/>
+	<entry name="6Name" value="Creazione Design in Laboratorio"/>
+	<entry name="7Description" value="I Costruttori creano miglioramenti territoriali come fattorie e miniere, che aumentano la produzione di risorse dal territorio. Puoi automatizzare i Costruttori premendo il pulsante &quot;Automatizza&quot; nel pannello di selezione."/>
+	<entry name="7Name" value="Costruttore"/>
+	<entry name="8Description" value="Hai poche risorse! Sposta il mouse sopra le risorse in alto a sinistra per vedere cosa succede! Forse questo ti aiuterà a gestire al meglio le priorità della tua città, producendo una costruzione o due, o fondando una nuova città."/>
+	<entry name="8Name" value="Mancanza di Risorse"/>
+	<entry name="9Description" value="Benvenuto su Pandora! Per spostare la visuale puoi tenere premuto il tasto sinistro del mouse e trascinarlo, o utilizzare i tasti direzionali. Appena ti troverai a tuo agio, clicca sulla tua unità al centro del mondo esplorato e clicca su OK."/>
+	<entry name="9Name" value="Inizio"/>
+	<entry name="10Description" value="Prenditi il tuo tempo per esplorare l'interfaccia. Ogni pulsante ed etichetta possiede un suggerimento che ti fornirà utili informazioni. Se non sei sicuro di come proseguire, clicca sul pulsante luminoso nel lato destro dello schermo. Ti aiuterà a focalizzarti sui tuoi compiti prima della fine del turno."/>
+	<entry name="10Name" value="Pulsante Fine Turno"/>
+	<entry name="11Description" value="Le risorse vitali come cibo, minerali, ricerca e crediti vengono accumulate e condivise globalmente. Ogni città produce e consuma queste risorse dalla stessa riserva, permettendoti di specializzare completamente ogni città e di accumulare le risorse per tempi più duri."/>
+	<entry name="11Name" value="Risorse Globali"/>
+	<entry name="12Description" value="Hai scoperto la tua prima operazione. Le operazioni hanno varie funzioni, da migliorare le tue unità a danneggiare il nemico. Dopo aver prodotto un'operazione, o la struttura ad essa associata, potrai utilizzarla in tutta Pandora."/>
+	<entry name="12Name" value="Scoperta delle Operazioni"/>
+	<entry name="13Description" value="La tua prima operazione è pronta per essere utilizzata. Selezionala dal pannello delle operazioni ed utilizzala. Le costruzioni che forniscono operazioni devono ricaricarsi dopo l'utilizzo, quindi dosale saggiamente. L'utilizzo intelligente delle operazioni può cambiare le sorti di una guerra."/>
+	<entry name="13Name" value="Disponibilità Effetti"/>
+	<entry name="14Description" value="La tua unità è stata ferita. La sua energia è diminuita e quasi sicuramente morirà nella prossima battaglia. Per guarire, deve rimanere inattiva senza combattere. Puoi accelerare il processo di guarigione spostandola in una città."/>
+	<entry name="14Name" value="Guarigione"/>
+	<entry name="15Description" value="Ogni unità può muoversi di un certo numero di passi ogni turno, indicato dalla sua velocità di movimento. Quando non gli è più possibile muoversi od attaccare, la barra dell'energia sotto ad essa diventa grigia."/>
+	<entry name="15Name" value="Movimento"/>
+	<entry name="16Description" value="Il pannello economico mostra una panoramica di tutte le tue città. Qui puoi facilmente cambiare la produzione, riallocare la popolazione ed anche modificare la percentuale delle tasse."/>
+	<entry name="16Name" value="Pannello Economico"/>
+	<entry name="17Description" value="Una volta selezionato il design che desideri, puoi modificarlo scegliendo una classe, un'arma compatibile, dispositivi e corazze. Ogni unità ha i suoi punti deboli ed i suoi vantaggi, e durante il corso della partita avrai accesso a moltissimi nuovi moduli."/>
+	<entry name="17Name" value="Modifica Design in Laboratorio"/>
+	<entry name="18Description" value="La globalizzazione incide anche sulla popolazione. Mentre la crescita globale del tuo impero non cambia con il numero di città, la crescita individuale delle città varia in base al morale. Fattori come inquinamento, tasse alte e mancanza di spazio vitale, scoraggeranno la crescita di una città."/>
+	<entry name="18Name" value="Crescita Globale"/>
+	<entry name="19Description" value="Il controllo totale su Pandora può essere raggiunto in tre modi: tramite dominazione globale, acquistando tutte le fazioni indipendenti, o per supremazia scientifica. Per i dettagli di ogni tipo di vittoria, fai riferimento ai pulsanti Milizia, Economia e Ricerca situati in fondo allo schermo."/>
+	<entry name="19Name" value="Condizioni di Vittoria"/>
+	<entry name="20Description" value="Il pannello ricerca mostra l'albero delle tecnologie. Cliccando su una tecnologia la potrai esaminare e selezionare per lo sviluppo. Per controllare esattamente cosa fornisce una tecnologia, passa il mouse sulla sua icona."/>
+	<entry name="20Name" value="Pannello Ricerca"/>
+	<entry name="21Description" value="Per aprire il pannello cittadino, puoi cliccare sul nome stesso della città, se non è presidiata. Cerca a tutti costi di proteggere le tue città!"/>
+	<entry name="21Name" value="Aprire il Pannello Cittadino"/>
+	<entry name="22Description" value="Per la gestione dell'impero puoi utilizzare il pannello economico e quello militare, presenti nella parte bassa dello schermo. Saranno degli strumenti essenziali quando inizierai ad espanderti per tutta Pandora."/>
+	<entry name="22Name" value="Gestione dell'Impero"/>
+	<entry name="23Description" value="Puoi selezionare unità multiple in vari modi. Facendo doppio click sul territorio selezionerai tutte le unità presenti in esso; tenendo premuto SHIFT o CTRL quando clicchi sulle truppe nel pannello militare le aggiungerai alla selezione."/>
+	<entry name="23Name" value="Controllo delle Armate"/>
+	<entry name="24Description" value="L'Enciclopedia contiene una collezione di utili informazioni riguardanti fazioni, costruzioni ed unità; oltre a tutti i suggerimenti sul gioco."/>
+	<entry name="24Name" value="Enciclopedia"/>
+	<!-- <entry name="25Description" value=""/>
+	<entry name="25Name" value="Percezione"/>
+	<entry name="26Description" value=""/>
+	<entry name="26Name" value="Fiancheggiare"/> -->
+</language>

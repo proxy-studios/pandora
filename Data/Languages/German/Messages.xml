@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Authenticating" value="Authentifiziere ..."/>
+	<entry name="AccountCreated" value="Account wurde erfolgreich erstellt."/>
+	<entry name="ConnectionLost" value="Verbindung abgebrochen."/>
+	<entry name="ConnectingToServer" value="Verbinde mit dem Server ..."/>
+	<entry name="Countdown1" value="1 ..."/>
+	<entry name="Countdown2" value="2 ..."/>
+	<entry name="Countdown3" value="3 ..."/>
+	<entry name="Countdown4" value="4 ..."/>
+	<entry name="Countdown5" value="Starte in 5 ..."/>
+	<entry name="CountdownStopped" value="Countdown angehalten."/>
+	<entry name="CreatingAccount" value="Erstelle Account ..."/>
+	<entry name="DeployOperation" value="<style color='Green'/>Linksklicken zum Einsetzen der Operation"/>
+	<entry name="Error" value="Fehler"/>
+	<entry name="EverythingOK" value="Alles OK."/>
+	<entry name="ExecuteOrder" value="<style color='Green'/>Linksklicken zum Ausführen des Befehls"/>
+	<entry name="GameInitializationFailed" value="Das Spiel konnte nicht initialisiert werden. Bitte beachten Sie das spezielle Hintergrundanwendungen wie Sicherheits- und Antivirensoftware zu eingeschränkter Funktionialität des Spiels führen können."/>
+	<entry name="GameLoaded" value="Spiel geladen"/>
+	<entry name="GameSaved" value="Spiel gespeichert"/>
+	<entry name="GameSaveError" value="Fehler beim Speichern des Spiels"/>
+	<entry name="IncompatibleVersion" value="Inkompatible Spielversion. Bitte updaten Sie Pandora."/>
+	<entry name="Info" value="Info"/>
+	<entry name="InitializingGame" value="Initialisiere Spiel ..."/>
+	<entry name="InitializingWorld" value="Initialisiere Welt ..."/>
+	<entry name="InvalidCommand" value="Ungültiger Befehl: &quot;%1%&quot;"/>
+	<entry name="InvalidEmail" value="Ungültige E-Mail-Adresse"/>
+	<entry name="InvalidName" value="Ungültiger Name."/>
+	<entry name="InvalidProductKey" value="Ungültiger Produktschlüssel."/>
+	<entry name="Kicked" value="Sie wurden vom Server entfernt."/>
+	<entry name="MasterServerUnreachable" value="Es konnte keine Verbindung mit dem Master-Server hergestellt werden."/>
+	<entry name="NameTooShort" value="Ihr Name ist zu kurz."/>
+	<entry name="NetworkError" value="Netzwerkfehler"/>
+	<entry name="NoFreeSlots" value="Auf dem Server ist kein freier Platz verfügbar."/>
+	<entry name="NoGames" value="Momentan sind keine Spiele verfügbar.<br/>Wollen Sie eins starten?"/>
+	<entry name="OnlineError3" value="Ungültiger Produktschlüssel."/>
+	<entry name="OnlineError4" value="Der Produktschlüssel wird bereits verwendet."/>
+	<entry name="OnlineError6" value="Name oder Passwort falsch."/>
+	<entry name="OnlineError7" value="Der Name wird bereits verwendet."/>
+	<entry name="OnlineError8" value="Name oder Passwort falsch."/>
+	<entry name="OnlineError10" value="Der Produktschlüssel wird bereits verwendet."/>
+	<entry name="OnlineError12" value="Die E-Mail-Adresse ist bereits registriert."/>
+	<entry name="PasswordsDoNotMatch" value="Die Passwörter stimmen nicht überein."/>
+	<entry name="PasswordTooShort" value="Das Passwort ist zu kurz."/>
+	<entry name="PlayerJoined" value="%1% ist beigetreten."/>
+	<entry name="PlayerLeft" value="%1% ist ausgestiegen."/>
+	<entry name="ProductKeyEmpty" value="Der Produktschlüssel ist leer."/>
+	<entry name="RestartRequired" value="Das Spiel muss neu gestartet werden, damit einige geänderte Einstellungen übernommen werden."/>
+	<entry name="RetrievingList" value="Rufe Liste ab ..."/>
+	<entry name="ScreenShotSaved" value="Screenshot unter &quot;%1%&quot; gespeichert"/>
+	<entry name="ScreenShotSaveError" value="Fehler beim Anlegen des Screenshots"/>
+	<entry name="ServerError" value="Serverfehler"/>
+	<entry name="ServerInfo" value="Serverinfo"/>
+	<entry name="ServerShutDown" value="Server wurde geschlossen."/>
+	<entry name="ServerUnreachable" value="Es konnte keine Verbindung mit dem Server hergestellt werden."/>
+	<entry name="Unknown" value="Unbekannt."/>
+</language>

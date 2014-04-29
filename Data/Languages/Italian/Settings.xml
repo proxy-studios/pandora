@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlwaysShowHealthBars" value="Mostra Sempre Barre Salute"/>
+	<entry name="AlwaysShowHealthBarsHint" value="Mostra barra salute anche a piena energia."/>
+	<entry name="AmbientVolume" value="Volume Ambiente"/>
+	<entry name="AmbientVolumeHint" value="Regola il volume dei suoni ambientali."/>
+	<entry name="AnisotropicFiltering" value="Filtro Anisotropico"/>
+	<entry name="AntiAliasing" value="Anti-Aliasing"/>	
+	<entry name="AntiAliasingHint" value="Riduce l'aliasing smussando gli spigoli tramite FXAA, ma potrebbe ridurre le performance. Dipende dalla potenza della tua scheda grafica."/>
+	<entry name="Audio" value="Audio"/>
+	<entry name="AutoCycleUnits" value="Auto-Cicla Unità"/>
+	<entry name="AutoCycleUnitsHint" value="Passa automaticamente all'unità inattiva seguente."/>
+	<entry name="Automation" value="Automatizzazione"/>
+	<entry name="AutoSave" value="Autosave"/>
+	<entry name="AutoSaveHint" value="Salva automaticamente la partita all'inizio di ogni turno."/>
+	<entry name="CutsceneVolume" value="Volume Filmati"/>
+	<entry name="CutsceneVolumeHint" value="Regola il volume dei filmati."/>
+	<entry name="DiscoveryHelp" value="Aiuto Scoperte"/>
+	<entry name="DiscoveryHelpHint" value="Apri il riepilogo cliccando su un evento di scoperta."/>
+	<entry name="DisplayMode" value="Modalità Visualizzazione"/>
+	<entry name="DisplayModeHint" value="Permette di cambiare la modalità di visualizzazione. La modalità finestra potrebbe causare cali di performance.<br/><br/><style color='Yellow'/>La modalità finestra potrebbe essere la migliore per registrare in risoluzione nativa."/>
+	<entry name="DisplayMode0" value="Schermo Intero"/>
+	<entry name="DisplayMode1" value="Finestra"/>
+	<entry name="DisplayMode2" value="Finestra Senza Bordo"/>
+	<entry name="EffectsVolume" value="Volume Effetti"/>
+	<entry name="EffectsVolumeHint" value="Regola il volume degli effetti."/>
+	<entry name="FontStyle" value="Stile Carattere"/>
+	<entry name="FontStyleHint" value="Determina il carattere di scrittura da utilizzare.<br/><br/><style color='Red'/>Richiede il riavvio del gioco."/>
+	<entry name="FontStyle0" value="Futuristico"/>
+	<entry name="FontStyle1" value="Semplice"/>
+	<entry name="FontStyle2" value="Semplice Grande"/>
+	<entry name="FormersBuildFarms" value="Costruzione Automatica Fattorie"/>
+	<entry name="FormersBuildMines" value="Costruzione Automatica Miniere"/>
+	<entry name="FormersBuildRoads" value="Costruzione Automatica Strade"/>
+	<entry name="FormersClearForests" value="Pulizia Automatica Foreste"/>
+	<entry name="FormersClearFungus" value="Pulizia Automatica Funghi"/>
+	<entry name="FormersClearPollution" value="Pulizia Automatica Deserti"/>
+	<entry name="FormersGrowForests" value="Creazione Automatica Foreste"/>
+	<entry name="FormersGrowFungus" value="Creazione Automatica Funghi"/>
+	<entry name="FormersImproveEcoregions" value="Miglioramento Automatico Ecoregioni"/>
+	<entry name="FormersWorsenEcoregions" value="Peggioramento Automatico Ecoregioni"/>
+	<entry name="General" value="Generale"/>
+	<entry name="GrabInput" value="Input"/>
+	<entry name="InterfaceVolume" value="Volume Interfaccia"/>
+	<entry name="InterfaceVolumeHint" value="Regola il volume dell'interfaccia."/>
+	<entry name="KeyboardScrollSpeed" value="Velocità Scorrimento Tastiera"/>
+	<entry name="KeyboardScrollSpeedHint" value="Determina la velocità dello scorrimento della telecamera tramite tastiera."/>
+	<entry name="Language" value="Lingua"/>
+	<entry name="MasterVolume" value="Volume Principale"/>
+	<entry name="MasterVolumeHint" value="Regola il volume principale."/>
+	<entry name="MouseScrollSpeed" value="Velocità Scorrimento Mouse"/>
+	<entry name="MouseScrollSpeedHint" value="Determina la velocità dello scorrimento della telecamera tramite mouse."/>
+	<entry name="MusicVolume" value="Volume Musica"/>
+	<entry name="MusicVolumeHint" value="Regola il volume della musica."/>
+	<entry name="Network" value="Rete"/>
+	<entry name="PlayCutscenes" value="Riproduci Filmati"/>
+	<entry name="PlayCutscenesHint" value="Riproduci i filmati del gioco."/>
+	<entry name="ProductKey" value="Product Key"/>
+	<entry name="ResetTips" value="Resetta Suggerimenti"/>
+	<entry name="ResetTipsHint" value="Resetta i suggerimenti di gioco."/>
+	<entry name="Resolution" value="Risoluzione"/>
+	<entry name="ResolutionHint" value="Permette di modificare la risoluzione dello schermo. Alte risoluzioni permettono una grafica più chiara, ma influenzano molto le performance."/>
+	<entry name="ServerPort" value="Porta Server"/>
+	<entry name="ServerPortHint" value="Porta TCP utilizzata per accedere alla rete. Deve essere un valore diverso da zero. Nessun'altra porta verrà utilizzata.<br/><br/><style color='Yellow'/>Quando ospiti partite multiplayer, è raccomandabile aprire questa porta nel tuo router per garantire la capacità di connessione agli altri giocatori."/>
+	<entry name="ShadowQuality" value="Qualità Ombre"/>
+	<entry name="ShadowQualityHint" value="Determina la dimensione della mappatura per il render delle ombre. Un'alta qualità permetterà ombre più definite ma richiederà più memoria video (VRAM)."/>
+	<entry name="ShadowQuality0" value="Bassa"/>
+	<entry name="ShadowQuality1" value="Media"/>
+	<entry name="ShadowQuality2" value="Alta"/>
+	<entry name="ShowGrid" value="Mostra Griglia"/>
+	<entry name="ShowGridHint" value="Mostra la griglia del terreno."/>
+	<entry name="ShowTips" value="Mostra Suggerimenti"/>
+	<entry name="ShowTipsHint" value="Visualizza utili consigli di gioco."/>
+	<entry name="SpokenLanguage" value="Lingua Doppiaggio"/>
+	<entry name="SpokenLanguageHint" value="Specifica la lingua del doppiaggio."/>
+	<entry name="TextureQuality" value="Qualità Texture"/>
+	<entry name="TextureQualityHint" value="Determina la dimensione delle texture utilizzate nel gioco. Un'alta qualità permetterà terreni ed unità più definiti ma richiederà più memoria video (VRAM).<br/><br/>Bassa: 256 MB<br/>Media: 512 MB<br/>Alta: 1024 MB<br/><br/><style color='Red'/>Richiede il riavvio del gioco."/>
+	<entry name="TextureQuality0" value="Bassa"/>
+	<entry name="TextureQuality1" value="Media"/>
+	<entry name="TextureQuality2" value="Alta"/>
+	<entry name="VerticalSynchronization" value="Sincronia Verticale"/>
+	<entry name="VerticalSynchronizationHint" value="Sincronizza il tuo frame rate a quello del monitor. Permette l'eliminazione del tearing e riduce il carico hardware, ma potrebbe ridurre anche le performance se il tuo hardware non riesce a mantenere il frame rate."/>
+	<entry name="Video" value="Video"/>
+	<entry name="VoiceVolume" value="Volume Voci"/>
+	<entry name="VoiceVolumeHint" value="Regola il volume delle voci."/>
+	<entry name="WrittenLanguage" value="Lingua Interfaccia"/>
+	<entry name="WrittenLanguageHint" value="Specifica la lingua dell'interfaccia.<br/><br/><style color='Red'/>Richiede il riavvio del gioco."/>
+</language>

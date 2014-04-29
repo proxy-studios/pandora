@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="CreditsInf" value="Wohlstand"/>
+	<entry name="CreditsInfProperties" value="<icon texture='GUI/Bullet'/>Wandelt 1 <icon texture='Resources/Production'/> Produktion in 2 <icon texture='Resources/Credits'/> Credits um"/>
+	<entry name="GrowthInf" value="Wachstum"/>
+	<entry name="GrowthInfProperties" value="<icon texture='GUI/Bullet'/>Wandelt 4 <icon texture='Resources/Production'/> Produktion in 1 <icon texture='Resources/PositiveGrowth'/> Wachstum um"/>
+</language>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcceptCreditsForDeal0" value="(erwägt Bezahlung für Geschäft)"/>
+	<entry name="AcceptCreditsForDeal1" value="(akzeptiert Bezahlung für Geschäft)"/>
+	<entry name="AcceptDenounce" value="(akzeptiert Denunziation)"/>
+	<entry name="AcceptOpenBorders" value="(akzeptiert offene Grenzen)"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="(erwägt Friedensangebot an dritte Partei)"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="(akzeptiert Friedensangebot an dritte Partei)"/>
+	<entry name="AcceptPraise" value="(akzeptiert Lob)"/>
+	<entry name="AcceptShareMap" value="(akzeptiert Teilen von Karten)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="(erwägt Kriegserklärung an dritte Partei)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="(akzeptiert Kriegserklärung an dritte Partei)"/>
+	<entry name="RejectCreditsForDeal0" value="(lehnt Bezahlung für Geschäft ab)"/>
+	<entry name="RejectCreditsForDeal1" value="(lehnt Bezahlung für Geschäft ab)"/>
+	<entry name="AllianceAccepted" value="(akzeptiert Allianz)"/>
+	<entry name="AllianceHint" value="Eine Allianz besteht für mindestens 10 Runden und gestattet es beiden Fraktionen, gegenseitig ihre Hoheitsgebiete zu betreten und Seite an Seite zu kämpfen."/>
+	<entry name="AllianceRejected" value="(lehnt Allianz ab)"/>
+	<entry name="DeclareWar" value="(erklärt den Krieg)"/>
+	<entry name="DemandCreditsForDeal" value="(verlangt Bezahlung für Geschäft)"/>
+	<entry name="DemandPeaceOfferToThirdParty0" value="(verlangt Friedensangebot an dritte Partei)"/>
+	<entry name="DemandTribute0" value="(verlangt Tributzahlung)"/>
+	<entry name="DemandWarDeclarationOnThirdParty0" value="(verlangt Kriegserklärung an dritte Partei)"/>
+	<entry name="DemandWithdrawal" value="(verlangt Rückzug)"/>
+	<entry name="Denounce" value="(denunziert öffentlich)"/>
+	<entry name="DenounceHint" value="Öffentliche Beschuldigungen, die die Beziehungen der denunzierten Fraktion mit Ihren Freunden verschlechtern, dafür aber die Beziehungen der denunzierten Fraktion mit Ihren Feinden verbessern. Wenn die Denunziation abgelehnt wird, werden die Auswirkungen abgeschwächt."/>	
+	<entry name="GiftAccepted0" value="(erwägt, das Geschenk zu akzeptieren)"/>
+	<entry name="GiftAccepted1" value="(akzeptiert Geschenk)"/>
+	<entry name="GiftHint" value="Ein Geldgeschenk, das - wenn es akzeptiert wird - den Schenker in der Gunst des Beschenkten steigen lässt."/>
+	<entry name="GiftRejected0" value="(lehnt Geschenk ab)"/>
+	<entry name="GiftRejected1" value="(lehnt Geschenk ab)"/>
+	<entry name="Goodbye" value="(beendet Dialog)"/>
+	<entry name="LetMeKnow" value="(beendet Dialog)"/>
+	<entry name="LetMeThink" value="(überdenkt Optionen)"/>
+	<entry name="NonAggressionPactAccepted" value="(akzeptiert Nichtangriffspakt)"/>
+	<entry name="NonAggressionPactHint" value="Ein Nichtangriffspakt hält beide Partner davon ab sich gegenseitig den Krieg zu erklären. Das Beenden des Pakts führt zu einem drastischen Ansehensverlust bei der anderen Fraktion, sowie einem geringeren Verlust bei allen Fraktionen die mit mindestens einem der beiden ehemaligen Vertragspartner Kontakt haben."/>
+	<entry name="NonAggressionPactRejected" value="(lehnt Nichtangriffspakt ab)"/>
+	<entry name="OfferAlliance" value="(bietet Allianz an)"/>
+	<entry name="OfferGift0" value="(bietet Geschenk an)"/>
+	<entry name="OfferNonAggressionPact" value="(bietet Nichtangriffspakt an)"/>
+	<entry name="OfferOpenBorders" value="(bietet offene Grenzen an)"/>
+	<entry name="OfferPeace" value="(bietet Frieden an)"/>
+	<entry name="OfferResearchPact" value="(bietet Forschungsabkommen an)"/>
+	<entry name="OfferShareMap" value="(bietet Teilen von Karten an)"/>
+	<entry name="OfferTradingPact" value="(bietet Handelsabkommen an)"/>
+	<entry name="OpenBordersHint" value="Gestattet es beiden Fraktionen, die jeweiligen Hoheitsgebiete zu betreten."/>
+	<entry name="PeaceAccepted" value="(akzeptiert Frieden)"/>
+	<entry name="PeaceRejected" value="(lehnt Frieden ab)"/>
+	<entry name="Praise" value="(lobt öffentlich)"/>
+	<entry name="PraiseHint" value="Öffentliche Lobesworte, die - falls sie akzeptiert werden - die Beziehungen der gelobten Fraktion mit Ihren Freunden verbessern, aber die Beziehungen der gelobten Fraktion mit Ihren Feinden verschlechtern."/>
+	<entry name="RejectDenounce" value="(lehnt Denunziation ab)"/>
+	<entry name="RejectOpenBorders" value="(lehnt offene Grenzen ab)"/>
+	<entry name="RejectPraise" value="(lehnt Lob ab)"/>	
+	<entry name="RejectShareMap" value="(lehnt Teilen von Karten ab)"/>
+	<entry name="ResearchPactAccepted" value="(akzeptiert Forschungsabkommen)"/>
+	<entry name="ResearchPactHint" value="Bei einem Forschungsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 10% ihrer Gesamtforschung pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerer Forschung pro Runde mehr von solch einem Abkommen."/>
+	<entry name="ResearchPactRejected" value="(lehnt Forschungsabkommen ab)"/>
+	<entry name="ShareMapHint" value="Die beiden Fraktionen teilen ihre erforschten Gebiete, allerdings bleibt der Nebel des Krieges bestehen."/>
+	<entry name="TerminateAlliance" value="(beendet Allianz)"/>
+	<entry name="TerminateNonAggressionPact" value="(beendet Nichtangriffspakt)"/>
+	<entry name="TerminateOpenBorders" value="(beendet offene Grenzen)"/>
+	<entry name="TerminateResearchPact" value="(beendet Forschungsabkommen)"/>
+	<entry name="TerminateTradingPact" value="(beendet Handelsabkommen)"/>
+	<entry name="TradingPactAccepted" value="(akzeptiert Handelsabkommen)"/>
+	<entry name="TradingPactHint" value="Bei einem Handelsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 10% ihrer Gesamteinnahmen pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerem Einkommen pro Runde mehr von solch einem Abkommen."/>
+	<entry name="TradingPactRejected" value="(lehnt Handelsabkommen ab)"/>
+	<entry name="TributeAccepted0" value="(erwägt Tributzahlung)"/>
+	<entry name="TributeAccepted1" value="(akzeptiert Tributzahlung)"/>
+	<entry name="TributeHint" value="Eine Tributzahlung zu verlangen, ist für gewöhnlich ein Zeichen der Dominanz einer Fraktion gegenüber einer anderen. Folglich führen die Forderung sowie die Nichtbezahlung eines Tributs zu einer Verschlechterung der Beziehungen zwischen den beiden Fraktionen."/>
+	<entry name="TributeRejected0" value="(lehnt Tributzahlung ab)"/>
+	<entry name="TributeRejected1" value="(lehnt Tributzahlung ab)"/>
+	<entry name="WarHint" value="Ein Krieg verschlechtert die Beziehungen zwischen zwei Fraktionen dramatisch. Er ermöglicht es beiden Seiten, in das jeweils gegnerische Territorium einzudringen, ihre Einheiten anzugreifen und ihre Städte zu erobern."/>
+	<entry name="WithdrawalAccepted" value="(akzeptiert Rückzug)"/>
+	<entry name="WithdrawalRejected" value="(lehnt Rückzug ab)"/>
+</language>

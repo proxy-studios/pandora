@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Economy0" value="&quot;Senza città ed infrastrutture, non esiste economia.&quot;"/>
+	<entry name="Economy1" value="&quot;Numeri rossi ovunque! Non può andare peggio, o no?&quot;"/>
+	<entry name="Economy2" value="&quot;La nostra economia impallidisce di fronte alla concorrenza.&quot;"/>
+	<entry name="Economy3" value="&quot;Possediamo un'economia florida!&quot;"/>
+	<entry name="Economy4" value="&quot;La nostra economia è una delle forze trainanti del mercato planetario.&quot;"/>
+	<entry name="Economy5" value="&quot;Anni ed anni di duro lavoro hanno dato i loro frutti: la nostra economia è senza rivali!&quot;"/>
+	<entry name="Diplomacy0" value="&quot;Non è ancora stato stabilito alcun contatto con altre fazioni.&quot;"/>
+	<entry name="Diplomacy1" value="&quot;Siamo isolati ed odiati da molti! La prego di riconsiderare le sue azioni!&quot;"/>
+	<entry name="Diplomacy2" value="&quot;Le altre fazioni hanno iniziato a prendere le distanze da noi.&quot;"/>
+	<entry name="Diplomacy3" value="&quot;Siamo rispettati dai leader delle altre fazioni.&quot;"/>
+	<entry name="Diplomacy4" value="&quot;Siamo in buoni rapporti con le altre fazioni. Continuiamo così!&quot;"/>
+	<entry name="Diplomacy5" value="&quot;Bel lavoro, i leader delle altre fazioni ci adorano! Possiamo contare sul loro supporto.&quot;"/>
+	<entry name="Military0" value="&quot;Non possediamo forze militari e siamo del tutto impotenti!&quot;"/>
+	<entry name="Military1" value="&quot;Il numero delle nostre truppe è patetico! Qualunque avversario ci schiaccerebbe.&quot;"/>
+	<entry name="Military2" value="&quot;La nostra potenza militare è troppo esigua, potremmo non sopportare un'invasione.&quot;"/>
+	<entry name="Military3" value="&quot;Possediamo solide forze militari in grado di tener testa ad un'aggressione nemica.&quot;"/>
+	<entry name="Military4" value="&quot;Le nostre armate sono solide ed in grado di sopportare lunghe campagne.&quot;"/>
+	<entry name="Military5" value="&quot;Le nostre armate sono le migliori del pianeta. I nemici tremano di paura!&quot;"/>
+	<entry name="Research0" value="&quot;Non abbiamo ancora scoperto nessuna tecnologia.&quot;"/>
+	<entry name="Research1" value="&quot;Siamo anni indietro rispetto alle altre fazioni, ci ridicolizzano!&quot;"/>
+	<entry name="Research2" value="&quot;Le altre fazioni ci hanno sorpassato, è tempo di ottimizzare le nostre priorità!&quot;"/>
+	<entry name="Research3" value="&quot;La nostra ricerca sta proseguendo bene.&quot;"/>
+	<entry name="Research4" value="&quot;Buone notizie! Siamo una delle fazioni più avanzate del pianeta.&quot;"/>
+	<entry name="Research5" value="&quot;Sono orgoglioso di informarla che abbiamo surclassato chiunque... i nostri scienziati sono senza rivali.&quot;"/>
+</language>

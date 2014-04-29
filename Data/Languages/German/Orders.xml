@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Attack" value="Angreifen"/>
+	<entry name="AttackHint" value="Angreifen"/>
+	<entry name="Automatize" value="Automatisieren"/>
+	<entry name="AutomatizeHint" value="Automatisieren [A]"/>
+	<entry name="BuildCity" value="Stadt errichten"/>
+	<entry name="BuildCityHint" value="Stadt errichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für verteidigende leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Mindestabstand zwischen Städten: 2 Gebiete<br/><icon texture='GUI/Bullet'/>Entfernt alle Gebietsaufwertungen<br/><icon texture='GUI/Bullet'/>Kann nicht im Gebirge errichtet werden<br/><icon texture='GUI/Bullet'/>Kann nicht in Gelände mit speziellen Eigenschaften errichtet werden"/>
+	<entry name="BuildConstructionBay" value="Bauhof bauen"/>
+	<entry name="BuildConstructionBayHint" value="Bauhof bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildEnergyPark" value="Energiepark bauen"/>
+	<entry name="BuildEnergyParkHint" value="Energiepark bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildFarm" value="Farm bauen"/>
+	<entry name="BuildFarmHint" value="Farm bauen [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildFieldLaboratory" value="Feldlabor bauen"/>
+	<entry name="BuildFieldLaboratoryHint" value="Feldlabor bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>/>Bauzeit: %1% Runden"/>
+	<entry name="BuildFort" value="Festung bauen"/>
+	<entry name="BuildFortHint" value="Festung bauen [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>-1 Operationsschaden<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildMine" value="Mine bauen"/>
+	<entry name="BuildMineHint" value="Mine bauen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildPurifier" value="Reinigungsanlage bauen"/>
+	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildRoad" value="Straße bauen"/>
+	<entry name="BuildRoadHint" value="Straße bauen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>50%% Bewegungskosten<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildSuburb" value="Vorstadt bauen"/>
+	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="ClearForest" value="Wald abreißen"/>
+	<entry name="ClearForestHint" value="Wald abreißen [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="ClearFungus" value="Pilze abreißen"/>
+	<entry name="ClearFungusHint" value="Pilze abreißen [Alt+U]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="ClearPollution" value="Ödland säubern"/>
+	<entry name="ClearPollutionHint" value="Ödland säubern [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="Deploy" value="Einsetzen"/>
+	<entry name="DeployHint" value="Einsetzen"/>
+	<entry name="DestroyImprovement" value="Aufwertung zerstören"/>
+	<entry name="DestroyImprovementHint" value="Aufwertung zerstören [Alt+D]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Zerstört alle Aufwertungen außer Straßen"/>
+	<entry name="DestroyRoad" value="Straße zerstören"/>
+	<entry name="DestroyRoadHint" value="Straße zerstören [Alt+R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Zerstört Straßenaufwertung"/>
+	<entry name="Disband" value="Auflösen"/>
+	<entry name="DisbandHint" value="Auflösen [Entfernen]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Sie erhalten 25%% des Einheitenwerts in <icon texture='Resources/Credits'/> Credits, wenn die Einheit in alliiertem Gebiet aufgelöst wird<br/><icon texture='GUI/Bullet'/>Sie erhalten %1% <icon texture='Resources/Credits'/> Credits, wenn die Einheit hier aufgelöst wird"/>
+	<entry name="Drop" value="Abwerfen"/>
+	<entry name="DropHint" value="Orbitaler Einsatz<br/><icon texture='GUI/Bullet'/>Platziert die Einheit in einem bekannten, nicht besetzten Gebiet auf dem Planeten<br/><icon texture='GUI/Bullet'/>Die Einheit muss in einer Stadt stationiert sein, die ihr Spieler kontrolliert<br/><icon texture='GUI/Bullet'/>Verbraucht eine Abwurfkapsel-Operation"/>
+	<entry name="Guard" value="Bewachen"/>
+	<entry name="GuardHint" value="Bewachen [G]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Die Einheit hält die Position, bis ein Gegner in Angriffsreichweite kommt oder sie angegriffen wird."/>
+	<entry name="GrowForest" value="Wald anpflanzen"/>
+	<entry name="GrowForestHint" value="Wald anpflanzen [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="GrowFungus" value="Pilze anpflanzen"/>
+	<entry name="GrowFungusHint" value="Pilze anpflanzen [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="HarvestFood" value="Nahrung ernten"/>
+	<entry name="HarvestFoodHint" value="Nahrung ernten<br/><style name='Small'/><icon texture='GUI/Bullet'/>Erntet <icon texture='Resources/Food'/> Nahrung in diesem Gebiet"/>
+	<entry name="HarvestMinerals" value="Mineralien abbauen"/>
+	<entry name="HarvestMineralsHint" value="Mineralien abbauen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Baut <icon texture='Resources/Minerals'/> Mineralien in diesem Gebiet ab"/>
+	<entry name="Heal" value="Heilen"/>
+	<entry name="HealHint" value="Heilen [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Die Einheit hält die Position, bis sie geheilt ist<br/><icon texture='GUI/Bullet'/>Heilt %1%%% pro Runde<br/><icon texture='GUI/Bullet'/>%2% Runden bis zur vollständigen Heilung"/>
+	<entry name="HoldPosition" value="Position halten"/>
+	<entry name="HoldPositionHint" value="Position halten [D]"/>
+	<entry name="Idle" value="Untätig"/>
+	<entry name="ImproveClosestCity" value="Nächstgelegene Stadt aufwerten"/>
+	<entry name="ImproveClosestCityHint" value="Nächstgelegene Stadt aufwerten [Alt+A]"/>
+	<entry name="ImproveEcoregion" value="Ökoregion aufwerten"/>
+	<entry name="ImproveEcoregionHint" value="Ökoregion aufwerten [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="LowerTerrain" value="Gelände absenken"/>
+	<entry name="LowerTerrainHint" value="Gelände absenken<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>	
+	<entry name="Move" value="Bewegen nach"/>
+	<entry name="MoveHint" value="Bewegen"/>
+	<entry name="RaiseTerrain" value="Gelände anheben"/>
+	<entry name="RaiseTerrainHint" value="Gelände anheben<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>	
+	<entry name="Refit" value="Umrüsten"/>
+	<entry name="RefitHint" value="Umrüsten [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Den Einheitenentwurf ändern<br/><icon texture='GUI/Bullet'/>Die Einheit muss in einer Stadt stationiert sein, die ihr Spieler kontrolliert"/>
+	<entry name="Skip" value="Überspringen"/>
+	<entry name="SkipHint" value="Überspringen [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Diese Runde überspringen"/>
+	<entry name="WorsenEcoregion" value="Ökoregion abwerten"/>
+	<entry name="WorsenEcoregionHint" value="Ökoregion abwerten [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+</language>

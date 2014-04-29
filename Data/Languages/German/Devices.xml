@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Agile" value="Fortgeschrittene Kostenberechnung"/>
+	<entry name="AgileDescription" value="Ein tragbarer Computer, der bei der Optimierung der Bewegungskosten und des Erschöpfungsmanagements eingesetzt wird."/>
+	<entry name="AgileProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Angriff kostet 1 statt alle <icon texture='Attributes/Movement'/> Bewegungspunkte"/>
+	<entry name="AlwaysHeal" value="Erholungsverbesserungssystem"/>
+	<entry name="AlwaysHealDescription" value="Durch Mikromanagement des Serotoninspiegels in organischen Einheiten und spontane Mikroreparaturen bei mechanischen Einheiten ermöglicht es diese Ausrüstung jeder Einheit, sich sogar beim Bewegen zu erholen."/>
+	<entry name="AlwaysHealProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Die Einheit regeneriert immer, selbst nach dem Bewegen oder Angreifen"/>
+	<entry name="Attack" value="Angriffstaktikkalibrierer"/>
+	<entry name="AttackDescription" value="Diese Ausrüstung empfiehlt den Einheiten in Echtzeit wirkungsvolle Taktiken und sorgt so dafür, dass sie viel härter zuschlagen können und den arglosen Gegnern größeren Schaden zufügen."/>
+	<entry name="AttackProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke beim Angriff"/>
+	<entry name="ConvertNative" value="Xenomorph-Pheromator"/>
+	<entry name="ConvertNativeDescription" value="Mit dieser Pheromon-Nachbildung, die wir entwickelt haben, können wir die wilden Tiere des Planeten zähmen und sie so zu fürchterlich wirkungsvollen Wachhunden erziehen."/>
+	<entry name="ConvertNativeProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Wandelt Aliens in Verbündete um<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Conversions'/> Umwandlungslimit<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> Stärke"/>
+	<entry name="Defense" value="Deadlock-Ausweichfeld"/>
+	<entry name="DefenseDescription" value="Diese Ausrüstung scannt einen begrenzten Bereich ständig nach etwaigen Angriffen ab. Im Falle einer Bedrohung kann sie umgehend entsprechende Ausweichmanöver einleiten."/>
+	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke bei der Verteidigung"/>
+	<entry name="Experience" value="Erfahrungs-XXL-Prozessor"/>
+	<entry name="ExperienceDescription" value="Der EXP ist ein Computer zum Aufnehmen und Abspielen aller Kampfsituationen. Damit können Einheiten wertvolle Erfahrungen aus allen vergangenen Konfrontationen mit Gegnern ziehen."/>
+	<entry name="ExperienceProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Rank'/> Erfahrungsgewinn"/>
+	<entry name="FirstStrike" value="Präemptivschlagcomputer"/>
+	<entry name="FirstStrikeDescription" value="Einheiten können mit dieser Ausrüstung potenzielle Gefahrenquellen und ihre Schwachstellen in der Nahdistanz analysieren und haben damit die Möglichkeit, den ersten Schlag auszuführen."/>
+	<entry name="FirstStrikeProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Einheit erleidet keinen Schaden, wenn sie erfolgreich angreift"/>
+	<entry name="HealArea" value="Heil- und Wartungsapparat"/>
+	<entry name="HealAreaDescription" value="Der HUW-Apparat ist ein tragbares Nanowerkzeugkit, das bei biologischen und mechanischen Einheiten in der Nähe verschiedene mikrochirurgische und Wartungsoperationen durchführt. Dazu analysiert er den Zustand der besten Organe/Teile der Einheiten in der Nähe und repliziert diese dann in den verletzten bzw. beschädigten Einheiten."/>
+	<entry name="HealAreaProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Heilt alle Einheiten in einem Gebiet und nicht nur sich selbst"/>
+	<entry name="HealAreaAlien" value="Transfusion"/>
+	<entry name="HealAreaAlienDescription" value=""/>
+	<entry name="HealAreaAlienProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>Heilt alle Einheiten in einem Gebiet und nicht nur sich selbst"/>
+	<entry name="Movement" value="Bewegungsanalyse- und optimierung"/>
+	<entry name="MovementDescription" value="Diese Ausrüstung untersucht sorgfältig das umliegende Gelände und berechnet ständig die optimalen Bewegungsmöglichkeiten. Dadurch genießen die Einheiten, die solch eine Ausrüstung tragen, Vorteile bei der Bewegung und können sich so viel weiter bewegen."/>
+	<entry name="MovementProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Movement'/> Bewegung"/>
+	<entry name="Sight" value="Umgebungssonar"/>
+	<entry name="SightDescription" value="Dieses Sonargerät ist in der Lage, die Umgebung bis zu einer mittleren Distanz mithilfe der Echoanalyse von hochfrequenten Schallwellen und deren Reflexionen grafisch darzustellen."/>
+	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht"/>
+	<entry name="Upkeep" value="Rohstoffrationierer"/>
+	<entry name="UpkeepDescription" value="Der einzige Einsatzzweck dieses tragbaren Geräts besteht darin, den Verbrauch aller Einheiten so zu rationieren, dass keine Rohstoffe vergeudet werden. Das mag sich zwar negativ auf die Moral auswirken, aber die Steigerung in der Effizienz ist unbezahlbar."/>
+	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> Unterhalt"/>
+	<entry name="None" value="Keine Ausrüstung"/>
+	<entry name="NoneDescription" value="Einheiten, die nicht ausgerüstet sind, kommen so daher, wie sie sind: ohne jegliche Überraschung."/>
+</language>
