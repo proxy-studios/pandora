@@ -365,7 +365,7 @@
 	<entry name="StopRazing" value="<style color='Red'/>Ferma Razzia"/>
 	<entry name="StopRazingHint" value="Clicca per fermare la razzia della città."/>
 	<entry name="Stories" value="Storie"/>
-	<entry name="StoriesHelp" value=""/>
+	<entry name="StoriesHelp" value="Qui potrai travare delle storie del passato. Si dice che conoscere la storia permetta di comprendere meglio il presente e prepararsi per il futuro."/>
 	<entry name="Story" value="Storia"/>
 	<entry name="Targets" value="Bersagli"/>
 	<entry name="TargetPower" value="Energia Obiettivo"/>
@@ -380,7 +380,7 @@
 	<entry name="Team7" value="G"/>
 	<entry name="Team8" value="H"/>
 	<entry name="Technologies" value="Tecnologie"/>
-	<entry name="TechnologiesHelp" value="Nel corso della partita sbloccherai tecnologie più avanzate che di forniranno nuove costruzioni, unità, armi, dispositivi, operazioni e miglioramenti.<br/><br/>Se non è disattivata, lo sviluppo del 75% delle tecnologie disponibili porterà alla vittoria scientifica."/>
+	<entry name="TechnologiesHelp" value="Nel corso della partita sbloccherai tecnologie più avanzate che di forniranno nuove costruzioni, unità, armi, dispositivi, operazioni e miglioramenti."/>
 	<entry name="TechnologyCost" value="Costo: %1% <icon texture='Resources/Research'/> ricerca <style name='Small' color='Gray'/>(%2% turni)"/>
 	<entry name="TerritorySetToAcquire" value="Questo territorio sarà acquisito quando accumulerai abbastanza popolazione <style color='Gray'/>(%1%)<style name='Default'/> <style color='Gray'/>(%2% turni)<style name='Default'/>."/>
 	<entry name="Timeline" value="Cronologia"/>

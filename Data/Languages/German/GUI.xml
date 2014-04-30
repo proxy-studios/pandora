@@ -363,7 +363,7 @@
 	<entry name="StopRazing" value="<style color='Red'/>Zerstören beenden"/>
 	<entry name="StopRazingHint" value="Klicken Sie, um die Zerstörung der Stadt zu beenden."/>
 	<entry name="Stories" value="Geschichten"/>
-	<entry name="StoriesHelp" value=""/>
+	<entry name="StoriesHelp" value="Hier finden Sie Kurzgeschichten aus der Welt von Pandora. Viel Spass beim Lesen!"/>
 	<entry name="Story" value="Geschichte"/>
 	<entry name="Targets" value="Ziele"/>
 	<entry name="TargetPower" value="Zielstärke"/>
