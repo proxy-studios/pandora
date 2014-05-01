@@ -147,14 +147,14 @@
 	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
 	<entry name="Suburb" value="Voorstad"/>
-	<entry name="SuburbDescription" value="Deze luxueuze laagbouw zijn ideaal voor onze arbeidersklasse, die zich na een zware dag in de mijnen of fabrieken in zijn vertrouwde huis met famillie kan terugtrekken."/>
+	<entry name="SuburbDescription" value="Deze luxueuze laagbouw is ideaal voor onze arbeidersklasse, die zich na een zware dag in de mijnen of fabrieken in zijn vertrouwde huis met famillie kan terugtrekken."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
 	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1"/>
 	<entry name="SeafoodBonus0" value="Vissen"/>
 	<entry name="SeafoodBonus0Description" value="De zee in dit gebied huisvest talrijke eetbare levensvormen, die een overvloedige voedingsbron kunnen vormen voor de omliggende steden."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="Tropical" value="Tropisch"/>
-	<entry name="TropicalDescription" value="Tropische gebieden kenmerken zich door een warm en vochtig klimaar, welige vegetatie alsook een bodem die realtief arm aan voedingstoffen is."/>
+	<entry name="TropicalDescription" value="Tropische gebieden kenmerken zich door een warm en vochtig klimaar, welige vegetatie alsook een bodem die relatief arm aan voedingstoffen is."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="TropicalStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
 	<entry name="Tundra" value="Toendra"/>
