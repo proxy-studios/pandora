@@ -369,7 +369,7 @@
 	<entry name="Technologies" value="Technologieën"/>
 	<entry name="TechnologiesHelp" value="Tijdens het verloop van het spel zal je steeds geavanceerdere technologieën ontsluiten, die je nieuwe gebouwen, eenheden, wapens, bepantseringen, uitrustingen, operaties en vorderingen ter beschikking stellen.<br/><br/>Indien niet expliciet gedeactiveerd, boek je een wetenschappelijke overwinning zodra je 75% van alle beschikbare technologieën onderzocht hebt."/>
 	<entry name="TechnologyCost" value="Kosten: %1% <icon texture='Resources/Research'/> Forsching <style name='Small' color='Gray'/>(%2% Runden)"/>
-	<entry name="TerritorySetToAcquire" value="Dit is het volgende gebied dat ingenomen wordt, zodra de bevolking de benodigde grootte <style color='Gray'/>(%1%)<style name='Default'/> berrijkt <style color='Gray'/>(%2% rondes)<style name='Default'/>."/>
+	<entry name="TerritorySetToAcquire" value="Dit is het volgende gebied dat ingenomen wordt, zodra de bevolking de benodigde grootte <style color='Gray'/>(%1%)<style name='Default'/> bereikt <style color='Gray'/>(%2% rondes)<style name='Default'/>."/>
 	<entry name="Timeline" value="Tijdlijn"/>
 	<entry name="TimelineHelp" value="De reis hierheen was doorspekt met gevaren en avonturen. Uit opportunisme en ideologiën, die onafhankelijk van regeringen waren, zijn fracties gegroeid. Private organisaties en religieuze bewegingen hebben uit macht- en geldhonger oorlogen gevoerd. Velen zijn gestorven en grote landstreken zijn verwoest. Na de ontdekking van Pandora is de toekomst ongewisser dan ooit. Hebben we de juiste lessen uit onze geschiedenis getrokken of zullen we dezelfde fouten herhalen?"/>
 	<entry name="Tip" value="Tip"/>
