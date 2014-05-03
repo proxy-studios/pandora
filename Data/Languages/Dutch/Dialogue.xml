@@ -3,7 +3,7 @@
 	<entry name="AcceptCreditsForDeal0" value="(overweegt betaling voor verdrag)"/>
 	<entry name="AcceptCreditsForDeal1" value="(accepteert betaling voor verdrag)"/>
 	<entry name="AcceptDenounce" value="(accepteert terechtwijzing)"/>
-	<entry name="AcceptOpenBorders" value="(accepteert opene grenzen)"/>
+	<entry name="AcceptOpenBorders" value="(accepteert open grenzen)"/>
 	<entry name="AcceptPeaceOfferToThirdParty0" value="(verwacht vredesaanbod aan derde partij)"/>
 	<entry name="AcceptPeaceOfferToThirdParty1" value="(accepteert vredesaanbod aan derde partij)"/>
 	<entry name="AcceptPraise" value="(accepteert lof)"/>
