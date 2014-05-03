@@ -6,14 +6,24 @@
 	<entry name="AutomatizeHint" value="Automatiseren [A]"/>
 	<entry name="BuildCity" value="Stad stichten"/>
 	<entry name="BuildCityHint" value="Stad stichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Sterkte voor verdedigende lichte biologische eenheden.<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Geneeestempo<br/><icon texture='GUI/Bullet'/>Minimale afstand tussen steden: 2 gebieden<br/><icon texture='GUI/Bullet'/>Verwijdert alle gebiedsverbeteringen<br/><icon texture='GUI/Bullet'/>Kan niet in gebergtes verricht worden<br/><icon texture='GUI/Bullet'/>Kan niet op terrein met speciale eigenschappen verricht worden."/>
+	<entry name="BuildConstructionBay" value="Bouwplaats aanleggen"/>
+	<entry name="BuildConstructionBayHint" value="Bouwplaats aanleggen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
+	<entry name="BuildEnergyPark" value="Energiepark bauen"/>
+	<entry name="BuildEnergyParkHint" value="Energiepark bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildFarm" value="Boerderij aanleggen"/>
 	<entry name="BuildFarmHint" value="Boerderij aanleggen [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildFieldLaboratory" value="Veldlaboratorium bouwen"/>
+	<entry name="BuildFieldLaboratoryHint" value="Veldlaboratorium bouwen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>/>Bouwtijd: %1% rondes"/>
 	<entry name="BuildFort" value="Fort aanleggen"/>
 	<entry name="BuildFortHint" value="Fort aanleggen [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>-1 operatieschade<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> geneestempo<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
 	<entry name="BuildMine" value="Mijn aanleggen"/>
 	<entry name="BuildMineHint" value="Mijn aanleggen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildPurifier" value="Reinigingsinstallatie bouwen"/>
+	<entry name="BuildPurifierHint" value="Reinigingsinstallatie bouwen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
 	<entry name="BuildRoad" value="Weg aanleggen"/>
 	<entry name="BuildRoadHint" value="Weg aanleggen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>50%% bewegingskosten<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
+	<entry name="BuildSuburb" value="Voorstad aanleggen"/>
+	<entry name="BuildSuburbHint" value="Voorstad aanleggen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
 	<entry name="ClearForest" value="Bos kappen"/>
 	<entry name="ClearForestHint" value="Bos kappen [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
 	<entry name="ClearFungus" value="Schimmel opruimen"/>
@@ -36,6 +46,10 @@
 	<entry name="GrowForestHint" value="Bos aanplanten [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
 	<entry name="GrowFungus" value="Schimmel aanplanten"/>
 	<entry name="GrowFungusHint" value="Schimmel aanplanten [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="HarvestFood" value="Voedsel oogsten"/>
+	<entry name="HarvestFoodHint" value="Voedsel oogsten<br/><style name='Small'/><icon texture='GUI/Bullet'/>Oogst <icon texture='Resources/Food'/> voedsel in dit gebied"/>
+	<entry name="HarvestMinerals" value="Mineralen ontginnen"/>
+	<entry name="HarvestMineralsHint" value="Mineralen ontginnen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Ontgin <icon texture='Resources/Minerals'/> mineralen in dit gebied"/>
 	<entry name="Heal" value="Genezen"/>
 	<entry name="HealHint" value="Genezen [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>De eenheid blijft op zijn positie, tot hij genezen is<br/><icon texture='GUI/Bullet'/>Geneest %1%%% per ronde<br/><icon texture='GUI/Bullet'/>%2% rondes tot volledige genezing"/>
 	<entry name="HoldPosition" value="Positie houden"/>
@@ -45,8 +59,12 @@
 	<entry name="ImproveClosestCityHint" value="Dichtstbijzijnde stad verbeteren [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Ecoregio verbeteren"/>
 	<entry name="ImproveEcoregionHint" value="Ecoregion verbeteren [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: 4 rondes"/>
+	<entry name="LowerTerrain" value="Terrein verlagen"/>
+	<entry name="LowerTerrainHint" value="Terrein verlagen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>	
 	<entry name="Move" value="Beweeg naar"/>
 	<entry name="MoveHint" value="Bewegen"/>
+	<entry name="RaiseTerrain" value="Terrein ophogen"/>
+	<entry name="RaiseTerrainHint" value="Terrein ophogen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% Runden"/>	
 	<entry name="Refit" value="Ombouwen"/>
 	<entry name="RefitHint" value="Ombouwen [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Het eenheidontwerp veranderen<br/><icon texture='GUI/Bullet'/>De eenheid moet in een stad gestationeerd zijn, die onder bestuur van de speler valt."/>
 	<entry name="Skip" value="Overslaan"/>
