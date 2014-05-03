@@ -8,8 +8,8 @@
 	<entry name="BuildCityHint" value="Stad stichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Sterkte voor verdedigende lichte biologische eenheden.<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Geneeestempo<br/><icon texture='GUI/Bullet'/>Minimale afstand tussen steden: 2 gebieden<br/><icon texture='GUI/Bullet'/>Verwijdert alle gebiedsverbeteringen<br/><icon texture='GUI/Bullet'/>Kan niet in gebergtes verricht worden<br/><icon texture='GUI/Bullet'/>Kan niet op terrein met speciale eigenschappen verricht worden."/>
 	<entry name="BuildConstructionBay" value="Bouwplaats aanleggen"/>
 	<entry name="BuildConstructionBayHint" value="Bouwplaats aanleggen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
-	<entry name="BuildEnergyPark" value="Energiepark bauen"/>
-	<entry name="BuildEnergyParkHint" value="Energiepark bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildEnergyPark" value="Energiepark aanleggen"/>
+	<entry name="BuildEnergyParkHint" value="Energiepark aanleggen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
 	<entry name="BuildFarm" value="Boerderij aanleggen"/>
 	<entry name="BuildFarmHint" value="Boerderij aanleggen [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Bouwtijd: 4 rondes"/>
 	<entry name="BuildFieldLaboratory" value="Veldlaboratorium bouwen"/>
@@ -64,7 +64,7 @@
 	<entry name="Move" value="Beweeg naar"/>
 	<entry name="MoveHint" value="Bewegen"/>
 	<entry name="RaiseTerrain" value="Terrein ophogen"/>
-	<entry name="RaiseTerrainHint" value="Terrein ophogen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% Runden"/>	
+	<entry name="RaiseTerrainHint" value="Terrein ophogen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>	
 	<entry name="Refit" value="Ombouwen"/>
 	<entry name="RefitHint" value="Ombouwen [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Het eenheidontwerp veranderen<br/><icon texture='GUI/Bullet'/>De eenheid moet in een stad gestationeerd zijn, die onder bestuur van de speler valt."/>
 	<entry name="Skip" value="Overslaan"/>
