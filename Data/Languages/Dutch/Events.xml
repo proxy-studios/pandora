@@ -17,8 +17,8 @@
 	<entry name="Discovered" value="%1% ontdekt."/>
 	<entry name="Denounced" value="%1% heeft %2% terechtgewezen."/>
 	<entry name="EnemyDetected" value="Vijand %2% waargenomen: %1%"/>
-	<entry name="Era1Entered" value="De fractie %1% heeft het tijdperk der mechanisiering berijkt."/>
-	<entry name="Era2Entered" value="De fractie %1% heeft het tijdperk der transcendentie berijkt."/>
+	<entry name="Era1Entered" value="De fractie %1% heeft het tijdperk der mechanisiering bereikt."/>
+	<entry name="Era2Entered" value="De fractie %1% heeft het tijdperk der transcendentie bereikt."/>
 	<entry name="HintInflictedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> schade veroorzaakt, %2% <icon texture='Attributes/Power'/> sterkte over.<br/>"/>
 	<entry name="HintPopulationLost" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Population'/> bevolkering verloren, %2% over.<br/>"/>
 	<entry name="HintSufferedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> Schaden geleden, %2% <icon texture='Attributes/Power'/> sterkte over.<br/>"/>
@@ -60,7 +60,7 @@
 	<entry name="FlavorAlienGenocideComplete" value="Buitenaardsen volledig uitgeroeid."/>
 	<entry name="FlavorAlienSighted" value="Buitenaardsen gezien."/>
 	<entry name="FlavorPlanetFullyExplored" value="Planeet volledig verkend."/>
-	<entry name="FlavorPopulationLimitReached" value="Bevolkingslimiet berijkt."/>
+	<entry name="FlavorPopulationLimitReached" value="Bevolkingslimiet bereikt."/>
 	<entry name="FlavorRuinInSight" value="Ruïne waargenomen."/>
 	
 	<entry name="NewsBlackHoleGeneratorBuilt" value="%1% heeft een zwartgatgenerator gebouwd."/>	
