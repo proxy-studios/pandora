@@ -62,7 +62,7 @@
 	
 	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
 	<entry name="OfferOpenBorders" value="&quot;Akkoord, mijn lieve vriend. U kunt door ons land reizen en wij als tegenprestatie door het uwe.&quot;"/>
-	<entry name="AcceptOpenBorders" value="&quot;Nu kunnen we die wonderbaarlijke land samen verkennen.&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;Nu kunnen we dit wonderbaarlijke land samen verkennen.&quot;"/>
 	<entry name="RejectOpenBorders" value="&quot;Nee. Ons land is een natuurreservaat en geen toeristenattractie.&quot;"/>
 	<entry name="TerminateOpenBorders" value="&quot;Ik vrees dat ik ons beleid van open grenzen moet herzien - de natuur heeft reeds genoeg door uw achteloosheid geleden.&quot;"/>
 	<entry name="AcceptOpenBordersTerminated" value="&quot;Zoals u wenst. Ons land zal uw zware laarzen niet missen!&quot;"/>
