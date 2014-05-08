@@ -3,5 +3,5 @@
 	<entry name="CreditsInf" value="Rijkdom"/>
 	<entry name="CreditsInfProperties" value="<icon texture='GUI/Bullet'/>Zet elke ronde 1 <icon texture='Resources/Production'/> productie in 2 <icon texture='Resources/Credits'/> kredieten om"/>
 	<entry name="GrowthInf" value="Groei"/>
-	<entry name="GrowthInfProperties" value="<icon texture='GUI/Bullet'/>Zet elke ronde 4 <icon texture='Resources/Production'/> productie in 1 <icon texture='Resources/PositiveGrowth'/> groei om"/>
+	<entry name="GrowthInfProperties" value="<icon texture='GUI/Bullet'/>Zet elke ronde 2 <icon texture='Resources/Production'/> productie in 1 <icon texture='Resources/PositiveGrowth'/> groei om"/>
 </language>
