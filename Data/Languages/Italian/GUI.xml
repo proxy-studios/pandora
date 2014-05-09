@@ -365,7 +365,7 @@
 	<entry name="StopRazing" value="<style color='Red'/>Ferma Razzia"/>
 	<entry name="StopRazingHint" value="Clicca per fermare la razzia della città."/>
 	<entry name="Stories" value="Storie"/>
-	<entry name="StoriesHelp" value="Qui potrai travare delle storie del passato. Si dice che conoscere la storia permetta di comprendere meglio il presente e prepararsi per il futuro."/>
+	<entry name="StoriesHelp" value="Qui potrai trovare delle storie sul mondo di Pandora. Buona lettura!"/>
 	<entry name="Story" value="Storia"/>
 	<entry name="Targets" value="Bersagli"/>
 	<entry name="TargetPower" value="Energia Obiettivo"/>

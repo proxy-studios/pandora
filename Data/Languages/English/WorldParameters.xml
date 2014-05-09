@@ -15,15 +15,15 @@
 	<entry name="AlienAggression5Hint" value="The alien aggression is determined randomly at the start of the game."/>
 	<entry name="Difficulty" value="Difficulty"/>
 	<entry name="Difficulty0" value="Very Easy"/>
-	<entry name="Difficulty0Hint" value="The AI suffers a slight morale penalty compared to the player."/>
+	<entry name="Difficulty0Hint" value="The AI suffers a slight penalty compared to the player."/>
 	<entry name="Difficulty1" value="Easy"/>
-	<entry name="Difficulty1Hint" value="The AI has no morale advantage over the player."/>
+	<entry name="Difficulty1Hint" value="The AI has no advantage over the player."/>
 	<entry name="Difficulty2" value="Medium"/>
-	<entry name="Difficulty2Hint" value="The AI gains a slight morale advantage over the player."/>
+	<entry name="Difficulty2Hint" value="The AI gains a slight advantage over the player."/>
 	<entry name="Difficulty3" value="Hard"/>
-	<entry name="Difficulty3Hint" value="The AI gains a moderate morale advantage over the player."/>
+	<entry name="Difficulty3Hint" value="The AI gains a moderate advantage over the player."/>
 	<entry name="Difficulty4" value="Very Hard"/>
-	<entry name="Difficulty4Hint" value="The AI gains a considerable morale advantage over the player."/>
+	<entry name="Difficulty4Hint" value="The AI gains a considerable advantage over the player."/>
 	<entry name="Difficulty5" value="Random"/>
 	<entry name="Difficulty5Hint" value="The difficulty level for each AI faction is determined randomly at the start of the game."/>
 	<entry name="EconomyVictory" value="Economic Victory"/>

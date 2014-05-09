@@ -5,7 +5,7 @@
 	<entry name="Automatize" value="Automate"/>
 	<entry name="AutomatizeHint" value="Automate [A]"/>
 	<entry name="BuildCity" value="Build City"/>
-	<entry name="BuildCityHint" value="Build City [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>Cities have to be at least 2 territories apart<br/><icon texture='GUI/Bullet'/>Removes all territory improvements<br/><icon texture='GUI/Bullet'/>Cannot build on mountains<br/><icon texture='GUI/Bullet'/>Cannot build on special terrain features"/>
+	<entry name="BuildCityHint" value="Build City [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>Cities have to be at least 2 territories apart<br/><icon texture='GUI/Bullet'/>Removes all territory improvements<br/><icon texture='GUI/Bullet'/>Cannot build on mountains<br/><icon texture='GUI/Bullet'/>Cannot build on special terrain features"/>
 	<entry name="BuildConstructionBay" value="Build Construction Bay"/>
 	<entry name="BuildConstructionBayHint" value="Build Construction Bay<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildEnergyPark" value="Build Energy Park"/>
@@ -21,7 +21,7 @@
 	<entry name="BuildPurifier" value="Build Purifier"/>
 	<entry name="BuildPurifierHint" value="Build Purifier<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildRoad" value="Build Road"/>
-	<entry name="BuildRoadHint" value="Build Road [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>50%% movement cost<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildRoadHint" value="Build Road [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildSuburb" value="Build Suburb"/>
 	<entry name="BuildSuburbHint" value="Build Suburb<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearForest" value="Clear Forest"/>

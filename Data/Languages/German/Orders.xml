@@ -5,7 +5,7 @@
 	<entry name="Automatize" value="Automatisieren"/>
 	<entry name="AutomatizeHint" value="Automatisieren [A]"/>
 	<entry name="BuildCity" value="Stadt errichten"/>
-	<entry name="BuildCityHint" value="Stadt errichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für verteidigende leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Mindestabstand zwischen Städten: 2 Gebiete<br/><icon texture='GUI/Bullet'/>Entfernt alle Gebietsaufwertungen<br/><icon texture='GUI/Bullet'/>Kann nicht im Gebirge errichtet werden<br/><icon texture='GUI/Bullet'/>Kann nicht in Gelände mit speziellen Eigenschaften errichtet werden"/>
+	<entry name="BuildCityHint" value="Stadt errichten [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für verteidigende leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> Bewegungskosten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Mindestabstand zwischen Städten: 2 Gebiete<br/><icon texture='GUI/Bullet'/>Entfernt alle Gebietsaufwertungen<br/><icon texture='GUI/Bullet'/>Kann nicht im Gebirge errichtet werden<br/><icon texture='GUI/Bullet'/>Kann nicht in Gelände mit speziellen Eigenschaften errichtet werden"/>
 	<entry name="BuildConstructionBay" value="Bauhof bauen"/>
 	<entry name="BuildConstructionBayHint" value="Bauhof bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildEnergyPark" value="Energiepark bauen"/>
@@ -15,13 +15,13 @@
 	<entry name="BuildFieldLaboratory" value="Feldlabor bauen"/>
 	<entry name="BuildFieldLaboratoryHint" value="Feldlabor bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>/>Bauzeit: %1% Runden"/>
 	<entry name="BuildFort" value="Festung bauen"/>
-	<entry name="BuildFortHint" value="Festung bauen [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>-1 Operationsschaden<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildFortHint" value="Festung bauen [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> Stärke gegen Operationen<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> Heilungsrate<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildMine" value="Mine bauen"/>
 	<entry name="BuildMineHint" value="Mine bauen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildPurifier" value="Reinigungsanlage bauen"/>
 	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildRoad" value="Straße bauen"/>
-	<entry name="BuildRoadHint" value="Straße bauen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>50%% Bewegungskosten<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildRoadHint" value="Straße bauen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> Bewegungskosten<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildSuburb" value="Vorstadt bauen"/>
 	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="ClearForest" value="Wald abreißen"/>

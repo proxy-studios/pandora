@@ -15,15 +15,15 @@
 	<entry name="AlienAggression5Hint" value="L'aggressività aliena viene determinata casualmente all'inizio della partita."/>
 	<entry name="Difficulty" value="Difficoltà"/>
 	<entry name="Difficulty0" value="Molto Facile"/>
-	<entry name="Difficulty0Hint" value="L'IA subisce una lieve penalità al morale rispetto al giocatore."/>
+	<entry name="Difficulty0Hint" value="L'IA subisce una lieve penalità rispetto al giocatore."/>
 	<entry name="Difficulty1" value="Facile"/>
-	<entry name="Difficulty1Hint" value="L'IA non ha vantaggi al morale rispetto al giocatore."/>
+	<entry name="Difficulty1Hint" value="L'IA non ha vantaggi rispetto al giocatore."/>
 	<entry name="Difficulty2" value="Media"/>
-	<entry name="Difficulty2Hint" value="L'IA subisce un lieve bonus al morale rispetto al giocatore."/>
+	<entry name="Difficulty2Hint" value="L'IA subisce un lieve bonus rispetto al giocatore."/>
 	<entry name="Difficulty3" value="Difficile"/>
-	<entry name="Difficulty3Hint" value="L'IA subisce un bonus moderato al morale rispetto al giocatore."/>
+	<entry name="Difficulty3Hint" value="L'IA subisce un bonus moderato rispetto al giocatore."/>
 	<entry name="Difficulty4" value="Molto Difficile"/>
-	<entry name="Difficulty4Hint" value="L'IA subisce un considerevole bonus al morale rispetto al giocatore."/>
+	<entry name="Difficulty4Hint" value="L'IA subisce un considerevole bonus rispetto al giocatore."/>
 	<entry name="Difficulty5" value="Casuale"/>
 	<entry name="Difficulty5Hint" value="Il livello di difficoltà per ogni IA viene determinato casualmente all'inizio della partita."/>
 	<entry name="EconomyVictory" value="Vittoria Economica"/>
