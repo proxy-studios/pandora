@@ -66,8 +66,8 @@
 	<entry name="TributeAccepted0" value="(overweegt vredesafdracht)"/>
 	<entry name="TributeAccepted1" value="(accepteert vredesafdracht)"/>
 	<entry name="TributeHint" value="Een vredesafdracht verlangen is gewoonlijk een teken van de dominatie van een fractie tegenover de ander. Als gevolg leidt de vordering alsook de niet-betaling van een vredesafdracht tot een verschlechting van de verstandhouding tussen beide fracties."/>
-	<entry name="TributeRejected0" value="(wijst vredesafdracht)"/>
-	<entry name="TributeRejected1" value="(wijst vredesafdracht)"/>
+	<entry name="TributeRejected0" value="(wijst vredesafdracht af)"/>
+	<entry name="TributeRejected1" value="(wijst vredesafdracht af)"/>
 	<entry name="WarHint" value="Een oorlog verslechtert de verstandhouding tussen twee fracties dramatisch. Er staat beide partijen toe in het nu vijandige territorium binnen te dringen, elkaars eenheden aan te vallen en elkaars steden te veroveren."/>
 	<entry name="WithdrawalAccepted" value="(accepteert terugtrekking)"/>-
 	<entry name="WithdrawalRejected" value="(wijst terugtrekking af)"/>
