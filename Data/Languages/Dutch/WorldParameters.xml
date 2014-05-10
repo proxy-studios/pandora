@@ -15,15 +15,15 @@
 	<entry name="AlienAggression5Hint" value="De buitenaardse agressie wordt aan het begin van het spel willekeurig gekozen."/>
 	<entry name="Difficulty" value="Moeilijkheidsgraad"/>
 	<entry name="Difficulty0" value="Zeer makkelijk"/>
-	<entry name="Difficulty0Hint" value="Computerspelers hebben in vergelijking met de speler lichte moraalnadelen."/>
+	<entry name="Difficulty0Hint" value="Computerspelers hebben in vergelijking met de speler lichte nadelen."/>
 	<entry name="Difficulty1" value="Makkelijk"/>
-	<entry name="Difficulty1Hint" value="Computerspelers hebben geen moraalvoordeel tegenover de speler."/>
+	<entry name="Difficulty1Hint" value="Computerspelers hebben geen voordeel tegenover de speler."/>
 	<entry name="Difficulty2" value="Middel"/>
-	<entry name="Difficulty2Hint" value="Computerspelers genieten lichte moraalvoordelen tegenover de speler."/>
+	<entry name="Difficulty2Hint" value="Computerspelers genieten lichte voordelen tegenover de speler."/>
 	<entry name="Difficulty3" value="Moeilijk"/>
-	<entry name="Difficulty3Hint" value="Computerspelers genieten middelmatige moraalvoordelen tegenover de speler."/>
+	<entry name="Difficulty3Hint" value="Computerspelers genieten middelmatige voordelen tegenover de speler."/>
 	<entry name="Difficulty4" value="Moeilijkst"/>
-	<entry name="Difficulty4Hint" value="Computerspelers genieten duidelijke moraalvoordelen tegenover de speler."/>
+	<entry name="Difficulty4Hint" value="Computerspelers genieten duidelijke voordelen tegenover de speler."/>
 	<entry name="Difficulty5" value="Willekeurig"/>
 	<entry name="Difficulty5Hint" value="De moeilijkheidsgraad voor iedere actieve Ki-fractie wordt aan het begin van het spel willekeurig gekozen."/>
 	<entry name="EconomyVictory" value="Economische overwinning"/>

@@ -29,12 +29,18 @@
 	<entry name="FontStyle0" value="Futuristisch"/>
 	<entry name="FontStyle1" value="Eenvoudig"/>
 	<entry name="FontStyle2" value="Eenvoudig (groot)"/>
+	<entry name="FormersBuildConstructionBays" value="Vormers bouwen bouwplaatsen"/>
+	<entry name="FormersBuildEnergyParks" value="Vormers bouwen energieparken"/>
 	<entry name="FormersBuildFarms" value="Vormers bouwen boerderijen"/>
+	<entry name="FormersBuildFieldLaboratories" value="Vormers bouwen veldlaboratoria"/>
 	<entry name="FormersBuildMines" value="Vormers bouwen mijnen"/>
+	<entry name="FormersBuildPurifiers" value="Vormers bouwen reinigingsinstallaties"/>
 	<entry name="FormersBuildRoads" value="Vormers bouwen wegen"/>
+	<entry name="FormersBuildSuburbs" value="Vormers bouwen voorsteden"/>
 	<entry name="FormersClearForests" value="Vormers kappen bossen"/>
 	<entry name="FormersClearFungus" value="Vormers ruimen schimmel op"/>
 	<entry name="FormersClearPollution" value="Vormers ruimen vervuiling op"/>
+	<entry name="FormersDestroyImprovements" value="Vormers vernietigen verbeteringen"/>
 	<entry name="FormersGrowForests" value="Vormers planten bossen"/>
 	<entry name="FormersGrowFungus" value="Vormers planten schimmels"/>
 	<entry name="FormersImproveEcoregions" value="Vormers verbeteren ecoregio's"/>
