@@ -29,12 +29,18 @@
 	<entry name="FontStyle0" value="Futuristisch"/>
 	<entry name="FontStyle1" value="Einfach"/>
 	<entry name="FontStyle2" value="Einfach (groß)"/>
+	<entry name="FormersBuildConstructionBays" value="Former bauen Bauhöfe"/>
+	<entry name="FormersBuildEnergyParks" value="Former bauen Energieparks"/>
 	<entry name="FormersBuildFarms" value="Former bauen Farmen"/>
+	<entry name="FormersBuildFieldLaboratories" value="Former bauen Feldlabore"/>
 	<entry name="FormersBuildMines" value="Former bauen Minen"/>
+	<entry name="FormersBuildPurifiers" value="Former bauen Reinigungsanlagen"/>
 	<entry name="FormersBuildRoads" value="Former bauen Straßen"/>
+	<entry name="FormersBuildSuburbs" value="Former bauen Vorstädte"/>
 	<entry name="FormersClearForests" value="Former reißen Wälder ab"/>
 	<entry name="FormersClearFungus" value="Former reißen Pilze ab"/>
 	<entry name="FormersClearPollution" value="Former säubern Ödland"/>
+	<entry name="FormersDestroyImprovements" value="Former zerstören Aufwertungen"/>
 	<entry name="FormersGrowForests" value="Former pflanzen Wälder an"/>
 	<entry name="FormersGrowFungus" value="Former pflanzen Pilze an"/>
 	<entry name="FormersImproveEcoregions" value="Former werten Ökoregionen auf"/>

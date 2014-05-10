@@ -29,12 +29,18 @@
 	<entry name="FontStyle0" value="Futuristico"/>
 	<entry name="FontStyle1" value="Semplice"/>
 	<entry name="FontStyle2" value="Semplice Grande"/>
+	<entry name="FormersBuildConstructionBays" value="Costruzione Automatica Baie di Costruzione"/>
+	<entry name="FormersBuildEnergyParks" value="Costruzione Automatica Parchi Energetici"/>
 	<entry name="FormersBuildFarms" value="Costruzione Automatica Fattorie"/>
+	<entry name="FormersBuildFieldLaboratories" value="Costruzione Automatica Laboratori da Campo"/>
 	<entry name="FormersBuildMines" value="Costruzione Automatica Miniere"/>
+	<entry name="FormersBuildPurifiers" value="Costruzione Automatica Purificatori"/>
 	<entry name="FormersBuildRoads" value="Costruzione Automatica Strade"/>
+	<entry name="FormersBuildSuburbs" value="Costruzione Automatica Sobborghi"/>
 	<entry name="FormersClearForests" value="Pulizia Automatica Foreste"/>
 	<entry name="FormersClearFungus" value="Pulizia Automatica Funghi"/>
 	<entry name="FormersClearPollution" value="Pulizia Automatica Deserti"/>
+	<entry name="FormersDestroyImprovements" value="Distruzione Automatica Avanzamenti"/>
 	<entry name="FormersGrowForests" value="Creazione Automatica Foreste"/>
 	<entry name="FormersGrowFungus" value="Creazione Automatica Funghi"/>
 	<entry name="FormersImproveEcoregions" value="Miglioramento Automatico Ecoregioni"/>

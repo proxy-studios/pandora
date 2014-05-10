@@ -29,12 +29,18 @@
 	<entry name="FontStyle0" value="Futuristic"/>
 	<entry name="FontStyle1" value="Plain"/>
 	<entry name="FontStyle2" value="Plain Large"/>
+	<entry name="FormersBuildConstructionBays" value="Formers Build Construction Bays"/>
+	<entry name="FormersBuildEnergyParks" value="Formers Build Energy Parks"/>
 	<entry name="FormersBuildFarms" value="Formers Build Farms"/>
+	<entry name="FormersBuildFieldLaboratories" value="Formers Build Field Laboratories"/>
 	<entry name="FormersBuildMines" value="Formers Build Mines"/>
+	<entry name="FormersBuildPurifiers" value="Formers Build Purifiers"/>
 	<entry name="FormersBuildRoads" value="Formers Build Roads"/>
+	<entry name="FormersBuildSuburbs" value="Formers Build Suburbs"/>
 	<entry name="FormersClearForests" value="Formers Clear Forests"/>
 	<entry name="FormersClearFungus" value="Formers Clear Fungus"/>
 	<entry name="FormersClearPollution" value="Formers Clear Wasteland"/>
+	<entry name="FormersDestroyImprovements" value="Formers Destroy Improvements"/>
 	<entry name="FormersGrowForests" value="Formers Grow Forests"/>
 	<entry name="FormersGrowFungus" value="Formers Grow Fungus"/>
 	<entry name="FormersImproveEcoregions" value="Formers Improve Ecoregions"/>
