@@ -10,6 +10,7 @@
 	<entry name="Academy2Description" value="A direct link to a centralized combat database that enhances troop efficiency."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
 	<entry name="Aircraft0Description" value="An electric propulsion system that brings war to the skies."/>
+	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
 	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>
 	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems into airborne units."/>
 	<entry name="Aircraft2" value="Geomagnetic Hull"/>
