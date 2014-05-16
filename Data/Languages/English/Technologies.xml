@@ -38,10 +38,11 @@
 	<entry name="Armor8" value="Xenotronium Synapses"/>
 	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its wearer."/>
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
-	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
+	<entry name="Artillery0Descripton" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
 	<entry name="Artillery1Description" value="A simultaneous burst of mid-air shells that cover a huge area and leave the target little chance of surviving the bombardment."/>
 	<entry name="Artillery2" value="Graviton Shells"/>
+	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1216284&langId=s -->
 	<entry name="Artillery2Description" value="Advanced shrapnel shells that generate portable gravitational fields."/>
 	<entry name="Aspidoch" value="Aspidoch Tiling"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
