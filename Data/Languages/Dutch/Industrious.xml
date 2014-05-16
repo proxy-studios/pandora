@@ -121,7 +121,7 @@
 	<entry name="DemandCredits0" value="&quot;Ik ben niet insolvent, %6% <icon texture='Resources/Credits'/> kredieten zijn afdoende.&quot;"/>
 	<entry name="DemandCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten klinkt als een redelijk bedrag, nietr?&quot;"/>
 	<entry name="DemandCredits2" value="&quot;In dit geval vrees ik dat een grotere som noodzakelijk iswird: %6% <icon texture='Resources/Creditskredietendits.&quot;"/>
-	<entry name="DemandCredits3" value="&quot;Ik wil alles wat u heeftn -en geen cent minderr!&quot; (%6% <icon texture='Resources/Credits'/>kredietens)"/>
+	<entry name="DemandCredits3" value="&quot;Ik wil alles wat u heeft -en geen cent minderr!&quot; (%6% <icon texture='Resources/Credits'/>kredietens)"/>
 	<entry name="OfferCredits0" value="&quot;Zou een bescheiden bedrag van %%6% <icon texture='Resources/Credits'/>kredieten u verder kunnen helpenn?&quot;"/>
 	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten zullen beslist toereikend zijn voor uw ondernemingenn.&quot;"/>
 	<entry name="OfferCredits2" value="&quot;Ik ben bereid u een genereus bedrag van n %6% <icon texture='Resources/Credits'/kredieten te u schenken.&quot;"/>
