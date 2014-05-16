@@ -75,7 +75,7 @@
 	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1 <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="Hive" value="Zwermkorf"/>
 	<entry name="HiveDescription" value="Deze organische gebouwen herbergen een kolonie xenomorfen, die erin leven en zich erin kunnen voortplanten."/>
-	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Buitenaard bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties."/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties."/>
 	<entry name="Mine" value="Mijn"/>
 	<entry name="MineDescription" value="Dient de delving van mineralen uit de aardbodem en daarmee voor de verzorging van grondstoffen voor de kolonisten.."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
