@@ -179,7 +179,7 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="December"/>
 	<entry name="Morale" value="Moraal"/>
-	<entry name="MoraleHint" value="Moraal<br/>Algemene tevredenheid van de bevolking. Ieder positief of negatief moraalpunt doet de grondstofproductie van je bevolking met 5% stijgen of dalen."/>
+	<entry name="MoraleHint" value="Moraal<br/>Algemene tevredenheid van de bevolking. Ieder positief of negatief moraalpunt doet de bevolkingsgroei en grondstofproductie van je bevolking met 5% stijgen of dalen."/>
 	<entry name="More" value="Meer"/>
 	<entry name="MovementHint" value="Bewegingssnelheid<br/>Het aantal gebieden, waardoor een eenheid zich in een maand kan bewegen."/>
 	<entry name="Multiplayer" value="Meerspeler"/>
