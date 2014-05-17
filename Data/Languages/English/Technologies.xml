@@ -149,6 +149,7 @@
 	<entry name="HealAreaDevice" value="Area Aid"/>
 	<entry name="HealAreaDeviceDescription" value="Area healing and repair in a deployable device."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
+	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1581268&langId=s -->
 	<entry name="Laser0Description" value="Design of an electrically powered device capable of producing a solid state beam of 100 kW or more."/>
 	<entry name="Laser1" value="Fusion Beams"/>
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
