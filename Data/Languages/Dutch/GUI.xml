@@ -236,7 +236,7 @@
 	<entry name="ProcessingTurn" value="Ronde wordt doorgerekend ..."/>
 	<entry name="ProducingProduceable" value="Productie: %1%"/>
 	<entry name="Production" value="Productie"/>
-	<entry name="ProductionColonists" value="Arbeiderr"/>
+	<entry name="ProductionColonists" value="Arbeider"/>
 	<entry name="ProductionColonistsHint" value="Arbeiders zetten mineralen in productie om (voor het bouwen van objecten)."/>
 	<entry name="ProductionCostHint" value="Productiekosten"/>
 	<entry name="ProductionHint" value="Productie<br/>Verwerkt mineralen in gebouwen, troepen of operaties."/>
