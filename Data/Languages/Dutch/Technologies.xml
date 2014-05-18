@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AgileDevice" value="Bewegingsregulering"/>
+	<entry name="AgileDeviceDescription" value="Een apparaat, dat de beweging regelt, om vermoeiing te voorkomen."/>
+	<entry name="Academy0" value="Streng regiment"/>
+	<entry name="Academy0Description" value="Strakke organisatie van permanente militaire troepen."/>
+	<entry name="Academy1" value="Aanpassing"/>
+	<entry name="Academy1Description" value="Passen de uitrusting aan de soldaten aan en niet omgekeerd."/>
+	<entry name="Academy2" value="Neurale interface"/>
+	<entry name="Academy2Description" value="Een directe verbinding met een centrale gevechtsdatabank, die de troepenefficiëntie verhoogt."/>
+	<entry name="Aircraft0" value="Magnetoplasmadynamische aandrijving"/>
+	<entry name="Aircraft0Description" value="Een elektrisch aandrijfsysteem, dat de oorlog naar het luchtruim brengt."/>
+	<entry name="Aircraft1" value="Geavanceerde afweersystemen"/>
+	<entry name="Aircraft1Description" value="De integratie van kunstmatige intelligentie en verschillende uitwijk- en afweersystemen in luchteenheden."/>
+	<entry name="Aircraft2" value="Geomagnetische romp"/>
+	<entry name="Aircraft2Description" value="Met dank aan deze lijvige rompvervanger kunnen vliegtuigen energie uit de ioniseringsverschillen in de thermosfeer van Pandora trekken."/>
+	<entry name="AlienAggression" value="Xenologie"/>
+	<entry name="AlienAggressionDescription" value="De studie van - zowel dode als levende - buitenaardse levensvormen, om meer kennis over hun soorten op te doen."/>
+	<entry name="AlwaysHealDevice" value="Mechanische en organisch onderhoud"/>
+	<entry name="AlwaysHealDescription" value="Nieuwe mogelijkheden om mechanische, organische en cybernetische eenheden in vorm te houden."/>
+	<entry name="Armor0" value="Geharde staalplaten"/>
+	<entry name="Armor0Description" value="Eenvoudige staalbepantsering, om de beschutting van onze troepen tegen vijandelijke wapens te verhogen."/>
+	<entry name="Armor1" value="Titaniumplaten"/>
+	<entry name="Armor1Description" value="Robuuste bepantsering van titanium, een hard en waardevol metaal, dat op Pandora overvloedig aanwezig is."/>
+	<entry name="Armor2" value="Zortiummoleculen"/>
+	<entry name="Armor2Description" value="Een verbinding van titanium en mexallon, dat harder is als de beide bestanddelen afzonderlijk."/>
+	<entry name="Armor3" value="Gauss-optimalisatie"/>
+	<entry name="Armor3Description" value="Een nieuw algoritme, waarmee we de bepanstering op moleculair niveau kunnen analyseren en optimaliseren."/>
+	<entry name="Armor4" value="Adamantiumbewerking"/>
+	<entry name="Armor4Description" value="De technieken, die noodzakelijk zijn om adamantium te kunnen bewerken, een zwaar, hard materiaal dat uitermate geschikt is voor bepantseringen."/>
+	<entry name="Armor5" value="Zijdestaallegering"/>
+	<entry name="Armor5Description" value="Een legering voor bepantseringen, die ultralicht, maar uiterst robuust is."/>
+	<entry name="Armor6" value="Vrij bewegende neutronen"/>
+	<entry name="Armor6Description" value="Een volledig nieuwe soort bepantsering, die absorberende neutronen inzet, welke in een ingebouwde minireactor vrijgemaakt worden."/>
+	<entry name="Armor7" value="Antimateriesubstraat"/>
+	<entry name="Armor7Description" value="Hiermee kunnen we bepantseringen bekleden met één laag relatief stabiele en ongemeen werkzame antimaterie."/>
+	<entry name="Armor8" value="Xenotroniumsynapsen"/>
+	<entry name="Armor8Description" value="Men stelle zich een antimateriebepantserung voor, en slechts voor één doel &quot;leeft&quot;: om zijn drager te beschermen."/>
+	<entry name="Artillery0" value="Geleid indirect vuur"/>
+	<entry name="Artillery0Description" value="Dronenondersteunde zware wapens met grote rijkwijdte, die hele formaties troepen kan stukrafelen."/>
+	<entry name="Artillery1" value="Simultane meervoudige patronensalvo's"/>
+	<entry name="Artillery1Description" value="Een simultaan salvo van afgevuurde patronen, dat een groot gebied bestrijkt en slechts zeer geringe overlevingskansen geeft."/>
+	<entry name="Artillery2" value="Gravitonenpatroon"/>
+	<entry name="Artillery2Description" value="Een geavanceerde granaatkartets, die mobiele gravitatievelden opwekt."/>
+	<entry name="Aspidoch" value="Aspidoch-beschermlaag"/>
+	<!-- <entry name="Aspidoch" value=""/> -->
+	<entry name="Assault" value="Operatie Walkure"/>
+	<entry name="AssaultDescription" value="Vanuit een baan om Pandora wordt verkenning uitgevoerd waarna troepen wegwerpcapsules gebruiken om er te landen. Hiermee kan een militaire slag toegebracht worden eender waarop de planeet."/>
+	<entry name="AttackDevice" value="Aanvalstactieken"/>
+	<entry name="AttackDeviceDescription" value="Ontwikkeling van gecentraliseerde hulpmiddelen ter verbetering van gecoördineerde offensieven."/>
+	<entry name="ATV0" value="Analytische dynamiek"/>
+	<entry name="ATV0Description" value="De aanpassing van voertuigen aan de gewijzigde omstandigheden op Pandora."/>
+	<entry name="ATV1" value="Energieabsorptie"/>
+	<entry name="ATV1Description" value="Verbeterde schokabsorptie geeft lichte voertuigen voordelen op ruw terrein en bij moeilijke manoeuvres."/>
+	<entry name="ATV2" value="Elektrisch geladen bepantsering"/>
+	<entry name="ATV2Description" value="Een elektrostatische beschermlaag, die terreinwagens tegen eenvoudige wapens beschermt."/>
+	<entry name="Automatic1" value="Stochastische projectielen"/>
+	<entry name="Automatic1Description" value="Geavanceerde automatische wapens, die op willekeurige verdeelde projectielspreiding gebaseerd zijn."/>
+	<entry name="Automatic2" value="Mutagenprojectielen"/>
+	<entry name="Automatic2Description" value="De ontwikkeling van een magazijn met mutagenmunitie, die bij het doelwit spontane celafsterving veroorzaakt."/>
+	<entry name="BiologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Biologie"/>
+	<entry name="BlackHole" value="Gecontroleerde singulariteit"/>
+	<entry name="BlackHoleDescription" value="Industriële fabricage van niet-radioactieve massavernietigingswapens."/>
+	<entry name="Bombardment" value="Planetair bombardement"/>
+	<entry name="BombardmentDescription" value="Het afwerpen van bommen direct vanuit de ruimte."/>
+	<entry name="Cannon0" value="Pantserdoorborende springkoppen"/>
+	<entry name="Cannon0Description" value="Pantserdoorboring als antwoord op zware vijandige oorlogsmachines."/>
+	<entry name="Cannon1" value="Fotomultiplicator"/>
+	<entry name="Cannon1Description" value="Een fotonengebaseerd kanon, wat een sterk electromagnetisch veld opwekt."/>
+	<entry name="Cannon2" value="Superluminale projectielen"/>
+	<entry name="Cannon2Description" value="Een subliem kanon, dat hoogfrequente deeltjes die sneller dan het licht gaan afvuurt en daarmee iedere bepantsering kan doorboren."/>
+	<entry name="ChemistryCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Chemie"/>
+	<entry name="Colonization" value="Kolonisatieijver"/>
+	<entry name="ColonizationDescription" value="Verhoogt de inspanningen bij de expansie van de kolonie."/>
+	<entry name="Construction0" value="Pandoranische bouwkunde"/>
+	<entry name="Construction0Description" value="Ontwerpen voor landelijk gelegen bouwwerken."/>
+	<entry name="ConvertNativeDevice" value="Xenomorfferomator"/>
+	<!-- <entry name="ConvertNativeDevice" value=""/> -->
+	<entry name="Credits" value="Qan-handel"/>
+	<entry name="CreditsDescription" value="Een geheelnieuwe analysemogelijkheid van marktgegevens, waarmee nieuwe materialen en technologieën voor redelijke prijzen mogelijk worden."/>
+	<entry name="Credits0" value="Aandelenbeurs"/>
+	<entry name="Credits0Description" value="De facilitering van economische ontwikkeling door de invoering van een georganiseerde markt."/>
+	<entry name="Credits1" value="Marktmicrostructuur"/>
+	<entry name="Credits1Description" value="Onderzoekt op welke manieren de afloopprocessen van een markt transacties en handelsgedrag beïnvloeden."/>
+	<entry name="Credits2" value="Economische manipulatie"/>
+	<entry name="Credits2Description" value="Handel kan weliswaar een goede mogelijkheid zijn om de economie in leven te houden, maar daarbij aan de achtergrond aan de touwtjes trekken, verhoogt de winst."/>
+	<entry name="Defense" value="Commandonexus"/>
+	<entry name="DefenseDescription" value="Met behulp van een gecentraliseerd hoofdkwartier kunnen verdedigingssytemen op een nuttige wijze georganiseerd worden."/>
+	<entry name="Defense0" value="Adaptieve bevestigingen"/>
+	<entry name="Defense0Description" value="Geavanceerde mobiele barricades en bunkers, die bij schermutselingen in stedelijke gebieden ingezet kunnen worden."/>
+	<entry name="Defense1" value="Structurele bescherming"/>
+	<entry name="Defense1Description" value="Voorzie de kolonie van een raster van gevarieerde verdediging tegen alle soorten bedreigingen."/>
+	<entry name="Defense2" value="Superscalaire bouwkunde"/>
+	<entry name="Defense2Description" value="Analyseer de bedreiging van buiten en zorg daarna van binnen voor de nodige veiligheid."/>
+	<entry name="DefenseDevice" value="Schadeverhindering"/>
+	<entry name="DefenseDeviceDescription" value="De studie van schadeverhindering (bijvoorbeeld door actief uitwijken), om de verdediging van eenheiden te verbeteren."/>
+	<entry name="Diplomacy" value="Planeetraad"/>
+	<entry name="DiplomacyDescription" value="Diplomatieke betrekkingen kunnen verbeterd worden, indien een multiculturele planeetraad opgericht wordt."/>
+	<entry name="DropPod" value="Luchtdichte afwerpcapsules"/>
+	<entry name="DropPodDescription" value="De technologie en de logistiek, die nodig zijn, om grote troepenformaties vanuit een baan om de planeet achter de vijandelijke linies af te werpen."/>
+	<entry name="Ecoform" value="Ecovorming"/>
+	<entry name="EcoformDescription" value="Planetenvormende technologie, welke de omvorming van de ecoregio van een gebied mogelijk maakt."/>
+	<entry name="ElectronicsCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Elektronica"/>
+	<entry name="EMPBeam" value="Omloopbaankanon"/>
+	<entry name="EMPBeamDescription" value="Op een satelliet gemonteerd elektromagnetisch kanon, die de vijandige productie kan verstoren of uitschakelen."/>
+	<entry name="EngineeringCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Ingenieurswezen"/>
+	<entry name="ExperienceDevice" value="Veldopnamedronen"/>
+	<entry name="ExperienceDeviceDescription" value="Paramilitaire toestellen die louter ontworpen zijn voor het registreren en analyseren van gevechtshandelingen."/>
+	<entry name="FirstStrikeDevice" value="Voorlopige kwetsbaarheid- en risicoanalyse"/>
+	<entry name="FirstStrikeDeviceDescription" value="Onderzoek kan gedaan worden op het gebied van de initiële tactische situaties en de beste manier om met hen om te gaan."/>
+	<entry name="Flak0" value="Manoeuvrevoorspelling"/>
+	<entry name="Flak0Description" value="Ogenblikkelijke vluchtmanoeuvrevoorspelling voor zeer effectieve luchtafweerwapens."/>
+	<entry name="Flak1" value="Projectielstrooiing"/>
+	<entry name="Flak1Description" value="Een fragmentering naar ongeveer de helft van de vluchttijd maakt het mogelijk dat grond-naar-lucht projectielen een groot bereik afdekken."/>
+	<entry name="Flak2" value="Fantoombliksem"/>
+	<entry name="Flak2Description" value="Een fantoombliksem is aanzienlijk potenter als elektromagnetische impuls en kan een groot bereik in de atmosfeer met ernstige effecten treffen."/>
+	<entry name="Flame0" value="Helse pre-ontsteker"/>
+	<entry name="Flame0Description" value="Nieuw mobiel ontstekinssysteem, dat vlammen met een temperatuur van meer dan 2000 graden celcius produceert en waarmee elk type vlees weggebrand kan woren."/>
+	<entry name="Flame1" value="Chemische nareactie"/>
+	<entry name="Flame1Description" value="Eenvoudige, maar gedenkwaardige chemiespoedcursus voor de vijand."/>
+	<entry name="Flame2" value="Biogift-Waffen"/>
+	<entry name="Flame2Description" value="Hooggespecialiseerde wapens, die de giftige chemicaliën van de flora en fauna ten nutte maken."/>
+	<entry name="Food0" value="Kunstmest"/>
+	<entry name="Food0Description" value="Hiermee wordt landbouw op elke bodem mogelijk."/>
+	<entry name="Food1" value="Luchtteelt"/>
+	<entry name="Food1Description" value="Planten worden in een lucht- of nevelomgeving verbouwd, waarin geen aarde of vergelijkbaar korrelmedium ingezet wordt."/>
+	<entry name="Food2" value="Voedingsreplicatie"/>
+	<entry name="Food2Description" value="Repliceer de beschikbare voedingsmiddelen uit micro-eiwitten, om in de behoeften van megasteden te voorzien, waarvan de groei alle verwachtingen overstijgt."/>
+	<entry name="FoodMinerals" value="Kolonisatieschipdemontage"/>
+	<entry name="FoodMineralsDescription" value="Hergebruik het afgedankte ruimteschip waarmee Pandora bereikt werd voor hardnodige grondstoffen."/>
+	<entry name="Former1" value="Amfibische Amfibische landschapsinrichting"/>
+	<entry name="Former1Description" value="Maakt he aanleg van verbeteringen aan kusten en in oceanen mogelijk met speciale vormereenheden."/>
+	<entry name="FormerWorkSpeed" value="Grote planetaire studie"/>
+	<entry name="FormerWorkSpeedDescription" value="Groot opgezette biologisch-ecologische studie van Pandora, om de mogelijkheden op de planeet beter te kunnen inschatten."/>
+	<entry name="Fungus0" value="Schimmelcultivering"/>
+	<entry name="Fungus0Description" value="Technologie om schimmels veilig te kunnen verbouwen en te verwijderen."/>
+	<entry name="Fungus1" value="Pilzmutagenese"/>
+	<entry name="Fungus1Description" value="Mutatie van schimmels om hiermee voedingsmiddelen en mineralen te kunnen produceren."/>
+	<entry name="Fungus2" value="Schimmelhormonen"/>
+	<entry name="Fungus2Description" value="Verhoog de voedsel- en mineralenopbrengst uit schimmels verder."/>
+	<entry name="GoldenAge" value="Gouden eeuw"/>
+	<entry name="GoldenAgeDescription" value="Geniet als de kolonie een nieuw tijdperk van verlichting en harmonie in gaat."/>
+	<entry name="Growth" value="Klonen"/>
+	<entry name="GrowthDescription" value="Kunstmatige menselijke reproductie, die de bevolkingsgroei tijdelijk kan aanjagen"/>
+	<entry name="Guerrilla" value="Guerillaoorlog"/>
+	<entry name="GuerrillaDescription" value="Aan de nieuwe wereld aangepaste guerillatactieken."/>
+	<entry name="Harvest" value="Afgelegen autonome ontginning"/>
+	<entry name="HarvestDescription" value="Technologien und Werkzeuge die unseren Formern ermöglichen Nahrung zu ernten sowie Mineralien abzubauen."/>
+	<entry name="HealAreaDevice" value="Oppervlakgenezing"/>
+	<entry name="HealAreaDeviceDescription" value="Oppervlaktegenezing en -reparatie in een handzaam apparaat."/>
+	<entry name="Laser0" value="Geavanceerde gestimuleerde uitstraling"/>
+	<entry name="Laser0Description" value="Ontwerp van een elektrisch apparaat, dat een vaststoflaserstraal met een vermogen van 100kW of meer kan opwekken."/>
+	<entry name="Laser1" value="Fusiestralen"/>
+	<entry name="Laser1Description" value="Door de fusie van aangeslagen deuterium- en tritiumkernen met helium kan een duidelijke straal opgewekt worden."/>
+	<entry name="Laser2" value="Gravitondeeltjes"/>
+	<entry name="Laser2Description" value="De ontdekking van gravitondeeltjes alsook de toepassing ervan in straalwapens."/>
+	<entry name="Leviathan" value="Leviathanhuid"/>
+	<!-- <entry name="LeviathanDescription" value=""/> -->
+	<entry name="Market0" value="Planetaire markt"/>
+	<entry name="Market0Description" value="Een zeker en anoniem platform voor de grondstoffenhandel tussen fracties."/>
+	<entry name="MathematicsCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Wiskunde"/>
+	<entry name="Mech0" value="Humanoïde oorlogsmachines"/>
+	<entry name="Mech0Description" value="Gigantische oorlogsmachines, die de slagvelden domineren."/>
+	<entry name="Mech1" value="Adamantiumromp"/>
+	<entry name="Mech1Description" value="Breng de mech op een hoger niveau, waarbij de romp uit adamantium wordt vervaardigd."/>
+	<entry name="Mech2" value="Organisch titanium"/>
+	<entry name="Mech2Description" value="Een mensmachine en tegelijk de grootste mech, die tot nog toe ontworpen is. Kent op het slagveld geen gelijke."/>
+	<entry name="Minerals0" value="Raffinage"/>
+	<entry name="Minerals0Description" value="Raffinageproces voor de rijke mineralenbronnen op Pandora."/>
+	<entry name="Minerals1" value="Dronenmijnbouw"/>
+	<entry name="Minerals1Description" value="Robotdronen ter ondersteuning bij mijnbouwactiviteiten."/>
+	<entry name="Minerals2" value="Mineraalteleportatie"/>
+	<entry name="Minerals2Description" value="Ontginning van mineralen met behulp van nauwkeurige microwarps."/>
+	<entry name="Missile0" value="Geleide wapens"/>
+	<entry name="Missile0Description" value="Geleide zelfaangedreven wapensystemen."/>
+	<entry name="Missile1" value="Intelligente doelzoeksystemen"/>
+	<entry name="Missile1Description" value="Een eenvoudige, effectieve KI, die voor doelzoekking ontwikkeld werd en fouten minimaliseert alsook de nauwkeurigheid verhoogt."/>
+	<entry name="Missile2" value="Antimateriebesturing"/>
+	<entry name="Missile2Description" value="Hoogmodern raketontwerp, waarbij de materie-/antmateriereacties zinnig ingezet worden."/>
+	<entry name="Morale0" value="Holografische projecties"/>
+	<entry name="Morale0Description" value="De volgende stap in digitale visualisering in de amusementsindustrie."/>
+	<entry name="Morale1" value="Emotieuitdrukking"/>
+	<entry name="Morale1Description" value="Neurochirurgie en conditionering, om de levensstandaard te verhogen."/>
+	<entry name="Morale2" value="Gedachtensignaalverwerking"/>
+	<entry name="Morale2Description" value="De nieuwste vorderingen in de manipulatie van neurofeedback zorgen ervoor dat mensen beter met stresssituaties om kunnen gaan."/>
+	<entry name="Movement" value="Geavanceerde tijddilatatie"/>
+	<entry name="MovementDescription" value="Verbetern de snelheid van troepenbewegingen, door detijd net zoals de andere dimensies te manipuleren."/>
+	<entry name="MovementDevice" value="Topologische analyse"/>
+	<entry name="MovementDeviceDescription" value="Dit gebied van de logistiek werd in het leven geroepen om de transportkosten drukken. Indien men dit op militaire uitrustingen toepast, kan men interessante resultaten bereiken."/>
+	<entry name="NanoRobots" value="Nanoreparatiesystemem"/>
+	<entry name="NanoRobotsDescription" value="Nanorobots, die speciaal zijn ontwikkeld voor medicinale en reparatietaken."/>
+	<entry name="Nuke" value="Kernwapendraagsysteem"/>
+	<entry name="NukeDescription" value="Een mondiaal kernwapendraagsysteem, dat de deur naar thermonuclaire oorlog opent."/>
+	<entry name="PhysicsCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Natuurkunde"/>
+	<entry name="Pollution" value="Planetaire bewustwording"/>
+	<entry name="PollutionDescription" value="Voorzichtige planning, uitvoering en controle van industriële activiteit, om eventuele milieuproblemen te verminderen."/>
+	<entry name="Pollution0" value="Geautomatiseerde recyclage"/>
+	<entry name="Pollution0Description" value="Identificeer en verhelp een groot nadeel van de industrialisatie."/>
+	<entry name="Pollution1" value="Luchtrecyclage"/>
+	<entry name="Pollution1Description" value="Vermindering van de luchtvervuiling door de lucht op de planeet te reinigen."/>
+	<entry name="Pollution2" value="Kunstmatige atmosfeer"/>
+	<entry name="Pollution2Description" value="Bearbeiten Sie die Atmosphäre, um aus den vorliegenden Daten eine stabilere Biosphäre zu erschaffen."/>
+	<entry name="Population" value="Verfijnde stadsplanning"/>
+	<entry name="PopulationDescription" value="Optimaliseer het ruimtegebruik in koloniën."/>
+	<entry name="Population0" value="Modulair wonen"/>
+	<entry name="Population0Description" value="Efficiënt en modulair woonruimteontwerp."/>
+	<entry name="Population1" value="Podkletnov-veld"/>
+	<entry name="Population1Description" value="Opwekking van gravitomagnetische velden de praktische toepasing in stadsplanning."/>
+	<entry name="Population2" value="Gedigitaliseerd pensioen"/>
+	<entry name="Population2Description" value="Onsterfelijkheid is dan weliswaar nog een onvervulde droom, maar er zijn andere wegen om een onmogelijk lang leven te leiden."/>
+	<entry name="Power" value="Telepathie"/>
+	<entry name="PowerDescription" value="De vaardigheid om de gedachten van andere mensen te lezen, kan in talloze situaties erg goed van pas komen."/>
+	<entry name="Production" value="Operationele efficiëntie"/>
+	<entry name="ProductionDescription" value="De invoering van een regulerende bevoegdheid om zakelijke contracten te ondersteunen, wat productiviteit stimuleert."/>
+	<entry name="Production0" value="Industriële automatisering"/>
+	<entry name="Production0Description" value="Machines, die machines bouwenn."/>
+	<entry name="Production1" value="Intelligente productie"/>
+	<entry name="Production1Description" value="KI-gestuurde productie, die de fabrieksopbrengsten maximaliseert."/>
+	<entry name="Production2" value="Nanoproductie"/>
+	<entry name="Production2Description" value="Autoreplicatie verbetert de productie verder, waarbij de menselijke interactie afgeschaft wordt."/>
+	<entry name="Promotion" value="Veldtraining"/>
+	<entry name="PromotionDescription" value="Promoveer je troepen met verfijnde trainingsmethoden in het veld."/>
+	<entry name="Research" value="Hersengroei"/>
+	<entry name="ResearchDescription" value="Versterkte evolutie leidt tot wijziging in de schedelontwikeling en verbetert daarbij ook de intelligentie."/>
+	<entry name="Research0" value="Kwantisatie"/>
+	<entry name="Research0Description" value="Een verklaring van de klassieke veldtheorie met nieuwe methoden."/>
+	<entry name="Research1" value="Kwantumchaostheorie"/>
+	<entry name="Research1Description" value="Ogenblikkelijke herberekeningen van de fasenruimte verbeteren de resultaten van onze experimenten enorm."/>
+	<entry name="Research2" value="Verbeterde snarentheorie"/>
+	<entry name="Research2Description" value="Doorbraak in de studie van de M-theorie,  om de aard en wijze te revolutioneren, hoe we over causaliteit in de wetenschap denken."/>
+	<entry name="Scan" value="Omloopbaanverkenning"/>
+	<entry name="ScanDescription" value="Kennis is macht. Een satellietverbinding maakt het ons mogelijk, satellieten voor planetaire verkenningen vanuit de ruimte in te zetten."/>
+	<entry name="Sight" value="Xenotroniumsensoren"/>
+	<entry name="SightDescription" value="Hitte en bewegingsdetectoren zou ons in staat stellen, de vijand reeds van grote afstand te ontdekken."/>
+	<entry name="SightDevice" value="Geluidteruggalmexperimenten"/>
+	<entry name="SightDeviceDescription" value="Intensief onderzoek van geluidteruggalm in gasvormige omgevingen kan tot een interessante operationele verbetering leiden van de mogelijkheden leiden om vooruit te kunnen."/>
+	<entry name="Sniper0" value="Hogesnelheidsprojectielen"/>
+	<entry name="Sniper0Description" value="Ontwikkeling van een verbeterd magazijn, dat de kogels van precisiegeweren buitengewone snelheid, rijkwijdte en nauwkeurigheid geeft."/>
+	<entry name="Sniper1" value="Hoogenergetische ontladingen"/>
+	<entry name="Sniper1Description" value="Hooggeïoniseerde munitie voor scherpschuttersgeweren, die in staat is, eender welk doel uit te schakelen, dat nog niet dood of vernietigd was."/>
+	<entry name="Sniper2" value="Toegepaste kwantumverstrengeling"/>
+	<entry name="Sniper2Description" value="Kwantumkogels, die speciaal voor precisiewapens ontworpen zijn, om bij het doelwit celdistorsies te veroorzaken."/>
+	<entry name="SociologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Sociologie"/>
+	<entry name="StrategyCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Strategie"/>
+	<entry name="Tank0" value="Zwaar oorlogstuig"/>
+	<entry name="Tank0Description" value="Het ontwerp van een romp die geschikt is voor mechanische en elektrostatische afscherming stelt ons in staat zwaar bepantserde gevechtsvoertuigen te produceren."/>
+	<entry name="Tank1" value="Koolstofnanobuizen"/>
+	<entry name="Tank1Description" value="De inzet van koolstofallotropen verbetert de capaciteit van zware pantservoertuigen."/>
+	<entry name="Tank2" value="Organische machineinterface"/>
+	<entry name="Tank2Description" value="Onderzoek de beangstigende mogelijkheid, dat een tank direct verbonden is met zijn bemanning."/>
+	<entry name="Teleportation" value="Teleportatie"/>
+	<entry name="TeleportationDescription" value="De ogenblikkelijke verplaatsing bevindt zich eindelijk binnen ons bereik."/>
+	<entry name="Terraform" value="Hoogte-inrichting"/>
+	<entry name="TerraformDescription" value="Maak het ophogen en afzinken van gehele terreinobjectenmogelijk."/>
+	<entry name="Transport" value="Zeetransportlogistiek"/>
+	<entry name="TransportDescription" value="De voor het zeetransport van grondtroepen benodigde logistiek."/>
+	<entry name="Trooper1" value="Stormtenue"/>
+	<entry name="Trooper1Description" value="Infanterietroepen van de toekomst."/>
+	<entry name="Trooper2" value="Organisch tenue"/>
+	<entry name="Trooper2Description" value="Met buitenaardse technologie verbeterde infanterie."/>
+	<entry name="UpkeepDevice" value="Rationeringsanalyse"/>
+	<entry name="UpkeepDeviceDescription" value="Niet iedereen zal blij worden van rationering, maar indien het verstandig en eerlijk ingezet wordt, valt de haalbare efficiëntieverbetering niet zomaar van de hand te wijzen."/>
+	<entry name="Watercraft0" value="Elektrische scheepsmotor"/>
+	<entry name="Watercraft0Description" value="In vaartuigen ingebouwde directe aandrijvingsgeneratoren zorgen voor een optimale benutting van waterkracht onder alle omstandigheden."/>
+	<entry name="Watercraft1" value="Gordelpantser"/>
+	<entry name="Watercraft1Description" value="Een sterke, gebogen aanvullende bepantsering geeft vaartuigen betere bescherming."/>
+	<entry name="Watercraft2" value="Geaarde dwarsschotten"/>
+	<entry name="Watercraft2Description" value="Dit ontwerp van vaartuigen biedt een verbeterde bescherming tegen fysieke schade en is geaard tegen allerlei soorten niet-fysieke schade."/>
+</language>
