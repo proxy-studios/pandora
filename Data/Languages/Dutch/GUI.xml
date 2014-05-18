@@ -300,6 +300,8 @@
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% uit onderzoekspacten"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% uit hongersnood"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% uit overname"/>
+	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% uit slachtoffers overname"/>
+	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% uit migratie overname"/>
 	<entry name="ResourcePerTurnFromTaxes" value="<icon texture='GUI/Bullet'/>%1% uit belasting"/>
 	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% uit gebieden"/>
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% uit handelspacten"/>

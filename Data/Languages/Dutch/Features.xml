@@ -117,7 +117,7 @@
 	<entry name="Purifier" value="Reinigingsinstallatie"/>
 	<entry name="PurifierDescription" value="In tegenstelling tot energieparken verbruiken reinigingsinstallaties geweldige hoeveelheden energie om de atmosfeer en oceanen van Pandora te filteren. Ze zijn kostbaar, maar reduceren onze vervuiling van de planeet drastisch."/>
 	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
-	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="ProductionBonus0" value="Xenithbloemen"/>
 	<entry name="ProductionBonus0Description" value="De xenith is een eigenaardige plant, die indien ze als drug wordt ingenomen het menselijk lichaam in een trancetoestand komen, waarna het niet vermoeid raakt en pijnongevoelig wordt. Daarmee wordt weliswaar het werkvermogen van een persoon duidelijk verhoogd, maar daarom kan ook de geringste overdosering tot een acute hartstilstand leiden. Dienovereekomstig moet een persoon, die de xenithdrug inneemt, voortdurend bewaakt worden."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
@@ -149,7 +149,7 @@
 	<entry name="Suburb" value="Voorstad"/>
 	<entry name="SuburbDescription" value="Deze luxueuze laagbouw is ideaal voor onze arbeidersklasse, die zich na een zware dag in de mijnen of fabrieken in zijn vertrouwde huis met famillie kan terugtrekken."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="SeafoodBonus0" value="Vissen"/>
 	<entry name="SeafoodBonus0Description" value="De zee in dit gebied huisvest talrijke eetbare levensvormen, die een overvloedige voedingsbron kunnen vormen voor de omliggende steden."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
