@@ -22,7 +22,7 @@
 	<entry name="9Name" value="Start van het spel"/>
 	<entry name="10Description" value="Neem rustig de tijd om de gebruikersinterface te leren kennen. Iedere knop en ieder symbool beschikt over een helptekst, die je de relevante informatie geeft. Als je niet meer weet wat de volgende stap is die je moet doen, dan kun je op de oplichtende knop rechtsonder klikken. Deze knop helpt je erbij om je op de volgende taak te richten, voordat je je ronde beëindigt."/>
 	<entry name="10Name" value="Rondeknop"/>
-	<entry name="11Description" value="Belangrijke grondstoffen, zoals voedsel, mineralen, onderzoek en kredieten worden centraal in je rijk ingezameld en verdeeld. Elk van je steden levert haar grondstoffen een gemeenschappelijke pot, waaruit ze ook jaar benodigde grondstoffen betrekt. Daarmee kun je je steden op bepaalde gebieden specialiseren, of bijvoorbeeld voorraden voor slechtere tijden aanleggen. "/>
+	<entry name="11Description" value="Belangrijke grondstoffen, zoals voedsel, mineralen, onderzoek en kredieten worden centraal in je rijk ingezameld en verdeeld. Elk van je steden levert haar grondstoffen aan een gemeenschappelijke pot, waaruit ze ook jaar benodigde grondstoffen betrekt. Daarmee kun je je steden op bepaalde gebieden specialiseren, of bijvoorbeeld voorraden voor slechtere tijden aanleggen. "/>
 	<entry name="11Name" value="Mondiale grondstoffenpot"/>
 	<entry name="12Description" value="Je hebt je eerste operatie ontwikkeld. Operaties kunnen verschillende werkingen hebben, van bonussen voor je eenheden tot directe schade bij je vijand toebregen. Na de ontwikkeling van een operatie of het bouwen van het bijbehorende gebouw, kun je hem op heel Pandora inzetten."/>
 	<entry name="12Name" value="Onderzoeken van operaties"/>
@@ -30,7 +30,7 @@
 	<entry name="13Name" value="Beschikbaarheid van operaties"/>
 	<entry name="14Description" value="Je eenheid heeft schade geleden en is gewond danwel beschadigd. Zijn sterkte is verminderd en hij zal het volgende gevecht waarschijnlijk niet overleven. Om te regenereren, moet hij stilstaan en mag niet aan een gevecht deelnemen. Je kunt het regeneratieproces versnellen, door de eenheid naar een stad te bewegen."/>
 	<entry name="14Name" value="Genezing"/>
-	<entry name="15Description" value="Ieder eenheid kan per ronde een bepaalde afstand afleggen, die afhangt van zijn bewegingsnelheid. Zodra een eenheid zich in de huidige ronde niet meer kan bewegen, wordt de sterkteaanduiding over de eenheid in het grijs getoond."/>
+	<entry name="15Description" value="Iedere eenheid kan per ronde een bepaalde afstand afleggen, die afhangt van zijn bewegingsnelheid. Zodra een eenheid zich in de huidige ronde niet meer kan bewegen, wordt de sterkteaanduiding over de eenheid in het grijs getoond."/>
 	<entry name="15Name" value="Beweging"/>
 	<entry name="16Description" value="In het economievenster vindt je een overzicht van al je steden. Hier kan je op eenvoudige wijze de productie aanpassen, de bevolking naar wens aan werkgebieden toebedelen en zelfs het centrale belastingtarief instellen."/>
 	<entry name="16Name" value="Economievenster"/>
