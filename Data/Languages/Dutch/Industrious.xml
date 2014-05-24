@@ -74,7 +74,7 @@
 	<entry name="Crime2" value="Denk niet dat we niets afweten van uw 'heropvoedingskampen'. Ik vraag me af of iemand ze ooit levert verlaten heeft?"/>
 	
 	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
-	<entry name="Denounce" value="&quot;%7% Welke misdaden u pleegtn ...voor uw eigen welzijnen!&quot;"/>
+	<entry name="Denounce" value="&quot;%7% Welke misdaden u pleegt ...voor uw eigen welzijn!&quot;"/>
 	<entry name="AcceptDenounce" value="&quot;Jawel, dat heb ik allemaal gedaan en nog veel meer. Ik doe alles voor mijn volk.Voor het deel, dat overleeft.&quot;"/>
 	<entry name="RejectDenounce" value="&quot;Dat kunt u niet bewijzen. Het staat nergens op schrift en degenen die daar vanaf wisten, zijn dood. Desondanks dank ik u voor uw interesse.&quot;"/>
 	
