@@ -24,7 +24,7 @@
 	<entry name="Denounce" value="(wijst openlijk terecht)"/>
 	<entry name="DenounceHint" value="Openlijke beschuldigingen, die de verstandhouding van de terechtgewezen fractie met haar vrieden verslechteren, maar de verstandhouding van de terechtgewezen fractie met haar vijanden verbeteren. Als de terechtwijzing geweigerd wordt, worden de effecten afgezwakt."/>	
 	<entry name="GiftAccepted0" value="(overweegt, het geschenk te accepteren)"/>
-	<entry name="GiftAccepted1" value="(accepteert Geschenk)"/>
+	<entry name="GiftAccepted1" value="(accepteert geschenk)"/>
 	<entry name="GiftHint" value="Een geldgeschenk, dat - indien het wordt geaccepteerd - tot gevolg heeft dat de ontvanger de schenker hoger zal achten."/>
 	<entry name="GiftRejected0" value="(wijst geschenk af)"/>
 	<entry name="GiftRejected1" value="(wijst geschenk af)"/>
