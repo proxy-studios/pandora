@@ -10,7 +10,7 @@
 	<entry name="3Name" value="Stadsbevolking"/>
 	<entry name="4Description" value="Als je over genoeg <icon texture='Resources/Credits'/> kredieten beschikt, dan kun je ze invesreren, om de productie snel af te sluiten. Klik daartoe op het kleine <icon texture='Resources/Credits'/> kredietensymbool."/>
 	<entry name="4Name" value="Productie afkopen"/>
-	<entry name="5Description" value="Links unten in der Stadtansicht sehen Sie eine Liste aller Gebäude, die in dieser Stadt errichtet wurden. Wenn Sie ein Gebäude verkaufen wollen, müssen Sie einfach darauf klicken."/>
+	<entry name="5Description" value="Linksonder in het stadsaanzicht vind je een lijst van alle gebouwen, die in deze stad gebouwd zijn. Als je een gebouw wilt verkopen, dan kun je daarop simpelweg klikken."/>
 	<entry name="5Name" value="Gebouwen in de stad"/>
 	<entry name="6Description" value="Eenheden worden aan de hand van ontwerpen gebouwd en in de werkplaats kun je je ontwerpen maken en aanpassen. Klik voor het maken van een nieuw ontwerp op de knop &quot;Nieuw&quot;. Daarmee wordt een kopie van het momenteel geselecteerde ontwerp gemaakt en deze kun je bewerken, zonder het origineel te veranderen."/>
 	<entry name="6Name" value="Ontwerpen in de werkplaats"/>
