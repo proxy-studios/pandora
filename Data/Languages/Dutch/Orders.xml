@@ -58,7 +58,7 @@
 	<entry name="ImproveClosestCity" value="Dichtstbijzijnde stad verbeteren"/>
 	<entry name="ImproveClosestCityHint" value="Dichtstbijzijnde stad verbeteren [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Ecoregio verbeteren"/>
-	<entry name="ImproveEcoregionHint" value="Ecoregion verbeteren [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
+	<entry name="ImproveEcoregionHint" value="Ecoregio verbeteren [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 	<entry name="LowerTerrain" value="Terrein verlagen"/>
 	<entry name="LowerTerrainHint" value="Terrein verlagen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>	
 	<entry name="Move" value="Beweeg naar"/>
