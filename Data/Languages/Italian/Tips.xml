@@ -30,9 +30,9 @@
 	<entry name="13Name" value="Disponibilità Effetti"/>
 	<entry name="14Description" value="La tua unità è stata ferita. La sua energia è diminuita e quasi sicuramente morirà nella prossima battaglia. Per guarire, deve rimanere inattiva senza combattere. Puoi accelerare il processo di guarigione spostandola in una città."/>
 	<entry name="14Name" value="Guarigione"/>
-	<entry name="15Description" value="Ogni unità può muoversi di un certo numero di passi ogni turno, indicato dalla sua velocità di movimento. Quando non gli è più possibile muoversi od attaccare, la barra dell'energia sotto ad essa diventa grigia."/>
+	<entry name="15Description" value="Ogni unità può muoversi di un certo numero di passi ogni turno, indicato dalla sua velocità di movimento. Tenendo premuto il tasto destro del mouse verrà mostrato il percorso che l'unità può compiere. Quando non gli è più possibile muoversi od attaccare, la barra dell'energia sotto ad essa diventa grigia."/>
 	<entry name="15Name" value="Movimento"/>
-	<entry name="16Description" value="Il pannello economico mostra una panoramica di tutte le tue città. Qui puoi facilmente cambiare la produzione, riallocare la popolazione ed anche modificare la percentuale delle tasse."/>
+	<entry name="16Description" value="Il pannello economico mostra una panoramica di tutte le tue città. Qui puoi facilmente cambiare la produzione, riallocare la popolazione ed anche modificare la percentuale delle tasse per compensare il morale basso."/>
 	<entry name="16Name" value="Pannello Economico"/>
 	<entry name="17Description" value="Una volta selezionato il design che desideri, puoi modificarlo scegliendo una classe, un'arma compatibile, dispositivi e corazze. Ogni unità ha i suoi punti deboli ed i suoi vantaggi, e durante il corso della partita avrai accesso a moltissimi nuovi moduli."/>
 	<entry name="17Name" value="Modifica Design in Laboratorio"/>
@@ -50,8 +50,12 @@
 	<entry name="23Name" value="Controllo delle Armate"/>
 	<entry name="24Description" value="L'Enciclopedia contiene una collezione di utili informazioni riguardanti fazioni, costruzioni ed unità; oltre a tutti i suggerimenti sul gioco."/>
 	<entry name="24Name" value="Enciclopedia"/>
-	<!-- <entry name="25Description" value=""/>
-	<entry name="25Name" value="Percezione"/>
-	<entry name="26Description" value=""/>
-	<entry name="26Name" value="Fiancheggiare"/> -->
+	<entry name="25Description" value="Spostando il mouse al di sopra ad un nemico verranno visualizzate delle informazioni importanti sul suo attacco, difesa, modificatori, debolezze e percentuali di vittoria. L'unità difensiva viene sempre scelta per essere la migliore contro la minaccia attuale. Utilizza tutte queste informazioni a tuo vantaggio."/>
+	<entry name="25Name" value="Combattimento"/>
+	<entry name="26Description" value="Presta particolare attenzione alla posizione delle tue unità. Territori differenti avranno effetti diversi. Mentre la fanteria eccelle nelle foreste e nelle montagne, non combattono al meglio in pianura. Per guadagnare vantaggi maggiori, considera l'affiancamento dei nemici utilizzando formazioni a triangolo. Ogni unità fiancheggiante di fornirà un bonus del 25% alla potenza."/>
+	<entry name="26Name" value="Fiancheggiare"/>
+	<entry name="27Description" value="I progetti forniscono bonus temporanei e/o permanenti al tuo intero impero appena vengono sviluppati in una delle tue città. Questi bonus spaziano da un semplice guadagno una tantum di risorse, ad unità bonus, fino a strategie e tecnologie avanzate che concedono significanti vantaggi in diverse varietà di settori."/>
+	<entry name="27Name" value="Progetti"/>
+	<!-- <entry name="28Description" value=""/>
+	<entry name="28Name" value="Percezione"/> -->
 </language>

@@ -137,9 +137,14 @@
 	<entry name="Fungus2" value="Ormoni Micetici"/>
 	<entry name="Fungus2Description" value="Ulteriore incremento di produzione di cibo e minerali dai funghi."/>
 	<entry name="GoldenAge" value="Età dell'Oro"/>
-	<entry name="GoldenAgeDescription" value="La colonia festeggia l'ingresso in una nuova era d'illuminazione ed armonia."/>
-	<entry name="Growth" value="Clonazione"/>
-	<entry name="GrowthDescription" value="Riproduzione umana artificiale che può aumentare temporaneamente la crescita di popolazione."/>
+	<entry name="Growth" value="Censimento Eugenetico"/>
+	<entry name="GrowthDescription" value="Un censimento che determina i più disparati difetti genetici."/>
+	<entry name="Growth0" value="Terapia Genetica Pubblica"/>
+	<entry name="Growth0Description" value="Accesso pubblico alle terapie genetiche può aumentare il tasso di sopravvivenza della popolazione."/>
+	<entry name="Growth1" value="Clonazione di Massa"/>
+	<entry name="Growth1Description" value="La riproduzione artificiale degli umani porta un incremento notevole alla crescita della popolazione."/>
+	<entry name="Growth2" value="Difese Anti-Virali della Personalità"/>
+	<entry name="Growth2Description" value="Dispositivi che impediscono alla nostra popolazione post-umana di incappare nei pericolosi Grey Goo."/>
 	<entry name="Guerrilla" value="Guerriglia"/>
 	<entry name="GuerrillaDescription" value="Nuove tattiche colpisci e fuggi del nuovo mondo."/>
 	<entry name="Harvest" value="Raccoglitore Automatico Remoto"/>

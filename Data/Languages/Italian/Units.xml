@@ -2,13 +2,34 @@
 <language>
 	<entry name="Aircraft0" value="Caccia"/>
 	<entry name="Aircraft0Description" value="<style name='Italic'/>&quot;Combatti e vola fino all'ultima goccia di sangue e carburante, fino all'ultimo battito del tuo cuore.&quot;<br/>    -- Barone Manfred von Richthofen<style name='Default'/><br/><br/>Il problema del volo nell'inaffidabile atmosfera di Pandora è stato risolto. Il carburante gassoso viene ionizzato ed iniettato in una camera d'accelerazione contenente campi magnetici ed elettrici, dove le particelle vengono spinte fino alla camera di scarico dalla forza di Lorentz. Questo processo produce una forza di propulsione di oltre 10.000 metri al secondo, permettendo ai piccoli aeroplani dall'energia limitata di evolversi in veloci ed agili macchine da guerra."/>
-	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può attaccare sui fianchi<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
 	<entry name="Aircraft1" value="Caccia Hurricane"/>
 	<entry name="Aircraft1Description" value="L'Hurricane svetta su ogni aeroplano esistente, combinando i suoi innovativi sistemi d'evasione pari a quelli dei caccia leggeri alla potenza di fuoco di un caccia-bombardiere."/>
-	<entry name="Aircraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aircraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può attaccare sui fianchi<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
 	<entry name="Aircraft2" value="Caccia Nusselt"/>
 	<entry name="Aircraft2Description" value="Il caccia Nusselt possiede un enorme vantaggio tattico rispetto agli aeroplani tradizionali. Il suo scafo geomagnetico gli permette di viaggiare nella termosfera di Pandora, dove i densi campi ionici possono essere utilizzati per super-caricare il caccia e le sue armi. Dopodiché si può abbattere sui nemici a velocità spaventosa."/>
-	<entry name="Aircraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="Aircraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità di terra nelle pianure<br/><icon texture='GUI/Bullet'/>Non può attaccare sui fianchi<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="AlienAircraft" value="Caccia Messari"/>
+	<entry name="AlienAircraftDescription" value="Questi velivoli a forma di U si muovono nei cieli come un vecchio catamarano terrestre, effettuando manovre impossibili attraverso le nuvole di Pandora o cambiando direzione senza alcun segno di calo di potenza. Se sono presenti delle creature viventi in questi veicoli, devono possedere un'elevata tolleranza gravitazionale e dei riflessi superiori ai piloti umani."/>
+	<entry name="AlienAircraftProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro le unità di terra sulle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="AlienArtillery" value="Artiglieria Messari"/>
+	<entry name="AlienArtilleryDescription" value="Costruiti con una linea simile ai carri armati Messari, questi obelischi gemelli non possiedono i punti deboli dei carri armati stessi. Questo permette a queste armi una portata maggiore, ma una maggiore dispersione, permettendogli di colpire bersagli multipli. Fortunatamente, questo sembra ridurre la loro letalità; se ti colpiscono, solo quasi sicuramente morirai."/>
+	<entry name="AlienArtilleryProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
+	<entry name="AlienMech" value="Mech Messari"/>
+	<entry name="AlienMechDescription" value="Non riusciamo nemmeno a dire cosa sia questa cosa. La cosa che gli si avvicina di più in termini di dimensioni è uno dei nostri Mech Titan, ma questo immenso monolite non si muove... fluttua attraverso il paesaggio, come un quartiere semovente. Raschia le nuvole con l'arma più potente dei Messari, un grande occhio che scatta da bersaglio a bersaglio. Ovunque guardi, l'intero campo di battaglia svanisce."/>
+	<entry name="AlienMechProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Non viene influenzato dalle strade<br/><icon texture='GUI/Bullet'/>Non può eseguire lo schieramento orbitale"/>
+	<entry name="AlienMothership" value="Nave Madre Messari"/>
+	<entry name="AlienMothershipDescription" value="Questo disco delle dimensioni di una città è l'espressione massima della tecnologia Messari. A differenza dei rumori strazianti che producono le loro armi, il foro al centro di questo toroidale è immerso nel silenzio... anzi, i suoni sembrano proprio intrappolati in esso. Tutto quello che viene sormontato dal disco, semplicemente evapora. <br/><br/>L'unico nostra salvezza è il fatto che quella cosa non può muoversi velocemente, altrimenti avremmo già perso tutto."/> 
+	<entry name="AlienMothershipProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica leggera volante<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro le unità di terra sulle pianure<br/><icon texture='GUI/Bullet'/>Non può catturare città o rovine"/>
+	<entry name="AlienTank" value="Carro Armato Messari"/>
+	<entry name="AlienTankDescription" value="Questo dispositivo Messari prende il ruolo di carro armato, agendo come una pesante forza in prima fila. Sembra essere basata sullo stesso design delle unità d'artiglieria, ma la sua grande resistenza e la sua potenza di fuoco sono bilanciate da una gittata più corta ed una modalità di fuoco meno dispersiva."/>
+	<entry name="AlienTankProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
+	<entry name="AlienTransport" value="Trasporto"/>
+	<entry name="AlienTransportDescription" value="Ci dev'essere un limite all'utilizzo dei portali da parte dei Messari, o questo trasporto non sarebbe stato necessario. Forse l'acqua interferisce con l'azione teletrasportante? Forse i portali non sono abbastanza accurati da poter puntare direttamente le nostre città? Qualunque sia la ragione, questi veicolo permettono ai Messari di raggiungere ogni area del pianeta."/>
+	<entry name="AlienTransportProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Trasporta le unità di terra<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="AlienTrooper" value="Soldato Messari"/>
+	<entry name="AlienTrooperDescription" value="Questa fanteria aliena sembra quasi umana, bipede e scimmiesca. Tuttavia, dato che non siamo mai riusciti a catturarne uno vivo, e nemmeno mai penetrato una delle loro armature, non possiamo dire se siano gli alieni stessi, qualche razza schiava, o anche solo una crudele beffa della razza umana.<br/><br/>Dovrebbero essere le unità più deboli dei Messari, ma sono a centinaia e comunque letali."/>
+	<entry name="AlienTrooperProperties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>	
 	<entry name="Aspidoch" value="Aspidoch"/>
 	<entry name="AspidochDescription" value="Una balenottera azzurra, sulla Terra, può essere lunga fino a 33 metri e pesare 180 tonnellate. In confronto all'Aspidoch di Pandora, però, la balenottera è un pesciolino. L'Aspidoch potrebbe letteralmente inghiottirla in un boccone. Data l'alta gravità di Pandora, una creatura del genere può sopravvivere solo negli oceani. È stato avvistato un solo Aspidoch, quindi non si può dire se sia l'ultimo della specie o semplicemente un raro esemplare... ma è la creatura più grande e letale che sia mai stata scoperta."/>
 	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> all'energia in difesa"/>
@@ -74,7 +95,7 @@
 	<entry name="Tank2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante"/>
 	<entry name="Transport" value="Trasporto"/>
 	<entry name="TransportDescription" value="I Trasporti sono imbarcazioni militari non armate che possono trasportare le tue truppe di terra attraverso l'acqua. Sono estremamente vulnerabili agli attacchi aerei o navali, e dovrebbero essere protetti il più possibile."/>
-	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Trasporta unità di terra<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
+	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Trasporta un'unità di terra<br/><icon texture='GUI/Bullet'/>Non può attaccare<br/><icon texture='GUI/Bullet'/>Non può essere prodotta"/>
 	<entry name="Trooper0" value="Soldato Coloniale"/>
 	<entry name="Trooper0Description" value="La prima linea di difesa per la maggior parte delle battaglie, addestrati per svariati scenari bellici, i Soldati Coloniali sono la spina dorsale degli eserciti moderni.<br/><br/><style name='Italic'/>&quot;Datemi dieci soldati ed una settimana, e cambierò il corso della storia.&quot;"/>
 	<entry name="Trooper0Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>
@@ -89,11 +110,11 @@
 	<entry name="Trooper2Properties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>	
 	<entry name="Watercraft0" value="Watercraft Barracuda"/>
 	<entry name="Watercraft0Description" value="La propulsione elettrica è stata portata nelle acque di Pandora, consentendo l'attraversamento di laghi ed oceani. Tramite l'utilizzo di collettori solari efficienti, delle piccole cannoniere da schermaglia possono viaggiare per distanze illimitate velocemente ed efficientemente."/>
-	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica"/>
 	<entry name="Watercraft1" value="Watercraft Dreadnought"/>
 	<entry name="Watercraft1Description" value="Avendo la possibilità di installare due torrette, questo watercraft incrociatore è una formidabile linea di difesa marittima."/>
-	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica"/>
 	<entry name="Watercraft2" value="Watercraft Tangaroa"/>
 	<entry name="Watercraft2Description" value="Una gigantesca struttura galleggiante in grado di affrontare la maggior parte dei nemici senza un solo graffio, il Tangaroa si muove a velocità spaventosa e colpisce con una forza senza pari."/>
-	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica<br/><icon texture='GUI/Bullet'/>Non può catturare città"/>
+	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante acquatica"/>
 </language>

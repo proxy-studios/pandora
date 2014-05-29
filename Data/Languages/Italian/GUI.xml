@@ -3,11 +3,12 @@
 	<entry name="AddProductKey" value="Aggiungi Product Key"/>
 	<entry name="AddProductKeyPrompt" value="Inserisci un Product Key valido da aggiungere al tuo account Slitherine:"/>
 	<entry name="Advanced" value="Avanzate"/>
-	<entry name="Advancement" value="Avanzamento"/>
-	<entry name="Advancements" value="Avanzamenti"/>
-	<entry name="AdvancementsHelp" value="Gli avanzamenti forniscono bonus temporanei o permanenti al tuo impero appena vengono sviluppati in una delle tue città. Questi bonus spaziano da un semplice guadagno una tantum di risorse, ad unità bonus, fino a strategie e tecnologie avanzate che concedono significanti vantaggi sul campo di battaglia."/>
+	<entry name="Advancement" value="Progetto"/>
+	<entry name="Advancements" value="Progetti"/>
+	<entry name="AdvancementsHelp" value="I progetti forniscono bonus temporanei e/o permanenti al tuo intero impero appena vengono sviluppati in una delle tue città. Questi bonus spaziano da un semplice guadagno una tantum di risorse, ad unità bonus, fino a strategie e tecnologie avanzate che concedono significanti vantaggi in diverse varietà di settori."/>
 	<entry name="All" value="Tutto"/>
 	<entry name="Alliance" value="Alleanza"/>
+	<entry name="AlliedVictoryDescription" value="Gli alleati condividono il progresso delle vittorie economica e militare."/>
 	<entry name="AllocationLocked" value="I coloni non verranno assegnati automaticamente a questo compito."/>
 	<entry name="AllocationUnlocked" value="I coloni verranno assegnati automaticamente a questo compito"/>
 	<entry name="Armor" value="Corazza"/>
@@ -139,6 +140,8 @@
 	<entry name="Incompatible" value="Incompatibile"/>
 	<entry name="Info" value="Info"/>
 	<entry name="INFINITY" value="99"/>
+	<entry name="Invite" value="Invita"/>
+	<entry name="InviteDisabledHint" value="Il server non sta eseguendo la versione Steam o non è disponibile il matchmaking di Steam."/>
 	<entry name="IP" value="IP"/>
 	<entry name="Join" value="Unisciti"/>
 	<entry name="LastPing" value="Ultimo Ping"/>
@@ -148,8 +151,8 @@
 	<entry name="Lifeform" value="Forma di Vita"/>
 	<entry name="Load" value="Carica"/>
 	<entry name="LoadGame" value="Carica Partita"/>
-	<entry name="LoadGameHint" value="Carica Partita [Ctrl+L]<br/>Caricamento Veloce [F12]"/>
-	<entry name="LoadingSavedGame" value="Caricamento salvataggio"/>
+	<entry name="LoadGameHint" value="Carica Partita [Ctrl+L]<br/>Caricamento Veloce [F9]"/>
+	<entry name="LoadingSavedGame" value="Caricamento Salvataggio"/>
 	<entry name="Login" value="Login"/>
 	<entry name="LoginPrompt" value="Inserisci le informazioni del tuo account Slitherine:"/>
 	<entry name="Lore" value="Tradizione"/>
@@ -181,7 +184,7 @@
 	<entry name="Month10" value="Novembre"/>
 	<entry name="Month11" value="Dicembre"/>
 	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleHint" value="Morale<br/>Felicità globale della popolazione. Ogni punto positivo o negativo di morale aumenta o diminuisce la produzione di risorse della tua popolazione del 5%."/>
+	<entry name="MoraleHint" value="Morale<br/>Felicità globale della popolazione. Morale positivo o negativo aumenta o diminuisce la produzione di risorse e la crescita della tua popolazione."/>
 	<entry name="More" value="Altro"/>
 	<entry name="MovementHint" value="Velocità di Movimento<br/>Il numero di territori che la tua unità può attraversare in un mese."/>
 	<entry name="Multiplayer" value="Multiplayer"/>
@@ -306,6 +309,8 @@
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% dai patti di ricerca"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% dalla mancanza di cibo"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% dalle acquisizioni"/>
+	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% dalle vittime delle acquisizioni"/>
+	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% dalla migrazione delle acquisizioni"/>
 	<entry name="ResourcePerTurnFromTaxes" value="<icon texture='GUI/Bullet'/>%1% dalle tasse"/>
 	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% dai territori"/>
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% dai trattati commerciali"/>

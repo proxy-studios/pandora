@@ -50,4 +50,10 @@
 	<entry name="23Name" value="Armeekontrolle"/>
 	<entry name="24Description" value="Im Kompendium finden Sie eine Reihe von interessanten Informationen über das Spiel. Sie können dort weitergehende Details über die Fraktionen, die Gebäude und die Einheiten erhalten, die Hinweistexte erneut lesen und noch vieles mehr."/>
 	<entry name="24Name" value="Das Kompendium"/>
+	<entry name="25Description" value="Wenn Sie eine Einheit ausgewählt haben und den Cursor über einen Feind bewegen werden detaillierte Informationen über den Angreifer, den Verteidiger, die Modifikatoren sowie Siegeschance und erwartete Verluste für den Kampf angezeigt. Es wird immer die Einheit welche am effektivsten gegen den Angreifer ist zur Verteidigung ausgewählt. Nutzen Sie diese Information zu Ihrem Vorteil."/>
+	<entry name="25Name" value="Kampf"/>
+	<entry name="26Description" value="Achten Sie speziell auf die Positionierung Ihrer Einheiten. Unterschiedliches Gelände hat verschiedene Auswirkungen auf deren Kampfstärke. Obwohl Infanterie hervorragend geeignet ist für Gefechte in Wald und Gebirgen, haben deren Soldaten deutliche Nachteile in offenem Gelände. Um einen weiteren Vorteil zu gewinnen versuchen Sie Ihre Gegner zu flankieren indem Sie sie in Form eines Dreiecks umstellen. Jede zusätzliche flankierende Einheit gibt Ihren Truppen einen Stärkebonus von 25%."/>
+	<entry name="26Name" value="Flankieren"/>
+	<entry name="27Description" value="Projekte gewähren Ihrem Reich einen vorübergehenden oder permanenten Vorteil, der nach Abschluss des Projekts in einem Ihrer Städte sofort zur Verfügung steht. Diese Vorteile können höchstunterschiedlich ausfallen. Sie reichen von einfachen einmaligen Ressourcenboni über Zusatzeinheiten bis hin zu fortgeschrittenen Strategien oder Technologien, die Ihnen neue Möglichkeiten eröffnen und sich in unterschiedlichen Bereichen entscheidend zu Ihren Gunsten auswirken."/>
+	<entry name="27Name" value="Projekte"/>
 </language>

@@ -14,6 +14,10 @@
 	<entry name="CreditsBonus0Description" value="Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old Earth. Just like on our old world, virtually all accessible gold on Pandora's surface has been deposited by meteorites. A gold vein drastically increases the credits output of the city that controls the territory."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
+	<entry name="Creep" value="Infestation"/>
+	<entry name="CreepDescription" value="As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- perhaps this is their version of terraforming?"/>
+	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost for Messari ground units<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
+	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Coast" value="Coast"/>
 	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
 	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -29,7 +33,7 @@
 	<entry name="EnergyPark" value="Energy Park"/>
 	<entry name="EnergyParkDescription" value="These spaces are focal points for a distributed solar / wind / wave energy collection network. Here, we can safely siphon off the collected energy, to be sold on the open market."/>
 	<entry name="EnergyParkProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
-	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +2"/>
+	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +3"/>
 	<entry name="Farm" value="Farm"/>
 	<entry name="FarmDescription" value="With the advent of industrialization, these huge areas provide the raw materials for our food processing facilities."/>
 	<entry name="FarmProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
@@ -52,22 +56,23 @@
 	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4  <icon texture='Resources/Morale'/> +1"/>
 	<entry name="Forest" value="Forest"/>
 	<entry name="ForestDescription" value="A forest is an area with a high density of trees. It functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere. Mechanical units will struggle to access this area."/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
 	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1"/>
 	<entry name="Fort" value="Fort"/>
 	<entry name="FortDescription" value="Massive fortifications that provide strong defenses and a vision bonus to any garrison. When manned by artillery units they are perfect for protecting borders or strategic positions."/>
 	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate"/>
 	<entry name="Fungus" value="Fungus"/>
 	<entry name="FungusDescription" value="Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution."/>
-	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>3 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
 	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Grassland" value="Grassland"/>
 	<entry name="GrasslandDescription" value="Grasslands are areas dominated by herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
 	<entry name="GrasslandProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="GrasslandStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
-	<entry name="Growth" value="Accelerated Growth"/>
-	<entry name="GrowthDescription" value="Causes a city with positive growth to grow twice as fast."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>+100% growth for city"/>
+	<entry name="Growth" value="Orb Plantations"/>
+	<entry name="GrowthDescription" value="As the Formers pass, they sow the ground with parcels of construction and gardening machines. These build orb plantations using local organic materials -- sealed hydroponic nurseries in which plants are seeded and raised to full growth before the whole structure is harvested."/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="GrowthStats" value="<icon texture='Resources/PositiveGrowth'/> +1  <icon texture='Resources/Credits'/> -2"/>
 	<entry name="Hills" value="Hills"/>
 	<entry name="HillsDescription" value="The transitional area between mountains and plains. The rough terrain makes agriculture more difficult but provides valuable minerals."/>
 	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -97,7 +102,7 @@
 	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
 	<entry name="Mountains" value="Mountains"/>
 	<entry name="MountainsDescription" value="Towering over Pandora's terrain to a height of several kilometers, the mountains' rough terrain offers a natural tactical advantage to infantry units."/>
-	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
 	<entry name="Ocean" value="Ocean"/>
 	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous plant and animal lifeforms, from the microscopic to the unbelievably large."/>
@@ -113,6 +118,9 @@
 	<entry name="PollutionDescription" value="Usually caused by weapons with immense power, territories which are turned into wasteland are toxic to organic life and provide no resources at all.<br/><br/>Former units are able to clear up the waste and restore the territory's original ecology, but it is a difficult and time-consuming process."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Portal" value="Portal"/>
+	<entry name="PortalDescription" value="The portals by which the Messari appear on Pandora are closely guarded. Towers on inhuman scales, like the ruins we discovered, but shiny and new. And occupied by Messari troops."/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+150% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+300% <icon texture='Attributes/Power'/> power vs operations"/>
 	<entry name="ProductionBonus0" value="Xenite Flowers"/>
 	<entry name="ProductionBonus0Description" value="Xenite is a wondrous plant that, when administered as a drug, allows the human body to enter a state of trance resistant to exhaustion and numbed to pain. While a person's working capacity is significantly increased by its usage, even a slight overdose results in instant cardiac arrest -- thus requiring a continuous monitoring of any workers who use it."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -148,10 +156,13 @@
 	<entry name="SeafoodBonus0" value="Fish"/>
 	<entry name="SeafoodBonus0Description" value="The sea in this area is home to edible aquatic lifeforms in great numbers, which would greatly facilitate the survival of nearby cities."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="Storm" value="Ion Storm"/>
+	<entry name="StormDescription" value="Ahead of the Messari arrival, areas are wracked by massive electromagnetic storms which inflict severe damage on any inhabitants."/>
+	<entry name="StormProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Inflicts 1.0 damage per turn<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> movement cost"/>
 	<entry name="Suburb" value="Suburb"/>
 	<entry name="SuburbDescription" value="This area of low-rise homes is ideal for our blue-collar population to retire to after a hard day in the factories and mines."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="The distinguishing features of tropical zones are a warm, humid climate, lush vegetation, and soil that's rather poor in nutrients."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>

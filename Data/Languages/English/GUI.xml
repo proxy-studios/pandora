@@ -3,11 +3,12 @@
 	<entry name="AddProductKey" value="Add Product Key"/>
 	<entry name="AddProductKeyPrompt" value="Please enter a valid product key to add to your Slitherine account:"/>
 	<entry name="Advanced" value="Advanced"/>
-	<entry name="Advancement" value="Advancement"/>
-	<entry name="Advancements" value="Advancements"/>
-	<entry name="AdvancementsHelp" value="Advancements provide a temporary or permanent benefit for your empire that is gained upon completing the advancement in any of your cities. The range of those benefits varies greatly, from simple one-time resource gains or bonus units up to advanced strategies or technologies that result in a significant advantage on the battlefield."/>
+	<entry name="Advancement" value="Project"/>
+	<entry name="Advancements" value="Projects"/>
+	<entry name="AdvancementsHelp" value="Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors."/>
 	<entry name="All" value="All"/>
 	<entry name="Alliance" value="Alliance"/>
+	<entry name="AlliedVictoryDescription" value="Allies share progress towards economic and military victories."/>
 	<entry name="AllocationLocked" value="Colonists will not be automatically assigned to this task."/>
 	<entry name="AllocationUnlocked" value="Colonists will be automatically assigned to this task."/>
 	<entry name="Armor" value="Armor"/>
@@ -139,6 +140,8 @@
 	<entry name="Incompatible" value="Incompatible"/>
 	<entry name="Info" value="Info"/>
 	<entry name="INFINITY" value="99"/>
+	<entry name="Invite" value="Invite"/>
+	<entry name="InviteDisabledHint" value="Server not running Steam version or Steam matchmaking unavailable."/>
 	<entry name="IP" value="IP"/>
 	<entry name="Join" value="Join"/>
 	<entry name="LastPing" value="Last Ping"/>
@@ -148,8 +151,8 @@
 	<entry name="Lifeform" value="Lifeform"/>
 	<entry name="Load" value="Load"/>
 	<entry name="LoadGame" value="Load Game"/>
-	<entry name="LoadGameHint" value="Load Game [Ctrl+L]<br/>Quick Load [F12S]"/>
-	<entry name="LoadingSavedGame" value="Loading saved game"/>
+	<entry name="LoadGameHint" value="Load Game [Ctrl+L]<br/>Quick Load [F9]"/>
+	<entry name="LoadingSavedGame" value="Loading Saved Game"/>
 	<entry name="Login" value="Login"/>
 	<entry name="LoginPrompt" value="Please enter your Slitherine account information:"/>
 	<entry name="Lore" value="Lore"/>
@@ -181,7 +184,7 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="December"/>
 	<entry name="Morale" value="Morale"/>
-	<entry name="MoraleHint" value="Morale<br/>Overall population happiness. Each point of positive or negative morale increases or decreases the resource output of your population by 5%."/>
+	<entry name="MoraleHint" value="Morale<br/>Overall population happiness. Positive or negative morale increases or decreases the resource output and growth rate of your population."/>
 	<entry name="More" value="More"/>
 	<entry name="MovementHint" value="Movement Speed<br/>The number of territories the unit can cross in one month."/>
 	<entry name="Multiplayer" value="Multiplayer"/>
@@ -276,13 +279,14 @@
 	<entry name="ResearchColonistsHint" value="Scientists accumulate research to discover new technologies."/>
 	<entry name="ResearchHint" value="Research<br/>Accumulation of knowledge. Used to discover new technologies."/>
 	<entry name="ResearchPact" value="Research pact"/>
-	<entry name="ResearchVictoryDescription" value="Research 75% of all technologies to win a scientific victory."/>
+	<entry name="ResearchVictoryDescription" value="Research 75% of all technologies to win a science victory."/>
 	<entry name="ResearchVictoryProgress" value="Research victory progress: %1%%%"/>
 	<entry name="ResetPassword" value="Reset Password"/>
+	<entry name="Resign" value="Resign"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulated"/>
 	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% accumulated"/>
 	<entry name="ResourcePerTurn" value="%1% per turn"/>
-	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% from advancements"/>
+	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% from projects"/>
 	<entry name="ResourcePerTurnFromArtists" value="<icon texture='GUI/Bullet'/>%1% from artists"/>
 	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% from building upkeep"/>
 	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% from buildings"/>
@@ -306,6 +310,8 @@
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% from research pacts"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% from starvation"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% from takeover"/>
+	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% from takeover casualties"/>
+	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% from takeover migration"/>
 	<entry name="ResourcePerTurnFromTaxes" value="<icon texture='GUI/Bullet'/>%1% from taxes"/>
 	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% from territories"/>
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% from trading pacts"/>
@@ -319,7 +325,7 @@
 	<entry name="RazeOrder" value="raze order"/>
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>
-	<entry name="SaveGameHint" value="Save Game [Ctrl+S]<br/>Quick Save [F11]"/>
+	<entry name="SaveGameHint" value="Save Game [Ctrl+S]<br/>Quick Save [F10]"/>
 	<entry name="SelectCompatibleDesign" value="Select a compatible design."/>
 	<entry name="Sell" value="Sell"/>
 	<entry name="SellBuildingTitle" value="Sell Building"/>
@@ -380,7 +386,7 @@
 	<entry name="Team7" value="G"/>
 	<entry name="Team8" value="H"/>
 	<entry name="Technologies" value="Technologies"/>
-	<entry name="TechnologiesHelp" value="Over the course of the game you will unlock increasingly more advanced technologies which provide new buildings, units, weapons, armors, devices, operations and advancements."/>
+	<entry name="TechnologiesHelp" value="Over the course of the game you will unlock increasingly more advanced technologies which provide new buildings, units, weapons, armors, devices, operations and projects."/>
 	<entry name="TechnologyCost" value="Cost: %1% <icon texture='Resources/Research'/> research <style name='Small' color='Gray'/>(%2% turns)"/>
 	<entry name="TerritorySetToAcquire" value="This territory is going to be acquired when enough population <style color='Gray'/>(%1%)<style name='Default'/> is accumulated <style color='Gray'/>(%2% turns)<style name='Default'/>."/>
 	<entry name="Timeline" value="Timeline"/>

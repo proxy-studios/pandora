@@ -3,9 +3,9 @@
 	<entry name="AddProductKey" value="Produktschlüssel hinzufügen"/>
 	<entry name="AddProductKeyPrompt" value="Bitte geben Sie einen gültigen Produktschlüssel ein, um ihn Ihrem Slitherine-Account hinzuzufügen:"/>
 	<entry name="Advanced" value="Erweitert"/>
-	<entry name="Advancement" value="Fortschritt"/>
-	<entry name="Advancements" value="Fortschritte"/>
-	<entry name="AdvancementsHelp" value="Fortschritte gewähren Ihrem Reich einen vorübergehenden oder permanenten Vorteil, der sofort nach Abschluss des Fortschritts in einer beliebigen Stadt in Kraft tritt. Diese Vorteile reichen von einfachen einmaligen Ressourcenboni über Zusatzeinheiten bis hin zu fortgeschrittenen Strategien oder Technologien, die sich entscheidend zu Ihren Gunsten auf dem Schlachtfeld auswirken."/>
+	<entry name="Advancement" value="Projekt"/>
+	<entry name="Advancements" value="Projekte"/>
+	<entry name="AdvancementsHelp" value="Projekte gewähren Ihrem Reich einen vorübergehenden oder permanenten Vorteil, der nach Abschluss des Projekts in einem Ihrer Städte sofort zur Verfügung steht. Diese Vorteile können höchstunterschiedlich ausfallen. Sie reichen von einfachen einmaligen Ressourcenboni über Zusatzeinheiten bis hin zu fortgeschrittenen Strategien oder Technologien, die Ihnen neue Möglichkeiten eröffnen und sich in unterschiedlichen Bereichen entscheidend zu Ihren Gunsten auswirken."/>
 	<entry name="All" value="Alle"/>
 	<entry name="Alliance" value="Allianz"/>
 	<entry name="AllocationLocked" value="In diesen Bereich wird kein Kolonist automatisch eingeteilt."/>
@@ -137,6 +137,8 @@
 	<entry name="Incompatible" value="Inkompatibel"/>
 	<entry name="INFINITY" value="99"/>
 	<entry name="Info" value="Info"/>
+	<entry name="Invite" value="Einladen"/>
+	<entry name="InviteDisabledHint" value="Auf dem Server läuft nicht die Steam-Version oder Steam-Matchmaking nicht verfügbar."/>	
 	<entry name="IP" value="IP"/>
 	<entry name="Join" value="Beitreten"/>
 	<entry name="LastPing" value="Letzter Ping"/>
@@ -277,7 +279,7 @@
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% erhalten"/>
 	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% erhalten"/>
 	<entry name="ResourcePerTurn" value="%1% pro Runde"/>
-	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% durch Fortschritte"/>
+	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% durch Projekte"/>
 	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% durch Gebäudewartung"/>
 	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% durch Gebäude"/>
 	<entry name="ResourcePerTurnFromCity" value="<icon texture='GUI/Bullet'/>%1% durch Stadt"/>
@@ -378,7 +380,7 @@
 	<entry name="Team7" value="G"/>
 	<entry name="Team8" value="H"/>
 	<entry name="Technologies" value="Technologien"/>
-	<entry name="TechnologiesHelp" value="Im Verlauf des Spiels werden Sie immer fortschrittlichere Technologien freischalten, die Ihnen neue Gebäude, Einheiten, Waffen, Panzerungen, Ausrüstungen, Operationen und Fortschritte ermöglichen.<br/><br/>Sofern die entsprechende Option nicht deaktiviert wurde, tragen Sie einen wissenschaftlichen Sieg davon, sobald Sie 75% aller verfügbaren Technologien erforscht haben."/>
+	<entry name="TechnologiesHelp" value="Im Verlauf des Spiels werden Sie immer fortschrittlichere Technologien freischalten, die Ihnen neue Gebäude, Einheiten, Waffen, Panzerungen, Ausrüstungen, Operationen und Projekte ermöglichen.<br/><br/>Sofern die entsprechende Option nicht deaktiviert wurde, tragen Sie einen wissenschaftlichen Sieg davon, sobald Sie 75% aller verfügbaren Technologien erforscht haben."/>
 	<entry name="TechnologyCost" value="Kosten: %1% <icon texture='Resources/Research'/> Forschung <style name='Small' color='Gray'/>(%2% Runden)"/>
 	<entry name="TerritorySetToAcquire" value="Dieses Gebiet wird als Nächstes eingenommen werden, wenn die Bevölkerung die nötige Größe <style color='Gray'/>(%1%)<style name='Default'/> erreicht <style color='Gray'/>(%2% Runden)<style name='Default'/>."/>
 	<entry name="Timeline" value="Chronik"/>

@@ -21,12 +21,16 @@
 	<entry name="Nuke" value="Nuklearrakete"/>
 	<entry name="NukeDescription" value="Nukleare Kettenreaktionen setzen mit vergleichsweise geringem Quellmaterial große Mengen an Energie frei. Wenn man dieses Prinzip waffenfähig in kleinen Gehäusen unterbringt, die nicht größer als konventionelle Bomben sind, können mit den resultierenden Explosionen, Feuern und Strahlungen ganze Städte zerstört werden.<br/><br/>Die Raketen erfolgreich ins Ziel zu bringen, ist mindestens genauso wichtig und kostspielig wie ihre Herstellung selbst. Dank ballistischer Raketen mit großer Reichweite sind wir nun in der Lage, diese Massenvernichtungswaffen direkt in den Schoß unserer Gegner zu tragen!<br/><br/><style name='Italic'/>Intellektuelle warnen jedoch schon immer vor den Gefahren eines Atomkriegs, in dem wir uns alle gegenseitig auslöschen würden."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fügt in einem Gebiet jeder Einheit und der Bevölkerung 8 <icon texture='Attributes/Power'/> Schaden zu<br/><icon texture='GUI/Bullet'/>Erklärt den betroffenen Fraktionen den Krieg<br/><icon texture='GUI/Bullet'/>Zerstört Geländeeigenschaften<br/><icon texture='GUI/Bullet'/>Erzeugt Ödland"/>
+	<entry name="Portal" value="Portal"/>
 	<entry name="Promotion" value="Feldausbildung"/>
 	<entry name="PromotionDescription" value="Die Feldausbildung ist eine härtere Form der Kampfsimulation und wird mit scharfer Munition durchgeführt. Viele Soldaten bleiben dabei verkrüppelt oder traumatisiert zurück - oder gar beides. Nur die Besten überleben diese Ausbildung und das Wissen, das sie sich dabei aneignen, gewährt ihnen im echten Krieg einen entscheidenden Vorteil."/>
 	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> Rang für alle Einheiten in einem Gebiet und mit einem Rang unter 5<br/><icon texture='GUI/Bullet'/>Beförderte Einheiten verlieren 40% <icon texture='Attributes/Health'/> Gesundheit"/>
 	<entry name="Scan" value="Satellitenscan"/>
 	<entry name="ScanDescription" value="Die orbitale Aufklärung hat viele Vorteile: Sie ist diskret, effizient, präzise und umfassend. Die neueste Generation der Aufklärungssatelliten kann einen sehr großen Bereich abdecken, was sie zu einem unverzichtbaren Werkzeug in der Spionage und Kriegsführung macht."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deckt ein Gebiet und dessen Nachbargebiete für 1 Runde auf"/>
+	<entry name="Storm" value="Ionensturm"/>
+	<entry name="StormDescription" value=""/>
+	<entry name="StormProperties" value=""/>
 	<entry name="Teleportation" value="Planetentor"/>
 	<entry name="TeleportationDescription" value="Planetentore werden von Laien gemeinhin als Wurmlöcher oder schwarze Löcher bezeichnet, aber es handelt sich bei ihnen um Eintrittspunkte in kleine weiße Löcher. Damit wird es jeder Einheit möglich, in Überlichtgeschwindigkeit zu einem festgelegten Ziel zu reisen."/>
 	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Teleportiert alle Einheiten vom Start- zum Zielgebiet"/>

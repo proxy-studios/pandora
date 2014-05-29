@@ -13,6 +13,7 @@
 	<entry name="AlienAggression4Hint" value="Aliens turn hostile extremely fast and are willing to travel immense distances from their home territories in order to attack. Hives hatch new xenomorphs very quickly."/>
 	<entry name="AlienAggression5" value="Random"/>
 	<entry name="AlienAggression5Hint" value="The alien aggression is determined randomly at the start of the game."/>
+	<entry name="AlliedVictory" value="Allied Victory"/>
 	<entry name="Difficulty" value="Difficulty"/>
 	<entry name="Difficulty0" value="Very Easy"/>
 	<entry name="Difficulty0Hint" value="The AI suffers a slight penalty compared to the player."/>
@@ -29,6 +30,13 @@
 	<entry name="EconomyVictory" value="Economic Victory"/>
 	<entry name="DropIn" value="Drop-In"/>
 	<entry name="DropInHint" value="Allow joining players to take over disconnected and AI players after the game has started. Normally joining players may only reconnect or take over spectator slots."/>
+	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility0" value="Friends Only"/>
+	<entry name="GameVisibility0Hint" value="Game is only joinable through friends lists, invites or direct connect."/>
+	<entry name="GameVisibility1" value="Private"/>
+	<entry name="GameVisibility1Hint" value="Game is only joinable through invites or direct connect."/>
+	<entry name="GameVisibility2" value="Public"/>
+	<entry name="GameVisibility2Hint" value="Game shows in public lists and is joinable by anyone."/>
 	<entry name="MilitaryVictory" value="Military Victory"/>
 	<entry name="Pace" value="Pace"/>
 	<entry name="Pace0" value="Quick"/>
@@ -68,19 +76,19 @@
 	<entry name="Size" value="World Size"/>
 	<entry name="Size0" value="Tiny"/>
 	<entry name="Size0Hint" value="A tiny world spans 24x24 for a total of 576 territories."/>
-	<entry name="Size0HintFactions" value="There are three landing human factions."/>
+	<entry name="Size0HintFactions" value="There are two landing human factions, for an average of about 8 cities per faction."/>
 	<entry name="Size1" value="Small"/>
 	<entry name="Size1Hint" value="A small world spans 32x32 for a total of 1024 territories."/>
-	<entry name="Size1HintFactions" value="There are five landing human factions."/>
+	<entry name="Size1HintFactions" value="There are four landing human factions, for an average of about 7 cities per faction.."/>
 	<entry name="Size2" value="Medium"/>
-	<entry name="Size2Hint" value="A medium world spans 44x44 for a total of 1936 territories."/>
-	<entry name="Size2HintFactions" value="There are six landing human factions."/>
+	<entry name="Size2Hint" value="A medium world spans 40x40 for a total of 1600 territories."/>
+	<entry name="Size2HintFactions" value="There are six landing human factions, for an average of about 8 cities per faction.."/>
 	<entry name="Size3" value="Large"/>
-	<entry name="Size3Hint" value="A large world spans 60x60 for a total of 3600 territories."/>
-	<entry name="Size3HintFactions" value="There are six landing human factions. <style color='Red'/>(Not Recommended)<style color='Default'/>"/>
+	<entry name="Size3Hint" value="A large world spans 48x48 for a total of 2304 territories."/>
+	<entry name="Size3HintFactions" value="There are six landing human factions, for an average of about 11 cities per faction."/>
 	<entry name="Size4" value="Huge"/>
-	<entry name="Size4Hint" value="A huge world spans 80x80 for a total of 6400 territories."/>
-	<entry name="Size4HintFactions" value="There are six landing human factions. <style color='Red'/>(Not Recommended)<style color='Default'/>"/>
+	<entry name="Size4Hint" value="A huge world spans 56x56 for a total of 3136 territories."/>
+	<entry name="Size4HintFactions" value="There are six landing human factions, for an average of about 15 cities per faction."/>
 	<entry name="Size5" value="Random"/>
 	<entry name="Size5Hint" value="World size is determined randomly at the start of the game."/>
 	<entry name="Size5HintFactions" value=""/>

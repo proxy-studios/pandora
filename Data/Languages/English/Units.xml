@@ -2,13 +2,34 @@
 <language>
 	<entry name="Aircraft0" value="Strike Aircraft"/>
 	<entry name="Aircraft0Description" value="<style name='Italic'/>&quot;Fight on and fly on to the last drop of blood and the last drop of fuel, to the last beat of the heart.&quot;<br/>    -- Baron Manfred von Richthofen<style name='Default'/><br/><br/>The problem of flight in Pandora's unreliable atmosphere has been solved. Gaseous fuel is ionized and fed into an acceleration chamber containing magnetic and electrical fields, where particles are propelled through the exhaust chamber by the Lorentz force. This produces an exhaust velocity of up to and beyond 10,000 meters per second, allowing smaller airborne vessels with a limited power source to evolve into fast and agile fighters."/>
-	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
 	<entry name="Aircraft1" value="Hurricane Aircraft"/>
 	<entry name="Aircraft1Description" value="The Hurricane trumps all existing aircraft, combining the evasiveness of light airborne units thanks to its groundbreaking countermeasure systems with the firepower and resilience of heavier ones."/>
-	<entry name="Aircraft1Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Aircraft1Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
 	<entry name="Aircraft2" value="Nu Aircraft"/>
 	<entry name="Aircraft2Description" value="The Nu has one huge tactical advantage compared to our current aircraft. Its geomagnetic hull allows it to travel to Pandora's thermosphere, where the dense ionization fields can be used to supercharge the ship and its weapons. Then it can strike down on enemies at frightening speeds."/>
-	<entry name="Aircraft2Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Aircraft2Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="AlienAircraft" value="Messari Aircraft"/>
+	<entry name="AlienAircraftDescription" value="These U-shaped aircraft scud across the sky like an old Earth catamaran, maneuvering impossibly across Pandora's banked clouds or flipping direction with no sign of deployed energy. If there are living creatures in these craft, they must have much higher gravitational tolerance and reactions than any human pilot."/>
+	<entry name="AlienAircraftProperties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="AlienArtillery" value="Messari Artillery"/>
+	<entry name="AlienArtilleryDescription" value="Built on a similar line to the Messari 'tank', these twin obelisks lack the focal omphalos of the 'tank'. This gives its weaponry a much greater range, but a wider dispersion, allowing it to hit multiple targets. Thankfully, this seems to reduce its lethality -- if it hits you, you're only nearly certain to die rather completely certain."/>
+	<entry name="AlienArtilleryProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit"/>
+	<entry name="AlienMech" value="Messari Mech"/>
+	<entry name="AlienMechDescription" value="We can't even tell what this thing is. The nearest analogue in terms of scale is one of our titanic mechs, but this great monolith doesn't walk -- it just floats across the landscape, like a wandering cityblock. Scraping the clouds at its summit is the most powerful of the Messari diffusion weapons, a great eye that turns jerkily from target to target. Wherever it looks, entire battlefields vanish."/>
+	<entry name="AlienMechProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment"/>
+	<entry name="AlienMothership" value="Messari Mothership"/>
+	<entry name="AlienMothershipDescription" value="This city-sized drifting disc is the ultimate expression of the Messari field technology. Unlike the shrieking rending of their other diffusion weapons, the hole at the centre of the torus is silent -- indeed, sound seems unable to escape it at all. Anything else the disc passes over simply evaporates.<br/><br/>Our only blessing is that the thing can't move any faster than a march, else we'd already have lost."/>
+	<entry name="AlienMothershipProperties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="AlienTank" value="Messari Tank"/>
+	<entry name="AlienTankDescription" value="This Messari device fills the role of a tank, acting as a heavy front line unit. It seems to be based on the same divided-obelisk base as the Artillery unit, but its greater resilience and firepower is balanced by a shorter range and less dispersed fire patterns."/>
+	<entry name="AlienTankProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit"/>
+	<entry name="AlienTransport" value="Transport"/>
+	<entry name="AlienTransportDescription" value="There must be some hard limit to how the Messari can use their portals or these transports wouldn't be necessary. Perhaps water interferes with the teleporters' action? Perhaps the portals aren't accurate enough for targeting our cities directly? Whatever the reason, these craft allow the Messari to reach any area of the planet."/>
+	<entry name="AlienTransportProperties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports land units<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
+	<entry name="AlienTrooper" value="Messari Trooper"/>
+	<entry name="AlienTrooperDescription" value="These foot-soldiers of the alien invasion look almost human -- bipedal and simian. However, given that we've never captured one alive or even managed to penetrate their armor, we can't tell if they're the aliens themselves, some servitor race, or even just a cruel mockery of the human form.<br/><br/>They might be the weakest Messari unit, but they come in their hundreds and they're still lethally effective."/>
+	<entry name="AlienTrooperProperties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>	
 	<entry name="Aspidoch" value="Aspidoch"/>
 	<entry name="AspidochDescription" value="A blue whale, on earth, can be 100 feet long and weigh as much as 170 tonnes. By comparison to Pandora's Aspidoch, though, the blue whale is a minnow. The Aspidoch could literally swallow it in a bite. Given Pandora's high gravity, such a creature can only survive in the oceans. We've only encountered one Aspidoch, so we can't tell if it's the last of a species or simply a rare apex predator -- but it's the biggest, most deadly creature we've ever encountered."/>
 	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power when defending"/>
@@ -74,7 +95,7 @@
 	<entry name="Tank2Properties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit"/>
 	<entry name="Transport" value="Transport"/>
 	<entry name="TransportDescription" value="Transports are unarmed military vessels that can ship your land troops across the water. They are extremely vulnerable to naval or air attacks, and should be protected whenever possible."/>
-	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports land units<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
+	<entry name="TransportProperties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Transports a land unit<br/><icon texture='GUI/Bullet'/>Cannot attack<br/><icon texture='GUI/Bullet'/>Cannot be produced"/>
 	<entry name="Trooper0" value="Colonial Trooper"/>
 	<entry name="Trooper0Description" value="The first line of defense in most battles and trained for a variety of combat scenarios, Colonial Troopers are the backbone of modern armies.<br/><br/><style name='Italic'/>&quot;Give me ten troopers and a week, and I will change the course of history.&quot;"/>
 	<entry name="Trooper0Properties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>
@@ -82,18 +103,18 @@
 	<entry name="Trooper1Description" value="Mobile, agile and highly armored, Assault Troopers are the soldier of the future. The reinforced full body suit can withstand a considerable onslaught, but grants the wearer quite responsive motor control.<br/><br/><style name='Italic'/>When field tested in a city warfare scenario, a young lieutenant named Wilkins, last of his squad, took out three enemy Avenger tanks by himself. The story spread like wildfire through the ranks, and &quot;pulling a Wilkins&quot; has become a synonym for bucking the odds."/>
 	<entry name="Trooper1Properties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>
 	<entry name="Trooper1Shock" value="Shock Trooper"/>
-	<entry name="Trooper1ShockDescription" value="As their name suggest, Shock Troopers are used to swing key battles, deployed to hit fast and hard before the enemy can react. Their impregnable battlesuits makes each the worth of ten normal troopers."/>
+	<entry name="Trooper1ShockDescription" value="As their name suggest, Shock Troopers are used to swing key battles, deployed to hit fast and hard before the enemy can react. Their impregnable battlesuits makes each one worth ten normal troopers."/>
 	<entry name="Trooper1ShockProperties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>
 	<entry name="Trooper2" value="Precentor Trooper"/>
 	<entry name="Trooper2Description" value="Analyzing alien technology has opened up the door to a new type of infantry clad in organic battle suits. Each suit is genetically engineered for its wearer and grants him supernatural strength, toughness and endurance."/>
 	<entry name="Trooper2Properties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>	
 	<entry name="Watercraft0" value="Barracuda Watercraft"/>
 	<entry name="Watercraft0Description" value="Electric propulsion has been brought to the waters of Pandora, enabling traversal of both lake and ocean waves. Coupled with efficient solar collectors, small skirmish gunboats can travel unlimited distances with speed and efficiency."/>
-	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Cannot capture cities"/>
+	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit"/>
 	<entry name="Watercraft1" value="Dreadnought Watercraft"/>
 	<entry name="Watercraft1Description" value="Capable of mounting two turrets, this cruiser-class watercraft is a formidable frontline fighter in sea warfare."/>
-	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Cannot capture cities"/>
+	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit"/>
 	<entry name="Watercraft2" value="Tangaroa Watercraft"/>
 	<entry name="Watercraft2Description" value="A gigantic buoyant structure able to take on most enemies without taking a single scratch, the Tangaroa moves at frightening speed and strikes with unmatched force."/>
-	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Cannot capture cities"/>
+	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Waterborne heavy mechanical unit"/>
 </language>

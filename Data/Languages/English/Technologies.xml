@@ -138,8 +138,14 @@
 	<entry name="Fungus2Description" value="Further increase the food and mineral output of fungus."/>
 	<entry name="GoldenAge" value="Golden Age"/>
 	<entry name="GoldenAgeDescription" value="Rejoice as the colony enters a new age of enlightenment and harmony."/>
-	<entry name="Growth" value="Cloning"/>
-	<entry name="GrowthDescription" value="Artificial human reproduction that can temporarily boost population growth."/>
+	<entry name="Growth" value="Eugenic Population Survey"/>
+	<entry name="GrowthDescription" value="A population survey to determine the most widespread genetic flaws."/>
+	<entry name="Growth0" value="Public Gene Therapy"/>
+	<entry name="Growth0Description" value="Mass access to gene therapy should improve population survival rates."/>
+	<entry name="Growth1" value="Mass Cloning"/>
+	<entry name="Growth1Description" value="Artificial human reproduction that boosts population growth."/>
+	<entry name="Growth2" value="Viral Personality Defenses"/>
+	<entry name="Growth2Description" value="Devices that prevent our post-human populations from breaking down into Grey Goo."/>
 	<entry name="Guerrilla" value="Guerrilla Warfare"/>
 	<entry name="GuerrillaDescription" value="New world hit and run tactics."/>
 	<entry name="Harvest" value="Remote Autonomous Harvesting"/>
