@@ -15,6 +15,10 @@
 	<entry name="CityDescription" value="Steden zijn uitgestrekte opeenhopingen van gebouwen en bieden de kolonisten zowel woonruimte alsook basale behoeften."/>
 	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor verdedigende lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> geneestempo"/>
 	<entry name="CityStats" value="<icon texture='Resources/Food'/> +1 <icon texture='Resources/Minerals'/> +1"/>
+	<entry name="Creep" value="Infectie"/>
+	<entry name="CreepDescription" value="Hoe verder de Messari oprukken, hoe meer het landschap in hun omgeving verandert. Wetenschappers uit de observatoria berichten, dat het hier gaat om een fundamentele chemische reactie - mogelijk met de schimmels in de bodem of de sporen in de lucht. Nadat de reactie plaatsgevonden heeft, schijnt de resulterende atmosfeer de Messaritroepen te versterken - wie weet is dit hun manier van terravorming?"/>
+	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effekt<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten voor Messari-grondeenheden<br/><icon texture='GUI/Bullet'/>Gebied heeft geen grondstoffen"/>
+	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="CreditsBonus0" value="Goudader"/>
 	<entry name="CreditsBonus0Description" value="Reeds lang voor het begin van de geschiedschrijving was goud op aarde reeds een waardevol en begeerd metaal. En net zoals op de planeet die onze bakermat is bijna al het toegankelijke goud op Pandora door meteorieten ingeslagen. Een goudader verhoogt het inkomen van de stad die het gebied uitbaat enorm."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
