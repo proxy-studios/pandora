@@ -16,7 +16,7 @@
 	<entry name="AllianceHint" value="Een alliantie bestaat voor minstens 10 ronden en staat het beide fracties toe wederzijds elkaars territorium te betreden en zij aan zij te strijden."/>
 	<entry name="AllianceRejected" value="(wijst alliantie af)"/>
 	<entry name="DeclareWar" value="(verklaart de oorlog)"/>
-	<entry name="DemandCreditsForDeal" value="(verlangt betaling voor Geschäft)"/>
+	<entry name="DemandCreditsForDeal" value="(verlangt betaling voor verdrag)"/>
 	<entry name="DemandPeaceOfferToThirdParty0" value="(verlangt vredesaanbod aan derde partij)"/>
 	<entry name="DemandTribute0" value="(verlangt vredesafdracht)"/>
 	<entry name="DemandWarDeclarationOnThirdParty0" value="(verlangt oorlogsverklaring aan derde partij)"/>
