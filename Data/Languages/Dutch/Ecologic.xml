@@ -100,7 +100,7 @@
 	
 	<!-- Offers gift. -->
 	<entry name="OfferGift0" value="&quot;Pandora verlangt, dat uw gedrag beloond wordt. Wilt u liever kredieten... of deze fijne meststof? Hij is biologisch, komt uit het wild en is zeer regionaal! Nee, dat is geen grap.&quot;"/>
-	<entry name="GiftAccepted0" value="&quot;Pandoras zegent u, kind der aarde. Welk geschenk heeft u voor haar?&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;Pandora zegent u, kind der aarde. Welk geschenk heeft u voor haar?&quot;"/>
 	<entry name="GiftAccepted1" value="&quot;Veel dank, uw geld is erg welkom en zal ons hoger doel, de natuur te bewaren, ten goede komen.&quot;"/>
 	<entry name="GiftRejected0" value="&quot;Dat is een net gebaar, maar ik heb er een slecht gevoel bij, als ik uw geld zou aannemen. Het spijt me!&quot;"/>
 	<entry name="GiftRejected1" value="&quot;Nee, bedankt. Ik vrees dat van dit bedrag geen van ons beiden werkelijk beter wordt...&quot;"/>
