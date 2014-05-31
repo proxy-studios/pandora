@@ -40,7 +40,7 @@
 	<entry name="18Name" value="Mondiale groei"/>
 	<entry name="19Description" value="De totale controle over Pandora kan op drie manieren berijkt worden: door mondiale hegemonie, door het overkopen van alle onafhankelijke fracties en door wetenschappelijk transcendentie. Verdere details en voortgang van deze overwinningsvoorwaarden verkrijg je bij de militaire, economische en onderzoeksknoppen aan de onderzijde van het scherm."/>
 	<entry name="19Name" value="Overwinningsvoorwaarden"/>
-	<entry name="20Description" value="In het onderzoeksvenster vindt je de willekeurig samengestelde onderzoeksboom. Met een klik op een technologie leg je vast, dat je wetenschappers zich op deze technologie concentreren. Als je de shift-toets ingedruk houdt, dan kun je een rij van technologieën maken die na elkaar onderzocht worden. Als je de musicursor boven een technologie plaatst, dan wordt daarover informatie weergegeven."/>
+	<entry name="20Description" value="In het onderzoeksvenster vindt je de willekeurig samengestelde onderzoeksboom. Met een klik op een technologie leg je vast, dat je wetenschappers zich op deze technologie concentreren. Als je de shift-toets ingedruk houdt, dan kun je een rij van technologieën makendie na elkaar onderzocht worden. Als je de musicursor boven een technologie plaatst, dan wordt daarover informatie weergegeven."/>
 	<entry name="20Name" value="Onderzoeksvenster"/>
 	<entry name="21Description" value="Om naar het stadsaanzicht over te schakelen, kun je op de naam van de stad klikken, of, als zich er geen eenheden ophouden, op de stad zelf. Bescherm je steden in ieder geval goed!"/>
 	<entry name="21Name" value="Stadsaanzicht openen"/>
@@ -50,4 +50,10 @@
 	<entry name="23Name" value="Legeraansturing"/>
 	<entry name="24Description" value="In het compedium vindt je een hele reeks aan interessante informatie over het spel. Je kunt er aanvullende informatie over de fracties, gebouwen en eenheden vinden, de hulptesten opnieuw lezen en nog veel meer."/>
 	<entry name="24Name" value="Het Compendium"/>
+	<entry name="25Description" value="Zodra je een eenheid geselecteerd hebt en de muiscursor boven een vijand plaatst, wordt gedetailleerde informatie over de aanvaller, de verdediger, de modificatoren alsook overwinningskans en verwachte slachtoffers voor het gevecht getoondt. De einheid die het effectiefst tegen de aanvaller is wordt altijd automatisch gekozen bij een aanval. Gebruik deze informatie om je voordeel te doen."/>
+	<entry name="25Name" value="Strijd"/>
+	<entry name="26Description" value="Let bijzonder op de positionering van je eenheden. Verschillende terreintypen hebben een andere uitwerking op hun gevechtsterkte. Hoewel infanterie buitengewoon geschikt is voor gevechten in bossen en gebergtes, ondervinden soldaten duidelijke nadelen in open terrein. Om een aanvullend voordeel te behalen kun je je tegenstander proberen te flankeren door eenheden er in een driehoek omheen op te stellen. Iedere verdere flankerende eenheid geeft je troepen een sterktebonus van 25%."/>
+	<entry name="26Name" value="Flankeren"/>
+	<entry name="27Description" value="Projecten geven je rijk een tijdelijk of permanent voordeel, dat na voltooing van het project in een stad direct beschikbaar is. Deze voordelen kunnen van velerlei aard zijn. Ze rijken van eenvoedige grondstofbonussen tot aanvullende eenheden ten en met geavanceerde strategieën of technologieën, die je nieuwe mogelijkheden geven en je op verschillende gebieden significante voordelen geven."/>
+	<entry name="27Name" value="Projecten"/>
 </language>
