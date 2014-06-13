@@ -92,7 +92,7 @@
 	<entry name="Eliminated" value="Uitgeroeid"/>
 	<entry name="Email" value="E-mail"/>
 	<entry name="EndTurn" value="Ronde beëindigen"/>
-	<entry name="EndTurnHint" value="Beëindig je ronde [Spate]."/>
+	<entry name="EndTurnHint" value="Beëindig je ronde [Spatie]."/>
 	<entry name="Enter" value="Selecteren"/>
 	<entry name="EnterCityHint" value="Klik, om naar het stadsoverzicht te schakelen."/>
 	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Schade"/>
