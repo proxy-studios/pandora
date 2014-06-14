@@ -49,8 +49,12 @@
 	<entry name="PraiseHint" value="Openlijke lofbetuigingen, die - indien ze geaccepteerd worden - verstandhouding van de geloofde fractie met haar vrienden verbeteren, maar de verstandhouding van de geloofde fractie met haar vijanden verslechteren.."/>
 	<entry name="RejectDenounce" value="(wijst terechtwijzing)"/>
 	<entry name="RejectOpenBorders" value="(wijst open grenzen af)"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="(wijst vredesaanbod aan derde partij af)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(wijst vredesaanbod aan derde partij af)"/>
 	<entry name="RejectPraise" value="(wijst lof af)"/>	
 	<entry name="RejectShareMap" value="(wijst delen van kaartden af)"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="(wijst oorlogsverklaring aan derde partij af)"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="(wijst oorlogsverklaring aan derde partij af)"/>
 	<entry name="ResearchPactAccepted" value="(accepteert onderzoekspact)"/>
 	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 10% van hun onderzoek per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste onderzoek het meest van zo'n pact."/>
 	<entry name="ResearchPactRejected" value="(wijst onderzoekspact af)"/>
