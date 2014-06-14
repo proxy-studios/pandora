@@ -118,6 +118,9 @@
 	<entry name="PollutionDescription" value="Een gebied wordt meestal door bijzonder sterke wapens in woestenijen veranderd. Het is daarna giftig voor alle organisch leven en produceert niet langer grondstoffen.<br/><br/>Vormers kunnen weliswaar de woestenij schoonmaken en de oorspronkelijke ecologie van het gebied herstellen, maar het is een moeilijke en langdurige onderneming."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Gebied produceert geen grondstoffen"/>
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Portal" value="Portaal"/>
+	<entry name="PortalDescription" value="Deze portalen, waardoor de Messari naar Pandora kwamen, zijn streng bewaakt. Het zijn torens van onvoorstelbare grootte - net zoals de ruïnes, die we ontdekt hebben, alleen nieuw en onbeschadigd. En bezeten door Messaritroepen."/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties"/>
 	<entry name="Purifier" value="Reinigingsinstallatie"/>
 	<entry name="PurifierDescription" value="In tegenstelling tot energieparken verbruiken reinigingsinstallaties geweldige hoeveelheden energie om de atmosfeer en oceanen van Pandora te filteren. Ze zijn kostbaar, maar reduceren onze vervuiling van de planeet drastisch."/>
 	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
