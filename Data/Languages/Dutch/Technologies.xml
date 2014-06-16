@@ -37,7 +37,7 @@
 	<entry name="Armor8" value="Xenotroniumsynapsen"/>
 	<entry name="Armor8Description" value="Men stelle zich een antimateriebepantserung voor, en slechts voor één doel &quot;leeft&quot;: om zijn drager te beschermen."/>
 	<entry name="Artillery0" value="Geleid indirect vuur"/>
-	<entry name="Artillery0Description" value="Dronenondersteunde zware wapens met grote rijkwijdte, die hele formaties troepen kan stukrafelen."/>
+	<entry name="Artillery0Description" value="Dronenondersteunde zware wapens met grote reikwijdte, die hele formaties troepen kan stukrafelen."/>
 	<entry name="Artillery1" value="Simultane meervoudige patronensalvo's"/>
 	<entry name="Artillery1Description" value="Een simultaan salvo van afgevuurde patronen, dat een groot gebied bestrijkt en slechts zeer geringe overlevingskansen geeft."/>
 	<entry name="Artillery2" value="Gravitonenpatroon"/>
@@ -140,8 +140,16 @@
 	<entry name="Fungus2Description" value="Verhoog de voedsel- en mineralenopbrengst uit schimmels verder."/>
 	<entry name="GoldenAge" value="Gouden eeuw"/>
 	<entry name="GoldenAgeDescription" value="Geniet als de kolonie een nieuw tijdperk van verlichting en harmonie in gaat."/>
-	<entry name="Growth" value="Klonen"/>
-	<entry name="GrowthDescription" value="Kunstmatige menselijke reproductie, die de bevolkingsgroei tijdelijk kan aanjagen"/>
+<!--	<entry name="Growth" value="Klonen"/>
+	<entry name="GrowthDescription" value="Kunstmatige menselijke reproductie, die de bevolkingsgroei tijdelijk kan aanjagen"/>-->
+	<entry name="Growth" value="Eugenetisch bevolkingsonderzoek"/>
+	<entry name="GrowthDescription" value="Een bevolkingsonderzoek om de meest voorkomende genetische defecten op te sporen."/>
+	<entry name="Growth0" value="Openbare gentherapie"/>
+	<entry name="Growth0Description" value="Grootschalige toegangkelijkheid van gentherapie zou de overlevingskansen van de bevolking moeten verbeteren."/>
+	<entry name="Growth1" value="Massakloning"/>
+	<entry name="Growth1Description" value="Kunstmatige menselijke reproductie, die de bevolkingsgroei tijdelijk kan aanjagen"/>
+	<entry name="Growth2" value="Bescherming tegen virale persoonlijkheden"/>
+	<entry name="Growth2Description" value="Toestellen die voorkomen dat onze postmenselijke bevolking voor het gevreesde &quot;grauwe smeer&quot; behoeden."/>
 	<entry name="Guerrilla" value="Guerillaoorlog"/>
 	<entry name="GuerrillaDescription" value="Aan de nieuwe wereld aangepaste guerillatactieken."/>
 	<entry name="Harvest" value="Afgelegen autonome ontginning"/>
@@ -235,7 +243,7 @@
 	<entry name="SightDevice" value="Geluidteruggalmexperimenten"/>
 	<entry name="SightDeviceDescription" value="Intensief onderzoek van geluidteruggalm in gasvormige omgevingen kan tot een interessante operationele verbetering leiden van de mogelijkheden leiden om vooruit te kunnen."/>
 	<entry name="Sniper0" value="Hogesnelheidsprojectielen"/>
-	<entry name="Sniper0Description" value="Ontwikkeling van een verbeterd magazijn, dat de kogels van precisiegeweren buitengewone snelheid, rijkwijdte en nauwkeurigheid geeft."/>
+	<entry name="Sniper0Description" value="Ontwikkeling van een verbeterd magazijn, dat de kogels van precisiegeweren buitengewone snelheid, reikwijdte en nauwkeurigheid geeft."/>
 	<entry name="Sniper1" value="Hoogenergetische ontladingen"/>
 	<entry name="Sniper1Description" value="Hooggeïoniseerde munitie voor scherpschuttersgeweren, die in staat is, eender welk doel uit te schakelen, dat nog niet dood of vernietigd was."/>
 	<entry name="Sniper2" value="Toegepaste kwantumverstrengeling"/>
