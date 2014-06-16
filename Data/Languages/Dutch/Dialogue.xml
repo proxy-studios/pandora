@@ -34,7 +34,7 @@
 	<entry name="NonAggressionPactAccepted" value="(accepteert niet-aanvalsverdrag)"/>
 	<entry name="NonAggressionPactHint" value="Een niet-aanvalsverdrag verhindert beide partners elkaar de oorlog te verklaren. Het opzeggen ervan leidt tot een drastisch aanziensverlies bij de andere fractie, alsook een geringer verlies bij alle fracties die met minstens één van de beiden voormalige vertragspartners contakt hebben."/>
 	<entry name="NonAggressionPactRejected" value="(wijst niet-aanvalsverdrag af)"/>
-	<entry name="OfferAlliance" value="(biedt alliantie an)"/>
+	<entry name="OfferAlliance" value="(biedt alliantie aan)"/>
 	<entry name="OfferGift0" value="(biedt geschenk aan)"/>
 	<entry name="OfferNonAggressionPact" value="(biedt niet-aanvalsverdrag aan)"/>
 	<entry name="OfferOpenBorders" value="(biedt open grenzen aan)"/>
