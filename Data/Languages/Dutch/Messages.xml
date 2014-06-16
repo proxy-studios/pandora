@@ -2,6 +2,7 @@
 <language>
 	<entry name="Authenticating" value="Bezig met authenticatie ..."/>
 	<entry name="AccountCreated" value="Rekening met succes aangemaakt."/>
+	<entry name="BetaMultiplayerBrowserGames" value="Let op dat bij een meerspelerspel betaversies van het spel gescheiden worden gehouden van de uitgegeven versies."/>
 	<entry name="ConnectionLost" value="Verbinding verbroken."/>
 	<entry name="ConnectingToServer" value="Maak verbinding met server ..."/>
 	<entry name="Countdown1" value="1 ..."/>
@@ -52,6 +53,6 @@
 	<entry name="ServerError" value="Serverfout"/>
 	<entry name="ServerInfo" value="Serverinfo"/>
 	<entry name="ServerShutDown" value="Server wordt gesloten."/>
-	<entry name="ServerUnreachable" value="Er kon geen verbinding met de server gemaakt worden."/>
+	<entry name="ServerUnreachable" value="Er kon geen verbinding met de server gemaakt worden. Let bij verbindingsproblemen op dat de hostcomputer de ingestelde TCP-poort, standaard 6121, geforward moet hebben als deze achter een NAT-router zit."/>
 	<entry name="Unknown" value="Onbekend."/>
 </language>
