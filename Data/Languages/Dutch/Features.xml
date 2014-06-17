@@ -153,6 +153,9 @@
 	<!-- <entry name="Shield" value="Shield"/> -->
 	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
 	<!-- <entry name="ShieldProperties" value="Effect"/> -->
+	<entry name="Storm" value="Ionenstorm"/>
+	<entry name="StormDescription" value="Voordat de Messari arriveren worden gebieden door zware elektromagnetische stormen beschadigd, waarbij alles dat zich er bevindt zware schade oploopt."/>
+	<entry name="StormProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Veroorzaakt 1,0 schade per ronde<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
 	<entry name="Suburb" value="Voorstad"/>
 	<entry name="SuburbDescription" value="Deze luxueuze laagbouw is ideaal voor onze arbeidersklasse, die zich na een zware dag in de mijnen of fabrieken in zijn vertrouwde huis met famillie kan terugtrekken."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
