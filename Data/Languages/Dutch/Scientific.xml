@@ -80,7 +80,7 @@
 	
 	<!-- Publicly praises dialogue partner. -->
 	<entry name="Praise" value="&quot;%5% U behoort tot de hoogontwikkelde apen. Dat bedoel ik als complient, want ik hou van apen. Ze zijn zeer geschikt... voor experimeten.&quot;"/>
-	<entry name="AcceptPraise" value="&quot;Oh, hartelijk dank. Nog een Nobelpreis zou fijn zijn.&quot;"/>
+	<entry name="AcceptPraise" value="&quot;Oh, hartelijk dank. Nog een Nobelprijs zou fijn zijn.&quot;"/>
 	<entry name="RejectPraise" value="&quot;Met een waarschijnlijkheid van 97,34%% bent u tegen ons aan het flikflooien, terwijl u iets van ons wilt. Wat ... lief!&quot;"/>
 	
 	<!-- Offers surrender. -->
@@ -127,7 +127,7 @@
 	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten. De kosten van het menselijkgenoomproject in modern geld. Is dat voldoende?&quot;"/>
 	<entry name="OfferCredits2" value="&quot;Met deze %6% <icon texture='Resources/Credits'/> kredieten wilden we eigenlijk een universeel kankermedicijn ontwikkelel en de honger uit de wereld helpen. Maar misschien doet iemand anders op deze planeet dat al. Neemt u het geld maar.&quot;"/>
 	<entry name="OfferCredits3" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten - en dat is ons gehele vermogen! Iedere quark van ieder atoom van ieder molecuul van ieder krediet.&quot;"/>
-	<entry name="AllianceAccepted" value="&quot;Ja, laten we proosten op onze gezamelijke reis in een een nieuw tijdperk! Deze whiskey heb ik zelf gemaakt, met ons grootatoomsamenvoeger.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Ja, laten we proosten op onze gezamelijke reis in een een nieuw tijdperk! Deze whiskey heb ik zelf gemaakt, met onze grootatoomsamenvoeger.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Wij zijn wetenschappers. Men verwacht van ons, dat we onpartijdig blijven!&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;Ik had werkelijk gehoopt op een langere gezamelijke reis...&quot;"/>
 	<entry name="Condemn" value="&quot;U bent een moorddadig monster! En ik voel me zelf schuldig, dat de technologie voor het van de kaart vegen van hele landen in uw handen terecht is gekomen!&quot;"/>
