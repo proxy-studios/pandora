@@ -24,6 +24,8 @@
 	<entry name="BuildRoadHint" value="Weg aanleggen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> bewegingskosten<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
 	<entry name="BuildSuburb" value="Voorstad aanleggen"/>
 	<entry name="BuildSuburbHint" value="Voorstad aanleggen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>Bouwtijd: %1% rondes"/>
+	<entry name="ClearCreep" value="Besmetting opruimen"/>
+	<entry name="ClearCreepHint" value="Besmetting opruimen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% Runden"/>
 	<entry name="ClearForest" value="Bos kappen"/>
 	<entry name="ClearForestHint" value="Bos kappen [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 	<entry name="ClearFungus" value="Schimmel opruimen"/>
