@@ -100,8 +100,8 @@
 	<entry name="MoraleBonus0Description" value="Onze kolonisten genieten van stoombaden in deze hete bronnen, waarbij ze wat afstand kunnen namen van het dagelijkse koloniale leven en geestelijk kunnen bijtanken."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
-	<entry name="Mountains" value="Gebertge"/>
-	<entry name="MountainsDescription" value="De gebertgten tronen tot een hoogte van meerdere kilometers over het laagland van Pandora uit en bieden infanterie-eenheden dankzij het ruwe terrein een natuurlijk tactisch voordeel."/>
+	<entry name="Mountains" value="Gebergte"/>
+	<entry name="MountainsDescription" value="De gebergten tronen tot een hoogte van meerdere kilometers over het laagland van Pandora uit en bieden infanterie-eenheden dankzij het ruwe terrein een natuurlijk tactisch voordeel."/>
 	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanisme eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 2"/>
 	<entry name="Ocean" value="Oceaan"/>
