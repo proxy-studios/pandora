@@ -63,4 +63,11 @@
 	<entry name="ScientificTheme" value="Wetenschappelijk"/>
 	<entry name="ScientificWelcome" value="Je bent %1% van de wetenschappelijke %2%. Jouw fractie koestert het menselijk intellect alsook academische waarden en heeft het hoogste respect voor de vrijheid van ieder individu. Weliswaar kan deze vrijheid van tijd tot tijd tot een gemis aan discipline en motivatie leiden, maar daarvoor schitteren je wetenschappers met ongeëvenaarde creativiteit en heb je de intelligentste mensen van het bekende universum onder zich."/>
 	<entry name="Sharks" value="Haaien"/>
+	<entry name="Spectator" value="Toeschouwer"/>
+	<entry name="SpectatorLeaderPrename" value=""/>
+	<entry name="SpectatorLeaderSurname" value=""/>
+	<entry name="SpectatorLeaderTitle" value="Toeschouwer"/>
+	<entry name="SpectatorProperties" value=""/>
+	<entry name="Spectator Quote" value=""/>
+	<entry name="SpectatorTheme" value=""/>
 </language>
