@@ -7,27 +7,29 @@
 	<entry name="BuildCity" value="Costruisci Città"/>
 	<entry name="BuildCityHint" value="Costruisci Città [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> all'energia difensiva contro le unità biologiche leggere<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> al tasso di guarigione<br/><icon texture='GUI/Bullet'/>Le città devono possedere almeno 2 territori<br/><icon texture='GUI/Bullet'/>Rimuove tutti i miglioramenti territoriali<br/><icon texture='GUI/Bullet'/>Impossibile costruire sulle montagne<br/><icon texture='GUI/Bullet'/>Impossibile costruire su caratteristiche territoriali speciali"/>
 	<entry name="BuildConstructionBay" value="Costruisci Baia di Costruzione"/>
-	<entry name="BuildConstructionBayHint" value="Costruisci Baia di Costruzione<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildConstructionBayHint" value="Costruisci Baia di Costruzione [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildEnergyPark" value="Costruisci Parco Energetico"/>
-	<entry name="BuildEnergyParkHint" value="Costruisci Parco Energetico<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildEnergyParkHint" value="Costruisci Parco Energetico [Y]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildFarm" value="Costruisci Fattoria"/>
 	<entry name="BuildFarmHint" value="Costruisci Fattoria [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildFieldLaboratory" value="Costruisci Laboratorio da Campo"/>
-	<entry name="BuildFieldLaboratoryHint" value="Costruisci Laboratorio da Campo<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildFieldLaboratoryHint" value="Costruisci Laboratorio da Campo [L]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildFort" value="Costruisci Fortino"/>
 	<entry name="BuildFortHint" value="Costruisci Fortino [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> all'energia delle unità difensive<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> all'energia contro le operazioni<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> al tasso di guarigione<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildMine" value="Costruisci Miniera"/>
 	<entry name="BuildMineHint" value="Costruisci Miniera [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildPurifier" value="Costruisci Purificatore"/>
-	<entry name="BuildPurifierHint" value="Costruisci Purificatore<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildPurifierHint" value="Costruisci Purificatore [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildRoad" value="Costruisci Strada"/>
 	<entry name="BuildRoadHint" value="Costruisci Strada [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>dimezza il costo di movimento<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="BuildSuburb" value="Costruisci Sobborgo"/>
-	<entry name="BuildSuburbHint" value="Costruisci Sobborgo<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildSuburbHint" value="Costruisci Sobborgo [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearCreep" value="Rimuovi Infestazione"/>
+	<entry name="ClearCreepHint" value="Rimuovi Infestazione<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="ClearForest" value="Ripulisci Foresta"/>
 	<entry name="ClearForestHint" value="Ripulisci Foresta [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="ClearFungus" value="Ripulisci Funghi"/>
-	<entry name="ClearFungusHint" value="Ripulisci Funghi [Alt+U]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearFungusHint" value="Ripulisci Funghi [Alt+N]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="ClearPollution" value="Ripulisci Deserto"/>
 	<entry name="ClearPollutionHint" value="Ripulisci Deserto [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="Deploy" value="Schiera"/>
@@ -49,9 +51,9 @@
 	<entry name="HarvestCredits" value="Raccogli Crediti"/>
 	<entry name="HarvestCreditsHint" value="Raccogli Crediti<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccoglie <icon texture='Resources/Credits'/> crediti dal territorio"/>
 	<entry name="HarvestFood" value="Raccogli Cibo"/>
-	<entry name="HarvestFoodHint" value="Raccogli Cibo<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Food'/> cibo dal territorio"/>
+	<entry name="HarvestFoodHint" value="Raccogli Cibo [Alt+F]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Food'/> cibo dal territorio"/>
 	<entry name="HarvestMinerals" value="Raccogli Minerali"/>
-	<entry name="HarvestMineralsHint" value="Raccogli Minerali<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Minerals'/> minerali dal territorio"/>
+	<entry name="HarvestMineralsHint" value="Raccogli Minerali [Alt+M]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Minerals'/> minerali dal territorio"/>
 	<entry name="HarvestResearch" value="Raccogli Ricerca"/>
 	<entry name="HarvestResearchHint" value="Raccogli Ricerca<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Research'/> ricerca dal territorio"/>
 	<entry name="Heal" value="Guarisci"/>
@@ -62,17 +64,17 @@
 	<entry name="ImproveClosestCity" value="Migliora Città più Vicina"/>
 	<entry name="ImproveClosestCityHint" value="Migliora Città più Vicina [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Migliora Ecoregione"/>
-	<entry name="ImproveEcoregionHint" value="Migliora Ecoregione [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ImproveEcoregionHint" value="Migliora Ecoregione [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="LowerTerrain" value="Abbassa Territorio"/>
-	<entry name="LowerTerrainHint" value="Abbassa Territorio<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>	
+	<entry name="LowerTerrainHint" value="Abbassa Territorio [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>	
 	<entry name="Move" value="Spostati verso"/>
 	<entry name="MoveHint" value="Spostati"/>
 	<entry name="RaiseTerrain" value="Innalza Territorio"/>
-	<entry name="RaiseTerrainHint" value="Innalza Territorio<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="RaiseTerrainHint" value="Innalza Territorio [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="Refit" value="Aggiorna"/>
 	<entry name="RefitHint" value="Aggiorna [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Modifica il design dell'unità<br/><icon texture='GUI/Bullet'/>L'unità deve trovarsi in una città controllata dal suo proprietario"/>
 	<entry name="Skip" value="Passa"/>
 	<entry name="SkipHint" value="Passa [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Passa il turno"/>
 	<entry name="WorsenEcoregion" value="Peggiora Ecoregione"/>
-	<entry name="WorsenEcoregionHint" value="Peggiora Ecoregione [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="WorsenEcoregionHint" value="Peggiora Ecoregione [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 </language>

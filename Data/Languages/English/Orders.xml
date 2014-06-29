@@ -7,27 +7,29 @@
 	<entry name="BuildCity" value="Build City"/>
 	<entry name="BuildCityHint" value="Build City [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>Cities have to be at least 2 territories apart<br/><icon texture='GUI/Bullet'/>Removes all territory improvements<br/><icon texture='GUI/Bullet'/>Cannot build on mountains<br/><icon texture='GUI/Bullet'/>Cannot build on special terrain features"/>
 	<entry name="BuildConstructionBay" value="Build Construction Bay"/>
-	<entry name="BuildConstructionBayHint" value="Build Construction Bay<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildConstructionBayHint" value="Build Construction Bay [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildEnergyPark" value="Build Energy Park"/>
-	<entry name="BuildEnergyParkHint" value="Build Energy Park<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildEnergyParkHint" value="Build Energy Park [Y]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildFarm" value="Build Farm"/>
 	<entry name="BuildFarmHint" value="Build Farm [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildFieldLaboratory" value="Build Field Laboratory"/>
-	<entry name="BuildFieldLaboratoryHint" value="Build Field Laboratory<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildFieldLaboratoryHint" value="Build Field Laboratory [L]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildFort" value="Build Fort"/>
 	<entry name="BuildFortHint" value="Build Fort [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> healing rate<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildMine" value="Build Mine"/>
 	<entry name="BuildMineHint" value="Build Mine [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildPurifier" value="Build Purifier"/>
-	<entry name="BuildPurifierHint" value="Build Purifier<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildPurifierHint" value="Build Purifier [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildRoad" value="Build Road"/>
 	<entry name="BuildRoadHint" value="Build Road [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildSuburb" value="Build Suburb"/>
-	<entry name="BuildSuburbHint" value="Build Suburb<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildSuburbHint" value="Build Suburb [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="ClearCreep" value="Clear Infestation"/>
+	<entry name="ClearCreepHint" value="Clear Infestation<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearForest" value="Clear Forest"/>
 	<entry name="ClearForestHint" value="Clear Forest [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearFungus" value="Clear Fungus"/>
-	<entry name="ClearFungusHint" value="Clear Fungus [Alt+U]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="ClearFungusHint" value="Clear Fungus [Alt+N]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearPollution" value="Clear Wasteland"/>
 	<entry name="ClearPollutionHint" value="Clear Wasteland [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="Deploy" value="Deploy"/>
@@ -49,9 +51,9 @@
 	<entry name="HarvestCredits" value="Harvest Credits"/>
 	<entry name="HarvestCreditsHint" value="Harvest Credits<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Credits'/> credits from territory"/>
 	<entry name="HarvestFood" value="Harvest Food"/>
-	<entry name="HarvestFoodHint" value="Harvest Food<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Food'/> food from territory"/>
+	<entry name="HarvestFoodHint" value="Harvest Food [Alt+F]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Food'/> food from territory"/>
 	<entry name="HarvestMinerals" value="Harvest Minerals"/>
-	<entry name="HarvestMineralsHint" value="Harvest Minerals<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Minerals'/> minerals from territory"/>
+	<entry name="HarvestMineralsHint" value="Harvest Minerals [Alt+M]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Minerals'/> minerals from territory"/>
 	<entry name="HarvestResearch" value="Harvest Research"/>
 	<entry name="HarvestResearchHint" value="Harvest Research<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Research'/> research from territory"/>
 	<entry name="Heal" value="Heal"/>
@@ -62,17 +64,17 @@
 	<entry name="ImproveClosestCity" value="Improve Closest City"/>
 	<entry name="ImproveClosestCityHint" value="Improve Closest City [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Improve Ecoregion"/>
-	<entry name="ImproveEcoregionHint" value="Improve Ecoregion [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
+	<entry name="ImproveEcoregionHint" value="Improve Ecoregion [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="LowerTerrain" value="Lower Terrain"/>
-	<entry name="LowerTerrainHint" value="Lower Terrain<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
+	<entry name="LowerTerrainHint" value="Lower Terrain [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="Move" value="Move to"/>
 	<entry name="MoveHint" value="Move"/>
 	<entry name="RaiseTerrain" value="Raise Terrain"/>
-	<entry name="RaiseTerrainHint" value="Raise Terrain<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
+	<entry name="RaiseTerrainHint" value="Raise Terrain [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="Refit" value="Refit"/>
 	<entry name="RefitHint" value="Refit [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Change unit design<br/><icon texture='GUI/Bullet'/>Unit has to be stationed in a city controlled by its player"/>
 	<entry name="Skip" value="Skip"/>
 	<entry name="SkipHint" value="Skip [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Skip this turn"/>
 	<entry name="WorsenEcoregion" value="Worsen Ecoregion"/>
-	<entry name="WorsenEcoregionHint" value="Worsen Ecoregion [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="WorsenEcoregionHint" value="Worsen Ecoregion [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 </language>

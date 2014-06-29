@@ -14,6 +14,10 @@
 	<entry name="CreditsBonus0Description" value="L'oro è stato un materiale prezioso e molto ricercato già da prima della storia scritta sulla vecchia Terra. Proprio come sul nostro antico mondo, praticamente tutto l'oro di Pandora è stato portato da meteoriti. Una vena aurea incrementa drasticamente la produzione di crediti della città che controlla il territorio."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
 	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
+	<entry name="Creep" value="Infestazione"/>
+	<entry name="CreepDescription" value="Con l'avanzamento dei Messari, il paesaggio cambia con loro. I rapporti degli scienziati che occupano gli osservatori dicono che sembrano reazioni chimiche fondamentali, che forse utilizzano i funghi del terreno, e forse anche le spore nell'aria. L'atmosfera rilasciata dopo la trasformazione sembra rinvigorire le truppe Messari; magari è la loro versione della terraformazione?"/>
+	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effetto<br/><icon texture='GUI/Bullet'/>Dimezza <icon texture='Attributes/Movement'/> il costo di movimento per le unità di terra Messari<br/><icon texture='GUI/Bullet'/>Il territorio non fornisce risorse"/>
+	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Coast" value="Costa"/>
 	<entry name="CoastDescription" value="La miscela d'acqua dolce e salata offerta dalle regioni costiere offre molti elementi nutritivi per la fauna e la flora marina e terrestre, rendendo queste zone molto ambite."/>
 	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -29,7 +33,7 @@
 	<entry name="EnergyPark" value="Parco Energetico"/>
 	<entry name="EnergyParkDescription" value="Questi spazi sono punti focali per una rete di raccolta energetica distribuita solare / eolica / marina. Qui, possiamo estrarre in sicurezza l'energia accumulata, per poi metterla sul mercato."/>
 	<entry name="EnergyParkProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
-	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +2"/>
+	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +3"/>
 	<entry name="Farm" value="Fattoria"/>
 	<entry name="FarmDescription" value="Con l'avvento dell'industrializzazione, queste enormi aree forniscono le materie prime per i nostri impianti di trattamento alimentare."/>
 	<entry name="FarmProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
@@ -52,22 +56,23 @@
 	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4  <icon texture='Resources/Morale'/> +1"/>
 	<entry name="Forest" value="Foresta"/>
 	<entry name="ForestDescription" value="Una foresta è un'area con un'alta densità di alberi. Essa funge da habitat per organismi, modulatore di flusso idrologico e conservatrice del suolo, costituendo uno dei componenti più importanti della biosfera. Le unità meccaniche faticheranno ad accedere a quest'area."/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere terrestri<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche terrestri<br/><icon texture='GUI/Bullet'/>Raddoppia <icon texture='Attributes/Movement'/> il costo di movimento"/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere terrestri<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche terrestri<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento"/>
 	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1"/>
 	<entry name="Fort" value="Fortezza"/>
 	<entry name="FortDescription" value="Massicce fortificazioni che forniscono una robusta difesa ed un bonus alla percezione per qualsiasi guarnigione. Quando viene presidiata da un'unità d'artiglieria diventa perfetta per la protezione dei confini e dei punti strategici."/>
 	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> alla potenza contro le operazioni<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> al tasso di guarigione"/>
 	<entry name="Fungus" value="Funghi"/>
 	<entry name="FungusDescription" value="Molto simili a quelli della vecchia Terra, i funghi di Pandora agiscono principalmente come simbionti per piante ed animali. Tuttavia, è stata da poco scoperta una specie macroscopica e molto aggressiva che infesta ogni tipo di forma organica, emettendo spore altamente tossiche. Sono necessarie ulteriori ricerche ma, per ora, le truppe dovrebbero prestare estrema attenzione ai territori contaminati dai funghi."/>
-	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>Infligge 0.2 danni per turno<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche<br/><icon texture='GUI/Bullet'/>Triplica <icon texture='Attributes/Movement'/> il costo di movimento"/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>Infligge 0.2 danni per turno<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento"/>
 	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Grassland" value="Prateria"/>
 	<entry name="GrasslandDescription" value="Le praterie sono aree dominate da piante erbose. Il terreno è molto ricco di sostanze nutritive, il che lo rende un ottimo candidato per l'agricoltura."/>
 	<entry name="GrasslandProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
 	<entry name="GrasslandStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
-	<entry name="Growth" value="Crescita Accelerata"/>
-	<entry name="GrowthDescription" value="Raddoppia la velocità di crescita di una città con crescita positiva."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Effetto<br/><icon texture='GUI/Bullet'/>+100% alla crescita della città"/>
+	<entry name="Growth" value="Piantagioni Sferiche"/>
+	<entry name="GrowthDescription" value="Quando i Terraformer passano, seminano il terreno di componenti di costruzione e macchine da giardinaggio. Queste macchine creano piantagioni sferiche utilizzando i materiali organici locali, per poi sigillarci all'interno vivai idroponici in cui le piante vengono seminate e fatte crescere completamente prima che l'intera struttura venga raccolta."/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
+	<entry name="GrowthStats" value="<icon texture='Resources/PositiveGrowth'/> +1  <icon texture='Resources/Credits'/> -2"/>
 	<entry name="Hills" value="Collina"/>
 	<entry name="HillsDescription" value="L'area di transizione tra montagna e pianura. Il terreno accidentato rende l'agricoltura più complicata, ma fornisce preziosi minerali."/>
 	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -97,7 +102,7 @@
 	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
 	<entry name="Mountains" value="Montagna"/>
 	<entry name="MountainsDescription" value="Dominando il territorio di Pandora da diversi chilometri d'altezza, il territorio accidentato delle montagne offre un naturale vantaggio tattico per le unità di fanteria."/>
-	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere terrestri<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche terrestri<br/><icon texture='GUI/Bullet'/>Raddoppia <icon texture='Attributes/Movement'/> il costo di movimento<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione"/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere terrestri<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche terrestri<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione"/>
 	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
 	<entry name="Ocean" value="Oceano"/>
 	<entry name="OceanDescription" value="La maggior parte della superficie di Pandora è ricoperta da oceani, i quali ospitano numerose forme di vita animali e vegetali, da quelle microscopiche a quelle incredibilmente grandi."/>
@@ -113,6 +118,9 @@
 	<entry name="PollutionDescription" value="Di solito creati da armi dal potere immenso, i terreni sterili sono tossici per la vita organica e non forniscono alcuna risorsa.<br/><br/>I Terraformer sono in grado di ripulire i rifiuti radioattivi e di ripristinare l'ecologia originaria del territorio, ma è un processo lungo e complicato."/>
 	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effetto<br/><icon texture='GUI/Bullet'/>Il territorio non fornisce alcuna risorsa"/>
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Portal" value="Portale"/>
+	<entry name="PortalDescription" value="I portali da cui provengono i Messari sono strettamente sorvegliati. Troneggiano immensamente all'orizzonte, come le rovine che abbiamo trovato, ma questi sono nuovi e luccicanti. Ed occupati da truppe Messari."/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Costruzione Aliena<br/><icon texture='GUI/Bullet'/>+150% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+300% <icon texture='Attributes/Power'/> alla potenza contro le operazioni"/>
 	<entry name="ProductionBonus0" value="Fiori di Xenite"/>
 	<entry name="ProductionBonus0Description" value="Lo Xenite è una pianta meravigliosa che, quando somministrata sotto forma di farmaco, permette al corpo umano di entrare in una sorta di trance che ne aumenta la resistenza alla fatica ed al dolore. Anche se le capacità lavorative hanno un significativo incremento, il suo utilizzo eccessivo potrebbe provocare un arresto cardiaco... il che richiede quindi un monitoraggio continuo sui lavoratori che ne fanno uso."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -148,10 +156,13 @@
 	<entry name="SeafoodBonus0" value="Zona di Pesca"/>
 	<entry name="SeafoodBonus0Description" value="Il mare, in questa zona, ospita forme di vita acquatiche commestibili in gran numero, il che semplifica notevolmente la sopravvivenza delle città vicine."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
+	<entry name="Storm" value="Tempesta Ionica"/>
+	<entry name="StormDescription" value="Dall'arrivo dei Messari, il pianeta è devastato da enormi tempeste elettromagnetiche che infliggono gravi danni a tutti i suoi abitanti."/>
+	<entry name="StormProperties" value="<icon texture='GUI/Bullet'/>Effetto<br/><icon texture='GUI/Bullet'/>Infligge 1.0 danno per turno<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> al costo di movimento"/>
 	<entry name="Suburb" value="Sobborgo"/>
 	<entry name="SuburbDescription" value="Quest'area residenziale a bassa densità è perfetta come luogo di ritiro per i nostri operai dopo una lunga giornata in fabbrica o in miniera."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2"/>
 	<entry name="Tropical" value="Zona Tropicale"/>
 	<entry name="TropicalDescription" value="Le caratteristiche distintive delle zone tropicali sono il clima caldo ed umido, la vegetazione lussureggiante ed il suolo piuttosto povero di sostanze nutritive."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>

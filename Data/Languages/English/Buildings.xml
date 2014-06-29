@@ -2,13 +2,13 @@
 <language>
 	<entry name="Academy0" value="Training Facility"/>
 	<entry name="Academy0Description" value="<style name='Italic'/>&quot;The aim of military training is not just to prepare men for battle, but to make them long for it.&quot;<br/>    -- Louis Simpson<style name='Default'/><br/><br/>The Training Facility provides our troops with thorough training in the use of all available military technologies. By the end of this boot camp, we guarantee every soldier is aching for war."/>
-	<entry name="Academy0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rank for new units"/>
+	<entry name="Academy0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for new units"/>
 	<entry name="Academy1" value="Equipment Modification"/>
 	<entry name="Academy1Description" value="War games allow our commanders to pinpoint strengths and weaknesses among the troops. Measures can subsequently be taken, such as the reorganization of regiments. Perhaps more importantly, games also lead to the modification of some vehicles and weapons to better compensate for the weaknesses, and to enhance the strengths, of their users."/>
-	<entry name="Academy1Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for new units"/>
+	<entry name="Academy1Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> rank for new units"/>
 	<entry name="Academy2" value="Gordian Database"/>
 	<entry name="Academy2Description" value="Mankind has a long history of war. Rather than accommodate the various hazards of battle by sheer improvisation, the Gordian Database provides our troops with a direct neural link to a list of historical conflicts and their known resolution, as well as various calculations based on hypothetical moves. Having the equivalent of a chess grandmaster in every recruit's head greatly tips the scales in our favor."/>
-	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> rank for new units"/>
+	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> rank for new units"/>
 	<entry name="BlackHoleBuilding" value="Black Hole Generator"/>
 	<entry name="BlackHoleBuildingDescription" value="This military application of particle accelerators produces collisions between particles with an energy of several zettaelectronvolts, focused on one single goal: the creation of macroscopic, volatile black holes. So far the results are terrifying, though the time required to build sufficient energy is a massive drawback."/>
 	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a black hole operation<br/><icon texture='GUI/Bullet'/>20 turn cooldown"/>
@@ -45,6 +45,15 @@
 	<entry name="Food2" value="Food Replicator"/>
 	<entry name="Food2Description" value="Growing plants seems inefficient at this point, since we have the technology to simply replicate food.<br/><br/>A solar-powered replicator works by rearranging subatomic particles, which are abundant everywhere in the universe, to form molecules and arrange those molecules to form objects. Since matter patterns are stored at a molecular level it is only possible to replicate objects with simple quantum structures, such as food.<br/><br/><style name='Italic'/>Some Luddites still refuse to eat replicated food, instead opting for the lengthy process of growing and preparing a meal like in the old times."/>
 	<entry name="Food2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Food'/> food from farmers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food"/>
+	<entry name="Growth0" value="Gene Therapy Clinic"/>
+	<entry name="Growth0Description" value="This clinic allows individuals to have a complete genome-test. Once flaws are identified, your genetic structure can have a spring-clean, killing off any problematic strands and inserting others to increase the growth rate, intelligence and hardiness of any resulting children."/>
+	<entry name="Growth0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+10% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth"/>
+	<entry name="Growth1" value="Replicant Factory"/>
+	<entry name="Growth1Description" value="Applying the precepts of mass-production to auxology, stem cell modification and fetal growth rate allows us to quickly and efficiently replicate our best colonists."/>
+	<entry name="Growth1Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+20% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth"/>
+	<entry name="Growth2" value="Hegemonising Nanotech Suppressor"/>
+	<entry name="Growth2Description" value="Until now, using nanotech to automatically increase our virtual population density has created breakouts of the dreaded Grey Goo -- self-replicating personalities, like tumours in the Matrix. HNS devices act as white blood cells or police in the system, hunting down incipient Goo.<br/><br/>This advancement allows us to use nanotech more freely and hugely expands synapse growth in our dominant post-physical population."/>
+	<entry name="Growth2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+40% <icon texture='Resources/PositiveGrowth'/> growth<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/PositiveGrowth'/> growth"/>
 	<entry name="Headquarters" value="Headquarters"/>
 	<entry name="HeadquartersDescription" value="The headquarters symbolizes the capital of your empire and a center of civilization. Not only will your troops fight with an iron will to hold them, they also provide some basic resources.<br/><br/>You can only have one headquarters - building another will relocate the headquarters to the new city.<br/><br/><style name='Italic'/>Nullus est instar domus."/>
 	<entry name="HeadquartersProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>One per empire<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Minerals'/> minerals<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Production'/> production<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research"/>
@@ -108,4 +117,5 @@
 	<entry name="ScanBuilding" value="Recon Satellite Uplink"/>
 	<entry name="ScanBuildingDescription" value="Even though disturbances are quite common in the ionosphere of Pandora, preventing a constant link to reconnaissance satellites, this tech allows us to communicate with them quite often and upload orders at a rather consistent pace."/>
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a satellite scan operation<br/><icon texture='GUI/Bullet'/>3 turn cooldown"/>
+	<entry name="StormBuilding" value="Ion Storm Generator"/>
 </language>

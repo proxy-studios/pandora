@@ -27,7 +27,14 @@
 	<entry name="Difficulty5" value="Zufällig"/>
 	<entry name="Difficulty5Hint" value="Der Schwierigkeitsgrad für jede aktive KI-Fraktion wird zu Beginn des Spiels zufällig festgelegt."/>
 	<entry name="EconomyVictory" value="Wirtschaftlicher Sieg"/>
-	<entry name="LateJoins" value="Verzögerter Spielbeitritt"/>
+	<entry name="GameVisibility" value="Spielsichtbarkeit"/> 
+	<entry name="GameVisibility0" value="Nur Freunde"/>
+	<entry name="GameVisibility0Hint" value="Am Spiel kann nur über Freundeslisten, auf Einladung oder durch eine direkte Verbindung teilgenommen werden."/>
+	<entry name="GameVisibility1" value="Privat"/>
+	<entry name="GameVisibility1Hint" value="Am Spiel kann nur auf Einladung oder durch eine direkte Verbindung teilgenommen werden."/>
+	<entry name="GameVisibility2" value="Öffentlich"/>
+	<entry name="GameVisibility2Hint" value="Das Spiel ist in öffentlichen Listen sichtbar und jeder kann daran teilnehmen."/>
+	<entry name="LateJoins" value="Verzögerter Spielbeitritt"/> <!-- THIS WAS RENAMED TO DropIn! USE THE SAME TERM AS IN ACHIEVEMENTS: "NEW_ACHIEVEMENT_3_28_DESC"	"Beginnen Sie eine Mehrspielerpartie mit aktivierter Einsteigen-Option." -->
 	<entry name="LateJoinsHint" value="Ermöglicht nach Spielstart beitretenden Spielern die Kontrolle über KI gesteuerte oder andere getrennte menschliche Spieler zu übernehmen. Normalerweiße können während des Spiels beitretende Spieler nur die Verbindung nach einer Trennung wiederherstellen oder einen freien Beobachterplatz einnehmen."/>
 	<entry name="MilitaryVictory" value="Militärischer Sieg"/>
 	<entry name="Pace" value="Geschwindigkeit"/>

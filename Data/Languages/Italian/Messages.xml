@@ -2,6 +2,7 @@
 <language>
 	<entry name="Authenticating" value="Autenticazione in corso..."/>
 	<entry name="AccountCreated" value="Account creato con successo."/>
+	<entry name="BetaMultiplayerBrowserGames" value="Nota che le partite beta sono separate da quelle delle versioni release."/>
 	<entry name="ConnectionLost" value="Connessione persa."/>
 	<entry name="ConnectingToServer" value="Connessione al server..."/>
 	<entry name="Countdown1" value="1 ..."/>
@@ -42,8 +43,8 @@
 	<entry name="OnlineError12" value="E-mail già utilizzata."/>
 	<entry name="PasswordsDoNotMatch" value="Le Password non corrispondono."/>
 	<entry name="PasswordTooShort" value="Password troppo corta."/>
-	<entry name="PlayerJoined" value="%1% si è unito"/>
-	<entry name="PlayerLeft" value="%1% è uscito"/>
+	<entry name="PlayerJoined" value="%1% si è unito."/>
+	<entry name="PlayerLeft" value="%1% è uscito."/>
 	<entry name="ProductKeyEmpty" value="Product Key non inserito."/>
 	<entry name="RestartRequired" value="È necessario riavviare il gioco per applicare alcune impostazioni."/>
 	<entry name="RetrievingList" value="Recupero elenco..."/>
@@ -52,6 +53,6 @@
 	<entry name="ServerError" value="Errore Server"/>
 	<entry name="ServerInfo" value="Info Server"/>
 	<entry name="ServerShutDown" value="Server spento."/>
-	<entry name="ServerUnreachable" value="Impossibile connettersi al server."/>
+	<entry name="ServerUnreachable" value="Impossibile connettersi al server. Per migliorare la connessione, assicurati che l'host abbia aperto le porte di rete (predefinita: TCP 6121)."/>
 	<entry name="Unknown" value="Sconosciuto."/>
 </language> 

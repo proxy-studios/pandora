@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Alien" value="Messari-Panzerung"/>
+	<entry name="AlienDescription" value="Die verheerenden Energien der Messari-Waffen walten in geringerem Maße auch in ihrer Panzerung. Jedes Projektil oder Energiegeschoss, das in die Nähe dieser beeindruckenden Substanz kommt, verpufft wie ein leichter Windhauch."/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>Panzerung"/>
 	<entry name="Armor0" value="Stahlpanzerung"/>
 	<entry name="Armor0Description" value="Die Panzerung aus gehärtetem Stahl erhöht zwar die Herstellungskosten, bietet dafür aber einen einfachen Schutz gegen Projektile und Sprengstoffe."/>
 	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Panzerung"/>

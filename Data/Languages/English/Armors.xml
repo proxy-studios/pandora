@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="Alien" value="Messari Carapace"/>
+	<entry name="AlienDescription" value="The hideous energies of the Messari weapons are replicated in a smaller scale in their armor. Any projectile or energy coming near to the rippling field-surface of this substance scatters like petals on a soft wind."/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>Armor"/>
 	<entry name="Armor0" value="Steel Armor"/>
 	<entry name="Armor0Description" value="Thickened 'Ironclad' steel armor provides basic protection against incoming projectiles and explosives for an increased manufacturing cost."/>
 	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Armor"/>

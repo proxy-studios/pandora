@@ -140,8 +140,14 @@
 	<entry name="Fungus2Description" value="Erhöhen Sie damit die Menge an Nahrungsmitteln und Mineralien, die Sie durch Pilze erhalten."/>
 	<entry name="GoldenAge" value="Goldenes Zeitalter"/>
 	<entry name="GoldenAgeDescription" value="Erfreuen Sie sich an der Tatsache, dass Ihre Kolonie in ein neues Zeitalter der Aufklärung und Harmonie eintritt."/>
-	<entry name="Growth" value="Klonen"/>
-	<entry name="GrowthDescription" value="Künstliche menschliche Reproduktion, die das Bevölkerungswachstum vorübergehend auf Trab bringen kann."/>
+	<entry name="Growth" value="Eugenische Bevölkerungsuntersuchung"/>
+	<entry name="GrowthDescription" value="Eine Bevölkerungsuntersuchung, um die verbreitetsten genetischen Defekte ausfindig zu machen."/>
+	<entry name="Growth0" value="Öffentliche Gentherapie"/>
+	<entry name="Growth0Description" value="Die massentaugliche Gentherapie dürfte die Lebenserwartung der Bevölkerung verbessern."/>
+	<entry name="Growth1" value="Massenklonen"/>
+	<entry name="Growth1Description" value="Künstliche menschliche Reproduktion, die das Bevölkerungswachstum vorübergehend auf Trab bringen kann."/>
+	<entry name="Growth2" value="Schutz vor viralen Persönlichkeiten"/>
+	<entry name="Growth2Description" value="Schutzmechanismen, die unsere post-humane Bevölkerung vor der gefürchteten &quot;Grauen Schmiere&quot; bewahren."/>
 	<entry name="Guerrilla" value="Guerillakrieg"/>
 	<entry name="GuerrillaDescription" value="An die neue Welt angepasste Guerillataktiken."/>
 	<entry name="Harvest" value="Autonomer Fern-Abbau"/>

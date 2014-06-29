@@ -9,7 +9,7 @@
 	<entry name="BuildConstructionBay" value="Bauhof bauen"/>
 	<entry name="BuildConstructionBayHint" value="Bauhof bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildEnergyPark" value="Energiepark bauen"/>
-	<entry name="BuildEnergyParkHint" value="Energiepark bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildEnergyParkHint" value="Energiepark bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildFarm" value="Farm bauen"/>
 	<entry name="BuildFarmHint" value="Farm bauen [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildFieldLaboratory" value="Feldlabor bauen"/>
@@ -19,11 +19,13 @@
 	<entry name="BuildMine" value="Mine bauen"/>
 	<entry name="BuildMineHint" value="Mine bauen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildPurifier" value="Reinigungsanlage bauen"/>
-	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2 <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildRoad" value="Straße bauen"/>
 	<entry name="BuildRoadHint" value="Straße bauen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> Bewegungskosten<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildSuburb" value="Vorstadt bauen"/>
-	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +1  <icon texture='Resources/Credits'/> -1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2 <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="ClearCreep" value="Verseuchung säubern"/>
+	<entry name="ClearCreepHint" value="Verseuchung säubern<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="ClearForest" value="Wald abreißen"/>
 	<entry name="ClearForestHint" value="Wald abreißen [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="ClearFungus" value="Pilze abreißen"/>

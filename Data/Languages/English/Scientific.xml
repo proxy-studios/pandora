@@ -81,7 +81,7 @@
 	<!-- Publicly praises dialogue partner. -->
 	<entry name="Praise" value="&quot;%5% You're a very advanced monkey. That was intended as a compliment. I like monkeys. Very useful for... research.&quot;"/>
 	<entry name="AcceptPraise" value="&quot;Why, thank you. Another Nobel would do nicely.&quot;"/>
-	<entry name="RejectPraise" value="&quot;There's a 97.34%% you're flattering us to get something. How... cute.&quot;"/>
+	<entry name="RejectPraise" value="&quot;There's a 97.34%% chance you're flattering us to get something. How... cute.&quot;"/>
 	
 	<!-- Offers surrender. -->
 	<entry name="OfferSurrender" value="&quot;Well, sadly, I predicted this from the start. But our master plan will come to fruition soon enough. In the meantime, we'd like to surrender to you.&quot;"/>

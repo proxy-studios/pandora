@@ -12,21 +12,22 @@
 	<entry name="EMPBeam" value="EMP Beam"/>
 	<entry name="EMPBeamDescription" value="Unleashing a concentrated electromagnetic beam disrupts all ongoing productions, affects all electronic devices and induces malfunctions in all computer systems in the area. Targeted on a colony, it creates a massive and long-lasting blackout."/>
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Causes a blackout which fully disables a city for 5 turns"/>
-	<entry name="Growth" value="Cloning Center"/>
-	<entry name="GrowthDescription" value="Applied auxology, stem cell modification and growth rate control allow us to quickly and efficiently replicate some of our colonists. This should boost population growth for a while."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> growth in a city for 10 turns"/>	
 	<entry name="NanoRobots" value="Nano Robots"/>
 	<entry name="NanoRobotsDescription" value="Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose the molecular structure of damaged or wounded units."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fully repairs all units in a territory"/>
 	<entry name="Nuke" value="Nuclear Missile"/>
 	<entry name="NukeDescription" value="Nuclear reactions release vast quantities of energy from relatively small amounts of matter. Weaponized into small nuclear devices no larger than traditional bombs it can devastate entire cities by blast, fire and radiation.<br/><br/>Delivering nuclear payloads successfully is as important and costly as producing the nuclear devices themselves. With long range ballistic missiles we are now able to deliver these weapons of mass destruction to our enemies' doorstep.<br/><br/><style name='Italic'/>Intellectuals have long been warning about a nuclear war resulting in mutually assured destruction."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 8 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland"/>
+	<entry name="Portal" value="Portal"/>
 	<entry name="Promotion" value="Field Training"/>
 	<entry name="PromotionDescription" value="A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream survive, and the gained knowledge gives them an edge in real warfare."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rank for all units in a territory below rank 5<br/><icon texture='GUI/Bullet'/>Deals 40% <icon texture='Attributes/Health'/> health damage to units ranked up"/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for units in a territory<br/><icon texture='GUI/Bullet'/>Deals 10% <icon texture='Attributes/Health'/> health damage for every rank the unit has<br/><icon texture='GUI/Bullet'/>Only affects units that would not die"/>
 	<entry name="Scan" value="Satellite Scan"/>
 	<entry name="ScanDescription" value="Orbital reconnaissance has many advantages; it is discreet, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Reveals a territory and its neighbors for 1 turn"/>
+	<entry name="Storm" value="Ion Storm"/>
+	<entry name="StormDescription" value=""/>
+	<entry name="StormProperties" value=""/>
 	<entry name="Teleportation" value="Planetary Gate"/>
 	<entry name="TeleportationDescription" value="While mostly known to laymen as wormholes, Planetary Gates are simply entrypoints into small scale white holes. Those devices allow any units to travel at superluminal speeds to a predefined point."/>
 	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Teleports all units from source to target territory"/>

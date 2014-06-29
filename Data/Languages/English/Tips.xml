@@ -4,7 +4,7 @@
 	<entry name="0Name" value="Colonizer"/>
 	<entry name="1Description" value="This unit is your first line of defense against rival factions and hostile alien species. You can either play safe by fortifying it in your city, or send it out on exploration duty by right-clicking on your destination. Exploration is risky, but can be very rewarding!"/>
 	<entry name="1Name" value="Combat Unit"/>
-	<entry name="2Description" value="A city can produce one item at a time, for example a unit or a building. In the upper right you can see your production options. By left-clicking on an option it is added to the production queue below and will begin production when the turn ends. You can reorder the production queue by dragging items up and down the queue."/>
+	<entry name="2Description" value="A city can produce one item at a time, for example a unit or a building. In the upper right you can see your production options. Left-clicking on an option will add to the production queue below. Production of the item will begin when the turn ends. You can reorder the production queue by dragging items up and down the queue."/>
 	<entry name="2Name" value="City Production"/>
 	<entry name="3Description" value="The population panel helps you focus your population into specific areas. Experiment by picking up and dropping colonists onto different tasks. You can see the reflected changes in the statistics panel just above. Being smart about colonist allocation can be the difference between a flourishing empire and a miserable one."/>
 	<entry name="3Name" value="City Population"/>
@@ -12,7 +12,7 @@
 	<entry name="4Name" value="City Purchasing"/>
 	<entry name="5Description" value="On the bottom left of the city view you can see a list of all the buildings that have been produced in the city. To sell a building, simply click on it."/>
 	<entry name="5Name" value="City Buildings"/>
-	<entry name="6Description" value="Units are built after designs, and the workshop allows you to manage and customize your designs. To create a new design, click the &quot;New&quot; button. This will duplicate the selected design and allow you to customize it without affecting the original."/>
+	<entry name="6Description" value="The workshop allows you to manage and customize your unit designs. To create a new design, click the &quot;New&quot; button. This will duplicate the selected design and allow you to customize it without affecting the original."/>
 	<entry name="6Name" value="Workshop Design Creation"/>
 	<entry name="7Description" value="Formers build terrain modifications like farms and mines, which improve the resource output of territories utilized by cities. For greater convenience you can automate Formers by pressing the &quot;Automate&quot; button in the selection panel."/>
 	<entry name="7Name" value="Former"/>
@@ -30,9 +30,9 @@
 	<entry name="13Name" value="Operation Availability"/>
 	<entry name="14Description" value="Your unit has taken damage and is injured. His power has diminished and he is more likely to die in the next fight. To heal, he must stay still and not participate in combat. You can accelerate the healing process by moving the unit to a city."/>
 	<entry name="14Name" value="Healing"/>
-	<entry name="15Description" value="Each unit can travel a certain distance each turn, indicated by its movement speed. Once it's no longer able to move or attack, the power display above the unit turns gray."/>
+	<entry name="15Description" value="Each unit can travel a certain distance each turn, indicated by its movement speed. Holding down the right mouse button when moving a unit will display how far the unit can move and what path he will take. Once the unit can no longer move or attack, the power display above him turns gray."/>
 	<entry name="15Name" value="Movement"/>
-	<entry name="16Description" value="The economy panel provides you with an overview of all your cities. Here you can conveniently change production, reallocate population and even change the global tax rate."/>
+	<entry name="16Description" value="The economy panel provides you with an overview of all your cities. Here you can conveniently change production, reallocate population and even change the global tax rate to compensate for negative morale."/>
 	<entry name="16Name" value="Economy Panel"/>
 	<entry name="17Description" value="Once you have the intended design selected, you can modify it by first choosing a class, followed by a compatible weapon, device and armor. Each unit module has its own strengths and weaknesses, and over the course of the game you will gain access to a plethora of new modules."/>
 	<entry name="17Name" value="Workshop Design Modification"/>
@@ -42,7 +42,7 @@
 	<entry name="19Name" value="Victory Conditions"/>
 	<entry name="20Description" value="The research panel presents the randomized technology tree. Clicking on a technology will select the current research to focus on, while shift-clicking will queue up the research. To find out exactly what a technology provides, hover your mouse over the individual icons."/>
 	<entry name="20Name" value="Research Panel"/>
-	<entry name="21Description" value="To open the city screen, you can click on the city name or on the city itself, if it isn't garrisoned. Make sure to protect your city at all costs!"/>
+	<entry name="21Description" value="To open the city screen, you can click on the city name or on the city itself if it isn't garrisoned. Make sure to protect your city at all costs!"/>
 	<entry name="21Name" value="Opening the City Screen"/>
 	<entry name="22Description" value="To ease empire-wide management, you can use the economy and military panels, available from the bottom of your screen. These will be invaluable tools once your empire expands over all of Pandora."/>
 	<entry name="22Name" value="Empire Management"/>
@@ -50,8 +50,12 @@
 	<entry name="23Name" value="Army Control"/>
 	<entry name="24Description" value="The Compendium stores a collection of useful game information. You can read up on factions, buildings, units, re-read tips and more."/>
 	<entry name="24Name" value="Compendium Panel"/>
-	<!-- <entry name="25Description" value=""/>
-	<entry name="25Name" value="Sight"/>
-	<entry name="26Description" value=""/>
-	<entry name="26Name" value="Flanking"/> -->
+	<entry name="25Description" value="Hovering the cursor over enemies with a unit selected will display important information about the attacker, defender, their modifiers, as well as the odds and expected casualties for the battle. The defending unit is always chosen to be the one that does the best against the attacker. Use all of this information to your advantage."/>
+	<entry name="25Name" value="Combat"/>
+	<entry name="26Description" value="Pay special attention to the positioning of your units. Different terrain will affect them in different ways. While infantry excells in forest and mountain skirmishes, they don't do very well on the open plains. To gain an additional advantage, consider flanking your opponents by forming a triangle around them. Each flanking unit will give you an additional 25% power bonus."/>
+	<entry name="26Name" value="Flanking"/>
+	<entry name="27Description" value="Projects provide either a temporary or permanent benefit for your whole empire once they are completed in any of your cities. The range of those benefits varies greatly. From simple one-time resource gains and bonus units to advanced technologies and strategies that unlock new possibilities and can provide significant advantages in a variety of sectors."/>
+	<entry name="27Name" value="Projects"/>
+<!-- <entry name="28Description" value=""/>
+	<entry name="28Name" value="Sight"/> -->
 </language>

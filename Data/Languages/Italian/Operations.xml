@@ -12,21 +12,22 @@
 	<entry name="EMPBeam" value="Raggio IEM"/>
 	<entry name="EMPBeamDescription" value="Rilascia un raggio elettromagnetico concentrato che sconvolge tutte le produzioni in corso, influenza tutte i dispositivi elettronici ed induce malfunzionamenti a tutti i sistemi computerizzati dell'area. Utilizzato su una colonia, crea un blackout completo e prolungato."/>
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Causa un blackout che inabilita completamente una città per 5 turni"/>
-	<entry name="Growth" value="Centro di Clonazione"/>
-	<entry name="GrowthDescription" value="Auxologia applicata, applicazioni di cellule staminali e controllo del tasso di crescita, permettono di replicare velocemente ed efficacemente alcuni dei nostri coloni. Dovrebbe aumentare la crescita di popolazione per un po'."/>
-	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> alla crescita di una città per 10 turni"/>	
 	<entry name="NanoRobots" value="Nano Robot"/>
 	<entry name="NanoRobotsDescription" value="Dei robot microscopici possono essere programmati per eseguire compiti particolari, come nano-medicina e micro riparazioni, sacrificando parte della loro stessa struttura come parte integrante del processo di ricomposizione molecolare delle unità ferite o danneggiate."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Ripara completamente tutte le unità presenti in un territorio"/>
 	<entry name="Nuke" value="Missile Nucleare"/>
 	<entry name="NukeDescription" value="Le reazioni nucleari rilasciano un'enorme energia distruttiva da una quantità di materia relativamente modesta. Non più grandi delle tradizionali bombe, possono devastare intere città con esplosioni, fuoco e radiazioni.<br/><br/>Lo spostamento delle testate nucleari è importante e costoso quasi quanto produrle. Tramite missili balistici a lungo raggio ora siamo in grado di consegnare queste armi di distruzione di massa direttamente sulla soglia del nostro nemico.<br/><br/><style name='Italic'/>Gli intellettuali da tempo avvertono delle devastanti conseguenze che deriverebbero da una guerra nucleare."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Infligge 8 <icon texture='Attributes/Power'/> danni a tutte le unità e la popolazione presenti in un territorio<br/><icon texture='GUI/Bullet'/>Ignora le armi delle unità coinvolte<br/><icon texture='GUI/Bullet'/>Distrugge le caratteristiche territoriali<br/><icon texture='GUI/Bullet'/>Crea terreni sterili"/>
+	<entry name="Portal" value="Portale"/>
 	<entry name="Promotion" value="Campi d'Addestramento"/>
 	<entry name="PromotionDescription" value="Una variante brutale dei giochi di guerra, nei Campi d'Addestramento si utilizzano vere munizioni. Sono noti per aver traumatizzato o paralizzato più di un soldato. Solo i migliori sopravvivono, e le conoscenze acquisite permettono loro di eccellere in una vera guerra."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> al livello per tutte le unità di rango minore al 5 presenti in un territorio<br/><icon texture='GUI/Bullet'/>Infligge il 40% <icon texture='Attributes/Health'/> di danno alle unità che passano di livello"/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> al livello per le unità presenti in un territorio<br/><icon texture='GUI/Bullet'/>Infligge il 10% <icon texture='Attributes/Health'/> di danno per ogni livello che le unità possiedono<br/><icon texture='GUI/Bullet'/>Influenza solo le unità che non morirebbero nel processo"/>
 	<entry name="Scan" value="Scansioni Satellitari"/>
 	<entry name="ScanDescription" value="La ricognizione orbitale possiede molti vantaggi; è discreta, efficiente, precisa ed onnipresente. L'ultima generazione di satelliti ricognitori è in grado di spiare un'ampia zona, rendendoli uno strumento indispensabile per lo spionaggio e la guerra."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Rivelano un territorio e quelli vicini per 1 turno"/>
+	<entry name="Storm" value="Tempesta Ionica"/>
+	<entry name="StormDescription" value="Dall'arrivo dei Messari, il pianeta è devastato da enormi tempeste elettromagnetiche che infliggono gravi danni a tutti i suoi abitanti."/>
+	<entry name="StormProperties" value=""/>
 	<entry name="Teleportation" value="Portale Planetario"/>
 	<entry name="TeleportationDescription" value="Anche chiamati 'Whormhole' dai profani, i Portali Planetari sono semplicemente degli ingressi che portano all'interno di piccoli buchi bianchi. Questi dispositivi permettono ad ogni unità di viaggiare a velocità super-luce fino ad un luogo prestabilito."/>
 	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Teletrasporta tutte le unità da un territorio ad un altro"/>
