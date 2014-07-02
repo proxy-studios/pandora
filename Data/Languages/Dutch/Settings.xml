@@ -65,7 +65,7 @@
 	<entry name="ResetTips" value="Tips terugzetten"/>
 	<entry name="ResetTipsHint" value="Zet de tips terug, zodat ze opnieuw getoond worden."/>
 	<entry name="Resolution" value="Resolutie"/>
-	<entry name="ResolutionHint" value="Legt die Auflösung fest, in der das Spiel angezeigt wird. Eine höhere Auflösung verbessert die Darstellungsqualität, wirkt sich aber teilweise stark auf die Performance aus."/>
+	<entry name="ResolutionHint" value="Stelt de resolutie in waarin het spel getoond wordt. Een hogere resolutie verbetert de weergavekwaliteit, maar verhoogt de belasting die het spel legt op de processor en videokaart, waardoor er minder beelden per seconden getoond kunnen worden."/>
 	<entry name="ServerPort" value="Serverpoort"/>
 	<entry name="ServerPortHint" value="De TCP-poort bij het hosten van meerspelerpartijen. Er worden geen andere poorten gebruikt. De waarde 0 zorgt ervoor, dat automatisch een vrij poort gekozen wordt.<br/><br/><style color='Yellow'/>Als je meerspelerpartijen host, moet je een overeenkomstige poortforward op je router instellen, zodat andere spelers direct met je partij kunnen verbinden."/>
 	<entry name="ShadowQuality" value="Schaduwkwaliteit"/>
