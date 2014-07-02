@@ -30,7 +30,7 @@
 *	Beeldscherm: 1024x720
 *	Randapparatuur: Toetsenbord en muis
 
-1.2	Recommended System Requirements
+1.2	Aanbevolen systeemeisen
 --------------------------------------------------------------------------------
 
 *	Besturingssysteem: Windows 7, Mac OS X 10.8, of Linux
