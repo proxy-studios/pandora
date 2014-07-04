@@ -2,13 +2,13 @@
 <language>
 	<entry name="Academy0" value="Trainingsfaciliteit"/>
 	<entry name="Academy0Description" value="<style name='Italic'/>&quot;Het doel van de millitaire training is niet enkel het voorbereiden van de mannen op het gevecht, maar ook om ervoor te zorgen, dat ze er naar smachten.&quot;<br/> - Louis Simpson<style name='Default'/><br/><br/>In de trainingsfaciliteit worden onze troepen grondig voor de inzet in gevechten en de omgang met allerhande technologiën voorbereid."/>
-	<entry name="Academy0Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
+	<entry name="Academy0Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
 	<entry name="Academy1" value="Uitrustingsaanpassing"/>
 	<entry name="Academy1Description" value="Gevechtssimulaties maken het mogelijk om de sterktes en zwaktes van de troepen vast te stellen. Daarna kunnen passende maatregelen genomen worden zoals bijvoorbeeld omgroeperingen van regimenten. Misschien nog belangrijker is het, dat zulke simuaties tot wijzigingen aan voertuigen en wapens kunnen leiden, waarmee de zwaktes van de soldaten gecompenseerd en hun sterkte punten verder verbeterd worden."/>
-	<entry name="Academy1Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
+	<entry name="Academy1Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
 	<entry name="Academy2" value="Gordische databank"/>
 	<entry name="Academy2Description" value="De geschiedenis van de mensheid wordt getekend door talrijk oorlogen. Opdat onze troepen voor het pareren van de gevaren van het gevecht niet keer op keer opnieuw moeten improviseren, stelt de Gordische databank doormiddel van een directe neurale verbinding een lijst van alle belangrijke gevechten uit het verleden ter beschikking, inclusief hun afloop en verscheidene berekeningen op basis van hypothetische acties. Dit levert ons een enorm voordeel op in gevechtsituaties."/>
-	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
+	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
 	<entry name="BlackHoleBuilding" value="Zwartgatgenerator"/>
 	<entry name="BlackHoleBuildingDescription" value="Deze militaire deeltjesversneller zorgt voor botsingen tussen deeltjes van meerdere zetta-elektronvolt. Dit dient slechts voor een enkel doel: Het schappen van macroscopische, vluchtige zwarte gaten. Tot dusverre zijn de resulaten overweldigend, hoewel de benodigde tijd om voldoende energie op te wekken een flink nadeel vormt."/>
 	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Wekt een zwart gat op<br/><icon texture='GUI/Bullet'/>20 rondes afkoeltijd"/>
