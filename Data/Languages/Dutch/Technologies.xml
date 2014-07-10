@@ -207,7 +207,7 @@
 	<entry name="Pollution1" value="Luchtrecyclage"/>
 	<entry name="Pollution1Description" value="Vermindering van de luchtvervuiling door de lucht op de planeet te reinigen."/>
 	<entry name="Pollution2" value="Kunstmatige atmosfeer"/>
-	<entry name="Pollution2Description" value="Bearbeiten Sie die Atmosphäre, um aus den vorliegenden Daten eine stabilere Biosphäre zu erschaffen."/>
+	<entry name="Pollution2Description" value="Bewerk de atmosfeer om uit de onderhavige gegevens een stabielere atmosfeer te creëren."/>
 	<entry name="Population" value="Verfijnde stadsplanning"/>
 	<entry name="PopulationDescription" value="Optimaliseer het ruimtegebruik in koloniën."/>
 	<entry name="Population0" value="Modulair wonen"/>
