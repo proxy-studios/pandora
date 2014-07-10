@@ -11,7 +11,7 @@
 	<entry name="AutoCycleUnits" value="Automatisch eenheden aflopen"/>
 	<entry name="AutoCycleUnitsHint" value="Er wordt automatisch naar de volgende eenheid geschakeld."/>
 	<entry name="Automation" value="Automatisering"/>
-	<entry name="AutoSave" value="Autom. opslaan"/>
+	<entry name="AutoSave" value="Automatisch opslaan"/>
 	<entry name="AutoSaveHint" value="Slaat het spel automatisch op aan het begin van iedere ronde."/>
 	<entry name="CutsceneVolume" value="Volume tussenscènes"/>
 	<entry name="CutsceneVolumeHint" value="Stelt de geluidsterkte voor tussenscènes in."/>
