@@ -57,9 +57,12 @@ download installeert, dubbelklik dan op het installatiearchiefbestand, daarna op
 het bestand dat in het archief wordt getoond. Volg alle instructies op het scherm
 om de installatie te voltooien.
 
-Please use the Add/Remove Programs option from the Windows Control Panel or the
-Uninstall shortcut in the games Windows START menu folder to uninstall the game.
-Uninstalling through any other method will not properly uninstall the game.
+Gebruik alsjeblieft de optie "Software" in het configuratiescherm van Windows of
+de deinstallatiesnelkoppeling in de folder van het spel in het startmenu van
+Windows om het spel te deinstalleren. Iedere andere methode van deinstallatie
+zal het spel niet goed van je systeem verwijderen. Het kan zijn dat het na de-
+installatie nodig is om handmatig enkele bestanden te verwijderen die achter-
+gebleven zijn in de installatiedirectory.
 
 2.2	Mac OS X
 --------------------------------------------------------------------------------
@@ -102,16 +105,29 @@ Gebruikersdata zoals opgeslagen spellen, schermfoto's, configuratie- en log-
 bestanden worden opgeslagen op de volgende locaties:
 
 *	Windows Vista/7:
-	"C:\Gebruikers\<user>\AppData\Roaming\Proxy Studios\Pandora\"
+	"%APPDATA%\<gebruiker>\AppData\Roaming\Proxy Studios\Pandora\"
 
 *	Windows XP:
-	"C:\Documents and Settings\<user>\Application Data\Proxy Studios\Pandora\"
+	"%APPDATA%\<gebruiker>\Application Data\Proxy Studios\Pandora\"
 
 *	Mac OS X:
-	"/Users/<user>/Library/Application Support/Proxy Studios/Pandora/"
+	"/Users/<gebruiker>/Library/Application Support/Proxy Studios/Pandora/"
 
 *	Linux:
-	"/home/<user>/.config/Proxy Studios/Pandora/"
+	"/home/<gebruiker>/.config/Proxy Studios/Pandora/"
+
+De Steam-versie slaat opgeslagen spellen op een afwijkende locatie op om de
+Steam-cloud te ondersteunen.
+
+* Steam:
+ "<installatiedirectory>/cache/cloud/"
+
+Vanwege beperkingen bij he syncen tussen verschillende platformen, vereist de
+Steam-cloud dat alle bestands- en directorynamen volledig in kleine letters
+geschreven zijn. Indien men hier niet aan voldoet kan het gebeuren dat de Steam-
+cloud niet goed functioneert en kunnen alle bestanden uit de cloud gewist worden.
+Wees alsjeblieft erg voorzichtig op hoofdlettergevoelige bestandsystemen zoals
+je ze normaliter onder Linux vindt.
 
 4	Modden
 ================================================================================
@@ -132,7 +148,7 @@ equivalenten.
 --------------------------------------------------------------------------------
 
 Verzeker je ervan dat je de recentste videodrivers die beschikbaar zijn voor
-je videokaart geïnstalleerd als je problemen hebt om het spel te starten. Dit
+je videokaart geinstalleerd als je problemen hebt om het spel te starten. Dit
 komt in het bijzonder voor bij laptops met verouderde door de laptopfabrikant
 geselecteerde drivers.
 
@@ -180,7 +196,7 @@ opdat het toekomstige spelinstallaties en -actualisaties niet langer dwarszit.
 Als je problemen ondervindt bij het draaien van Pandora, dan kan je op verschil-
 lende manieren contact met ons opnemen.
 
-Voordat je contact opneemt, wees voorbereid. Om je zo efficiënt als mogelijk te
+Voordat je contact opneemt, wees voorbereid. Om je zo efficient als mogelijk te
 kunnen assisteren, verzoeken we je de omstandigheden duidelijk te omschrijven en
 alle logbestanden van het spel bij te voegen, en, indien van toepassing ook een
 opgeslagen spel. Deze worden bewaard in de gebruikersdatadirectory die hierboven
@@ -211,8 +227,8 @@ F4						Militair paneel
 F5						Onderzoekspaneel
 F6						Werkplaatspaneel
 F7						Gebeurtenissenpaneel
-F11						Snel opslaan
-F12						Snel laden
+F9						Snel opslaan
+F10						Snel laden
 PrtScr					Maak een JPG-schermfoto
 Shift+PrtScr			Maak een JPG-schermfoto zonder HUD
 Alt+PrtScr				Maak een PNG-schermfoto
@@ -267,18 +283,25 @@ Alt+R					Weg vernietigen
 
 A						Automatiseer
 B						Bouw stad
+C						Bouw bouwplaats
+D						Bouw energiepark
 F						Bouw boerderij
 O						Bouw fort
+L						Bouw veldlaboratorium
 M						Bouw mijn
+P						Bouw reinigingsinstallatie
 R						Bouw weg
+U						Bouw voorstad
 Alt+T					Bos kappen
 Alt+U					Schimmel opruimen
 Alt+W					Woestenij opruimen
 T						Bos aanplanten
-U						Schimmel aanplanten
+N						Schimmel aanplanten
 Alt+A					Verbeter dichtstbijzijnde stad
-C						Verbeter ecoregio
-Alt+C					Verslechter ecoregio
+K						Verbeter ecoregio
+Alt+I					Terrein verlagen
+I						Terrein verhogen
+Alt+K					Verslechter ecoregio
 
 8	Commando's
 ================================================================================

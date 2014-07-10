@@ -28,7 +28,7 @@
 	<entry name="Portal4" value="Portaal"/>
 	<entry name="Promotion" value="Veldtraining"/>
 	<entry name="PromotionDescription" value="De veldtraining is een hardere vorm van de gevechtsimulatie en wordt met scherpe munitie doorlopen. Vele soldaten houden er blijvend letsel aan over, of raken getraumatiseerd - of beiden. Enkel de besten overleven deze training en de kennis die ze daarbij opdoen, levert ze tijdens een echte oorlog een duidelijk voordeel op."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rang voor eenheden in een gebied<br/><icon texture='GUI/Bullet'/>bevorderde eenheden verliezen 40% <icon texture='Attributes/Health'/> gezondheid"/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rang voor alle eenheden in een gebied<br/><icon texture='GUI/Bullet'/>bevorderde eenheden verliezen 20% <icon texture='Attributes/Health'/> gezondheid<icon texture='GUI/Bullet'/>Verhoogt de <icon texture='Attributes/Rank'/> rang niet boven 10<br/><icon texture='GUI/Bullet'/>Heeft geen effect op eenheden die zouden sterven"/>
 	<entry name="Scan" value="Satellietscan"/>
 	<entry name="ScanDescription" value="De satellietscan kent veel voordelen: Hij is discreet, efficiënt, precies en omvattend. De nieuwste generatie spionagesatellieten kunnen een zeer groot bereik afdekken, wat ze tot een onontbeerlijk stuk gereeschap in de spionage en oologsvoering maakt."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Onthult een gebied en de omliggende gebieden voor 1 ronde"/>

@@ -55,4 +55,5 @@
 	<entry name="ServerShutDown" value="Server wordt gesloten."/>
 	<entry name="ServerUnreachable" value="Er kon geen verbinding met de server gemaakt worden. Let bij verbindingsproblemen op dat de hostcomputer de ingestelde TCP-poort, standaard 6121, geforward moet hebben als deze achter een NAT-router zit."/>
 	<entry name="Unknown" value="Onbekend."/>
+	<entry name="VictoryAchievements" value="Overwinningsprestaties kunnen alleen ontgrendeld worden in éénspelerspellen die gestart zijn vanuit het paneel 'Nieuw spel'."/>
 </language>

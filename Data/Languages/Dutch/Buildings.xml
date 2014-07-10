@@ -11,10 +11,10 @@
 	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> rang voor nieuwe eenheden"/>
 	<entry name="BlackHoleBuilding" value="Zwartgatgenerator"/>
 	<entry name="BlackHoleBuildingDescription" value="Deze militaire deeltjesversneller zorgt voor botsingen tussen deeltjes van meerdere zetta-elektronvolt. Dit dient slechts voor een enkel doel: Het schappen van macroscopische, vluchtige zwarte gaten. Tot dusverre zijn de resulaten overweldigend, hoewel de benodigde tijd om voldoende energie op te wekken een flink nadeel vormt."/>
-	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Wekt een zwart gat op<br/><icon texture='GUI/Bullet'/>20 rondes afkoeltijd"/>
+	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Wekt een zwart gat op<br/><icon texture='GUI/Bullet'/>16 rondes afkoeltijd"/>
 	<entry name="BombardmentBuilding" value="Uplink voor ruimtebombardement"/>
 	<entry name="BombardmentBuildingDescription" value="En snelle en betrouwbare uplink naar de ruimte voor doelwitaanwijzing is vaak een uitdaging, als het om bewegende doelen gaat. Dit uplinksysteem omvat foutcorrectie- en voorspellingsmodules, om tijdige tactische bombardering van gewenste doelen mogelijk te maken."/>
-	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Activeert een ruimtebombardement<br/><icon texture='GUI/Bullet'/>5 rondes afkoeltijd"/>
+	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Activeert een ruimtebombardement<br/><icon texture='GUI/Bullet'/>4 rondes afkoeltijd"/>
 	<entry name="Credits0" value="Effectenbeurs"/>
 	<entry name="Credits0Description" value="Een effectenbeurs biedt een georganiseerde markt voor de koop en verkoop van effecten binnen vastgestelde regels en voorschriften. Dit is essentieel voor het soepel en ordentelijk functioneren van de ondernemingssector in een vrije markteconomie.<br/><br/><style name='Italic'/>Een effectenbeurs moet niet verworden tot een puur speculatieoord of gokpaleis. Het moet vooral dienen als een plek voor veilige en winstgevende investerigen."/>
 	<entry name="Credits0Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Credits'/> kredieten door belasting<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> kredieten"/>
@@ -36,7 +36,7 @@
 	<entry name="Defense2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+400% <icon texture='Attributes/Power'/> sterkte tegen operaties"/>
 	<entry name="EMPBeamBuilding" value="EMP-satellietverbinding"/>
 	<entry name="EMPBeamBuildingDescription" value="De EMP-satelliet verzamelt de energie van zonne-uitbarstingen en kan een deel daarvan in de vorm van hoogenergetische geconcentreerde stralen naar het planeetoppervlak omleiden. Hiermee kan de verdediging van de tegenstander uitgeschakeld worden en zijn productie verstoord worden."/>
-	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Activeert een EMP-straal<br/><icon texture='GUI/Bullet'/>10 rondes afkoeltijd"/>
+	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Activeert een EMP-straal<br/><icon texture='GUI/Bullet'/>8 rondes afkoeltijd"/>
 	<entry name="Food0" value="Landbouwfaciliteit"/>
 	<entry name="Food0Description" value="Pandora herbergt net zoals onze oude aarde een veelvoud aan ecoregio's - zoals bijvoorbeel de ijslandschappen aan de polen of we wijde woestijnen en wilde regenwouden aan de evenaar. Gegeven dat in nieuwe koloniën de productie van voedingsmiddelen tot de belangrijkste aspecten behoort, wordt in landbouwfaciliteiten kunstmest gemaakt, waarmee zelfs onder de zwaarste klimaatomstandigheden en op onvruchtbare bodem landbouw mogelijk wordt."/>
 	<entry name="Food0Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Food'/> voeding door boeren<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> voeding"/>
@@ -78,7 +78,7 @@
 	<entry name="Morale2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> moraal"/>
 	<entry name="NukeBuilding" value="Raketlanceercontrolecentrum"/>
 	<entry name="NukeBuildingDescription" value="Het hoofdcontrolecentrum voor ballistische raketten. In het controlecentrum kan het rakettenteam de rakettensilo's bewaken, de raketten starten of in de woonruimtes ontspannen."/>
-	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Stelt een nucleaire raket ter beschikking<br/><icon texture='GUI/Bullet'/>10 rondes afkoeltijd"/>
+	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Stelt een nucleaire raket ter beschikking<br/><icon texture='GUI/Bullet'/>8 rondes afkoeltijd"/>
 	<entry name="Pollution0" value="Milieuverbeteringsinstallatie"/>
 	<entry name="Pollution0Description" value="De oude aarde bevond zich in een ernstige toestand. Nadat grote delen van de ozonlaag vernietigd waren en het landschap door oorlogen en nucleaire vervuiling getekend was, trokken onze voorvaderen zich terug in een handvol megasteden. Deze boden leefruimte voor miljarden mensen, die vertwijfeld voor een steeds bedreigender wordend millieu probeerden te vluchten.<br/><br/>Talloze wetenschappers en ecologen hameren er sedertdien op, dat zo'n ecologische neergang ons niet nog eens mag overkomen. En deze nieuwe geautomatiseerde recyclagetechnologiën vormen een stap in de goede richting."/>
 	<entry name="Pollution0Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> milieuvervuiling"/>
@@ -118,5 +118,5 @@
 	<entry name="Research2Properties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Research'/> onderzoek door wetenschappers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> onderzoek"/>
 	<entry name="ScanBuilding" value="Spionagesatellietverbinding"/>
 	<entry name="ScanBuildingDescription" value="Ook als het in de ionosfeer van Pandora tot hevige turbulentie komt, die een permanente verbinding met spionagesatellieten verhinderen, kunnen we relatief vaak met hen communiceren en commando's met redelijk constante snelheid opstralen."/>
-	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Maakt een satellietscan beschikbaar<br/><icon texture='GUI/Bullet'/>3 rondes afkoeltijd"/>
+	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Maakt een satellietscan beschikbaar<br/><icon texture='GUI/Bullet'/>2 rondes afkoeltijd"/>
 </language>
