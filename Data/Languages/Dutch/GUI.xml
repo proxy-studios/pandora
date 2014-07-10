@@ -50,7 +50,7 @@
 	<entry name="Credits" value="Kredieten"/>
 	<entry name="CreditsHint" value="Kredieten<br/>Je geldvermogen. Daarmee kan je goederen kopen en onderhouds- danwel instandhoudingskosten betalen. Zonder kredieten zullen je eenheden en gebouwen ontbonden en afgebroken worden."/>
 	<entry name="CurrentResearchHint" value="Actueel onderzochte technologie. Klikken om te veranderen."/>
-	<entry name="Date" value="%1% %2% N.C."/>
+	<entry name="Date" value="%1% %2% n.C."/>
 	<entry name="DEFEAT!" value="VERLOREN!"/>
 	<entry name="Delete" value="Verwijderen"/>
 	<entry name="DeleteSavedGameTitle" value="Spelstand verwijderen"/>
