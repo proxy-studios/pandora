@@ -48,7 +48,7 @@
 	<entry name="CreateAccount" value="Rekening aanmaken"/>
 	<entry name="CreateAccountPrompt" value="Geef alsjeblieft de benodigde gegevens in:"/>
 	<entry name="Credits" value="Kredieten"/>
-	<entry name="CreditsHint" value="Kredieten<br/>Je geldvermogen. Daarmee kan je goederen kopen en onderhouds- danwel instandhoudingskosten betalen. Zonder kredieten zullen je eenheden en gebouwed ontbonden en afgebroken worden."/>
+	<entry name="CreditsHint" value="Kredieten<br/>Je geldvermogen. Daarmee kan je goederen kopen en onderhouds- danwel instandhoudingskosten betalen. Zonder kredieten zullen je eenheden en gebouwen ontbonden en afgebroken worden."/>
 	<entry name="CurrentResearchHint" value="Actueel onderzochte technologie. Klikken om te veranderen."/>
 	<entry name="Date" value="%1% %2% N.C."/>
 	<entry name="DEFEAT!" value="VERLOREN!"/>
@@ -321,7 +321,7 @@
 	<entry name="Sell" value="Verkopen"/>
 	<entry name="SellBuildingTitle" value="Gebouwen verkopen"/>
 	<entry name="SellBuildingMessage" value="Weet je zeker, dat je het gebouw &quot;%1%&quot; voor %2% <icon texture='Resources/Credits'/> kredieten wilt verkopen?"/>
-	<entry name="SetTerritoryToAcquire" value="Wählen Sie dieses Gebiet aus, um es als Nächstes einzunehmen, wenn die Bevölkering die nötige Größe <style color='Gray'/>(%1%)<style name='Default'/> erreicht <style color='Gray'/>(%2% Runden)<style name='Default'/>."/>
+	<entry name="SetTerritoryToAcquire" value="Selecteer dit gebied om het volgende te maken wat bemachtigd zal worden, op het moment dat de bevolking de benodigde omvang <style color='Gray'/>(%1%)<style name='Default'/> zal bereiken <style color='Gray'/>(%2% rondes)<style name='Default'/>."/>
 	<entry name="Score0" value="Geen"/>
 	<entry name="Score1" value="Zeer zwak"/>
 	<entry name="Score2" value="Zwak"/>
