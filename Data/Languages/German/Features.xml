@@ -120,7 +120,7 @@
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Portal" value="Portal"/>
 	<entry name="PortalDescription" value="Diese Portale, durch die die Messari nach Pandora kamen, sind streng bewacht. Es sind Türme von unfassbarer Größe - ganz wie die Ruinen, die wir entdeckt haben, nur neu und unversehrt. Und besetzt von Messari-Truppen."/>
-	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien-Konstruktion<br/><icon texture='GUI/Bullet'/>+150% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>+300% <icon texture='Attributes/Power'/> Stärke gegen Operationen"/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien-Konstruktion<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> Stärke gegen Operationen"/>
 	<entry name="ProductionBonus0" value="Xenith-Blumen"/>
 	<entry name="ProductionBonus0Description" value="Xenith ist eine wundersame Pflanze, die eingenommen als Droge den menschlichen Körper in eine Art Trancezustand versetzt, in dem er nicht ermüdet und schmerzunempfindlich ist. Damit wird zwar die Arbeitskraft einer Person deutlich erhöht, aber dafür kann auch die geringste Überdosierung zu einem sofortigen Herzinfarkt führen. Dementsprechend muss die Person, die die Xenith-Droge einnimmt, ständig kontrolliert werden."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Gelände"/>

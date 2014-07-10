@@ -55,4 +55,5 @@
 	<entry name="ServerShutDown" value="Server shut down."/>
 	<entry name="ServerUnreachable" value="Could not connect to server. To improve connectivity, ensure the host has forwarded the set network port (default: TCP 6121)."/>
 	<entry name="Unknown" value="Unknown."/>
+	<entry name="VictoryAchievements" value="Victory achievements can only be unlocked in single-player games started from the New Game panel."/>
 </language> 

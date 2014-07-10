@@ -11,10 +11,10 @@
 	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> al grado delle nuove unità"/>
 	<entry name="BlackHoleBuilding" value="Generatore di Buchi Neri"/>
 	<entry name="BlackHoleBuildingDescription" value="Questa particolare applicazione militare di un acceleratore di particelle, produce delle collisioni tra atomi aventi un'energia di svariati zettaelettronvolt, focalizzandole su un singolo obiettivo, permettendo così la creazione di macroscopici e temibili buchi neri. Finora i risultati sono stati terrificanti, anche se il tempo richiesto per accumulare energia a sufficienza è un enorme inconveniente."/>
-	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Buco Nero<br/><icon texture='GUI/Bullet'/>Ricarica: 20 turni"/>
+	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Buco Nero<br/><icon texture='GUI/Bullet'/>Ricarica: 16 turni"/>
 	<entry name="BombardmentBuilding" value="Collegamento per Bombardamento Orbitale"/>
 	<entry name="BombardmentBuildingDescription" value="Fornire un collegamento spaziale veloce ed affidabile per l'acquisizione di un bersaglio in movimento è una sfida. Questo sistema permette correzioni e previsioni delle connessioni per eseguire bombardamenti mirati in tempo reale."/>
-	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Bombardamento Orbitale<br/><icon texture='GUI/Bullet'/>Ricarica: 5 turni"/>
+	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Bombardamento Orbitale<br/><icon texture='GUI/Bullet'/>Ricarica: 4 turni"/>
 	<entry name="Credits0" value="Borsa Valori"/>
 	<entry name="Credits0Description" value="Una borsa valori crea un mercato organizzato per la vendita e l'acquisto di titoli rispettando norme e regole ben definite. È indispensabile per l'ordinato e corretto funzionamento del settore imprenditoriale in un'economia dal mercato libero.<br/><br/><style name='Italic'/>Una borsa valori non dev'essere solo un alveare di mera speculazione ed azzardo. A volte dovrebbe fungere da luogo per investimenti sicuri e redditizi."/>
 	<entry name="Credits0Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Credits'/> ai crediti dalle tasse<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> ai crediti"/>
@@ -35,7 +35,7 @@
 	<entry name="Defense2Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+400% <icon texture='Attributes/Power'/> alla potenza contro le operazioni"/>
 	<entry name="EMPBeamBuilding" value="Collegamento per Satellite IEM"/>
 	<entry name="EMPBeamBuildingDescription" value="Accumulando lentamente energia dalle tempeste solari, il satellite IEM è in grado di reindirizzare una frazione di questi ioni solari verso la superficie di Pandora in un fascio concentrato ad alta potenza, che disabilita le difese e paralizza la produzione dell'obiettivo."/>
-	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Raggio IEM<br/><icon texture='GUI/Bullet'/>Ricarica: 10 turni"/>
+	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Raggio IEM<br/><icon texture='GUI/Bullet'/>Ricarica: 8 turni"/>
 	<entry name="Food0" value="Infrastruttura Agricola"/>
 	<entry name="Food0Description" value="In modo molto simile alla vecchia Terra, anche Pandora ospita svariate ecoregioni, che spaziano dalle terre ghiacciate dei poli, passando dai vasti deserti, fino alle foreste pluviali vicine all'equatore. Dato che le riserve di cibo sono essenziali per le nuove colonie, le infrastrutture agricole producono fertilizzanti sintetici che permettono la crescita delle piante anche nei climi più desolati e dal terreno povero di sostanze nutritive... Ma nemmeno così si può produrre qualcosa dal nulla."/>
 	<entry name="Food0Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Food'/> al cibo dagli agricoltori<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> al cibo"/>
@@ -77,7 +77,7 @@
 	<entry name="Morale2Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> al morale"/>
 	<entry name="NukeBuilding" value="Centro di Controllo Missilistico"/>
 	<entry name="NukeBuildingDescription" value="La struttura di controllo principale per i silos missilistici. Da un centro di controllo, la squadra di lancio missilistico può monitorare il complesso, lanciare i missili, o rilassarsi nelle unità abitative."/>
-	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Missile Nucleare<br/><icon texture='GUI/Bullet'/>Ricarica: 10 turni"/>
+	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Missile Nucleare<br/><icon texture='GUI/Bullet'/>Ricarica: 8 turni"/>
 	<entry name="Pollution0" value="Riduttore d'Inquinamento"/>
 	<entry name="Pollution0Description" value="La vecchia Terra era in uno stato penoso. Con gran parte dello strato d'ozono distrutta ed il paesaggio segnato dalla guerra tra le fazioni e dai rifiuti nucleari, i nostri antenati si sono riuniti in una manciata di città che ospitano miliardi di persone, provando a fuggire dall'ambiente sempre più crudele.<br/><br/>Molti scienziati ed ecologisti giustamente sostengono che un tale corso degli eventi non deve più ripetersi, e queste nuove tecnologie di riciclo automatico sono un passo verso la giusta direzione."/>
 	<entry name="Pollution0Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> all'inquinamento"/>
@@ -116,6 +116,6 @@
 	<entry name="Research2Properties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Research'/> alla ricerca dagli scienziati<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> alla ricerca"/>
 	<entry name="ScanBuilding" value="Collegamento per Scansioni Satellitari"/>
 	<entry name="ScanBuildingDescription" value="I disturbi sono molto frequenti nella ionosfera di Pandora, ed impediscono un costante collegamento con i satelliti di ricognizione; con questa tecnologia possiamo comunicare con essi molto di frequente, potendo impartirgli ordini ad un ritmo piuttosto costante."/>
-	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Scansioni Satellitari<br/><icon texture='GUI/Bullet'/>Ricarica: 3 turni"/>
+	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Scansioni Satellitari<br/><icon texture='GUI/Bullet'/>Ricarica: 2 turni"/>
 	<entry name="StormBuilding" value="Generatore di Tempesta Ionica"/>
 </language>

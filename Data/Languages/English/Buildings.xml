@@ -11,10 +11,10 @@
 	<entry name="Academy2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+8 <icon texture='Attributes/Rank'/> rank for new units"/>
 	<entry name="BlackHoleBuilding" value="Black Hole Generator"/>
 	<entry name="BlackHoleBuildingDescription" value="This military application of particle accelerators produces collisions between particles with an energy of several zettaelectronvolts, focused on one single goal: the creation of macroscopic, volatile black holes. So far the results are terrifying, though the time required to build sufficient energy is a massive drawback."/>
-	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a black hole operation<br/><icon texture='GUI/Bullet'/>20 turn cooldown"/>
+	<entry name="BlackHoleBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a black hole operation<br/><icon texture='GUI/Bullet'/>16 turn cooldown"/>
 	<entry name="BombardmentBuilding" value="Orbital Bombardment Uplink"/>
 	<entry name="BombardmentBuildingDescription" value="Providing a fast and reliable space uplink for target acquisition is a challenge when dealing with moving targets. This uplink system consists of error correction and prediction modules to provide tactically targeted bombardments on time."/>
-	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an orbital bombardment operation<br/><icon texture='GUI/Bullet'/>5 turn cooldown"/>
+	<entry name="BombardmentBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an orbital bombardment operation<br/><icon texture='GUI/Bullet'/>4 turn cooldown"/>
 	<entry name="Credits0" value="Stock Exchange"/>
 	<entry name="Credits0Description" value="A stock exchange provides an organized market for purchasing and selling of securities with well-defined rules and regulations. This is indispensable for the smooth and orderly functioning of the corporate sector in a free market economy.<br/><br/><style name='Italic'/>A stock exchange need not be merely a hive of speculation or a gambling den. It should sometimes also act as a place for safe and profitable investment."/>
 	<entry name="Credits0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Credits'/> credits from taxes<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Credits'/> credits"/>
@@ -35,7 +35,7 @@
 	<entry name="Defense2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+400% <icon texture='Attributes/Power'/> power vs operations"/>
 	<entry name="EMPBeamBuilding" value="EMP Satellite Uplink"/>
 	<entry name="EMPBeamBuildingDescription" value="Slowly building up energy from solar flares, the EMP satellite is able to redirect a fraction of these solar ion storms towards the surface of Pandora in a high-powered, concentrated beam that disables defenses and cripples production of its target."/>
-	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an EMP beam operation<br/><icon texture='GUI/Bullet'/>10 turn cooldown"/>
+	<entry name="EMPBeamBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides an EMP beam operation<br/><icon texture='GUI/Bullet'/>8 turn cooldown"/>
 	<entry name="Food0" value="Cultivation Facility"/>
 	<entry name="Food0Description" value="Very similar to old Earth, Pandora is host to a variety of ecoregions, ranging from the frozen ice lands at the poles to vast deserts and rain forests near the equator. With food supply being a primary concern for new colonies, cultivation facilities produce synthetic fertilizers that allow plant growth even in the most desolate climates and on nutrient-poor soil - though even they can't produce something from nothing."/>
 	<entry name="Food0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Resources/Food'/> food from farmers<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Food'/> food"/>
@@ -77,7 +77,7 @@
 	<entry name="Morale2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+16 <icon texture='Resources/Morale'/> morale"/>
 	<entry name="NukeBuilding" value="Missile Launch Control Center"/>
 	<entry name="NukeBuildingDescription" value="The main control facility for ballistic missiles silos. From a launch control center, the missile combat crew can monitor the complex, launch the missile, or relax in the living quarters."/>
-	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a nuke operation<br/><icon texture='GUI/Bullet'/>10 turn cooldown"/>
+	<entry name="NukeBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a nuke operation<br/><icon texture='GUI/Bullet'/>8 turn cooldown"/>
 	<entry name="Pollution0" value="Pollution Processor"/>
 	<entry name="Pollution0Description" value="Old Earth was in a grim state. With large parts of the ozone layer destroyed as well as the landscape scarred by factional warfare and nuclear waste, our ancestors gathered in a handful of mega cities housing billions of people, trying to escape from an increasingly harsh environment.<br/><br/>Many scientists and ecologists rightfully advocate that such a course of events should not be repeated, and these newly-discovered automated recycling technologies are a step in the right direction."/>
 	<entry name="Pollution0Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>-4 <icon texture='Resources/Pollution'/> pollution"/>
@@ -116,6 +116,6 @@
 	<entry name="Research2Properties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Resources/Research'/> research from scientists<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Resources/Research'/> research"/>
 	<entry name="ScanBuilding" value="Recon Satellite Uplink"/>
 	<entry name="ScanBuildingDescription" value="Even though disturbances are quite common in the ionosphere of Pandora, preventing a constant link to reconnaissance satellites, this tech allows us to communicate with them quite often and upload orders at a rather consistent pace."/>
-	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a satellite scan operation<br/><icon texture='GUI/Bullet'/>3 turn cooldown"/>
+	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a satellite scan operation<br/><icon texture='GUI/Bullet'/>2 turn cooldown"/>
 	<entry name="StormBuilding" value="Ion Storm Generator"/>
 </language>

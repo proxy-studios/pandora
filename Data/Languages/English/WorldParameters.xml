@@ -52,14 +52,14 @@
 	<entry name="RandomizedResearchTree" value="Randomized Research Tree"/>
 	<entry name="ResearchVictory" value="Research Victory"/>
 	<entry name="RevealedResearchTiers" value="Revealed Research Tiers"/>
-	<entry name="RevealedResearchTiers0" value="None"/>
-	<entry name="RevealedResearchTiers0Hint" value="Only researchable technologies are revealed."/>
-	<entry name="RevealedResearchTiers1" value="One"/>
-	<entry name="RevealedResearchTiers1Hint" value="Technologies one tier ahead are revealed."/>
-	<entry name="RevealedResearchTiers2" value="Two"/>
-	<entry name="RevealedResearchTiers2Hint" value="Technologies two tiers ahead are revealed."/>
-	<entry name="RevealedResearchTiers3" value="Three"/>
-	<entry name="RevealedResearchTiers3Hint" value="Technologies three tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers0" value="One"/>
+	<entry name="RevealedResearchTiers0Hint" value="Technologies one tier ahead are revealed."/>
+	<entry name="RevealedResearchTiers1" value="Two"/>
+	<entry name="RevealedResearchTiers1Hint" value="Technologies two tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers2" value="Three"/>
+	<entry name="RevealedResearchTiers2Hint" value="Technologies three tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers3" value="Four"/>
+	<entry name="RevealedResearchTiers3Hint" value="Technologies four tiers ahead are revealed."/>
 	<entry name="RevealedResearchTiers4" value="All"/>
 	<entry name="RevealedResearchTiers4Hint" value="The whole research tree is revealed from the start."/>
 	<entry name="RevealedResearchTiers5" value="Random"/>

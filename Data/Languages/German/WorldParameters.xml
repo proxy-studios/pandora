@@ -13,6 +13,7 @@
 	<entry name="AlienAggression4Hint" value="Die außerirdischen Lebewesen werden äußerst schnell feindselig und legen immense Strecken von ihren Heimatgebieten zurück, um anzugreifen. Die Alien-Baue produzieren äußerst schnell neue Xenomorphs."/>
 	<entry name="AlienAggression5" value="Zufällig"/>
 	<entry name="AlienAggression5Hint" value="Die Alien-Aggression wird zu Beginn des Spiels zufällig festgelegt."/>
+	<entry name="AlliedVictory" value="Verbündeter Sieg"/>
 	<entry name="Difficulty" value="Schwierigkeitsgrad"/>
 	<entry name="Difficulty0" value="Sehr leicht"/>
 	<entry name="Difficulty0Hint" value="Der Computergegner hat im Vergleich zum Spieler leichte Moralnachteile."/>
@@ -27,6 +28,8 @@
 	<entry name="Difficulty5" value="Zufällig"/>
 	<entry name="Difficulty5Hint" value="Der Schwierigkeitsgrad für jede aktive KI-Fraktion wird zu Beginn des Spiels zufällig festgelegt."/>
 	<entry name="EconomyVictory" value="Wirtschaftlicher Sieg"/>
+	<entry name="DropIn" value="Verzögerter Spielbeitritt"/> <!-- THIS WAS RENAMED TO DropIn! USE THE SAME TERM AS IN ACHIEVEMENTS: "NEW_ACHIEVEMENT_3_28_DESC"	"Beginnen Sie eine Mehrspielerpartie mit aktivierter Einsteigen-Option." -->
+	<entry name="DropInHint" value="Ermöglicht nach Spielstart beitretenden Spielern die Kontrolle über KI gesteuerte oder andere getrennte menschliche Spieler zu übernehmen. Normalerweiße können während des Spiels beitretende Spieler nur die Verbindung nach einer Trennung wiederherstellen oder einen freien Beobachterplatz einnehmen."/>
 	<entry name="GameVisibility" value="Spielsichtbarkeit"/> 
 	<entry name="GameVisibility0" value="Nur Freunde"/>
 	<entry name="GameVisibility0Hint" value="Am Spiel kann nur über Freundeslisten, auf Einladung oder durch eine direkte Verbindung teilgenommen werden."/>
@@ -34,8 +37,6 @@
 	<entry name="GameVisibility1Hint" value="Am Spiel kann nur auf Einladung oder durch eine direkte Verbindung teilgenommen werden."/>
 	<entry name="GameVisibility2" value="Öffentlich"/>
 	<entry name="GameVisibility2Hint" value="Das Spiel ist in öffentlichen Listen sichtbar und jeder kann daran teilnehmen."/>
-	<entry name="LateJoins" value="Verzögerter Spielbeitritt"/> <!-- THIS WAS RENAMED TO DropIn! USE THE SAME TERM AS IN ACHIEVEMENTS: "NEW_ACHIEVEMENT_3_28_DESC"	"Beginnen Sie eine Mehrspielerpartie mit aktivierter Einsteigen-Option." -->
-	<entry name="LateJoinsHint" value="Ermöglicht nach Spielstart beitretenden Spielern die Kontrolle über KI gesteuerte oder andere getrennte menschliche Spieler zu übernehmen. Normalerweiße können während des Spiels beitretende Spieler nur die Verbindung nach einer Trennung wiederherstellen oder einen freien Beobachterplatz einnehmen."/>
 	<entry name="MilitaryVictory" value="Militärischer Sieg"/>
 	<entry name="Pace" value="Geschwindigkeit"/>
 	<entry name="Pace0" value="Hoch"/>
@@ -51,14 +52,14 @@
 	<entry name="RandomizedResearchTree" value="Zufällig festgelegter Forschungsbaum"/>
 	<entry name="ResearchVictory" value="Wissenschaftlicher Sieg"/>
 	<entry name="RevealedResearchTiers" value="Angezeigte Forschungsstufen"/>
-	<entry name="RevealedResearchTiers0" value="Keine"/>
-	<entry name="RevealedResearchTiers0Hint" value="Nur die erforschbaren Technologien werden angezeigt."/>
-	<entry name="RevealedResearchTiers1" value="Eine"/>
-	<entry name="RevealedResearchTiers1Hint" value="Technologien, die eine Stufe höher angesiedelt sind, werden angezeigt."/>
-	<entry name="RevealedResearchTiers2" value="Zwei"/>
-	<entry name="RevealedResearchTiers2Hint" value="Technologien, die zwei Stufen höher angesiedelt sind, werden angezeigt."/>
-	<entry name="RevealedResearchTiers3" value="Drei"/>
-	<entry name="RevealedResearchTiers3Hint" value="Technologien, die drei Stufen höher angesiedelt sind, werden angezeigt."/>
+	<entry name="RevealedResearchTiers0" value="Eine"/>
+	<entry name="RevealedResearchTiers0Hint" value="Technologien, die eine Stufe höher angesiedelt sind, werden angezeigt."/>
+	<entry name="RevealedResearchTiers1" value="Zwei"/>
+	<entry name="RevealedResearchTiers1Hint" value="Technologien, die zwei Stufen höher angesiedelt sind, werden angezeigt."/>
+	<entry name="RevealedResearchTiers2" value="Drei"/>
+	<entry name="RevealedResearchTiers2Hint" value="Technologien, die drei Stufen höher angesiedelt sind, werden angezeigt."/>
+	<entry name="RevealedResearchTiers3" value="Vier"/>
+	<entry name="RevealedResearchTiers3Hint" value="Technologien, die vier Stufen höher angesiedelt sind, werden angezeigt."/>
 	<entry name="RevealedResearchTiers4" value="Alle"/>
 	<entry name="RevealedResearchTiers4Hint" value="Der gesamte Forschungsbaum wird von Anfang an angezeigt."/>
 	<entry name="RevealedResearchTiers5" value="Zufällig"/>
@@ -75,19 +76,19 @@
 	<entry name="Size" value="Weltgröße"/>
 	<entry name="Size0" value="Sehr klein"/>
 	<entry name="Size0Hint" value="Eine sehr kleine Welt besteht aus 24x24 und damit insgesamt 576 Gebieten."/>
-	<entry name="Size0HintFactions" value="Es gibt 3 menschliche Fraktionen."/>
+	<entry name="Size0HintFactions" value="Es gibt zwei menschliche Fraktionen."/>
 	<entry name="Size1" value="Klein"/>
 	<entry name="Size1Hint" value="Eine kleine Welt besteht aus 32x32 und damit insgesamt 1024 Gebieten."/>
-	<entry name="Size1HintFactions" value="Es gibt 5 menschliche Fraktionen."/>
+	<entry name="Size1HintFactions" value="Es gibt vier menschliche Fraktionen."/>
 	<entry name="Size2" value="Mittel"/>
-	<entry name="Size2Hint" value="Eine mittelgroße Welt besteht aus 44x44 und damit insgesamt 1936 Gebieten."/>
-	<entry name="Size2HintFactions" value="Es gibt 6 menschliche Fraktionen."/>
+	<entry name="Size2Hint" value="Eine mittelgroße Welt besteht aus 40x40 und damit insgesamt 1600 Gebieten."/>
+	<entry name="Size2HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
 	<entry name="Size3" value="Groß"/>
-	<entry name="Size3Hint" value="Eine große Welt besteht aus 60x60 und damit insgesamt 3600 Gebieten."/>
-	<entry name="Size3HintFactions" value="Es gibt 6 menschliche Fraktionen."/>
+	<entry name="Size3Hint" value="Eine große Welt besteht aus 48x48 und damit insgesamt 2304 Gebieten."/>
+	<entry name="Size3HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
 	<entry name="Size4" value="Sehr groß"/>
-	<entry name="Size4Hint" value="Eine sehr große Welt besteht aus 80x80 und damit insgesamt 6400 Gebieten."/>
-	<entry name="Size4HintFactions" value="Es gibt 6 menschliche Fraktionen."/>
+	<entry name="Size4Hint" value="Eine sehr große Welt besteht aus 56x56 und damit insgesamt 3136 Gebieten."/>
+	<entry name="Size4HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
 	<entry name="Size5" value="Zufällig"/>
 	<entry name="Size5Hint" value="Die Größe der Spielwelt wird zu Beginn des Spiels zufällig festgelegt."/>
 	<entry name="Size5HintFactions" value=""/>

@@ -181,7 +181,7 @@
 	<entry name="Month10" value="November"/>
 	<entry name="Month11" value="Dezember"/>
 	<entry name="Morale" value="Moral"/>
-	<entry name="MoraleHint" value="Moral<br/>Allgemeine Zufriedenheit der Bevölkerung. Jeder positive oder negative Moralpunkt steigert oder senkt den Ressourcenausstoß Ihrer Bevölkerung um 5%."/>
+	<entry name="MoraleHint" value="Moral<br/>Allgemeine Zufriedenheit der Bevölkerung. Positive oder negative Moral steigert oder senkt den Ressourcenausstoß sowie das Wachstum Ihrer Bevölkerung."/>
 	<entry name="More" value="Mehr"/>
 	<entry name="MovementHint" value="Bewegungsgeschwindigkeit<br/>Die Anzahl der Gebiete, durch die sich die Einheit in einem Monat bewegen kann."/>
 	<entry name="Multiplayer" value="Mehrspieler"/>
@@ -302,6 +302,8 @@
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% durch Forschungsabkommen"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% durch Hungersnot"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% durch Übernahme"/>
+	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% durch Übernahmeverluste"/>
+	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% durch Übernahmemigration"/>
 	<entry name="ResourcePerTurnFromTaxes" value="<icon texture='GUI/Bullet'/>%1% durch Steuern"/>
 	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% von Gebieten"/>
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% durch Handelsabkommen"/>

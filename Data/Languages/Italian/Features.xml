@@ -120,7 +120,7 @@
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Portal" value="Portale"/>
 	<entry name="PortalDescription" value="I portali da cui provengono i Messari sono strettamente sorvegliati. Troneggiano immensamente all'orizzonte, come le rovine che abbiamo trovato, ma questi sono nuovi e luccicanti. Ed occupati da truppe Messari."/>
-	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Costruzione Aliena<br/><icon texture='GUI/Bullet'/>+150% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+300% <icon texture='Attributes/Power'/> alla potenza contro le operazioni"/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Costruzione Aliena<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> alla potenza contro le operazioni"/>
 	<entry name="ProductionBonus0" value="Fiori di Xenite"/>
 	<entry name="ProductionBonus0Description" value="Lo Xenite è una pianta meravigliosa che, quando somministrata sotto forma di farmaco, permette al corpo umano di entrare in una sorta di trance che ne aumenta la resistenza alla fatica ed al dolore. Anche se le capacità lavorative hanno un significativo incremento, il suo utilizzo eccessivo potrebbe provocare un arresto cardiaco... il che richiede quindi un monitoraggio continuo sui lavoratori che ne fanno uso."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>

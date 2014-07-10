@@ -60,6 +60,8 @@ installation.
 Please use the Add/Remove Programs option from the Windows Control Panel or the
 Uninstall shortcut in the games Windows START menu folder to uninstall the game.
 Uninstalling through any other method will not properly uninstall the game.
+After uninstallation, you may need to manually delete files left over in the
+installation directory.
 
 2.2	Mac OS X
 --------------------------------------------------------------------------------
@@ -90,7 +92,7 @@ the update and continue playing the currently installed version.
 From time to time updates will be compiled into larger stand alone patch
 installer files. These can be downloaded outside of the game and run on a
 different machine so if your gaming PC does not have internet you can still
-update. These patches will be less frequently released but if you have any
+update. These patches will be less frequently released, but if you have any
 issues with the auto updater they are the backup plan to keep you updated.
 
 3	User Data
@@ -100,16 +102,28 @@ User data such as saved games, screen shots, configuration and log files are
 stored in the following locations:
 
 *	Windows Vista/7:
-	"C:\Users\<user>\AppData\Roaming\Proxy Studios\Pandora\"
+	"%APPDATA%\Proxy Studios\Pandora\"
 
 *	Windows XP:
-	"C:\Documents and Settings\<user>\Application Data\Proxy Studios\Pandora\"
+	"%APPDATA%\Proxy Studios\Pandora\"
 
 *	Mac OS X:
 	"/Users/<user>/Library/Application Support/Proxy Studios/Pandora/"
 
 *	Linux:
 	"/home/<user>/.config/Proxy Studios/Pandora/"
+	
+The Steam version stores saved games in a different location to support the
+Steam Cloud:
+
+*	Steam:
+	"<installation directory>/cache/cloud/"
+	
+Due to multi-platform syncing limitations, the Steam Cloud system requires all
+files and directories to have lowercase names. Failure to comply may prevent the
+Steam Cloud from working properly and may clear all files from the cloud. Please
+be very careful if you modify the contents of this directory manually,
+especially on case-sensitive filesystems like those normally found on Linux.
 
 4	Modding
 ================================================================================
@@ -153,9 +167,9 @@ Pandora.
 Antivirus and firewall software play an important role in your computer 
 security. They help protect your computer from viruses, malware and spyware 
 infections. However, when protecting your computer, they can prevent legitimate
-programs, like Pandora, from installing, updating or running. Disabling or 
-temporarily uninstalling your security software can help resolve these
-conflicts.
+programs, like Pandora, from installing, updating or running.  Adding exceptions
+for Pandora executables or disabling your security software can help resolve
+these conflicts.
 
 Note: Some security programs will continue to partially run even when disabled.
 They may require full uninstallation or reconfiguration to resolve.
@@ -163,7 +177,8 @@ They may require full uninstallation or reconfiguration to resolve.
 If you are not comfortable configuring or uninstalling your security software, 
 please contact your security software's technical support department for
 assistance. They may also be able to help you configure their product to not
-interfere with future game installation and patching.
+interfere with future game installation and patching. Most products have
+in-software or web forms for reporting false positives.
 
 6	Support
 ================================================================================
@@ -202,8 +217,8 @@ F4						Military panel
 F5						Research panel
 F6						Workshop panel
 F7						Events panel
-F11						Quick save
-F12						Quick load
+F9						Quick load
+F10						Quick save
 PrtScr					Save JPG screen shot
 Shift+PrtScr			Save JPG screen shot without HUD
 Alt+PrtScr				Save PNG screen shot
@@ -244,7 +259,6 @@ Shift+LMB on unit list	Add units to selection
 --------------------------------------------------------------------------------
 
 Delete					Disband
-X						Explore
 G						Guard
 H						Heal
 D						Hold position
@@ -258,18 +272,27 @@ Alt+R					Destroy road
 
 A						Automate
 B						Build city
+C						Build construction bay
+Y						Build energy park
 F						Build farm
+L						Build field laboratory
 O						Build fort
 M						Build mine
+P						Build purifier
 R						Build road
+U						Build suburb
 Alt+T					Clear forest
-Alt+U					Clear fungus
+Alt+N					Clear fungus
 Alt+W					Clear wasteland
 T						Grow forest
-U						Grow fungus
+N						Grow fungus
+Alt+F					Harvest food
+Alt+M					Harvest minerals
 Alt+A					Improve closest city
-C						Improve ecoregion
-Alt+C					Worsen ecoregion
+K						Improve ecoregion
+Alt+I					Lower terrain
+I						Raise terrain
+Alt+K					Worsen ecoregion
 
 8	Commands
 ================================================================================
@@ -290,7 +313,7 @@ Type into the chat.
 /clear												Clear chat
 /reveal												Reveal map
 
-8.2 Spectator
+8.3 Spectator
 --------------------------------------------------------------------------------
 
 /score												Toggle score panel

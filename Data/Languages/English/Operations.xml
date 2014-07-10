@@ -18,10 +18,14 @@
 	<entry name="Nuke" value="Nuclear Missile"/>
 	<entry name="NukeDescription" value="Nuclear reactions release vast quantities of energy from relatively small amounts of matter. Weaponized into small nuclear devices no larger than traditional bombs it can devastate entire cities by blast, fire and radiation.<br/><br/>Delivering nuclear payloads successfully is as important and costly as producing the nuclear devices themselves. With long range ballistic missiles we are now able to deliver these weapons of mass destruction to our enemies' doorstep.<br/><br/><style name='Italic'/>Intellectuals have long been warning about a nuclear war resulting in mutually assured destruction."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deals 8 <icon texture='Attributes/Power'/> power of damage to all units and population in a territory<br/><icon texture='GUI/Bullet'/>Ignores weapons of affected units<br/><icon texture='GUI/Bullet'/>Destroys terrain features<br/><icon texture='GUI/Bullet'/>Causes wasteland"/>
-	<entry name="Portal" value="Portal"/>
+	<entry name="Portal0" value="Portal"/>
+	<entry name="Portal1" value="Portal"/>
+	<entry name="Portal2" value="Portal"/>
+	<entry name="Portal3" value="Portal"/>
+	<entry name="Portal4" value="Portal"/>
 	<entry name="Promotion" value="Field Training"/>
 	<entry name="PromotionDescription" value="A brutal variation on war games, Field Training is deployed and performed using live ammunition. It is known for leaving many a soldier crippled or traumatized, or both. Only the cream survive, and the gained knowledge gives them an edge in real warfare."/>
-	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for units in a territory<br/><icon texture='GUI/Bullet'/>Deals 10% <icon texture='Attributes/Health'/> health damage for every rank the unit has<br/><icon texture='GUI/Bullet'/>Only affects units that would not die"/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rank for all units in a territory<br/><icon texture='GUI/Bullet'/>Deals 20% <icon texture='Attributes/Health'/> health damage<br/><icon texture='GUI/Bullet'/>Does not increase <icon texture='Attributes/Rank'/> rank above 10<br/><icon texture='GUI/Bullet'/>Does not affect units that would die"/>
 	<entry name="Scan" value="Satellite Scan"/>
 	<entry name="ScanDescription" value="Orbital reconnaissance has many advantages; it is discreet, efficient, precise, and ubiquitous. The latest generation recon satellites are able to spy on a wide zone at once, making them indispensable tools of espionage and warfare."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Reveals a territory and its neighbors for 1 turn"/>

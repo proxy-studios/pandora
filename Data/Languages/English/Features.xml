@@ -120,7 +120,7 @@
 	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Portal" value="Portal"/>
 	<entry name="PortalDescription" value="The portals by which the Messari appear on Pandora are closely guarded. Towers on inhuman scales, like the ruins we discovered, but shiny and new. And occupied by Messari troops."/>
-	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+150% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+300% <icon texture='Attributes/Power'/> power vs operations"/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations"/>
 	<entry name="ProductionBonus0" value="Xenite Flowers"/>
 	<entry name="ProductionBonus0Description" value="Xenite is a wondrous plant that, when administered as a drug, allows the human body to enter a state of trance resistant to exhaustion and numbed to pain. While a person's working capacity is significantly increased by its usage, even a slight overdose results in instant cardiac arrest -- thus requiring a continuous monitoring of any workers who use it."/>
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
