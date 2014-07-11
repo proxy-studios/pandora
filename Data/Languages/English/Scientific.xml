@@ -89,8 +89,7 @@
 	<entry name="RejectSurrender" value="&quot;No, we don't have the teachers available to teach quantum synchronistic infundubula to your entire population, and it would be pointless you attempting to enter our society without knowing the basics.&quot;"/>
 	
 	<!-- Compliments for this faction. -->
-	<!-- Clarke's third law. Translations can be found on Wikiquote, for example http://nl.wikiquote.org/wiki/Arthur_C._Clarke for Dutch -->
-	<entry name="Compliment0" value="Any sufficiently advanced science is indistinguishable from magic. And you are wizards!"/>
+	<entry name="Compliment0" value="Any sufficiently advanced science is indistinguishable from magic. And you are wizards!"/>		<!-- Clarke's third law. Translations can be found on Wikiquote, for example http://nl.wikiquote.org/wiki/Arthur_C._Clarke for Dutch -->
 	<entry name="Compliment1" value="Without people like you, mankind would never have crawled out of its shell. We are born in shells, right?"/>
 	<entry name="Compliment2" value="Pandora is blessed that it has explorers like you to uncover its mysteries!"/>
 	

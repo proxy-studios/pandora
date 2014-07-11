@@ -10,8 +10,7 @@
 	<entry name="Academy2Description" value="A direct link to a centralized combat database that enhances troop efficiency."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
 	<entry name="Aircraft0Description" value="An electric propulsion system that brings war to the skies."/>
-	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
-	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>
+	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
 	<entry name="Aircraft1Description" value="The integration of artificial intelligence and various countermeasure systems into airborne units."/>
 	<entry name="Aircraft2" value="Geomagnetic Hull"/>
 	<entry name="Aircraft2Description" value="This bulky hull replacement allows aircraft to draw power from the ionization differences in Pandora's thermosphere."/>
@@ -38,12 +37,11 @@
 	<entry name="Armor8" value="Xenotronium Synapses"/>
 	<entry name="Armor8Description" value="Imagine an anti-matter armor that is self-aware and &quot;lives&quot; for one sole purpose: to protect its wearer."/>
 	<entry name="Artillery0" value="Guided Indirect Fire"/>
-	<entry name="Artillery0Descripton" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
+	<entry name="Artillery0Description" value="Drone-supported, heavy long range weaponry that can shred whole troop formations."/>
 	<entry name="Artillery1" value="Multiple Rounds Simultaneous Burst"/>
 	<entry name="Artillery1Description" value="A simultaneous burst of mid-air shells that cover a huge area and leave the target little chance of surviving the bombardment."/>
 	<entry name="Artillery2" value="Graviton Shells"/>
-	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1216284&langId=s -->
-	<entry name="Artillery2Description" value="Advanced shrapnel shells that generate portable gravitational fields."/>
+	<entry name="Artillery2Description" value="Advanced shrapnel shells that generate portable gravitational fields."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1216284&langId=s -->
 	<entry name="Aspidoch" value="Aspidoch Tiling"/>
 	<entry name="Assault" value="Operation Valkyrie"/>
 	<entry name="AssaultDescription" value="Orbital reconnaissance and disposable troop landers that allow for a one-shot military strike anywhere on the planet."/>
@@ -155,8 +153,7 @@
 	<entry name="HealAreaDevice" value="Area Aid"/>
 	<entry name="HealAreaDeviceDescription" value="Area healing and repair in a deployable device."/>
 	<entry name="Laser0" value="Advanced Stimulated Emission"/>
-	<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1581268&langId=s -->
-	<entry name="Laser0Description" value="Design of an electrically powered device capable of producing a solid state beam of 100 kW or more."/>
+	<entry name="Laser0Description" value="Design of an electrically powered device capable of producing a solid state beam of 100 kW or more."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1581268&langId=s -->
 	<entry name="Laser1" value="Fusion Beams"/>
 	<entry name="Laser1Description" value="Fusing excited deuterium and tritium nuclei with helium can release a deadlier laser beam."/>
 	<entry name="Laser2" value="Graviton Particles"/>
