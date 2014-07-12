@@ -119,7 +119,7 @@
 	<entry name="Friendly" value="Vriendelijk"/>
 	<entry name="GameBrowser" value="Spelbrowser"/>
 	<entry name="GameLobby" value="Spellobby"/>
-	<entry name="GameName" value="Spelname"/>
+	<entry name="GameName" value="Spelnaam"/>
 	<entry name="GameOver" value="Spel voorbij"/>
 	<entry name="GlobalTaxRate" value="Algemeen belastingtarief"/>
 	<entry name="GlobalTaxSliderHint" value="Regelt het algemene belastingtarief. Hogere belastingen verhogen het <icon texture='Resources/Credits'/> inkomen, terwijl ;agere belastingtarieven het <icon texture='Resources/Morale'/> moraal versterken."/>
@@ -137,6 +137,8 @@
 	<entry name="Incompatible" value="Incompatibel"/>
 	<entry name="INFINITY" value="99"/>
 	<entry name="Info" value="Info"/>
+	<entry name="Invite" value="Uitnodigen"/>
+	<entry name="InviteDisabledHint" value="Server draait Steamversie niet of Steam-matchmaking is niet beschikbaar."/>
 	<entry name="IP" value="IP"/>
 	<entry name="Join" value="Toetreden"/>
 	<entry name="LastPing" value="Laatste ping"/>
@@ -223,7 +225,7 @@
 	<entry name="Parameters" value="Parameter"/>
 	<entry name="Password" value="Wachtwoord"/>
 	<entry name="PlayerName" value="Spelernaam"/>
-	<entry name="Players" value="Speler"/>
+	<entry name="Players" value="Spelers"/>
 	<entry name="PleaseWait" value="Even geduld ..."/>
 	<entry name="PleaseWaitHint" value=""/>
 	<entry name="Pollution" value="Vervuiling"/>
