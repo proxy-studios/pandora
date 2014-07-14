@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+-	<entry name="AlreadyRunning" value="Er draait reeds een instantie."/>
+	<entry name="ApplyingUpdate" value="Update wordt toegepast ..."/>
+	<entry name="Beta" value="Beta"/>
+	<entry name="ChangeLog" value="Wijzigingslog"/>
+	<entry name="CheckingForUpdate" value="Controle op beschikbaarheid van updates ..."/>
+	<entry name="CloseOtherInstances" value="Sluit alsjeblieft alle andere instanties van Pandora."/>
+	<entry name="Done" value="Klaar."/>
+	<entry name="DownloadingUpdate" value="Update wordt gedownload..."/>
+	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="Failed" value="Mislukt."/>
+	<entry name="Notice" value="OPMERKING: Antivirus- en firewallsoftware kan het actualisatieproces verstoren."/>
+	<entry name="PreparingUpdate" value="Actualisatie wordt voorbereid ..."/>
+	<entry name="Quit" value="Beëindigen"/>
+	<entry name="Release" value="Revisie"/>
+	<entry name="Retry" value="Opnieuw"/>
+	<entry name="Skip" value="Overslaan"/>
+	<entry name="Update" value="Actualiseren"/>
+	<entry name="UpdateDetected" value="Update gevonden (%1%)."/>
+	<entry name="UpToDate" value="Alles actueel."/>
+	<entry name="WorkProgress" value="%1%%%"/>
+</language>

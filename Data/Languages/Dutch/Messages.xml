@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Authenticating" value="Bezig met authenticatie ..."/>
+	<entry name="AccountCreated" value="Rekening met succes aangemaakt."/>
+	<entry name="BetaMultiplayerBrowserGames" value="Let op dat bij een meerspelerspel betaversies van het spel gescheiden worden gehouden van de uitgegeven versies."/>
+	<entry name="ConnectionLost" value="Verbinding verbroken."/>
+	<entry name="ConnectingToServer" value="Maak verbinding met server ..."/>
+	<entry name="Countdown1" value="1 ..."/>
+	<entry name="Countdown2" value="2 ..."/>
+	<entry name="Countdown3" value="3 ..."/>
+	<entry name="Countdown4" value="4 ..."/>
+	<entry name="Countdown5" value="Start in 5 ..."/>
+	<entry name="CountdownStopped" value="Aftellen gestopt."/>
+	<entry name="CreatingAccount" value="Rekening wordt aangemaakt ..."/>
+	<entry name="DeployOperation" value="<style color='Green'/>Klik om de operatie te ontvouwen."/>
+	<entry name="Error" value="Fout"/>
+	<entry name="EverythingOK" value="Alles in orde."/>
+	<entry name="ExecuteOrder" value="<style color='Green'/>Klik om het bevel uit te voeren."/>
+	<entry name="GameInitializationFailed" value="Het spel kon niet geïnitialiseerd worden. Let alstublieft op dat speciale achtergrondprogramma's zoals veiligheids- en antivirussoftware de spelfunctionaliteit kunnen beperken."/>
+	<entry name="GameLoaded" value="Spel geladen"/>
+	<entry name="GameSaved" value="Spel opgeslagen"/>
+	<entry name="GameSaveError" value="Fout bij opslaan van de spelstand"/>
+	<entry name="IncompatibleVersion" value="Incompatibele spelversie."/>
+	<entry name="Info" value="Info"/>
+	<entry name="InitializingGame" value="Initialiseer spel ..."/>
+	<entry name="InitializingWorld" value="Initialiseer wereld ..."/>
+	<entry name="InvalidCommand" value="Ongeldig bevel: &quot;%1%&quot;"/>
+	<entry name="InvalidEmail" value="Ongeldig e-mailadres"/>
+	<entry name="InvalidName" value="Ongeldige naam."/>
+	<entry name="InvalidProductKey" value="Ongeldige productsleutel."/>
+	<entry name="Kicked" value="Je bent van de server getrapt."/>
+	<entry name="MasterServerUnreachable" value="Er kon geen verbinding met de masterserver gemaakt worden."/>
+	<entry name="NameTooShort" value="Je naam is te kort."/>
+	<entry name="NetworkError" value="Netwerkfout"/>
+	<entry name="NoFreeSlots" value="Op de server is geen vrije plek beschikbaar."/>
+	<entry name="NoGames" value="Momenteel zijn er geen spellen beschikbaar.<br/>Wil je er eentje starten?"/>
+	<entry name="OnlineError3" value="Ongeldige productsleutel."/>
+	<entry name="OnlineError4" value="Deze productsleutel werd reeds gebruikt."/>
+	<entry name="OnlineError6" value="Naam of wachtwoord is onjuist."/>
+	<entry name="OnlineError7" value="Deze naam werd reeds gebruikt."/>
+	<entry name="OnlineError8" value="Naam of wachtwoord onjuist."/>
+	<entry name="OnlineError10" value="De productsleutel werd reeds gebruikt."/>
+	<entry name="OnlineError12" value="Het e-mailadres is al eerder geregistreerd."/>
+	<entry name="PasswordsDoNotMatch" value="De wachtwoorden komen niet overeen."/>
+	<entry name="PasswordTooShort" value="Het wachtwoord is te kort."/>
+	<entry name="PlayerJoined" value="%1% is toegetreden."/>
+	<entry name="PlayerLeft" value="%1% is afgahaakt."/>
+	<entry name="ProductKeyEmpty" value="De productsleutel is leeg."/>
+	<entry name="RestartRequired" value="Het spel moet opnieuw gestart worden, om gewijzigde instellingen te effectueren."/>
+	<entry name="RetrievingList" value="Lijst wordt binnengehaald ..."/>
+	<entry name="ScreenShotSaved" value="Schermfoto onder &quot;%1%&quot; opgeslagen"/>
+	<entry name="ScreenShotSaveError" value="Fout bij opslaan van schermfoto"/>
+	<entry name="ServerError" value="Serverfout"/>
+	<entry name="ServerInfo" value="Serverinfo"/>
+	<entry name="ServerShutDown" value="Server wordt gesloten."/>
+	<entry name="ServerUnreachable" value="Er kon geen verbinding met de server gemaakt worden. Let bij verbindingsproblemen op dat de hostcomputer de ingestelde TCP-poort, standaard 6121, geforward moet hebben als deze achter een NAT-router zit."/>
+	<entry name="Unknown" value="Onbekend."/>
+	<entry name="VictoryAchievements" value="Overwinningsprestaties kunnen alleen ontgrendeld worden in éénspelerspellen die gestart zijn vanuit het paneel 'Nieuw spel'."/>
+</language>

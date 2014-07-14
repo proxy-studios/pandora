@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="Arctisch"/>
+	<entry name="ArcticDescription" value="In het dodelijk koude ijslandschap aan de beide polen van Pandora heerst een voor mensen uiterst vijandig klimaat. Cultivering is zonder technische hulp onmogelijk."/>
+	<entry name="ArcticProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="ArcticStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Blackout" value="Stroomuitval"/>
+	<entry name="BlackoutDescription" value="Dit gebied is getroffen door een volledige stroomuitval, waardooor geen communicatie mogelijk is en de productie stilstaat."/>
+	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Stad produceert geen hulpbronnen"/>
+	<entry name="ConstructionBay" value="Bouwplaats"/>
+	<entry name="ConstructionBayDescription" value="De ingeperkte grezen van onze basis zijn niet voor de grootschalige bouw ontworpen. Deze landelijk gelegen percelen bieden ruimte en beschutting om de productie eenvoudiger, veiliger en sneller te maken, zodra we onze werktuigen ter plekke hebben."/>
+	<entry name="ConstructionBayProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="ConstructionBayStats" value="<icon texture='Resources/Production'/> +1"/>
+	<entry name="City" value="Stad"/>
+	<entry name="CityDescription" value="Steden zijn uitgestrekte opeenhopingen van gebouwen en bieden de kolonisten zowel woonruimte alsook basale behoeften."/>
+	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor verdedigende lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> geneestempo"/>
+	<entry name="CityStats" value="<icon texture='Resources/Food'/> +1 <icon texture='Resources/Minerals'/> +1"/>
+	<entry name="Creep" value="Besmetting"/>
+	<entry name="CreepDescription" value="Hoe verder de Messari oprukken, hoe meer het landschap in hun omgeving verandert. Wetenschappers uit de observatoria berichten, dat het hier gaat om een fundamentele chemische reactie - mogelijk met de schimmels in de bodem of de sporen in de lucht. Nadat de reactie plaatsgevonden heeft, schijnt de resulterende atmosfeer de Messaritroepen te versterken - wie weet is dit hun manier van terravorming?"/>
+	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effekt<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten voor Messari-grondeenheden<br/><icon texture='GUI/Bullet'/>Gebied heeft geen grondstoffen"/>
+	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="CreditsBonus0" value="Goudader"/>
+	<entry name="CreditsBonus0Description" value="Reeds lang voor het begin van de geschiedschrijving was goud op aarde reeds een waardevol en begeerd metaal. En net zoals op de planeet die onze bakermat is bijna al het toegankelijke goud op Pandora door meteorieten ingeslagen. Een goudader verhoogt het inkomen van de stad die het gebied uitbaat enorm."/>
+	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
+	<entry name="Coast" value="Kust"/>
+	<entry name="CoastDescription" value="De vermenging van zoet en zout water in kustgebieden garandeerd talrijke voedingsstoffen voor flora en fauna, zowel in het water alsook aan land. Derhalve zijn het zeer begeerde gebieden."/>
+	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="CoastStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Desert" value="Woestijn"/>
+	<entry name="DesertDescription" value="Extreem hooge temperaturen en onvruchtbaar zand, zover het oog reikt, maken de woestijn een zeer moeilijk klimaat in te overleven. Cultivering is zonder technische hulp onmogelijk."/>
+	<entry name="DesertProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="DesertStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="EnergyPark" value="Energiepark"/>
+	<entry name="EnergyParkDescription" value="Grootschalig aangelegd netwerk voor verdeelde gedistribueerde zonne-, wind- en golfenergiecollectoren. Hier kunnen we milieuvriendelijke energie opwekken om deze vervolgens op de open markt te verkopen."/>
+	<entry name="EnergyParkProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +2"/>
+	<entry name="Farm" value="Boerderij"/>
+	<entry name="FarmDescription" value="Aan de vooravond van de industralisering leveren deze uitgestrekte gebieden de ingrediënten voor onze voedselproductie."/>
+	<entry name="FarmProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="FarmStats" value="<icon texture='Resources/Food'/> +1"/>
+	<entry name="FieldLaboratory" value="Veldlaboratorium"/>
+	<entry name="FieldLaboratoryDescription" value="Deze landelijk gelegen, maar technologisch geavanceerde onderzoekscentra maken het onze wetenschappers mogelijk om ongestoord experimenten buiten de stadsgrenzen uit te voeren."/>
+	<entry name="FieldLaboratoryProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="FieldLaboratoryStats" value="<icon texture='Resources/Research'/> +1"/>
+	<entry name="FoodBonus0" value="Natuurveld"/>
+	<entry name="FoodBonus0Description" value="Vruchtbare bodem, de nabijheid van water en een perfect microklimaat zijn een garantie voor rijke oogsten in deze gebieden."/>
+	<entry name="FoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="FoodBonus0Stats" value="<icon texture='Resources/Food'/> +2"/>
+	<entry name="FoodBonus1" value="Gaiawoud"/>
+	<entry name="FoodBonus1Description" value="Een welig bos van reuzegrote fruitbomen, dat meer voedingsmiddelen afwerpt als de beste landbouwfaciliteit van de mensen."/>
+	<entry name="FoodBonus1Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="FoodBonus1Stats" value="<icon texture='Resources/Food'/> +3 <icon texture='Resources/Pollution'/> -1"/>
+	<entry name="FoodBonus2" value="Hof van Eden"/>
+	<entry name="FoodBonus2Description" value="Dit idyllische gebied beschikt over een dusdanig voedingsrijke bodem, dat het groeitempo van planten erop weergaloos is. Velen zijn van menig dat hiermee een hele megalopool verzorgd kan worden."/>
+	<entry name="FoodBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4 <icon texture='Resources/Morale'/> +1"/>
+	<entry name="Forest" value="Bos"/>
+	<entry name="ForestDescription" value="Een bos is een gebied met een hoge boomdichtheid en fungeert als leefomgeving voor organismen, als hydrologische stromingsregelaar en als bodemconservator. Bossen vormen één van de belangrijkste delen van de biosfeer. Voor mechanische eenheden is het niet eenvoudig om bossen te betreden."/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologisch eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanische eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1"/>
+	<entry name="Fort" value="Fort"/>
+	<entry name="FortDescription" value="Zware versterking, die de garnizoenseenheden een sterke verdedigings- en zichtbonus oplevert. Indien forten door artillerieeenheden bemand worden, zijn ze optimaal voor de verdediging van grenzen en stratigische sleutelposities geschikt."/>
+	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> geneestempo"/>
+	<entry name="Fungus" value="Schimmel"/>
+	<entry name="FungusDescription" value="Net als op de oude aarde fungeren schimmels op Pandora hoofdzakelijk als symbionten voor planten en dieren. We hebben echter recent een macroscopische en zeer agressieve schimmelsoort ontdekt, die alle organische levensvormen infecteert en hooggiftige sporen afscheidt. We moeten nog onderzoek doen, maar tot dan moeten onze troepen in met schimmels besmette gebieden uiterst voorzichtig te werk gaan."/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>Veroorzaakt 0,2 schade per ronde<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanisme eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 0 <icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Grassland" value="Grasland"/>
+	<entry name="GrasslandDescription" value="Graslanden zijn gebieden waar kruidachtige planten domineren. De bodem is zeer voedingsrijk en eigent zich daarom zeer goed voor landbouw."/>
+	<entry name="GrasslandProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="GrasslandStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Growth" value="Versnelde groei"/>
+	<entry name="GrowthDescription" value="Zorgt ervoor dat een stad met positieve groei dubbel zo snel groeit."/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>+100% groei voor stad"/>
+	<entry name="Hills" value="Heuvels"/>
+	<entry name="HillsDescription" value="Het overgangsgebied tussen gebergte en vlak land. Het zware terrein maakt landbouw moeilijker, maar daarentegen zijn er waardevolle mineralen te vinden."/>
+	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1 <icon texture='Resources/Minerals'/> +1"/>
+	<entry name="Hive" value="Zwermkorf"/>
+	<entry name="HiveDescription" value="Deze organische gebouwen herbergen een kolonie xenomorfen, die erin leven en zich erin kunnen voortplanten."/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties."/>
+	<entry name="Mine" value="Mijn"/>
+	<entry name="MineDescription" value="Dient de delving van mineralen uit de aardbodem en daarmee voor de verzorging van grondstoffen voor de kolonisten.."/>
+	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="MineStats" value="<icon texture='Resources/Minerals'/> +1"/>
+	<entry name="MineralsBonus0" value="Mexallonveld"/>
+	<entry name="MineralsBonus0Description" value="De bodem in dit gebied zit vol mexallon, een zeer waardevol mineraal dat moeilijk is te ontginnen."/>
+	<entry name="MineralsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="MineralsBonus0Stats" value="<icon texture='Resources/Minerals'/> +2"/>
+	<entry name="MineralsBonus1" value="Isogeenveld"/>
+	<entry name="MineralsBonus1Description" value="In dit gebied zijn grote hoeveelheden isogeen ontdekt. Isogeen is weliswaar zeer schadelijk voor het milieu, maar ook zeer waardevol en gemakkelijk te ontginnen. Mijnbouw dient hier de proriteit te hebben."/>
+	<entry name="MineralsBonus1Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="MineralsBonus1Stats" value="<icon texture='Resources/Minerals'/> +3 <icon texture='Resources/Pollution'/> +1"/>
+	<entry name="MineralsBonus2" value="Noxiumveld"/>
+	<entry name="MineralsBonus2Description" value="Het middelnachtblauwe Noxium is waarschijnlijk het kostbaarste mineraal in het gehele universum. En in dit gebeid zijn er zeer rijke aders van ontdekt. Daarentegen rijkt de dodelijke straling van Noxium mijlenver en hoewel moderne techniek de gezonheidsgevaren voor personeel kan elimineren, vrezen de meesten nog steeds voor &quot;blauwe longen&quot;."/>
+	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4 <icon texture='Resources/Morale'/> -1"/>
+	<entry name="MoraleBonus0" value="Hete bronnen"/>
+	<entry name="MoraleBonus0Description" value="Onze kolonisten genieten van stoombaden in deze hete bronnen, waarbij ze wat afstand kunnen namen van het dagelijkse koloniale leven en geestelijk kunnen bijtanken."/>
+	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
+	<entry name="Mountains" value="Gebergte"/>
+	<entry name="MountainsDescription" value="De gebergten tronen tot een hoogte van meerdere kilometers over het laagland van Pandora uit en bieden infanterie-eenheden dankzij het ruwe terrein een natuurlijk tactisch voordeel."/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanisme eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
+	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 2"/>
+	<entry name="Ocean" value="Oceaan"/>
+	<entry name="OceanDescription" value="Het grootste deel van het planeetoppervlak van Pandora wordt door oceanen bedekt, die leefruimte bieden aan talrijke planten en dieren - van microscopisch klein plankton tot imposante oceaanreuzen."/>
+	<entry name="OceanProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="OceanStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="SunkenRuin" value="Verzonken ruïne"/>
+	<entry name="SunkenRuinDescription" value="Deze ruïnes zijn overblijfselen van een lang vergeten buitenaardse beschaving en kunnen grote kennis en enorme schatten herbergen.<br/><br/>Als je een ruïne wilt onderzoeken, dan moet je een eenheid het ruïnegebied in sturen."/>
+	<entry name="SunkenRuinProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk"/>
+	<entry name="Plains" value="Vlakte"/>
+	<entry name="PlainsDescription" value="Door het vrijwel volledig ontbreken van bomen en struiken is de vlakte eenvoudig te cultiveren, maar er is weinig beschutting voor infanterie-eenheden."/>
+	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor mechanische eenheden"/>
+	<entry name="Pollution" value="Vervuiling"/>
+	<entry name="PollutionDescription" value="Een gebied wordt meestal door bijzonder sterke wapens in woestenijen veranderd. Het is daarna giftig voor alle organisch leven en produceert niet langer grondstoffen.<br/><br/>Vormers kunnen weliswaar de woestenij schoonmaken en de oorspronkelijke ecologie van het gebied herstellen, maar het is een moeilijke en langdurige onderneming."/>
+	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Gebied produceert geen grondstoffen"/>
+	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Portal" value="Portaal"/>
+	<entry name="PortalDescription" value="Deze portalen, waardoor de Messari naar Pandora kwamen, zijn streng bewaakt. Het zijn torens van onvoorstelbare grootte - net zoals de ruïnes, die we ontdekt hebben, alleen nieuw en onbeschadigd. En bezeten door Messaritroepen."/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties"/>
+	<entry name="Purifier" value="Reinigingsinstallatie"/>
+	<entry name="PurifierDescription" value="In tegenstelling tot energieparken verbruiken reinigingsinstallaties geweldige hoeveelheden energie om de atmosfeer en oceanen van Pandora te filteren. Ze zijn kostbaar, maar reduceren onze vervuiling van de planeet drastisch."/>
+	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3"/>
+	<entry name="ProductionBonus0" value="Xenithbloemen"/>
+	<entry name="ProductionBonus0Description" value="De xenith is een eigenaardige plant, die indien ze als drug wordt ingenomen het menselijk lichaam in een trancetoestand komen, waarna het niet vermoeid raakt en pijnongevoelig wordt. Daarmee wordt weliswaar het werkvermogen van een persoon duidelijk verhoogd, maar daarom kan ook de geringste overdosering tot een acute hartstilstand leiden. Dienovereekomstig moet een persoon, die de xenithdrug inneemt, voortdurend bewaakt worden."/>
+	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="ProductionBonus0Stats" value="<icon texture='Resources/Production'/> +50%"/>
+	<entry name="ResearchBonus0" value="Observatorium"/>
+	<entry name="ResearchBonus0Description" value="Een eeuwen geleden, met buitenaardse technologie ingericht, grotendeels intact observatorium, dat er niet alleen prachtig uitziet, maar ook een ware zegen voor onze wetenschappers is. Het observatorium verbetert de wetenschappelijke opbrengst in stad waar het onder valt enorm. Dat komt niet allen, omdat de wetenschappers de hemel kunnen bestuderen, maar ook van op een zekere afstand de buitenaarde wezens kunnen bestuderen."/>
+	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
+	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +50%"/>
+	<entry name="River" value="Rivier"/>
+	<entry name="RiverDescription" value="De sterkere zwaartekracht op Pandora leidt ertoe, dat rivieren zich dieper het land in graven, waardoor ze zeer goed te verdedigen zijn."/>
+	<entry name="RiverProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden tegen tegenstanders op de andere rivieroever"/>
+	<entry name="RiverStats" value="<icon texture='Resources/Food'/> +1"/>
+	<entry name="Road" value="Weg"/>
+	<entry name="RoadDescription" value="Indien adequaat onderhouden, vergemakkelijkt een weg het transport en de inzet van voertuigen en troepen enorm."/>
+	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Konstruktion<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="Ruin" value="Ruïne"/>
+	<entry name="RuinDescription" value="Deze ruïnes zijn overblijfselen van een reeds lang vergeten buitenaardse beschaving en kunnen grote kennis en enorme schatten herbergen.<br/><br/>Als je een ruïne wilt onderzoeken, moet je een eenheid het ruïnegebied insturen."/>
+	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk"/>
+	<entry name="Savanna" value="Savanne"/>
+	<entry name="SavannaDescription" value="Savannes worden gekenmerkt door een warm en droog klimaat. Op grond van hun vruchtbare vlaktes zijn ze goed geschikt voor landbouw."/>
+	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="SavannaStats" value="<icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 0"/>
+	<!-- <entry name="ScorchedEarth" value="Scorched Earth"/> -->
+	<!-- <entry name="ScorchedEarthDescription" value="As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore."/> -->
+	<!-- <entry name="ScorchedEarthProperties" value="Effect"/> -->
+	<!-- <entry name="Shield" value="Shield"/> -->
+	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
+	<!-- <entry name="ShieldProperties" value="Effect"/> -->
+	<entry name="Storm" value="Ionenstorm"/>
+	<entry name="StormDescription" value="Voordat de Messari arriveren worden gebieden door zware elektromagnetische stormen beschadigd, waarbij alles dat zich er bevindt zware schade oploopt."/>
+	<entry name="StormProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Veroorzaakt 1,0 schade per ronde<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="Suburb" value="Voorstad"/>
+	<entry name="SuburbDescription" value="Deze luxueuze laagbouw is ideaal voor onze arbeidersklasse, die zich na een zware dag in de mijnen of fabrieken in zijn vertrouwde huis met famillie kan terugtrekken."/>
+	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3"/>
+	<entry name="SeafoodBonus0" value="Vissen"/>
+	<entry name="SeafoodBonus0Description" value="De zee in dit gebied huisvest talrijke eetbare levensvormen, die een overvloedige voedingsbron kunnen vormen voor de omliggende steden."/>
+	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="Tropical" value="Tropisch"/>
+	<entry name="TropicalDescription" value="Tropische gebieden kenmerken zich door een warm en vochtig klimaar, welige vegetatie alsook een bodem die relatief arm aan voedingstoffen is."/>
+	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="TropicalStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Tundra" value="Toendra"/>
+	<entry name="TundraDescription" value="De toendra is een koud en dor landschap, waarin de vegetatie hoofdzakelijk uit struiken, mis en lichenen bestaat. De landbouw wordt op grond van de lage temperaturen en de permanent bevroren ondergrond zelfs in de korte bloeiseizoenen erg beperkt."/>
+	<entry name="TundraProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
+	<entry name="TundraStats" value="<icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 0"/>
+</language>

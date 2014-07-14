@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Economy0" value="&quot;Zonder steden en infrastructuur is er geen economie.&quot;"/>
+	<entry name="Economy1" value="&quot;Overal rode cijfers! Veel erger kan het niet worden, nietwaar?&quot;"/>
+	<entry name="Economy2" value="&quot;Onze markt verbleekt bij de markten van onze concurrenten.&quot;"/>
+	<entry name="Economy3" value="&quot;We hebben een florerende economie!&quot;"/>
+	<entry name="Economy4" value="&quot;Onze economie is één van de drijvende krachten achter de planetaire markt.&quot;"/>
+	<entry name="Economy5" value="&quot;We plukken de vruchten van onze jarenlange arbeid: Onze economie is ongeëvenaard!&quot;"/>
+	<entry name="Diplomacy0" value="&quot;Er is nog geen contact met andere fracties.&quot;"/>
+	<entry name="Diplomacy1" value="&quot;We zijn geïsoleerd en worden door velen gehaat! U moet uw handelswijze beslist overdenken!&quot;"/>
+	<entry name="Diplomacy2" value="&quot;De andere fracties zijn begonnen, zich van ons te distantiëren.&quot;"/>
+	<entry name="Diplomacy3" value="&quot;We worden door de leiders van de andere fracties gerespecteeerd.&quot;"/>
+	<entry name="Diplomacy4" value="&quot;Onze betrekkingen met de andere fracties zijn goed. Ga zo verder!&quot;"/>
+	<entry name="Diplomacy5" value="&quot;Fantastisch! De leiders van de andere fracties mogen ons of houden zelfs van ons! We kunnen op hun steun rekenen.&quot;"/>
+	<entry name="Military0" value="&quot;We hebben geen strijdkrachten en zijn volledig hulpeloos!&quot;"/>
+	<entry name="Military1" value="&quot;De omvang van ons leger is lachwekkend! Iedere maar halfformidabele vijand loopt ons eenvoudig onder de voet.&quot;"/>
+	<entry name="Military2" value="&quot;Onze militaire sterkte is te klein, we zouden een invasie waarschijnlijk niet af kunnen weren.&quot;"/>
+	<entry name="Military3" value="&quot;We beschikken over een solide leger, dat vijandelijke agressoren van repliek kan dienen.&quot;"/>
+	<entry name="Military4" value="&quot;Ons leger is sterk genoeg en in staat om lange veldtochten te voeren.&quot;"/>
+	<entry name="Military5" value="&quot;Onze troepen zijn de beste op de planeet. Onze tegenstanders beven van angst!&quot;"/>
+	<entry name="Research0" value="&quot;We hebben nog geen technologiën ontwikkeld.&quot;"/>
+	<entry name="Research1" value="&quot;We lopen jaren achter op de andere fracties en worden door hen belachelijk gemaakt!&quot;"/>
+	<entry name="Research2" value="&quot;Andere fracties zijn ons voorbij. Het wordt tijd om nieuwe prioriteiten te stellen!&quot;"/>
+	<entry name="Research3" value="&quot;Ons onderzoek verloopt wel en kan goed meekomen met dat van de andere fracties.&quot;"/>
+	<entry name="Research4" value="&quot;Goed nieuws! We zijn één van de meest vergevorderde fracties op de planeet.&quot;"/>
+	<entry name="Research5" value="&quot;Vol trots kan ik u meedelen, dat we alle andere fracties achter ons hebben gelaten. Onze wetenschappers zijn ware corifeeën!&quot;"/>
+</language>

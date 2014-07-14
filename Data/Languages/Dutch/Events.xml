@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="NearX" value=" in de buurt van %1%"/>
+	
+	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AllianceEntered" value="De fractie %1% heeft een alliantie met de fractie %2% gesloten."/>
+	<entry name="AllianceTerminated" value="De fractie %1% heeft de alliantie met de fractie %2% verbroken."/>
+	<entry name="BuildingDismantled" value="%1% heeft het gebouw %2% afgebroken."/>
+	<entry name="BuildingProductionComplete" value="%1% heeft een gebouw gereed: %2%."/>
+	<entry name="CityAttackedByUnit" value="%1% werd aangevallen door: %2%."/>
+	<entry name="CityCapturedByPlayer" value="%1% werd ingenomen door: %2%."/>
+	<entry name="CityDamagedByOther" value="%1% werd geschadigd door: %2%."/>
+	<entry name="CityGrown" value="%1% is gegroeid."/>
+	<entry name="CityRazedByOther" value="%2% heeft %1% verwoest."/>
+	<entry name="CityRazedByUnit" value="%2% heeft %1% verwoest."/>
+	<entry name="ContactEstablished" value="Contact tot stand gebracht met: %1%"/>
+	<entry name="Discovered" value="%1% ontdekt."/>
+	<entry name="Denounced" value="%1% heeft %2% terechtgewezen."/>
+	<entry name="EnemyDetected" value="Vijand %2% waargenomen: %1%"/>
+	<entry name="Era1Entered" value="De fractie %1% heeft het tijdperk der mechanisiering bereikt."/>
+	<entry name="Era2Entered" value="De fractie %1% heeft het tijdperk der transcendentie bereikt."/>
+	<entry name="HintInflictedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> schade veroorzaakt, %2% <icon texture='Attributes/Power'/> sterkte over.<br/>"/>
+	<entry name="HintPopulationLost" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Resources/Population'/> bevolkering verloren, %2% over.<br/>"/>
+	<entry name="HintSufferedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> Schaden geleden, %2% <icon texture='Attributes/Power'/> sterkte over.<br/>"/>
+	<entry name="RewardHiveDestroyed" value="Buitenaardse zwermkorf vernietiegd."/>
+	<entry name="ImprovementLost" value="Verbetering %2% verloren: %1%."/>
+	<entry name="NonAggressionEntered" value="%1% heeft een niet-aanvalsverdrag met %2% gesloten."/>
+	<entry name="NonAggressionTerminated" value="%1% heeft het niet-aanvalsverdrag met %2% beëindigd."/>
+	<entry name="ObservatoryExplored" value="Observatorium verkend."/>
+	<entry name="OperationProductionComplete" value="%1% heeft operatie voltooid: %2%."/>
+	<entry name="OtherDamagedCity" value="%1% werd beschadigd door: %2%."/>
+	<entry name="OtherDamagedUnit" value="%2% heeft eenheid &quot;%1%&quot; schade toegebracht."/>
+	<entry name="OtherKilledUnit" value="%2% heeft eenheid &quot;%1%&quot; %3% uitgeschakeld."/>
+	<entry name="OtherRazedCity" value="%1% werd verwoest door: %2%."/>
+	<entry name="OutOfCredits" value="Geen <icon texture='Resources/Credits'/> kredieten meer."/>
+	<entry name="OutOfCreditsHint" value="Om verliezen te vergoeden wordt begonnen eenheden te ontbinden en gebouwen te ontmantelen!"/>
+	<entry name="OutOfFood" value="Geen <icon texture='Resources/Food'/> voedsel meer."/>
+	<entry name="OutOfFoodHint" value="Je bevolking verhongerd!"/>
+	<entry name="OutOfMinerals" value="Geen <icon texture='Resources/Minerals'/> mineralen meer."/>
+	<entry name="OutOfMineralsHint" value="De productie wordt afgeremd!"/>
+	<entry name="PeaceEntered" value="%1% heeft vrede gesloten met %2%."/>
+	<entry name="PlayerProducedItem" value="%1% heeft productie gereed: %2%."/>
+	<entry name="Praised" value="%1% heeft %2% geloofd."/>
+	<entry name="AdvancementProductionComplete" value="%1% heeft voortgang gereed: %2%."/>
+	<entry name="ResearchComplete" value="Onderzoek voltooid: %1%"/>
+	<entry name="UnitAttackedByUnit" value="%1% werd %3% aangevallen door: %2%."/>
+	<entry name="UnitAttackedCity" value="%1% heeft %2% aangevallen."/>
+	<entry name="UnitAttackedUnit" value="%2% werd %3% aangevallen door: %1%."/>
+	<entry name="UnitCapturedCity" value="%1% heeft %2% veroverd."/>
+	<entry name="UnitDamagedByOther" value="%1% heeft %3% schade geleden door: %2%."/>
+	<entry name="UnitDisbanded" value="%1% werd ontbonden."/>
+	<entry name="UnitProductionComplete" value="%1% heeft eenheid gereed: %2%."/>
+	<entry name="UnitRazedCity" value="%1% heeft %2% verwoest."/>
+	<entry name="UnitKilledByOther" value="%1% werd%3% uitgeschakeld door: %2%."/>
+	<entry name="UnitKilledByUnit" value="%1% werd%3% uitgeschakeld door: %2%."/>
+	<entry name="UnitKilledUnit" value="%2% werd%3% uitgeschakeld door: %1%."/>
+	<entry name="WarEntered" value="%1% heeft %2% de oorlog verklaard."/>
+	
+	<entry name="FlavorAlienAggressionImminent" value="Buitenaardse agressie is nu acuut."/>
+	<entry name="FlavorAlienGenocideComplete" value="Buitenaardsen volledig uitgeroeid."/>
+	<entry name="FlavorAlienSighted" value="Buitenaardsen gezien."/>
+	<entry name="FlavorPlanetFullyExplored" value="Planeet volledig verkend."/>
+	<entry name="FlavorPopulationLimitReached" value="Bevolkingslimiet bereikt."/>
+	<entry name="FlavorRuinInSight" value="Ruïne waargenomen."/>
+	
+	<entry name="NewsBlackHoleGeneratorBuilt" value="%1% heeft een zwartgatgenerator gebouwd."/>	
+	<entry name="NewsEconomyVictoryNear" value="%1% nadert een economische overwinning."/>
+	<entry name="NewsFactionEliminated" value="%1% werd uitgeroeid."/>
+	<entry name="NewsGlobalPollutionThresholdReached" value="Hoge mondiale vervuiling."/>
+	<entry name="NewsMilitaryVictoryNear" value="%1% nadert een militaire overwinning."/>
+	<entry name="NewsNuclearLaunchCenterBuilt" value="%1% heeft een rakettencontrolecentrum gebouwd."/>
+	<entry name="NewsResearchVictoryNear" value="%1% nadert een ecnomische overwinning."/>
+	
+	<entry name="RewardRuinExplored" value="Ruïne verkend."/>
+	<entry name="RewardSunkenRuinExplored" value="Verzonken ruïne verkend."/>
+</language>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlienAggression" value="Buitenaardse agressie"/>
+	<entry name="AlienAggression0" value="Zeer laag"/>
+	<entry name="AlienAggression0Hint" value="De buitenaardse levensvormen worden pas zeer laat vijandig en leggen slechts zeer korte afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren maar zeer langzaam nieuwe Xenomorfen."/>
+	<entry name="AlienAggression1" value="Laag"/>
+	<entry name="AlienAggression1Hint" value="De buitenaardse levensvormen worden relatief laat vijandig en leggen korte afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren maar relatief langzaam nieuwe Xenomorfen."/>
+	<entry name="AlienAggression2" value="Middel"/>
+	<entry name="AlienAggression2Hint" value="De buitenaardse levensvormen worden relatief snel vijandig en leggen middellange afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren relatief snel nieuwe Xenomorfen."/>
+	<entry name="AlienAggression3" value="Hoog"/>
+	<entry name="AlienAggression3Hint" value="De buitenaardse levensvormen worden behoorlijk snel vijandig en leggen lange afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren behoorlijk snel nieuwe Xenomorfen."/>
+	<entry name="AlienAggression4" value="Zeer hoog"/>
+	<entry name="AlienAggression4Hint" value="De buitenaardse levensvormen worden uiterst snel vijandig en leggen immense afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren uiterst snel langzaam nieuwe Xenomorfen."/>
+	<entry name="AlienAggression5" value="Willekeurig"/>
+	<entry name="AlienAggression5Hint" value="De buitenaardse agressie wordt aan het begin van het spel willekeurig gekozen."/>
+        <entry name="AlliedVictory" value="Geallileerde overwinning"/>
+	<entry name="Difficulty" value="Moeilijkheidsgraad"/>
+	<entry name="Difficulty0" value="Zeer makkelijk"/>
+	<entry name="Difficulty0Hint" value="Computerspelers hebben in vergelijking met de speler lichte nadelen."/>
+	<entry name="Difficulty1" value="Makkelijk"/>
+	<entry name="Difficulty1Hint" value="Computerspelers hebben geen voordeel tegenover de speler."/>
+	<entry name="Difficulty2" value="Middel"/>
+	<entry name="Difficulty2Hint" value="Computerspelers genieten lichte voordelen tegenover de speler."/>
+	<entry name="Difficulty3" value="Moeilijk"/>
+	<entry name="Difficulty3Hint" value="Computerspelers genieten middelmatige voordelen tegenover de speler."/>
+	<entry name="Difficulty4" value="Moeilijkst"/>
+	<entry name="Difficulty4Hint" value="Computerspelers genieten duidelijke voordelen tegenover de speler."/>
+	<entry name="Difficulty5" value="Willekeurig"/>
+	<entry name="Difficulty5Hint" value="De moeilijkheidsgraad voor iedere actieve Ki-fractie wordt aan het begin van het spel willekeurig gekozen."/>
+	<entry name="GameVisibility" value="Spelzichtbaarheid"/>
+	<entry name="GameVisibility0" value="Alleen vrienden"/>
+	<entry name="GameVisibility0Hint" value="Toetreden tot het spel is alleen mogelijk via vriendenlijsten, uitnodigingen of directe verbinding."/>
+	<entry name="GameVisibility1" value="Privé"/>
+	<entry name="GameVisibility1Hint" value="Toetreden tot het spel is alleen mogelijk via uitnodigingen of directe verbinding."/>
+	<entry name="GameVisibility2" value="Openbaar"/>
+	<entry name="GameVisibility2Hint" value="De spelpartij verschijnt in openbare lijsten en iedereen kan toetreden."/>
+	<entry name="DropIn" value="Invallen toegestaan"/>
+	<entry name="DropInHint" value="Sta spelers die toetreden toe om nadat het spel begonnen is in te vallen voor KI-spelers en spelers waarmee de verbinding verbroken is. Normaal mogen spelers alleen hun verbinding herstellen of als toeschouwer meekijken."/>
+	<entry name="EconomyVictory" value="Economische overwinning"/>
+	<entry name="MilitaryVictory" value="Militaire overwinning"/>
+	<entry name="Pace" value="Tempo"/>
+	<entry name="Pace0" value="Hoog"/>
+	<entry name="Pace0Hint" value="Bij hoog speltempo dalen de kosten en tijdsduren met 50%."/>
+	<entry name="Pace1" value="Normaal"/>
+	<entry name="Pace1Hint" value="Bij normaal speltempo worden kosten en tijdsduren niet veranderd."/>
+	<entry name="Pace2" value="Episch"/>
+	<entry name="Pace2Hint" value="Bij een episch speltempo worden de kosten en tijdsduren met 50% verhoogd."/>
+	<entry name="Pace3" value="Marathon"/>
+	<entry name="Pace3Hint" value="Bij een marathontempo worden de kosten en tijdsduren met 100% verhoogd."/>
+	<entry name="Pace4" value="Willekeurig"/>
+	<entry name="Pace4Hint" value="Het speltempo wordt aan het begin van de spel willekeurig gekozen."/>
+	<entry name="RandomizedResearchTree" value="Willekeurig geordende onderzoeksboom"/>
+	<entry name="ResearchVictory" value="Wetenschappelijke overwinning"/>
+	<entry name="RevealedResearchTiers" value="Zichtbare onderzoekstreden"/>
+	<entry name="RevealedResearchTiers0" value="Geen"/>
+	<entry name="RevealedResearchTiers0Hint" value="Technologieën, die één trede hoger ingedeeld zijn, worden getoond."/>
+	<entry name="RevealedResearchTiers1" value="Eén"/>
+	<entry name="RevealedResearchTiers1Hint" value="Technologieën, die twee treden hoger ingedeeld zijn, worden getoond."/>
+	<entry name="RevealedResearchTiers2" value="Twee"/>
+	<entry name="RevealedResearchTiers2Hint" value="Technologieën, die drie treden hoger ingedeeld zijn, worden getoond."/>
+	<entry name="RevealedResearchTiers3" value="Drie"/>
+	<entry name="RevealedResearchTiers3Hint" value="Technologieën, die vier treden hoger ingedeeld zijn, worden getoond."/>
+	<entry name="RevealedResearchTiers4" value="Alle"/>
+	<entry name="RevealedResearchTiers4Hint" value="De gehele onderzoeksboom wordt vanaf het begin getoond."/>
+	<entry name="RevealedResearchTiers5" value="Willekeurig"/>
+	<entry name="RevealedResearchTiers5Hint" value="Het aantal getoonde onderzoekstreden wordt aan het begin van het spel willekeurig gekozen."/>
+	<entry name="Shape" value="Wereldvorm"/>
+	<entry name="Shape0" value="Archipel"/>
+	<entry name="Shape0Hint" value="De spelwereld bestaat uit meerdere kleinere eilanden, terwijl ongeveer 80% van het planeetoppervlak met water bedekt is. Nautische verkenning en oorlogen spelen een beslissende rol."/>
+	<entry name="Shape1" value="Continenten"/>
+	<entry name="Shape1Hint" value="De spelwereld bestaat uit enkele grote continenten, terwijl ongeveer 70% van het planeetoppervlak met water bedekt is. Het vinden van het juiste evenwicht bij de eigen troepen, is de sleutel tot millitair succes.."/>
+	<entry name="Shape2" value="Pangea"/>
+	<entry name="Shape2Hint" value="De spelwereld bestaat uit een reuzachtig supercontinent, terwijl ongeveer 60% van het planeetoppervlak met water bedekt is. Het is aan te bevelen bijzondere nadruk op sterke grondtroepen te leggen."/>
+	<entry name="Shape3" value="Willekeurig"/>
+	<entry name="Shape3Hint" value="De vorm van de spelwereld wordt aan het begin van het spel willekeurig gekozen."/>
+	<entry name="Size" value="Wereldgrootte"/>
+	<entry name="Size0" value="Zeer klein"/>
+	<entry name="Size0Hint" value="Een zeer kleine wereld bestaat uit 24x24 en daarmee uit totaal 576 gebieden."/>
+	<entry name="Size0HintFactions" value="Er zijn 3 menselijke fracties."/>
+	<entry name="Size1" value="Klein"/>
+	<entry name="Size1Hint" value="Een kleine wereld bestaat uit 32x32 en daarmee uit totaal 1024 gebieden."/>
+	<entry name="Size1HintFactions" value="Er zijn 5 menselijke fracties."/>
+	<entry name="Size2" value="Middel"/>
+	<entry name="Size2Hint" value="Een middelgrote wereld bestaat uit 44x44 en daarmee uit totaal 1936 gebieden.."/>
+	<entry name="Size2HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size3" value="Groot"/>
+	<entry name="Size3Hint" value="Een grote wereld bestaat uit 60x60 en daarmee uit totaal 3600 gebieden."/>
+	<entry name="Size3HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size4" value="Zeer groot"/>
+	<entry name="Size4Hint" value="Een zeer grote wereld bestaat uit 80x80 en daarmee uit totaal 6400 gebieden."/>
+	<entry name="Size4HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size5" value="Willekeurig"/>
+	<entry name="Size5Hint" value="De omvang van de spelwereld wordt aan het begin van het spel willekeurig gekozen."/>
+	<entry name="Size5HintFactions" value=""/>
+	<entry name="Temperature" value="Klimaat"/>
+	<entry name="Temperature0" value="Koud"/>
+	<entry name="Temperature0Hint" value=""/>
+	<entry name="Temperature1" value="Gematigd"/>
+	<entry name="Temperature1Hint" value=""/>
+	<entry name="Temperature2" value="Warm"/>
+	<entry name="Temperature2Hint" value=""/>
+	<entry name="Temperature3" value="Willekeurig"/>
+	<entry name="Temperature3Hint" value="Het klimaat op de planeet wordt aan het begin van het spel willekeurig gekozen."/>
+	<entry name="TurnTimer" value="Rondeduur"/>
+	<entry name="TurnTimer0" value="Onbegrensd"/>
+	<entry name="TurnTimer0Hint" value=""/>
+	<entry name="TurnTimer1" value="Zeer kort (2 minuten)"/>
+	<entry name="TurnTimer1Hint" value=""/>
+	<entry name="TurnTimer2" value="Zeer kort (aangepast)"/>
+	<entry name="TurnTimer2Hint" value=""/>
+	<entry name="TurnTimer3" value="Kort (4 minuten)"/>
+	<entry name="TurnTimer3Hint" value=""/>
+	<entry name="TurnTimer4" value="Kort (aangepast)"/>
+	<entry name="TurnTimer4Hint" value=""/>
+	<entry name="TurnTimer5" value="Middel (6 minuten)"/>
+	<entry name="TurnTimer5Hint" value=""/>
+	<entry name="TurnTimer6" value="Middel (aangepast)"/>
+	<entry name="TurnTimer6Hint" value=""/>
+	<entry name="TurnTimer7" value="Lang (8 minuten)"/>
+	<entry name="TurnTimer7Hint" value=""/>
+	<entry name="TurnTimer8" value="Lang (aangepast)"/>
+	<entry name="TurnTimer8Hint" value=""/>
+	<entry name="TurnTimer9" value="Zeer lang (10 minuten)"/>
+	<entry name="TurnTimer9Hint" value=""/>
+	<entry name="TurnTimer10" value="Zeer lang (aangepast)"/>
+	<entry name="TurnTimer10Hint" value=""/>	
+	<entry name="Victory1" value="Economische overwinning"/>
+	<entry name="Victory2" value="Militaire overwinning"/>
+	<entry name="Victory3" value="Wetenschappelijke overwinning"/>
+</language>

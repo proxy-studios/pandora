@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="0Description" value="Kolonisatoren zijn zeer grote bouweenheden, waarmee je steden kunt stichten, die de ruggegraat van het rijk vormen. Klink op de knop &quot;stad stichten&quot; in het keuzevester aan de linkerkant, om je eerste stad op Pandora te stichten. Hou er rekening mee, dat de kolonisator bij het uitvoeren van de order verbruikt wordt."/>
+	<entry name="0Name" value="Kolonisator"/>
+	<entry name="1Description" value="Deze eenheid vormt je eerste verdedigingslinie tegen concurrerende fracties en vijandige buitenaardse wezens. Je kunt het zekere voor het onzekere nemen en de eenheid in je stad verschansen, of je gaat op ontdekkingstocht, in welk geval je een rechterklik geeft op het vakje waar je naartoe wilt. Verkenning is weliswaar riskant, maar kan enorm lonen!"/>
+	<entry name="1Name" value="Vechteenheid"/>
+	<entry name="2Description" value="Een stad kan slechts één ding tegelijk produceren (zoals bijv een eenheid of een gebouw). Rechtsboven die je de productiemogelijkheden. Als je op zo'n mogelijk project klikt, dan wordt deze aan aan de productierij toegevoegd en de productie begint aan het eind van de ronde. Je kunt de rijvolgorde middels slepen en neerzetten veranderen."/>
+	<entry name="2Name" value="Productiemogelijkheden in de stad"/>
+	<entry name="3Description" value="Het bevolkingsvenster stelt je in staat je onderdanen zich op verschillende gebieden te focussen. Experimenteer door kolonisten op te pakken en neer te zetten bij verschillende taken. De uitwerking van deze indeling kun je in het statistiekvenster zien. De juiste indeling kan het onderscheid tussen een florerend en een kwakkelend rijk maken."/>
+	<entry name="3Name" value="Stadsbevolking"/>
+	<entry name="4Description" value="Als je over genoeg <icon texture='Resources/Credits'/> kredieten beschikt, dan kun je ze invesreren, om de productie snel af te sluiten. Klik daartoe op het kleine <icon texture='Resources/Credits'/> kredietensymbool."/>
+	<entry name="4Name" value="Productie afkopen"/>
+	<entry name="5Description" value="Linksonder in het stadsaanzicht vind je een lijst van alle gebouwen, die in deze stad gebouwd zijn. Als je een gebouw wilt verkopen, dan kun je daarop simpelweg klikken."/>
+	<entry name="5Name" value="Gebouwen in de stad"/>
+	<entry name="6Description" value="Eenheden worden aan de hand van ontwerpen gebouwd en in de werkplaats kun je je ontwerpen maken en aanpassen. Klik voor het maken van een nieuw ontwerp op de knop &quot;Nieuw&quot;. Daarmee wordt een kopie van het momenteel geselecteerde ontwerp gemaakt en deze kun je bewerken, zonder het origineel te veranderen."/>
+	<entry name="6Name" value="Ontwerpen in de werkplaats"/>
+	<entry name="7Description" value="Vormereenheden bouwen terreinaanpassingen zoals boerderijen of mijnen, die de grondstofwinning in gebieden verhoogt, die door steden gebruikt worden. Als je het jezelf makkelijk wilt maken, dan kun je de vormers automatiseren, door in het keuzevenster op de knop &quot;Automatiseren&quot; te klikken."/>
+	<entry name="7Name" value="Vormers"/>
+	<entry name="8Description" value="Je bent bijna door je grondstoffen heen! Beweeg de muiscursor over de grondstofaanduidingen aan de linkerbovenkant van het scherm, om te zien waar precies het probleem ligt. Misschien zou het kunnen helpen, de prioriteiten in je steden aan te passen, één of twee nieuwe gebouwen neer te zetten of met een kolonisator een nieuwe stad te bouwen."/>
+	<entry name="8Name" value="Geen grondstoffen meer"/>
+	<entry name="9Description" value="Welkom op Pandora! Gebruik om over de wereld te bewegen de linker muisknop op de kaart gedrukt en beweeg de muis. Alternatief kan je ook de pijltjestoetsen gebruiken. Zodra je genoeg rondgekeken hebt, kun je de eenheid in het midden van de verkende wereld met een linkerklik selecteren, klik daarna op &quot;OK&quot;."/>
+	<entry name="9Name" value="Start van het spel"/>
+	<entry name="10Description" value="Neem rustig de tijd om de gebruikersinterface te leren kennen. Iedere knop en ieder symbool beschikt over een helptekst, die je de relevante informatie geeft. Als je niet meer weet wat de volgende stap is die je moet doen, dan kun je op de oplichtende knop rechtsonder klikken. Deze knop helpt je erbij om je op de volgende taak te richten, voordat je je ronde beëindigt."/>
+	<entry name="10Name" value="Rondeknop"/>
+	<entry name="11Description" value="Belangrijke grondstoffen, zoals voedsel, mineralen, onderzoek en kredieten worden centraal in je rijk ingezameld en verdeeld. Elk van je steden levert haar grondstoffen aan een gemeenschappelijke pot, waaruit ze ook jaar benodigde grondstoffen betrekt. Daarmee kun je je steden op bepaalde gebieden specialiseren, of bijvoorbeeld voorraden voor slechtere tijden aanleggen. "/>
+	<entry name="11Name" value="Mondiale grondstoffenpot"/>
+	<entry name="12Description" value="Je hebt je eerste operatie ontwikkeld. Operaties kunnen verschillende werkingen hebben, van bonussen voor je eenheden tot directe schade bij je vijand toebregen. Na de ontwikkeling van een operatie of het bouwen van het bijbehorende gebouw, kun je hem op heel Pandora inzetten."/>
+	<entry name="12Name" value="Onderzoeken van operaties"/>
+	<entry name="13Description" value="Je eerste operatie is gereed om op te starten. Kies hem in het operatievenster en vuur hem af. Gebouwen die operaties beschikbaar maken, benodigen na inzet een bepaalde tijd, om weer gereed te maken voor een nieuwe inzet, dus ga er verstandig mee om. Een slimme omgang met operaties kan beslissend zijn voor de uitkomst van een oorlog."/>
+	<entry name="13Name" value="Beschikbaarheid van operaties"/>
+	<entry name="14Description" value="Je eenheid heeft schade geleden en is gewond danwel beschadigd. Zijn sterkte is verminderd en hij zal het volgende gevecht waarschijnlijk niet overleven. Om te regenereren, moet hij stilstaan en mag niet aan een gevecht deelnemen. Je kunt het regeneratieproces versnellen, door de eenheid naar een stad te bewegen."/>
+	<entry name="14Name" value="Genezing"/>
+	<entry name="15Description" value="Iedere eenheid kan per ronde een bepaalde afstand afleggen, die afhangt van zijn bewegingsnelheid. Zodra een eenheid zich in de huidige ronde niet meer kan bewegen, wordt de sterkteaanduiding over de eenheid in het grijs getoond."/>
+	<entry name="15Name" value="Beweging"/>
+	<entry name="16Description" value="In het economievenster vindt je een overzicht van al je steden. Hier kan je op eenvoudige wijze de productie aanpassen, de bevolking naar wens aan werkgebieden toebedelen en zelfs het centrale belastingtarief instellen."/>
+	<entry name="16Name" value="Economievenster"/>
+	<entry name="17Description" value="Zodra je het gewenste ontwerp geselecteerd hebt, kun je het bewerken, waarbij je eerst een klasse vastlegt en daarna een compatibel wapen, een uitrusting en een bepantsering kunt uitkiezen. Elke eenheidmodule heeft zijn eigen sterktes en zwaktes en tijdens het spelverloop zul je de beschikking krijgen over een overvloed aan modules."/>
+	<entry name="17Name" value="Bewerken van ontwerpen"/>
+	<entry name="18Description" value="De mondialisering heeft ook zijn uitwerking op de bevolkingsgroei. Hoewel de totale bevolkingsgroei in je rijk onafhankelijk van het aantal steden is, wordt migratie van je kolonisten tussen je steden bepaald door het moraal. Factoren als sterkte milieuvervuiling, hoge belastingen en niet-beschikbare woonruimte zorgen ervoor, dat kolonisten zich naar beter leefbare plaatsen in je rijk begeven."/>
+	<entry name="18Name" value="Mondiale groei"/>
+	<entry name="19Description" value="De totale controle over Pandora kan op drie manieren berijkt worden: door mondiale hegemonie, door het overkopen van alle onafhankelijke fracties en door wetenschappelijk transcendentie. Verdere details en voortgang van deze overwinningsvoorwaarden verkrijg je bij de militaire, economische en onderzoeksknoppen aan de onderzijde van het scherm."/>
+	<entry name="19Name" value="Overwinningsvoorwaarden"/>
+	<entry name="20Description" value="In het onderzoeksvenster vindt je de willekeurig samengestelde onderzoeksboom. Met een klik op een technologie leg je vast, dat je wetenschappers zich op deze technologie concentreren. Als je de shift-toets ingedruk houdt, dan kun je een rij van technologieën makendie na elkaar onderzocht worden. Als je de musicursor boven een technologie plaatst, dan wordt daarover informatie weergegeven."/>
+	<entry name="20Name" value="Onderzoeksvenster"/>
+	<entry name="21Description" value="Om naar het stadsaanzicht over te schakelen, kun je op de naam van de stad klikken, of, als zich er geen eenheden ophouden, op de stad zelf. Bescherm je steden in ieder geval goed!"/>
+	<entry name="21Name" value="Stadsaanzicht openen"/>
+	<entry name="22Description" value="De economie- en militaire vensters helpen je bij het bestuur van je rijk en kunnen doormiddel van de knoppen onderaan het scherm opgeroepen worden. Zodra je rijk zich over heel Pandora verspreid, zullen deze hulpmiddelen bij je regeeractiviteiten een grote hulp zijn."/>
+	<entry name="22Name" value="Bestuur van het rijk"/>
+	<entry name="23Description" value="Meerdere eenheden kunnen op verschillede manieren geselecteerd worden. Met een dubbelklik op een gebied selecteer je alle daar gestationeerde eenheden. Als je de shift- of ctrl-toets ingedruk houdt terwijl je op een eenheid klikt, voeg je hem aan je selectie toe."/>
+	<entry name="23Name" value="Legeraansturing"/>
+	<entry name="24Description" value="In het compedium vindt je een hele reeks aan interessante informatie over het spel. Je kunt er aanvullende informatie over de fracties, gebouwen en eenheden vinden, de hulptesten opnieuw lezen en nog veel meer."/>
+	<entry name="24Name" value="Het Compendium"/>
+	<entry name="25Description" value="Zodra je een eenheid geselecteerd hebt en de muiscursor boven een vijand plaatst, wordt gedetailleerde informatie over de aanvaller, de verdediger, de modificatoren alsook overwinningskans en verwachte slachtoffers voor het gevecht getoondt. De einheid die het effectiefst tegen de aanvaller is wordt altijd automatisch gekozen bij een aanval. Gebruik deze informatie om je voordeel te doen."/>
+	<entry name="25Name" value="Strijd"/>
+	<entry name="26Description" value="Let bijzonder op de positionering van je eenheden. Verschillende terreintypen hebben een andere uitwerking op hun gevechtsterkte. Hoewel infanterie buitengewoon geschikt is voor gevechten in bossen en gebergtes, ondervinden soldaten duidelijke nadelen in open terrein. Om een aanvullend voordeel te behalen kun je je tegenstander proberen te flankeren door eenheden er in een driehoek omheen op te stellen. Iedere verdere flankerende eenheid geeft je troepen een sterktebonus van 25%."/>
+	<entry name="26Name" value="Flankeren"/>
+	<entry name="27Description" value="Projecten geven je rijk een tijdelijk of permanent voordeel, dat na voltooing van het project in een stad direct beschikbaar is. Deze voordelen kunnen van velerlei aard zijn. Ze rijken van eenvoedige grondstofbonussen tot aanvullende eenheden ten en met geavanceerde strategieën of technologieën, die je nieuwe mogelijkheden geven en je op verschillende gebieden significante voordelen geven."/>
+	<entry name="27Name" value="Projecten"/>
+</language>

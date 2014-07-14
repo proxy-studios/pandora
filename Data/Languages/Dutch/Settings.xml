@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlwaysShowHealthBars" value="Gezondheidsbalk altijd tonen"/>
+	<entry name="AlwaysShowHealthBarsHint" value="De gezondheidsbalk wordt altijd getoond, ook wanneer hij vol is."/>
+	<entry name="AmbientVolume" value="Volume omgevingsgeluiden"/>
+	<entry name="AmbientVolumeHint" value="Stelt de geluidsterkte van omgevingsgeluiden in."/>
+	<entry name="AnisotropicFiltering" value="Anisotropische filtering"/>
+	<entry name="AntiAliasing" value="Anti-kartelvorming"/>
+	<entry name="AntiAliasingHint" value="Vermindert de kartelvorming, door randen met FXAA te vervagen. Het kan de prestaties verlagen, afhankelijk van de vermogens van de grafische hardware."/>
+	<entry name="Audio" value="Geluid"/>
+	<entry name="AutoCycleUnits" value="Automatisch eenheden aflopen"/>
+	<entry name="AutoCycleUnitsHint" value="Er wordt automatisch naar de volgende eenheid geschakeld."/>
+	<entry name="Automation" value="Automatisering"/>
+	<entry name="AutoSave" value="Automatisch opslaan"/>
+	<entry name="AutoSaveHint" value="Slaat het spel automatisch op aan het begin van iedere ronde."/>
+	<entry name="CutsceneVolume" value="Volume tussenscènes"/>
+	<entry name="CutsceneVolumeHint" value="Stelt de geluidsterkte voor tussenscènes in."/>
+	<entry name="DiscoveryHelp" value="Hulp bij ontdekkingen"/>
+	<entry name="DiscoveryHelpHint" value="Opent het compendium, als je op gebeurtenissen van onderzoek of ontdekkingen klikt."/>
+	<entry name="DisplayMode" value="Beeldmode"/>
+	<entry name="DisplayModeHint" value="Stelt de beeldmode voor het spel in. In venstermode kunnen de prestaties lager zijn.<br/><br/><style color='Yellow'/>Bij opnames in de systeemeigen resolutie is de venstermode mogelijk het meest geschikt."/>
+	<entry name="DisplayMode0" value="Volledig scherm"/>
+	<entry name="DisplayMode1" value="Venster"/>
+	<entry name="DisplayMode2" value="Venster (ongedecoreerd)"/>
+	<entry name="EffectsVolume" value="Volume geluidseffecten"/>
+	<entry name="EffectsVolumeHint" value="Stelt de geluidsterkte van geluidseffecten in."/>
+	<entry name="FontStyle" value="Typografie"/>
+	<entry name="FontStyleHint" value="Stelt de gebruikte lettertypen in.<style color='Red'/>Je moet het spel opnieuw starten om een verandering van deze insteling te effectueren."/>
+	<entry name="FontStyle0" value="Futuristisch"/>
+	<entry name="FontStyle1" value="Eenvoudig"/>
+	<entry name="FontStyle2" value="Eenvoudig (groot)"/>
+	<entry name="FormersBuildConstructionBays" value="Vormers bouwen bouwplaatsen"/>
+	<entry name="FormersBuildEnergyParks" value="Vormers bouwen energieparken"/>
+	<entry name="FormersBuildFarms" value="Vormers bouwen boerderijen"/>
+	<entry name="FormersBuildFieldLaboratories" value="Vormers bouwen veldlaboratoria"/>
+	<entry name="FormersBuildMines" value="Vormers bouwen mijnen"/>
+	<entry name="FormersBuildPurifiers" value="Vormers bouwen reinigingsinstallaties"/>
+	<entry name="FormersBuildRoads" value="Vormers bouwen wegen"/>
+	<entry name="FormersBuildSuburbs" value="Vormers bouwen voorsteden"/>
+	<entry name="FormersClearForests" value="Vormers kappen bossen"/>
+	<entry name="FormersClearFungus" value="Vormers ruimen schimmel op"/>
+	<entry name="FormersClearPollution" value="Vormers ruimen vervuiling op"/>
+	<entry name="FormersDestroyImprovements" value="Vormers vernietigen verbeteringen"/>
+	<entry name="FormersGrowForests" value="Vormers planten bossen"/>
+	<entry name="FormersGrowFungus" value="Vormers planten schimmels"/>
+	<entry name="FormersImproveEcoregions" value="Vormers verbeteren ecoregio's"/>
+	<entry name="FormersWorsenEcoregions" value="Vormers verslechteren ecoregio's"/>
+	<entry name="General" value="Algemeen"/>
+	<entry name="GrabInput" value="Invoer vastgrijpen"/>
+	<entry name="InterfaceVolume" value="Volume interface-effecten"/>
+	<entry name="InterfaceVolumeHint" value="Stelt de geluidsterkte van interface-effecten in."/>
+	<entry name="KeyboardScrollSpeed" value="Toetsenbordscrollsnelheid"/>
+	<entry name="KeyboardScrollSpeedHint" value="Stelt in hoe snel het beeld met het toetsenbord gescrolld wordt."/>
+	<entry name="Language" value="Taal"/>
+	<entry name="MasterVolume" value="Hoofdvolume"/>
+	<entry name="MasterVolumeHint" value="Stelt het hoofdvolume in."/>
+	<entry name="MouseScrollSpeed" value="Muisscrollsnelheid"/>
+	<entry name="MouseScrollSpeedHint" value="Stelt in hoe snel het beeld met de muis gescrolld wordt."/>
+	<entry name="MusicVolume" value="Volume muziek"/>
+	<entry name="MusicVolumeHint" value="Stelt de geluidsterkte van de muziek in."/>
+	<entry name="Network" value="Netwerk"/>
+	<entry name="PlayCutscenes" value="Tussenscènes afspelen"/>
+	<entry name="PlayCutscenesHint" value="De tussenscènes in het spel worden getoond."/>
+	<entry name="ProductKey" value="Produktsleutel"/>
+	<entry name="ResetTips" value="Tips terugzetten"/>
+	<entry name="ResetTipsHint" value="Zet de tips terug, zodat ze opnieuw getoond worden."/>
+	<entry name="Resolution" value="Resolutie"/>
+	<entry name="ResolutionHint" value="Stelt de resolutie in waarin het spel getoond wordt. Een hogere resolutie verbetert de weergavekwaliteit, maar verhoogt de belasting die het spel legt op de processor en videokaart, waardoor er minder beelden per seconden getoond kunnen worden."/>
+	<entry name="ServerPort" value="Serverpoort"/>
+	<entry name="ServerPortHint" value="De TCP-poort bij het hosten van meerspelerpartijen. Er worden geen andere poorten gebruikt. De waarde 0 zorgt ervoor, dat automatisch een vrij poort gekozen wordt.<br/><br/><style color='Yellow'/>Als je meerspelerpartijen host, moet je een overeenkomstige poortforward op je router instellen, zodat andere spelers direct met je partij kunnen verbinden."/>
+	<entry name="ShadowQuality" value="Schaduwkwaliteit"/>
+	<entry name="ShadowQualityHint" value="Stelt de grootte van de schaduwkaart voor de berekening van de schaduwen in. Een hogere schaduwkwaliteit zorgt voor een gedetailleerdere weergave van schaduwen, maar vereist meer videogeheugen (VRAM)."/>
+	<entry name="ShadowQuality0" value="Laag"/>
+	<entry name="ShadowQuality1" value="Middel"/>
+	<entry name="ShadowQuality2" value="Hoog"/>
+	<entry name="ShowGrid" value="Rooster tonen"/>
+	<entry name="ShowGridHint" value="Geeft de roosterlijnen op de kaart weer.."/>
+	<entry name="ShowTips" value="Tips tonen"/>
+	<entry name="ShowTipsHint" value="Toont behulpzame tips."/>
+	<entry name="SpokenLanguage" value="Gesproken taal"/>
+	<entry name="SpokenLanguageHint" value="Stelt de taal van de gesproken tekst in."/>
+	<entry name="TextureQuality" value="Texturenkwaliteit"/>
+	<entry name="TextureQualityHint" value="Stelt de grootte van de in het spel gebruikte texturen in. Een hogere textuurkwaliteit zorgt voor een gedetailleerdere weergave van het terrein en de eenheden, maar vereist meer videogeheugen (VRAM).<br/><br/>Laag: 256 MB<br/>Middel: 512 MB<br/>Hoog: 1024 MB<br/><br/><style color='Red'/>Als je deze instelling aanpast, dan moet je het spel opnieuw starten om hem te effectueren."/>
+	<entry name="TextureQuality0" value="Laag"/>
+	<entry name="TextureQuality1" value="Middel"/>
+	<entry name="TextureQuality2" value="Hoog"/>
+	<entry name="VerticalSynchronization" value="Verticale synchronisatie"/>
+	<entry name="VerticalSynchronizationHint" value="Synchroniseert de framerate in het spel met de beeldverversingsfrequentie van je beeldscherm. Daarmee worden scheureffecten verminderd en de hardwarebelasting verlaagd. Desondanks kan het tot prestatieproblemen leiden, indien de gebruikte hardware problemen heeft, om de beeldverversingsfrequentie van je monitor uit te lezen."/>
+	<entry name="Video" value="Grafica"/>
+	<entry name="VoiceVolume" value="Volume gesproken tekst"/>
+	<entry name="VoiceVolumeHint" value="Stelt het volume van de gesproken tekst in."/>
+	<entry name="WrittenLanguage" value="Geschreven taal"/>
+	<entry name="WrittenLanguageHint" value="Stelt de taal van de geschreven tekst in.<br/><br/><style color='Red'/>Als je deze instelling verandert, dan moet je het spel opnieuw starten om hem te effectueren."/>
+</language>
