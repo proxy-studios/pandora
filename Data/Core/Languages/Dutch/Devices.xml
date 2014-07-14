@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Agile" value="Geavanceerde kostenberekening"/>
+	<entry name="AgileDescription" value="Een draagbare computer, die bij de optimalisatie van de bewegingskosten en vermoeingsmanagement ingezet wordt."/>
+	<entry name="AgileProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>Aanval kost 1 in plaats van alle <icon texture='Attributes/Movement'/> bewegingspunten"/>
+	<entry name="AlwaysHeal" value="Genezingsbevordingssysteem"/>
+	<entry name="AlwaysHealDescription" value="Door micromanagement van de serotoninspiegel in organische eenheden en spontane microreparaties bij mechanische eenheiden wordt het mogelijk voor elke eenheid te herstellen, ook als deze onderweg is."/>
+	<entry name="AlwaysHealProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>De eenheid regenereert altijd, zelfs na beweging of een aanval"/>
+	<entry name="Attack" value="Aanvalstaktiekcalibrator"/>
+	<entry name="AttackDescription" value="Deze uitrusting levert eenheden ogenblikkelijk doeltreffende tactieken en zorgt er zo voor, dat ze veel harder kunnen toeslaan en de argeloze tegenstanders grotere schade toebrengen."/>
+	<entry name="AttackProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte bij aanval"/>
+	<entry name="ConvertNative" value="Xenomorfferomator"/>
+	<entry name="ConvertNativeDescription" value="Met deze feromoonnabootsers die we ontwikkeld hebben, kunnen we de wilde dieren van de planeet temmen en ze zo verschrikkelijk doeltreffende waakhonden opvoeden."/>
+	<entry name="ConvertNativeProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>Verandert buitenaardse wezens in bondgenoten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Resources/Conversions'/> overlooplimiet<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> sterkte"/>
+	<entry name="Defense" value="Deadlockontwijkingsveld"/>
+	<entry name="DefenseDescription" value="Deze uitrusting scant een begrensd bereik voortdurend af naar inkomende aanvallen. In geval van een bedreiging kan het meteen passende uitwijkmanouvres opstarten."/>
+	<entry name="DefenseProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte bij verdediging"/>
+	<entry name="Experience" value="Ervarings-XXL-processor"/>
+	<entry name="ExperienceDescription" value="De EXP is een computer voor het opnemen en afspelen van alle strijdsituaties. Hiermee kunnen eenheden waardevolle ervaringen uit alle eerdere confrontaties met tegenstanders verkrijgen."/>
+	<entry name="ExperienceProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Rank'/> ervaringsaanwinst"/>
+	<entry name="FirstStrike" value="Computer voor pre-emptief toeslaan"/>
+	<entry name="FirstStrikeDescription" value="Eenheden kunnen met deze uitrusting potentiële bedreigingen en zwakke punten in de nabijheid analyseren en hebben daarmee de mogelijkheid, de eerste klap uit te delen."/>
+	<entry name="FirstStrikeProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>Eenheid lijdt geen schade, als hij met succes aanvalt"/>
+	<entry name="HealArea" value="Genezing en universeel onderhoud"/>
+	<entry name="HealAreaDescription" value="Het GUO-apparaat is een draagbaar nanowerktuig, dat bij de biologische en mechanische eenheden rondom de eenheid verscheidene microchirurgische en onderhoudsingrepen uitvoert. Daartoe analyseert hij de toestand van de beste organen/onderdelen van de eenheden in de buurt en repliceert deze dan in de gewonde danwel beschadigde eenheden."/>
+	<entry name="HealAreaProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>Geneest alle eenheden in een gebied en niet alleen zichzelf"/>
+	<entry name="HealAreaAlien" value="Transfusie"/>
+	<entry name="HealAreaAlienDescription" value=""/>
+	<entry name="HealAreaAlienProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>Geneest alle eenheden in een gebied en niet alleen zichzelf"/>
+	<entry name="Movement" value="Bewegingsanalyse- en optimalisatie"/>
+	<entry name="MovementDescription" value="Deze uitrusting onderzoekt zorgvuldig het omliggende terrein en berekent voortdurend de optimale bewegingsmogelijkheden. Daardoor genieten de eenheden, die deze uitrusting dragen, voordelen bij de beweging en kunnen zich zo veel verder verplaatsen."/>
+	<entry name="MovementProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Movement'/> beweging"/>
+	<entry name="Sight" value="Omgevingssonar"/>
+	<entry name="SightDescription" value="Dit sonarapparaat is in staat om de omgeving tot op middelgrote afstand met behulp van echoanalyse van hoogfrequente geluidsgolven en hun reflecties grafisch weer te geven."/>
+	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
+	<entry name="Upkeep" value="Grondstofgebruiknormalisator"/>
+	<entry name="UpkeepDescription" value="Dit draagbare apparaat dient enkel om het verbruik van alle eenheden dusdanig te rantsoeneren, dat er geen grondstoffen verspild worden. Hoewel dit een negatief effect op het moraal kan hebben, is de stijging in efficiëntie onbetaalbaar."/>
+	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> onderhoud"/>
+	<entry name="None" value="Geen uitrusting"/>
+	<entry name="NoneDescription" value="Eenheden die geen uitrusting hebben zijn zoals ze eruit zien: Zonder enige verassing."/>
+</language>
