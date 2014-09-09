@@ -30,6 +30,9 @@
 	<entry name="AlienTrooper" value="Soldato Messari"/>
 	<entry name="AlienTrooperDescription" value="Questa fanteria aliena sembra quasi umana, bipede e scimmiesca. Tuttavia, dato che non siamo mai riusciti a catturarne uno vivo, e nemmeno mai penetrato una delle loro armature, non possiamo dire se siano gli alieni stessi, qualche razza schiava, o anche solo una crudele beffa della razza umana.<br/><br/>Dovrebbero essere le unità più deboli dei Messari, ma sono a centinaia e comunque letali."/>
 	<entry name="AlienTrooperProperties" value="<icon texture='GUI/Bullet'/>Unità biologica leggera"/>	
+	<entry name="AmphibiousFormer" value="Terraformer Anfibio"/>
+	<entry name="AmphibiousFormerDescription" value="I Terraformer originali sono legati al terreno a causa del loro peso elevato... ma appena abbiamo esplorato i mari, abbiamo capito quanto potrebbe essere vantaggioso lo sviluppo acquatico. Questi nuovi modelli sono a tenuta stagna e molto più leggeri, quindi sono in grado di eseguire compiti in ambienti anfibi."/>
+	<entry name="AmphibiousFormerProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante anfibia<br/><icon texture='GUI/Bullet'/>Migliora un territorio<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
 	<entry name="Aspidoch" value="Aspidoch"/>
 	<entry name="AspidochDescription" value="Una balenottera azzurra, sulla Terra, può essere lunga fino a 33 metri e pesare 180 tonnellate. In confronto all'Aspidoch di Pandora, però, la balenottera è un pesciolino. L'Aspidoch potrebbe letteralmente inghiottirla in un boccone. Data l'alta gravità di Pandora, una creatura del genere può sopravvivere solo negli oceani. È stato avvistato un solo Aspidoch, quindi non si può dire se sia l'ultimo della specie o semplicemente un raro esemplare... ma è la creatura più grande e letale che sia mai stata scoperta."/>
 	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> all'energia in difesa"/>
@@ -57,9 +60,6 @@
 	<entry name="Former" value="Terraformer"/>
 	<entry name="FormerDescription" value="Il Terraformer è una macchina potente e rivoluzionaria, in grado di terraformare quasi ogni tipo di territorio. La soluzione alla lotta per le risorse risiede in apparati in grado di manipolare la vita, come questo. Ma, come per tutti gli attrezzi, dev'essere utilizzato con cautela."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante<br/><icon texture='GUI/Bullet'/>Migliora un territorio<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
-	<entry name="Former1" value="Terraformer Anfibio"/>
-	<entry name="Former1Description" value="I Terraformer originali sono legati al terreno a causa del loro peso elevato... ma appena abbiamo esplorato i mari, abbiamo capito quanto potrebbe essere vantaggioso lo sviluppo acquatico. Questi nuovi modelli sono a tenuta stagna e molto più leggeri, quindi sono in grado di eseguire compiti in ambienti anfibi."/>
-	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Unità meccanica pesante anfibia<br/><icon texture='GUI/Bullet'/>Migliora un territorio<br/><icon texture='GUI/Bullet'/>Non può attaccare"/>
 	<entry name="Giant" value="Galeth"/>
 	<entry name="GiantDescription" value="Giustamente soprannominati &quot;Giganti&quot; a causa della loro altezza di oltre dodici metri, questi goffi bestioni possono facilmente polverizzare mezzi blindati od interi quartieri, quando sono infuriati. Il loro bizzarro cranio a punta può facilmente trapassare anche la più robusta delle nostre corazze, quindi lo scontro con un Galeth dovrebbe essere evitato finché non scopriremo una tecnologia militare più avanzata."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Unità biologica pesante<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> alla potenza contro le città senza difese"/>

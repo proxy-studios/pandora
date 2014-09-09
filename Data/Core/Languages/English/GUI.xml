@@ -83,6 +83,7 @@
 	<entry name="DirectConnect" value="Direct Connect"/>
 	<entry name="DisableTips" value="Disable Tips"/>
 	<entry name="DisableTipsHint" value="Stop showing pop-up tips. You may re-enable them in the settings panel."/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Economy" value="Economy"/>
 	<entry name="Economy1" value="Abysmal economy"/>
 	<entry name="Economy2" value="Poor economy"/>
@@ -113,6 +114,7 @@
 	<entry name="Feature" value="Feature"/>
 	<entry name="Features" value="Features"/>
 	<entry name="FeaturesHelp" value="Features are used to classify the state of territories. They can be simple terrain features like plains and forests, constructions like roads and farms, or even sophisticated effects caused by operations."/>
+	<entry name="FirstContact" value="First Contact"/>
 	<entry name="Flanking" value="Flanking"/>
 	<entry name="Food" value="Food"/>
 	<entry name="FoodColonists" value="Farmers"/>
@@ -305,6 +307,7 @@
 	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% from population"/>
 	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% from production"/>
 	<entry name="ResourcePerTurnFromRazing" value="<icon texture='GUI/Bullet'/>%1% from razing"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% from subversive riots"/>
 	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% from research"/>
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% from scientists"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% from research pacts"/>
@@ -317,6 +320,7 @@
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% from trading pacts"/>
 	<entry name="ResourcePerTurnFromUnits" value="<icon texture='GUI/Bullet'/>%1% from units"/>
 	<entry name="ResourcePerTurnFromUnitUpkeep" value="<icon texture='GUI/Bullet'/>%1% from unit upkeep"/>
+	<entry name="ResourcePerTurnFromVirus" value="<icon texture='GUI/Bullet'/>%1% from genetic virus"/>
 	<entry name="ResourcePerTurnFromWorkers" value="<icon texture='GUI/Bullet'/>%1% from workers"/>
 	<entry name="ResourceTotal" value="%1% total"/>
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>%1% turns left"/>

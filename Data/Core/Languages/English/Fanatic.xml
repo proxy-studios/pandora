@@ -24,7 +24,7 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;I thought there was no devil -- but, after all, to make himself mythical was His greatest trick.&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;No. As the prophet Wilde said, We are each our own devil and we make this world our hell.&quot;"/> 
+	<entry name="RejectDenounceThirdParty0" value="&quot;No. As the prophet Wilde said, 'We are each our own devil and we make this world our hell.'&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
 	<!-- Dialogue partner believes it. -->
@@ -33,12 +33,12 @@
 	<entry name="RejectDenounceThirdParty1" value="&quot;Oh, no, there is no hope for that one. I must suffer that devil to continue.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
-	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;%6% has impugned our faith. Will you work with them whilst the One True Religion is savaged so?&quot;"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Sinners has impugned our faith. Will you work with them whilst the One True Religion is savaged so?&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;It is true that there is something unclean about this work. Which ally has offended you so?&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Saint Einstein said that science without religion is lame, yet religion without science is blind. Our friends help us see.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;God will love us for this act, as should you.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. We have need of these heathens, if only to build our calves of gold.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. We have need of these heathens, if only to strike them down when building calves of gold.&quot;"/>
 
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;War is ungodly. Why do you fight and spit in the gods' eyes?&quot;"/> 

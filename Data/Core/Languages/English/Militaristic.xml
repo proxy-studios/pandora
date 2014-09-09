@@ -20,7 +20,7 @@
 	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
-	<entry name="DenounceThirdParty0" value="&quot;Just thought you oughta know that some bag is flanking you. Just thought you might want to know.&quot;"/>
+	<entry name="DenounceThirdParty0" value="&quot;Just thought you oughta know that some scumbag is flanking you. Just thought you might want to know.&quot;"/>
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;I need all the field intel I can get, frankly.&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
@@ -36,7 +36,6 @@
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We need to talk about your logistics. We think they've been compromised.&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Trading? Research? Goddamn. Why can't we just shoot everyone and be done with it. Who?&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Correct me if I'm wrong but you're nowhere above me in any chain of command. Request denied.&quot;"/>
-	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Damn and blast. We were getting along famously, too. Alright, we'll drop them like an old jarhead&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No, sir. We wouldn't drop them even if their name was Jerry.&quot;"/>
 
@@ -44,7 +43,6 @@
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Now, you need to be nicer to your neighbours.&quot;"/> 
 	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Is the genuine article? Well, I guess we could stop shooting for a while. Who at?&quot;"/>
 	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;Now you got me all choked up. I'm too crusty to say sorry, when the war's going so nicely.&quot;"/>
-	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
 	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;I fess up -- I never did like shooting them thar... whatchamacalls. Okay, we'll take a break.&quot;"/>
 	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;Asking me to give up war, is like asking birds to give up wings. Ain't never gonna happen.&quot;"/>
 	

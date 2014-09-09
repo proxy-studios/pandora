@@ -24,11 +24,11 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Tell me more. What dirt have you rooted out?&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;Some of us are scrabbling in the dirt, whilst others are looking at the stars. But you... you're just looking at the dirt!&quot;"/> 
+	<entry name="RejectDenounceThirdParty0" value="&quot;Some of us are scrabbling in the dirt, whilst others are looking at the stars. But you... you're not even scrabbling. You're just looking at the dirt!&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
 	<!-- Dialogue partner believes it. -->
-	<entry name="AcceptDenounceThirdParty1" value="&quot;That's... entirely what I expected from those treekillers. Thank you.&quot;"/> 
+	<entry name="AcceptDenounceThirdParty1" value="&quot;That's... entirely what I expected from those tree-killers. Thank you.&quot;"/> 
 	<!-- Dialogue partner dismisses it. -->
 	<entry name="RejectDenounceThirdParty1" value="&quot;Why are you wasting my time with this manure? I've a planet to save!&quot;"/>
 	

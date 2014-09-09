@@ -9,7 +9,9 @@
 	<entry name="Done" value="Fertig."/>
 	<entry name="DownloadingUpdate" value="Update wird heruntergeladen ..."/>
 	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Failed" value="Fehlgeschlagen."/>
+	<entry name="FirstContact" value="First Contact"/>
 	<entry name="Notice" value="HINWEIS: Antiviren- und Firewallprogramme können den Update-Prozess beeinträchtigen."/>
 	<entry name="PreparingUpdate" value="Update wird vorbereitet ..."/>
 	<entry name="Quit" value="Beenden"/>

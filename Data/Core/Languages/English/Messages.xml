@@ -27,7 +27,7 @@
 	<entry name="InvalidCommand" value="Invalid command: &quot;%1%&quot;"/>
 	<entry name="InvalidEmail" value="Invalid email."/>
 	<entry name="InvalidName" value="Invalid name."/>
-	<entry name="InvalidProductKey" value="Invalid product key."/>
+	<entry name="InvalidProductKey" value="Invalid %1% product key."/>
 	<entry name="Kicked" value="You have been kicked from the server."/>
 	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
 	<entry name="NameTooShort" value="Name too short."/>

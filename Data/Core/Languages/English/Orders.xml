@@ -65,6 +65,10 @@
 	<entry name="ImproveClosestCityHint" value="Improve Closest City [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Improve Ecoregion"/>
 	<entry name="ImproveEcoregionHint" value="Improve Ecoregion [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
+	<entry name="InciteRiot" value="Incite Riot"/>
+	<entry name="InciteRiotHint" value="Incite Riot<br/><icon texture='GUI/Bullet'/>Incites a riot in the city that lasts 5 turns and drastically reduces morale<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="InfiltrateReconnaissance" value="Infiltrate Reconnaissance"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Infiltrate Reconnaissance<br/><icon texture='GUI/Bullet'/>Grants full access to the player's view until the end of the turn<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="LowerTerrain" value="Lower Terrain"/>
 	<entry name="LowerTerrainHint" value="Lower Terrain [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="Move" value="Move to"/>
@@ -73,8 +77,20 @@
 	<entry name="RaiseTerrainHint" value="Raise Terrain [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="Refit" value="Refit"/>
 	<entry name="RefitHint" value="Refit [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Change unit design<br/><icon texture='GUI/Bullet'/>Unit has to be stationed in a city controlled by its player"/>
+	<entry name="ReleaseGeneticVirus" value="Release Genetic Virus"/>
+	<entry name="ReleaseGeneticVirusHint" value="Release Genetic Virus<br/><icon texture='GUI/Bullet'/>Releases a genetic virus in the city that lasts 5 turns and continuously kills population<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="SabotageBuilding" value="Sabotage Building"/>
+	<entry name="SabotageBuildingHint" value="Sabotage Building<br/><icon texture='GUI/Bullet'/>Destroys a random building of the city<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="SabotageProduction" value="Sabotage Production"/>
+	<entry name="SabotageProductionHint" value="Sabotage Production<br/><icon texture='GUI/Bullet'/>Destroys a random amount of the city's accumulated production, up to the entire production pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="SabotageResearch" value="Sabotage Research"/>
+	<entry name="SabotageResearchHint" value="Sabotage Research<br/><icon texture='GUI/Bullet'/>Destroys a random amount of the player's accumulated research, up to the entire research pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="Skip" value="Skip"/>
 	<entry name="SkipHint" value="Skip [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Skip this turn"/>
+	<entry name="StealCredits" value="Steal Credits"/>
+	<entry name="StealCreditsHint" value="Steal Credits<br/><icon texture='GUI/Bullet'/>Steals a random amount of the player's accumulated credits, up to the entire credit pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="StealResearch" value="Steal Research"/>
+	<entry name="StealResearchHint" value="Steal Research<br/><icon texture='GUI/Bullet'/>Steals a random amount of the player's accumulated research, up to the entire research pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="WorsenEcoregion" value="Worsen Ecoregion"/>
 	<entry name="WorsenEcoregionHint" value="Worsen Ecoregion [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 </language>

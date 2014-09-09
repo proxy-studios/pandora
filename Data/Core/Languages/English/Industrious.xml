@@ -24,13 +24,13 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Tell me of this anarcho-syndicalist running dog.&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;There is no such plot. Perhaps you would be a better fit for the reducation camps.&quot;"/> 
+	<entry name="RejectDenounceThirdParty0" value="&quot;There is no such plot. Perhaps you would be a better fit for the reeducation camps.&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
 	<!-- Dialogue partner believes it. -->
 	<entry name="AcceptDenounceThirdParty1" value="&quot;Yes, %6% is a counter-revolutionary. They will be... re-educated.&quot;"/> 
 	<!-- Dialogue partner dismisses it. -->
-	<entry name="RejectDenounceThirdParty1" value="&quot;They are no more rebels than Mao himself. Begone, lackey.&quot;"/>
+	<entry name="RejectDenounceThirdParty1" value="&quot;They are no more rebels than Mao was himself. Begone, lackey.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Your partner is no friend of the people. I am the people.&quot;"/>

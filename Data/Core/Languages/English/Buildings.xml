@@ -117,5 +117,8 @@
 	<entry name="ScanBuilding" value="Recon Satellite Uplink"/>
 	<entry name="ScanBuildingDescription" value="Even though disturbances are quite common in the ionosphere of Pandora, preventing a constant link to reconnaissance satellites, this tech allows us to communicate with them quite often and upload orders at a rather consistent pace."/>
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Building<br/><icon texture='GUI/Bullet'/>Provides a satellite scan operation<br/><icon texture='GUI/Bullet'/>2 turn cooldown"/>
+	<entry name="SpyBuilding" value="Panopticon Cities"/>
+	<entry name="SpyBuildingDescription" value="Privacy has been abolished. Walls are transparent, cameras are everywhere, the Zamyatin towers of the security services rise on every street, and the mouths of truth listen to any rumour. Arrests are plentiful and reformation swift, so the people are safer than ever from spies, and each other. But are they happy?"/>
+	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-100% infiltration chance for enemy agents<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> morale"/>
 	<entry name="StormBuilding" value="Ion Storm Generator"/>
 </language>

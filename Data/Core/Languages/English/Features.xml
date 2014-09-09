@@ -15,7 +15,7 @@
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
 	<entry name="Creep" value="Infestation"/>
-	<entry name="CreepDescription" value="As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- perhaps this is their version of terraforming?"/>
+	<entry name="CreepDescription" value="As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- could this be their version of terraforming?"/>
 	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost for Messari ground units<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
 	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Coast" value="Coast"/>
@@ -96,6 +96,9 @@
 	<entry name="MineralsBonus2Description" value="The midnight-blue Noxium is probably the most valuable mineral in the universe and incredibly-dense deposits have been found in this area. However, as its name implies, its radiation is lethal for miles around. While modern technology can eliminate the danger to personnel, most people still fear &quot;Blue Lung&quot;."/>
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1"/>
+	<entry name="Mines" value="Vulcan Mines"/>
+	<entry name="MinesDescription" value="Satellite-deployed munitions that will prove deadly to the unaware traveler."/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
 	<entry name="MoraleBonus0" value="Hot Springs"/>
 	<entry name="MoraleBonus0Description" value="Our colonists have learned to greatly enjoy the steaming baths of hot springs, which give them a reprieve from the daily burdens of colonial life and time to renew their spirit."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -143,6 +146,7 @@
 	<entry name="Ruin" value="Ruin"/>
 	<entry name="RuinDescription" value="The remnant of a long-gone alien civilization, these ruins can host great knowledge and richness.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
+	<entry name="Sand" value="Sand"/>
 	<entry name="Savanna" value="Savanna"/>
 	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with their fertile wide plains they are a passable candidate for agriculture."/>
 	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -171,4 +175,20 @@
 	<entry name="TundraDescription" value="The tundra is cold and barren, its vegetation mainly composed of shrubs, mosses and lichens. Agriculture is hampered by the low temperatures and permanently frozen subsoil, even in the short growing seasons."/>
 	<entry name="TundraProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
 	<entry name="TundraStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="WaterCreditsBonus" value="Oil Field"/>
+	<entry name="WaterCreditsBonusDescription" value="On Pandora, only the planet's oceans have hosted enough organic matter over a long enough time to produce petrochemicals. Exploiting them will produce a huge resource and credit boost."/>
+	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterFoodBonus" value="Panspermia Reeds"/>
+	<entry name="WaterFoodBonusDescription" value="From space, these native plants bear a resemblance to Terran reeds. Yet, from the surface, these skyscrapin, metronomic plants are as soft as asparagus and as thick as palms, growing rapidly in the fertile oceans. They're an excellent source of nutrients."/>
+	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterFoodBonusStats" value="<icon texture='Resources/Food'/> +3"/>
+	<entry name="WaterFungus" value="Fungus"/>
+	<entry name="WaterFungusDescription" value="Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution."/>
+	<entry name="WaterFungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="WaterFungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>	
+	<entry name="WaterMineralsBonus" value="Aquatic Mexallon"/>
+	<entry name="WaterMineralsBonusDescription" value="Mexallon crystals reach up from the ocean beds here. Mexallon is a very valuable mineral that's tough to extract."/>
+	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
 </language>

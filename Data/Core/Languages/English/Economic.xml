@@ -34,11 +34,11 @@
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;By trading with one faction, you're effectively setting up tariffs on the rest of us. Remove them and we can talk properly.&quot;"/>
-	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Okay, we've canceled the pact. There had better be something in this for us. &quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Okay, there had better be something tangible in this for us. &quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;I'm sorry, it's just business.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Okay. A fool and his money are lucky enough to get together in the first place.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. It's a zero sum game, somebody wins, somebody loses. You lose.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No, they're a preferred partner. It's a zero sum game, somebody wins, somebody loses. You lose.&quot;"/>
 
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;I've got a proposal that's of benefit to a lot of people -- and it involves you stopping that war. Interested?&quot;"/> 

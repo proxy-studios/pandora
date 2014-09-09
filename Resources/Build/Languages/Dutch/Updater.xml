@@ -9,7 +9,9 @@
 	<entry name="Done" value="Klaar."/>
 	<entry name="DownloadingUpdate" value="Update wordt gedownload..."/>
 	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Failed" value="Mislukt."/>
+	<entry name="FirstContact" value="First Contact"/>
 	<entry name="Notice" value="OPMERKING: Antivirus- en firewallsoftware kan het actualisatieproces verstoren."/>
 	<entry name="PreparingUpdate" value="Actualisatie wordt voorbereid ..."/>
 	<entry name="Quit" value="Beëindigen"/>

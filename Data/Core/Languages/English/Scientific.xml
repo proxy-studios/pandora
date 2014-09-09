@@ -33,9 +33,9 @@
 	<entry name="RejectDenounceThirdParty1" value="&quot;Why would anyone do that? We're scientists. It's like kicking puppies, outside of a correct puppy-kicking trial. I jest, of course.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
-	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We know about your pacts and, our medium-term predictions for you aren't good if you carry them on. I wouldn't dare ask about the long-term if I were you... &quot;"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We know about your pacts and our medium-term predictions for you aren't good if you carry them on. I wouldn't dare ask about the long-term if I were you... &quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Well, I suppose we don't need help to do research. But we do for trade. Hmm, who?&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;You know the rumours about my IQ - are you sure you want to attempt such blatant manipulation with me?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;You know the rumors about my IQ - are you sure you want to attempt such blatant manipulation with me?&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Dumbkopfs! I knew they would do this of course. But it's always such a disappointment.&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Lionel, could you pass the wrench? I need to fix this person -- he appears to speaking rot.&quot;"/>

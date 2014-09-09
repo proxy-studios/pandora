@@ -8,6 +8,12 @@
 	<entry name="Academy1Description" value="Suit the equipment to the soldier, not the soldier to the equipment."/>
 	<entry name="Academy2" value="Neural Interface"/>
 	<entry name="Academy2Description" value="A direct link to a centralized combat database that enhances troop efficiency."/>
+	<entry name="Agent0" value="Espionage"/>
+	<entry name="Agent0Description" value="Revive old-Earth espionage techniques and recruit spy rings."/>
+	<entry name="Agent1" value="Bonded Wetware"/>
+	<entry name="Agent1Description" value="Implanting Kusanagi devices in our agents should allow them to operate in both physical and data realms simultaneously."/>
+	<entry name="Agent2" value="M-Spirits"/>
+	<entry name="Agent2Description" value="Moving our agents past the constraints of their human form."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamic Thruster"/>
 	<entry name="Aircraft0Description" value="An electric propulsion system that brings war to the skies."/>
 	<entry name="Aircraft1" value="Advanced Evasion Countermeasures"/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
@@ -18,6 +24,8 @@
 	<entry name="AlienAggressionDescription" value="The study of aliens, both alive and dead, to expand our knowledge of their species."/>
 	<entry name="AlwaysHealDevice" value="Mechanical and Organic Maintenance"/>
 	<entry name="AlwaysHealDescription" value="New ways of keeping robotic, organic and cybernetic units in shape."/>
+	<entry name="AmphibiousFormer" value="Amphibious Landscaping"/>
+	<entry name="AmphibiousFormerDescription" value="Explore terraforming the waters and seabeds of Pandora, for better exploitation."/>
 	<entry name="Armor0" value="Reinforced Steel Plates"/>
 	<entry name="Armor0Description" value="Basic steel armor to increase our troops' resistance against enemy weaponry."/>
 	<entry name="Armor1" value="Titanium Plates"/>
@@ -126,8 +134,6 @@
 	<entry name="Food2Description" value="Replicate existing food from mycoproteins, to satisfy the nutritional demands of megacities growing beyond expectations."/>
 	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
 	<entry name="FoodMineralsDescription" value="Recycle the defunct space vessel used to reach Pandora into much-needed resources."/>
-	<entry name="Former1" value="Amphibious Landscaping"/>
-	<entry name="Former1Description" value="Explore terraforming the waters and seabeds of Pandora, for better exploitation."/>
 	<entry name="FormerWorkSpeed" value="Great Planetary Survey"/>
 	<entry name="FormerWorkSpeedDescription" value="Large-scale bioenvironmental study of Pandora to better assess the possibilities offered by the terrain."/>
 	<entry name="Fungus0" value="Fungus Cultivation"/>
@@ -174,6 +180,8 @@
 	<entry name="Minerals1Description" value="Robotic drones for mining assistance."/>
 	<entry name="Minerals2" value="Mineral Teleportation"/>
 	<entry name="Minerals2Description" value="Mineral extraction with the use of precise microwarps."/>
+	<entry name="Mines" value="Orbital Mines"/>
+	<entry name="MinesDescription" value="High-explosive packages deployed from space."/>
 	<entry name="Missile0" value="Guided Weapons"/>
 	<entry name="Missile0Description" value="Self-propelled guided weapon systems."/>
 	<entry name="Missile1" value="Intelligent Homing"/>
@@ -244,6 +252,14 @@
 	<entry name="Sniper2" value="Applied Quantum Entanglement"/>
 	<entry name="Sniper2Description" value="Quantic bullets specifically tailored for precision weapons, which inflict cellular warping on their target."/>
 	<entry name="SociologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Sociology technology"/>
+	<entry name="SpyAttack" value="Conversion Virus"/>
+	<entry name="SpyAttackDescription" value="A persuasive fungal spore that can be weaponised on a small scale."/>
+	<entry name="SpyBuilding" value="Panopticon Cities"/>
+	<entry name="SpyBuildingDescription" value="Cities designed so that not an inch escapes the view of the security teams."/>
+	<entry name="SpyDefense" value="Custodes"/>
+	<entry name="SpyDefenseDescription" value="Autonomous, autochthonic devices capable of detecting and tracking all enemy DNA."/>
+	<entry name="SpyDevice" value="Illusion Research"/>
+	<entry name="SpyDeviceDescription" value="Optical, mental and digital illusions combined to produce a unique detection-prevention device."/>
 	<entry name="StrategyCategoryProperties" value="<icon texture='GUI/Bullet'/>Strategy technology"/>
 	<entry name="Tank0" value="Heavy War Machines"/>
 	<entry name="Tank0Description" value="The design of a hull capable of mechanical and electrostatic deflection allows us to produce heavily armored combat vehicles."/>

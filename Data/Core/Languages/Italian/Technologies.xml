@@ -18,6 +18,8 @@
 	<entry name="AlienAggressionDescription" value="Lo studio degli alieni, che siano morti o vivi, per espandere la conoscenza delle loro specie."/>
 	<entry name="AlwaysHealDevice" value="Manutenzione Meccanica ed Organica"/>
 	<entry name="AlwaysHealDescription" value="Nuovi modi per mantenere le unità organiche, robotiche e cibernetiche in perfetta forma."/>
+	<entry name="AmphibiousFormer" value="Terraformazione Anfibia"/>
+	<entry name="AmphibiousFormerDescription" value="Esplora la terraformazione delle acque e dei mari di Pandora, per uno sfruttamento migliore."/>
 	<entry name="Armor0" value="Piastre d'Acciaio Rinforzato"/>
 	<entry name="Armor0Description" value="Corazza basilare in acciaio per aumentare la resistenza delle truppe contro l'artiglieria nemica."/>
 	<entry name="Armor1" value="Piastre in Titanio"/>
@@ -126,8 +128,6 @@
 	<entry name="Food2Description" value="Replica il cibo esistente a partire da micro-proteine, per soddisfare le esigenze nutrizionali delle megalopoli che crescono oltre le aspettative."/>
 	<entry name="FoodMinerals" value="Smantellamento Nave Colonia"/>
 	<entry name="FoodMineralsDescription" value="Ricicla la defunta nave utilizzata per raggiungere Pandora in risorse più utili."/>
-	<entry name="Former1" value="Terraformazione Anfibia"/>
-	<entry name="Former1Description" value="Esplora la terraformazione delle acque e dei mari di Pandora, per uno sfruttamento migliore."/>
 	<entry name="FormerWorkSpeed" value="Grande Censimento Planetario"/>
 	<entry name="FormerWorkSpeedDescription" value="Studio bio-ambientale su larga scala di Pandora per valutare nel migliore dei modi le possibilità offerte dal territorio."/>
 	<entry name="Fungus0" value="Coltivazione di Funghi"/>
