@@ -52,14 +52,14 @@
 	<entry name="RandomizedResearchTree" value="Albero Ricerca Casuale"/>
 	<entry name="ResearchVictory" value="Vittoria Scientifica"/>
 	<entry name="RevealedResearchTiers" value="Livelli Ricerca Rivelati"/>
-	<entry name="RevealedResearchTiers0" value="Nessuno"/>
-	<entry name="RevealedResearchTiers0Hint" value="Vengono rivelate solo le ricerche sviluppabili."/>
-	<entry name="RevealedResearchTiers1" value="Uno"/>
-	<entry name="RevealedResearchTiers1Hint" value="Vengono rivelate le tecnologie di un livello successivo."/>
-	<entry name="RevealedResearchTiers2" value="Due"/>
-	<entry name="RevealedResearchTiers2Hint" value="Vengono rivelate le tecnologie di due livelli successivi."/>
-	<entry name="RevealedResearchTiers3" value="Tre"/>
-	<entry name="RevealedResearchTiers3Hint" value="Vengono rivelate le tecnologie di tre livelli successivi."/>
+	<entry name="RevealedResearchTiers0" value="Uno"/>
+	<entry name="RevealedResearchTiers0Hint" value="Vengono rivelate le tecnologie di un livello successivo."/>
+	<entry name="RevealedResearchTiers1" value="Due"/>
+	<entry name="RevealedResearchTiers1Hint" value="Vengono rivelate le tecnologie di due livelli successivi."/>
+	<entry name="RevealedResearchTiers2" value="Tre"/>
+	<entry name="RevealedResearchTiers2Hint" value="Vengono rivelate le tecnologie di tre livelli successivi."/>
+	<entry name="RevealedResearchTiers3" value="Quattro"/>
+	<entry name="RevealedResearchTiers3Hint" value="Vengono rivelate le tecnologie di quattro livelli successivi."/>
 	<entry name="RevealedResearchTiers4" value="Tutti"/>
 	<entry name="RevealedResearchTiers4Hint" value="L'intero albero delle ricerche è mostrato dall'inizio."/>
 	<entry name="RevealedResearchTiers5" value="Casuale"/>

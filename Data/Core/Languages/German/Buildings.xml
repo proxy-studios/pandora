@@ -117,5 +117,8 @@
 	<entry name="ScanBuilding" value="Aufklärungssatellitenverbindung"/>
 	<entry name="ScanBuildingDescription" value="Auch wenn es in der Ionosphäre von Pandora häufig zu Turbulenzen kommt, die eine permanente Verbindung zu Aufklärungssatelliten verhindern, können wir relativ oft mit ihnen kommunizieren und Befehle mit ziemlich konstanter Geschwindigkeit hochladen."/>
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>Gewährt einen Satellitenscan<br/><icon texture='GUI/Bullet'/>2 Runden Abkühlzeit"/>
+	<entry name="SpyBuilding" value="Panopticon-Städte"/>
+	<entry name="SpyBuildingDescription" value="Die Privatsphäre wurde abgeschafft. Wir sind alle gläserne Bürger geworden, überall hängen Kameras, über jeder Straße thronen die Samjatin-Türme der Sicherheitsdienste und die Münder der Wahrheit glauben jedem Gerücht. Es gibt viele Festnahmen und die Bestrafungen finden zügig statt. Kurz: Das Volk ist sicherer denn je vor Spionen... und voreinander. Aber ist es auch glücklich?"/>
+	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Projekt<br/><icon texture='GUI/Bullet'/>-100% Chance auf Infiltration für gegnerische Agenten<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> Moral"/>
 	<entry name="StormBuilding" value="Ionensturmgenerator"/>
 </language>

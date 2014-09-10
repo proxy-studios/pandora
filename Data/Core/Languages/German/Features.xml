@@ -96,6 +96,9 @@
 	<entry name="MineralsBonus2Description" value="Das mitternachtsblaue Noxium ist wahrscheinlich das kostbarste Mineral im ganzen Universum. Und in diesem Gebiet wurden immense Vorkommen davon entdeckt. Allerdings reicht die tödliche Strahlung von Noxium mehrere Meilen weit und auch wenn moderne Technik die gesundheitlichen Gefahren für Menschen eliminieren kann, fürchten sich die meisten Leute weiterhin vor dem &quot;blauen Tod&quot;."/>
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Gelände"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4 <icon texture='Resources/Morale'/> -1"/>
+	<entry name="Mines" value="Vulkanminen"/>
+	<entry name="MinesDescription" value="Von Satelliten ausgesetzte Minen, die tödlich für unbedarfte Reisende sind."/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Gebäude"/>
 	<entry name="MoraleBonus0" value="Heiße Quellen"/>
 	<entry name="MoraleBonus0Description" value="Unsere Kolonisten genießen ihre Bäder in den heißen Quellen, in denen sie etwas Abstand von den täglichen Mühen des kolonialen Lebens gewinnen können und Kraft tanken."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Gelände"/>
@@ -143,6 +146,7 @@
 	<entry name="Ruin" value="Ruine"/>
 	<entry name="RuinDescription" value="Diese Ruinen sind Überbleibsel einer längst vergessenen Alien-Zivilisation und können großes Wissen und ungeheure Schätze beherbergen.<br/><br/>Wenn Sie eine Ruine untersuchen wollen, müssen Sie eine Einheit in das Ruinengebiet entsenden."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Alien-Konstruktion"/>
+	<entry name="Sand" value="Sand"/>
 	<entry name="Savanna" value="Savanne"/>
 	<entry name="SavannaDescription" value="Savannen sind geprägt von einem warmen und trockenen Klima. Aufgrund ihrer weiten und fruchtbaren Ebenen sind sie durchaus gut für Landwirtschaft geeignet."/>
 	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>
@@ -171,4 +175,20 @@
 	<entry name="TundraDescription" value="Die Tundra ist eine kalte und unwirtliche Landschaft, in der die Vegetation hauptsächlich aus Büschen, Moos und Flechten besteht. Die Landwirtschaft ist aufgrund der niedrigen Temperaturen und des ständig gefrorenen Untergrunds selbst in den kurzen Vegetationszeiten entsprechend eingeschränkt."/>
 	<entry name="TundraProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>
 	<entry name="TundraStats" value="<icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="WaterCreditsBonus" value="Ölfeld"/>
+	<entry name="WaterCreditsBonusDescription" value="Auf Pandora hat sich nur in den Meeren des Planeten genug organisches Material über einen ausreichend langen Zeitraum angesammelt, damit Petrochemikalien entstehen konnten. Diese anzuzapfen, wird einen großen Ressourcen- und Credits-Schub mit sich bringen."/>
+	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterFoodBonus" value="Panspermie-Schilf"/>
+	<entry name="WaterFoodBonusDescription" value="Aus der Luft hat diese Pflanze leichte Ähnlichkeiten mit dem Schilf auf der Erde. Doch auf der Planetenoberfläche wird dem geneigten Beobachter schnell klar, dass dem nicht wirklich so ist: Diese riesigen, rhythmisch wankenden Pflanzen sind ähnlich weich wie Spargel und so dick wie Palmen. Sie wachsen in großer Geschwindigkeit in den fruchtbaren Meeren von Pandora und stellen eine hervorragende Quelle für Nährstoffe dar."/>
+	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>
+	<entry name="WaterFoodBonusStats" value="<icon texture='Resources/Food'/> +3"/>
+	<entry name="WaterFungus" value="Pilze"/>
+	<entry name="WaterFungusDescription" value="Wie auch auf der alten Erde fungieren Pilze auf Pandora hauptsächlich als Symbionten für Pflanzen bzw. Tiere. Allerdings haben wir vor kurzem eine makroskopische und sehr aggressive Pilzart entdeckt, die offenbar alle Arten von organischen Lebensformen befällt und hochgiftige Sporen absondert. Wir müssen noch weiter forschen, aber bis auf weiteres sollten unsere Truppen in pilzbefallenen Gebieten mit äußerster Vorsicht zu Werke gehen."/>
+	<entry name="WaterFungusProperties" value="<icon texture='GUI/Bullet'/>Gelände<br/><icon texture='GUI/Bullet'/>Verursacht 0,2 Schaden pro Runde<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> Stärke für mechanische Einheiten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> Bewegungskosten"/>
+	<entry name="WaterFungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
+	<entry name="WaterMineralsBonus" value="Aquatisches Mexallon"/>
+	<entry name="WaterMineralsBonusDescription" value="Mexallon-Kristalle reichen hier vom Meeresgrund bis nach oben. Mexallon ist ein sehr wertvolles Mineral, dessen Abbau jedoch schwierig ist. "/>
+	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
 </language>

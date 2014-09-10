@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Diplomatic0" value="Öntgen"/>
-	<entry name="Diplomatic1" value="Curie"/>
-	<entry name="Diplomatic2" value="Becquerel"/>
-	<entry name="Diplomatic3" value="Arrhenius"/>
-	<entry name="Diplomatic4" value="Pavlov"/>
-	<entry name="Diplomatic5" value="Lorentz"/>
-	<entry name="Diplomatic6" value="Laveran"/>
-	<entry name="Diplomatic7" value="Marconi"/>
-	<entry name="Diplomatic8" value="Metchnikoff"/>
-	<entry name="Diplomatic9" value="Ehrlich"/>
-	<entry name="Diplomatic10" value="Sabatier"/>
-	<entry name="Diplomatic11" value="Willstätter"/>
-	<entry name="Diplomatic12" value="Haber"/>
-	<entry name="Diplomatic13" value="Planck"/>
-	<entry name="Diplomatic14" value="Einstein"/>
-	<entry name="Diplomatic15" value="Bohr"/>
-	<entry name="Diplomatic16" value="Meyerhof"/>
-	<entry name="Diplomatic17" value="Zsigmondy"/>
-	<entry name="Diplomatic18" value="Hertz"/>
-	<entry name="Diplomatic19" value="Heisenberg"/>
-	<entry name="Diplomatic20" value="Langmuir"/>
-	<entry name="Diplomatic21" value="Whipple"/>
-	<entry name="Diplomatic22" value="Schrödinger"/>
-	<entry name="Diplomatic23" value="Dirac"/>
-	<entry name="Diplomatic24" value="Kuhn"/>
-	<entry name="Diplomatic25" value="Domagk"/>
-	<entry name="Diplomatic26" value="Ružička"/>
-	<entry name="Diplomatic27" value="Györgyi"/>
-	<entry name="Diplomatic28" value="Rabi"/>
-	<entry name="Diplomatic29" value="Chain"/>
-	<entry name="Diplomatic30" value="Virtanen"/>
-	<entry name="Diplomatic31" value="Synge"/>
-	<entry name="Diplomatic32" value="Krebs"/>
-	<entry name="Diplomatic33" value="Lord Todd"/>
-	<entry name="Diplomatic34" value="Landau"/>
-	<entry name="Diplomatic35" value="Huxley"/>
-	<entry name="Diplomatic36" value="Darwin"/>
-	<entry name="Diplomatic37" value="Feynman"/>
-	<entry name="Diplomatic38" value="Bloch"/>
-	<entry name="Diplomatic39" value="Dulbecco"/>
-	<entry name="Diplomatic40" value="Wittig"/>
-	<entry name="Diplomatic41" value="Chandrasekhar"/>
-	<entry name="Diplomatic42" value="Rossignol"/>
-	<entry name="Diplomatic43" value="Kahneman"/>
-	<entry name="Diplomatic44" value="Suzuki"/>
-	<entry name="Diplomatic45" value="Abrikosov"/>
-	<entry name="Diplomatic46" value="Krugman"/>
-	<entry name="Diplomatic47" value="Zinkernagel"/>
-	<entry name="Diplomatic48" value="Haavelmo"/>
-	<entry name="Diplomatic49" value="Galilleo"/>
-	<entry name="Diplomatic50" value="Mendeleev"/>
-	<entry name="Diplomatic51" value="Rutherford"/>
-	<entry name="Diplomatic52" value="Fleming"/>
-	<entry name="Diplomatic53" value="Turing"/>
-	<entry name="Diplomatic54" value="Hubble"/>
-	<entry name="Diplomatic55" value="Sagan"/>
-	<entry name="Diplomatic56" value="Penrose"/>
-	<entry name="Diplomatic57" value="Dyson"/>
-	<entry name="Diplomatic58" value="Hawking"/>
-	<entry name="Diplomatic59" value="Heisenberg"/>
-	<entry name="Diplomatic60" value="Cousteau"/>
-	<entry name="Diplomatic61" value="Tesla"/>
-	<entry name="Diplomatic62" value="Cohen"/>
-	<entry name="Diplomatic63" value="deGrasse Tyson"/>
-	<entry name="Diplomatic64" value="Freud"/>
-	<entry name="Diplomatic65" value="Jung"/>
+	<entry name="Diplomatic0" value="Albright"/>
+	<entry name="Diplomatic1" value="Annan"/>
+	<entry name="Diplomatic2" value="Ban"/>
+	<entry name="Diplomatic3" value="Bismarck"/>
+	<entry name="Diplomatic4" value="Boutros-Ghali"/>
+	<entry name="Diplomatic5" value="Durrell"/>
+	<entry name="Diplomatic6" value="Franklin"/>
+	<entry name="Diplomatic7" value="Gromyko"/>
+	<entry name="Diplomatic8" value="Hammarskjöld"/>
+	<entry name="Diplomatic9" value="Kissinger"/>
+	<entry name="Diplomatic10" value="Kollontai"/>
+	<entry name="Diplomatic11" value="Lie"/>
+	<entry name="Diplomatic12" value="Nabuco"/>
+	<entry name="Diplomatic13" value="Neruda"/>
+	<entry name="Diplomatic14" value="Paz"/>
+	<entry name="Diplomatic15" value="Pérez de Cuéllar"/>
+	<entry name="Diplomatic16" value="Rabin"/>
+	<entry name="Diplomatic17" value="Radhakrishnan"/>
+	<entry name="Diplomatic18" value="Samaranch"/>
+	<entry name="Diplomatic19" value="Seferis"/>
+	<entry name="Diplomatic20" value="Shigeru"/>
+	<entry name="Diplomatic21" value="Weijun"/>
+	<entry name="Diplomatic22" value="de Talleyrand"/>
+	<entry name="Diplomatic23" value="Zimmerman"/>
+	<entry name="Diplomatic24" value="de Champlain"/>
+	<entry name="Diplomatic25" value="Meir"/>
+	<entry name="Diplomatic26" value="du Pont de Nemours"/>
+	<entry name="Diplomatic27" value="Jefferson"/>
+	<entry name="Diplomatic28" value="ElBaradei"/>
+	<entry name="Diplomatic29" value="Lakshmi Pandit"/>
+	<entry name="Diplomatic30" value="Machiavelli"/>
+	<entry name="Diplomatic31" value="de Dinteville"/>
+	<entry name="Diplomatic32" value="de Selve"/>
+	<entry name="Diplomatic33" value="Warburton"/>
+	<entry name="Diplomatic34" value="Firmin"/>
+	<entry name="Diplomatic35" value="Chauvelin"/>
+	<entry name="Diplomatic36" value="Blakeney"/>
+	<entry name="Diplomatic37" value="Dryden"/>
+	<entry name="Diplomatic38" value="Sykes"/>
+	<entry name="Diplomatic39" value="Georges-Picot"/>
+	<entry name="Diplomatic40" value="Lethbridge-Stewart"/>
+	<entry name="Diplomatic41" value="Retief"/>
+	<entry name="Diplomatic42" value="Rosenblum-Reilly"/>
+	<entry name="Diplomatic43" value="Apodemius"/>
+	<entry name="Diplomatic44" value="Bolan"/>
+	<entry name="Diplomatic45" value="Mata Hari"/>
+	<entry name="Diplomatic46" value="Rosenberg"/>
+	<entry name="Diplomatic47" value="Ames"/>
+	<entry name="Diplomatic48" value="Casanova"/>
+	<entry name="Diplomatic49" value="Philby"/>
+	<entry name="Diplomatic50" value="Mezamir"/>
+	<entry name="Diplomatic51" value="Lafayette"/>
+	<entry name="Diplomatic52" value="Duquesne"/>
+	<entry name="Diplomatic53" value="Pei Pu"/>
+	<entry name="Diplomatic54" value="Szabo"/>
+	<entry name="Diplomatic55" value="Walsingham"/>
+	<entry name="Diplomatic56" value="Penkovsky"/>
+	<entry name="Diplomatic57" value="Rahab"/>
+	<entry name="Diplomatic58" value="Pochteca"/>
+	<entry name="Diplomatic59" value="Cauchon de Beauvais"/>
+	<entry name="Diplomatic60" value="Fouché"/>
+	<entry name="Diplomatic61" value="Arnold"/>
+	<entry name="Diplomatic62" value="Gui"/>
+	<entry name="Diplomatic63" value="Robespierre"/>
+	<entry name="Diplomatic64" value="Marlowe"/>
+	<entry name="Diplomatic65" value="Schulmeister"/>
 	<entry name="DiplomaticCount" value="66"/>
 	<entry name="Ecologic0" value="Aristotle"/>
 	<entry name="Ecologic1" value="Theophrastus"/>

@@ -61,16 +61,32 @@
 	<entry name="ImproveClosestCityHint" value="Nächstgelegene Stadt aufwerten [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Ökoregion aufwerten"/>
 	<entry name="ImproveEcoregionHint" value="Ökoregion aufwerten [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="InciteRiot" value="Aufstand anzetteln"/>
+	<entry name="InciteRiotHint" value="Aufstand anzetteln<br/><icon texture='GUI/Bullet'/>Zettelt einen Aufstand in der Stadt an, der 5 Runden andauert und die Moral drastisch senkt<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="InfiltrateReconnaissance" value="Aufklärung infiltrieren"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Aufklärung infiltrieren<br/><icon texture='GUI/Bullet'/>Gewährt bis zum Ende der Runde vollständigen Zugriff auf die Sicht des Spielers<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="LowerTerrain" value="Gelände absenken"/>
-	<entry name="LowerTerrainHint" value="Gelände absenken<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>	
+	<entry name="LowerTerrainHint" value="Gelände absenken<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="Move" value="Bewegen nach"/>
 	<entry name="MoveHint" value="Bewegen"/>
 	<entry name="RaiseTerrain" value="Gelände anheben"/>
-	<entry name="RaiseTerrainHint" value="Gelände anheben<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>	
+	<entry name="RaiseTerrainHint" value="Gelände anheben<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="Refit" value="Umrüsten"/>
 	<entry name="RefitHint" value="Umrüsten [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Den Einheitenentwurf ändern<br/><icon texture='GUI/Bullet'/>Die Einheit muss in einer Stadt stationiert sein, die ihr Spieler kontrolliert"/>
+	<entry name="ReleaseGeneticVirus" value="Genetisches Virus aussetzen"/>
+	<entry name="ReleaseGeneticVirusHint" value="Genetisches Virus aussetzen<br/><icon texture='GUI/Bullet'/>Setzt in der Stadt ein genetisches Virus aus, das 5 Runden wütet und durchgehend die Bevölkerung dezimiert<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="SabotageBuilding" value="Gebäude sabotieren"/>
+	<entry name="SabotageBuildingHint" value="Gebäude sabotieren<br/><icon texture='GUI/Bullet'/>Zerstört ein zufällig ausgewähltes Gebäude in der Stadt<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="SabotageProduction" value="Produktion sabotieren"/>
+	<entry name="SabotageProductionHint" value="Produktion sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Produktion in der Stadt, maximal die gesamte Produktion<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="SabotageResearch" value="Forschung sabotieren"/>
+	<entry name="SabotageResearchHint" value="Forschung sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Forschung des Spielers, maximal die gesamte Forschung<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="Skip" value="Überspringen"/>
 	<entry name="SkipHint" value="Überspringen [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Diese Runde überspringen"/>
+	<entry name="StealCredits" value="Credits stehlen"/>
+	<entry name="StealCreditsHint" value="Credits stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Credits des Spielers, maximal die gesamten Credits.<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="StealResearch" value="Forschung stehlen"/>
+	<entry name="StealResearchHint" value="Forschung stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Forschung des Spielers, maximal die gesamte Forschung<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="WorsenEcoregion" value="Ökoregion abwerten"/>
 	<entry name="WorsenEcoregionHint" value="Ökoregion abwerten [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 </language>

@@ -100,6 +100,7 @@
 	<entry name="Enter" value="Enter"/>
 	<entry name="EnterCityHint" value="Click to enter city screen."/>
 	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> damage"/>
+	<entry name="EntityInfiltrationModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> infiltration power"/>
 	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> power"/>
 	<entry name="Era0" value="Colonization Era"/>
 	<entry name="Era1" value="Mechanization Era"/>

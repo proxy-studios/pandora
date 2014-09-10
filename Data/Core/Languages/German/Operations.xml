@@ -9,9 +9,15 @@
 	<entry name="DropPod" value="Abwurfkapsel"/>
 	<entry name="DropPodDescription" value="Abwurfkapseln sind abgeschirmte Kammern, die im Orbit gestartet werden und eine oder mehrere Truppen enthalten. Damit haben wir die Möglichkeit, sie jenseits der feindlichen Linien mit hoher Geschwindigkeit und Präzision abzuwerfen."/>
 	<entry name="DropPodProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Wird nicht direkt eingesetzt, sondern verbraucht, wenn eine Einheit im Orbit abgeworfen wird"/>
+	<entry name="Eggs0" value="Eier0"/>
+	<entry name="Eggs1" value="Eier1"/>
+	<entry name="Eggs2" value="Eier2"/>
 	<entry name="EMPBeam" value="EMP-Strahl"/>
 	<entry name="EMPBeamDescription" value="Mit diesem konzentrierten elektromagnetischen Strahl werden alle laufenden Produktionen gestört, alle elektronischen Geräte in Mitleidenschaft gezogen und in allen Computersystemen im Wirkungsgebiet Fehlfunktionen hervorgerufen. Wenn der Strahl auf eine Kolonie gerichtet wird, verursacht er einen lange anhaltenden Stromausfall, dessen taktische Vorteile kaum in Worte zu fassen sind."/>
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Verursacht einen Stromausfall, der eine Stadt für 5 Runden vollständig außer Gefecht setzt<br/><icon texture='GUI/Bullet'/>Erklärt den betroffenen Fraktionen den Krieg"/>
+	<entry name="Mines" value="Vulkanminen"/>
+	<entry name="MinesDescription" value="Diese gehärteten Objekte werden von unseren Satelliten aus ausgesetzt und bohren sich dann tief in den Boden. Dort setzen sie ihren gefährlich flüchtigen chemischen Inhalt in die Luft von Pandora aus. Damit entstehen brodelnde und unter Druck stehende Bomben, die nur darauf warten, dass man sie auslöst."/>
+	<entry name="MinesProperties" value=""/>
 	<entry name="Growth" value="Klonzentrum"/>
 	<entry name="GrowthDescription" value="Angewandte Auxologie, Stammzellenmodifikation und Wachstumskontrolle versetzen uns in die Lage, einige unserer Kolonisten schnell und effizient zu replizieren. Das dürfte das Bevölkerungswachstum eine Zeit lang ankurbeln."/>
 	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> Wachstum in einer Stadt für 10 Runden"/>
@@ -21,7 +27,11 @@
 	<entry name="Nuke" value="Nuklearrakete"/>
 	<entry name="NukeDescription" value="Nukleare Kettenreaktionen setzen mit vergleichsweise geringem Quellmaterial große Mengen an Energie frei. Wenn man dieses Prinzip waffenfähig in kleinen Gehäusen unterbringt, die nicht größer als konventionelle Bomben sind, können mit den resultierenden Explosionen, Feuern und Strahlungen ganze Städte zerstört werden.<br/><br/>Die Raketen erfolgreich ins Ziel zu bringen, ist mindestens genauso wichtig und kostspielig wie ihre Herstellung selbst. Dank ballistischer Raketen mit großer Reichweite sind wir nun in der Lage, diese Massenvernichtungswaffen direkt in den Schoß unserer Gegner zu tragen!<br/><br/><style name='Italic'/>Intellektuelle warnen jedoch schon immer vor den Gefahren eines Atomkriegs, in dem wir uns alle gegenseitig auslöschen würden."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fügt in einem Gebiet jeder Einheit und der Bevölkerung 8 <icon texture='Attributes/Power'/> Schaden zu<br/><icon texture='GUI/Bullet'/>Erklärt den betroffenen Fraktionen den Krieg<br/><icon texture='GUI/Bullet'/>Zerstört Geländeeigenschaften<br/><icon texture='GUI/Bullet'/>Erzeugt Ödland"/>
-	<entry name="Portal" value="Portal"/>
+	<entry name="Portal0" value="Portal0"/>
+	<entry name="Portal1" value="Portal1"/>
+	<entry name="Portal2" value="Portal2"/>
+	<entry name="Portal3" value="Portal3"/>
+	<entry name="Portal4" value="Portal4"/>
 	<entry name="Promotion" value="Feldausbildung"/>
 	<entry name="PromotionDescription" value="Die Feldausbildung ist eine härtere Form der Kampfsimulation und wird mit scharfer Munition durchgeführt. Viele Soldaten bleiben dabei verkrüppelt oder traumatisiert zurück - oder gar beides. Nur die Besten überleben diese Ausbildung und das Wissen, das sie sich dabei aneignen, gewährt ihnen im echten Krieg einen entscheidenden Vorteil."/>
 	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> Rang für alle Einheiten in einem Gebiet<br/><icon texture='GUI/Bullet'/>Beförderte Einheiten verlieren 20% <icon texture='Attributes/Health'/> Gesundheit<br/><icon texture='GUI/Bullet'/>Erhöht den <icon texture='Attributes/Rank'/> Rang nicht über 10<br/><icon texture='GUI/Bullet'/>Ignoriert Einheiten die sterben würden"/>
@@ -29,8 +39,6 @@
 	<entry name="ScanDescription" value="Die orbitale Aufklärung hat viele Vorteile: Sie ist diskret, effizient, präzise und umfassend. Die neueste Generation der Aufklärungssatelliten kann einen sehr großen Bereich abdecken, was sie zu einem unverzichtbaren Werkzeug in der Spionage und Kriegsführung macht."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Deckt ein Gebiet und dessen Nachbargebiete für 1 Runde auf"/>
 	<entry name="Storm" value="Ionensturm"/>
-	<entry name="StormDescription" value=""/>
-	<entry name="StormProperties" value=""/>
 	<entry name="Teleportation" value="Planetentor"/>
 	<entry name="TeleportationDescription" value="Planetentore werden von Laien gemeinhin als Wurmlöcher oder schwarze Löcher bezeichnet, aber es handelt sich bei ihnen um Eintrittspunkte in kleine weiße Löcher. Damit wird es jeder Einheit möglich, in Überlichtgeschwindigkeit zu einem festgelegten Ziel zu reisen."/>
 	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Teleportiert alle Einheiten vom Start- zum Zielgebiet"/>

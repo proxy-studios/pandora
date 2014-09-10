@@ -23,11 +23,11 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Erzählen Sie mir mehr. Was haben Sie ausgegraben?&quot;"/>
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;Während einige von uns lieber im Dreck herumfingern, wenden sich andere den Sternen zu. Sie ... gehören offensichtlich zu Ersteren!&quot;"/>
+	<entry name="RejectDenounceThirdParty0" value="&quot;Während einige von uns lieber im Dreck herumwühlen, wenden sich andere den Sternen zu. Sie... Sie wühlen nicht einmal herum. Sie starren einfach nur in den Dreck!&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/>
 	<!-- Dialogue partner believes it. -->
-	<entry name="AcceptDenounceThirdParty1" value="&quot;Von diesen Baumschändern konnte man auch nichts anderes erwarten! Vielen Dank.&quot;"/>
+	<entry name="AcceptDenounceThirdParty1" value="&quot;Von diesen Baumschändern konnte man auch nichts anderes erwarten! Vielen Dank.&quot;"/> 
 	<!-- Dialogue partner dismisses it. -->
 	<entry name="RejectDenounceThirdParty1" value="&quot;Warum vergeuden Sie meine Zeit mit diesem Unsinn? Ich habe einen Planeten zu retten!&quot;"/>
 	

@@ -32,12 +32,12 @@
 	<entry name="RejectDenounceThirdParty1" value="&quot;Oh nein, da gibt es keine Hoffnung mehr. Ich muss mich diesem Leid hingeben.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
-	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;%6% hat unseren Glauben beschmutzt. Wollen Sie weiterhin mit solchen Leuten zusammenarbeiten, während die Wahre Religion derart geschändet wird?&quot;"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Diese Sünder haben unseren Glauben beschmutzt. Wollen Sie weiterhin mit solchen Leuten zusammenarbeiten, während die Wahre Religion derart geschändet wird?&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Fürwahr! Es stimmt, dass diese Sache nicht rein ist. Welcher Verbündete hat Sie so erzürnt?&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Der Heilige Einstein sagte einst: Wissenschaft ohne Religion ist lahm, Religion ohne Wissenschaft blind. Unsere Freunde helfen uns zu sehen.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Gott wird uns dafür lieben, so wie auch Sie das sollten.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nein. Wir brauchen diese Ungläubigen, und selbst wenn es für unsere goldenen Kälber ist.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nein. Wir brauchen diese Ungläubigen, und selbst wenn es dafür ist, dass wir sie niederstrecken, wenn sie goldene Kälber erschaffen.&quot;"/>
 	
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Krieg ist gottlos. Warum kämpfen Sie und spucken damit Gott ins Gesicht?&quot;"/>

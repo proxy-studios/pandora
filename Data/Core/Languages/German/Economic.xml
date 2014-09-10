@@ -33,11 +33,11 @@
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Durch den Handel mit einer Fraktion treiben Sie für uns - die übrigen Fraktionen - effektiv die Preise in die Höhe. Beenden Sie diese Zusammenarbeit und wir können ernsthaft miteinander reden.&quot;"/>
-	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ich hoffe mal, dass dabei etwas für uns herausspringt. Aber gut, wir haben das Abkommen beendet.&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Gut, aber ich hoffe mal, dass dabei etwas für uns herausspringt.&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Es tut mir leid, aber so läuft nun einmal das Geschäft.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;In Ordnung. Für uns zählt nur das beste Geschäft.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nein, denn das Ganze ist ein Nullsummenspiel: Jemand gewinnt, ein anderer verliert. In diesem Fall verlieren Sie.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nein, denn das sind gute Geschäftspartner. Das Ganze ist ein Nullsummenspiel: Jemand gewinnt, ein anderer verliert. In diesem Fall verlieren Sie.&quot;"/>
 	
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Ich habe ein Angebot, das vielen Menschen helfen wird - indem Sie diesen Krieg beenden. Haben Sie Interesse?&quot;"/>
@@ -63,7 +63,7 @@
 	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
 	<entry name="OfferOpenBorders" value="&quot;Freiheit für Güter und Dienste ist für alle gut. Aber besonders für mich.&quot;"/>
 	<entry name="AcceptOpenBorders" value="&quot;Ich liebe offene Grenzen genauso wie offene Geldbeutel - wenn sie anderen Menschen gehören.&quot;"/>
-	<entry name="RejectOpenBorders" value="&quot;Das muss ich ablehnen.&quot;"/>	
+	<entry name="RejectOpenBorders" value="&quot;Das muss ich ablehnen.&quot;"/>
 	<entry name="TerminateOpenBorders" value="&quot;Ich berufe mich auf Absatz 59.4 unserer Vereinbarung über offene Grenzen und beende hiermit den ganzen Unsinn - und laut Absatz 59.4.3 muss ich Ihnen dafür nicht einmal einen Grund nennen. Oh, %1%, ich liebe einfach das Kleingedruckte!&quot;"/>
 	<entry name="AcceptOpenBordersTerminated" value="&quot;Wir sind es vom Finanzmarkt gewohnt, dass immer wieder alle möglichen Grenzen entstehen und auch wieder verschwinden. Deswegen macht mir das jetzt nicht so viel aus.&quot;"/>
 	

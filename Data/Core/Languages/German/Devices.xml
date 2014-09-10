@@ -33,6 +33,9 @@
 	<entry name="Sight" value="Umgebungssonar"/>
 	<entry name="SightDescription" value="Dieses Sonargerät ist in der Lage, die Umgebung bis zu einer mittleren Distanz mithilfe der Echoanalyse von hochfrequenten Schallwellen und deren Reflexionen grafisch darzustellen."/>
 	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht"/>
+	<entry name="SpyDevice" value="Illusionator"/>
+	<entry name="SpyDeviceDescription" value="Durch den Einsatz zahlreicher optischer und psychologischer Illusionen sorgt der Illusionator dafür, dass man seinen Benutzer kaum bemerkt, wodurch dieser so gut wie unsichtbar wird."/>
+	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Projekt<br/><icon texture='GUI/Bullet'/>+25% Chance auf Infiltration"/>
 	<entry name="Upkeep" value="Rohstoffrationierer"/>
 	<entry name="UpkeepDescription" value="Der einzige Einsatzzweck dieses tragbaren Geräts besteht darin, den Verbrauch aller Einheiten so zu rationieren, dass keine Rohstoffe vergeudet werden. Das mag sich zwar negativ auf die Moral auswirken, aber die Steigerung in der Effizienz ist unbezahlbar."/>
 	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Ausrüstung<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> Unterhalt"/>

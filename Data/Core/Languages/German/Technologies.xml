@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="AgileDevice" value="Bewegungsregulierung"/>
 	<entry name="AgileDeviceDescription" value="Ein Gerät, das die Bewegung regelt, um der Ermüdung vorzubeugen."/>
@@ -8,6 +8,12 @@
 	<entry name="Academy1Description" value="Passen Sie die Ausrüstung an die Soldaten an und nicht umgekehrt."/>
 	<entry name="Academy2" value="Neuralinterface"/>
 	<entry name="Academy2Description" value="Eine direkte Verbindung zu einer zentralen Kampfdatenbank, die die Truppeneffizienz erhöht."/>
+	<entry name="Agent0" value="Spionage"/>
+	<entry name="Agent0Description" value="Beleben Sie alte Spionagetechniken von der Erde wieder und bauen Sie Spionageringe."/>
+	<entry name="Agent1" value="Verbundene Wetware"/>
+	<entry name="Agent1Description" value="Indem wir Kusanagi-Geräte in unsere Agenten verpflanzen, ermöglichen wir es ihnen, sowohl in der physikalischen als auch in der virtuellen Welt gleichzeitig aktiv zu sein."/>
+	<entry name="Agent2" value="M-Geister"/>
+	<entry name="Agent2Description" value="Wir verhelfen unseren Agenten dazu, sich der Beschränkungen ihrer menschlichen Hülle zu entledigen."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamischer Antrieb"/>
 	<entry name="Aircraft0Description" value="Ein elektrisches Antriebssystem, das für Abwechslung am Himmel sorgt."/>
 	<entry name="Aircraft1" value="Fortgeschrittene Gegenmaßnahmen"/>
@@ -177,6 +183,8 @@
 	<entry name="Minerals1Description" value="Roboterdrohnen zur Unterstützung bei Minenarbeiten."/>
 	<entry name="Minerals2" value="Mineralteleportation"/>
 	<entry name="Minerals2Description" value="Abbau von Mineralien mithilfe von präzisen Mikrowarps."/>
+	<entry name="Mines" value="Orbitalminen"/>
+	<entry name="MinesDescription" value="Hochexplosive Minen, die vom Weltraum aus ausgesetzt werden."/>
 	<entry name="Missile0" value="Lenkwaffen"/>
 	<entry name="Missile0Description" value="Lenkwaffensysteme mit Eigenantrieb"/>
 	<entry name="Missile1" value="Intelligente Zielsuche"/>
@@ -247,6 +255,14 @@
 	<entry name="Sniper2" value="Angewandte Quantenverschränkung"/>
 	<entry name="Sniper2Description" value="Quantengeschosse, die speziell für Präzisionswaffen konzipiert sind, um in den Zielen Zellverzerrungen hervorzurufen."/>
 	<entry name="SociologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Kategorie: Soziologie"/>
+	<entry name="SpyAttack" value="Bekehrungsvirus"/>
+	<entry name="SpyAttackDescription" value="Eine besonders überzeugende Pilzspore, die im kleinen Maßstab waffenfähig gemacht werden kann."/>
+	<entry name="SpyBuilding" value="Panopticon-Städte"/>
+	<entry name="SpyBuildingDescription" value="Städte, die so aufgebaut sind, dass nicht einmal ein Millimeter außerhalb der Sicht der Sicherheitskräfte liegt."/>
+	<entry name="SpyDefense" value="Custodes"/>
+	<entry name="SpyDefenseDescription" value="Autonome, autochthone Geräte, die in der Lage sind, jede feindliche DNA aufzuspüren und zu verfolgen."/>
+	<entry name="SpyDevice" value="Illusionsforschung"/>
+	<entry name="SpyDeviceDescription" value="Optische, psychologische und digitale Illusionen, die kombiniert werden, um ein einzigartiges Tarngerät zu produzieren."/>
 	<entry name="StrategyCategoryProperties" value="<icon texture='GUI/Bullet'/>Kategorie: Strategie"/>
 	<entry name="Tank0" value="Schwere Kriegsmaschinen"/>
 	<entry name="Tank0Description" value="Der Entwurf eines Rumpfes mit der Fähigkeit der mechanischen und elektrostatischen Abschirmung versetzt uns in die Lage, schwer gepanzerte Kampffahrzeuge herzustellen."/>

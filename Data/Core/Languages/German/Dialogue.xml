@@ -3,10 +3,14 @@
 	<entry name="AcceptCreditsForDeal0" value="(erwägt Bezahlung für Geschäft)"/>
 	<entry name="AcceptCreditsForDeal1" value="(akzeptiert Bezahlung für Geschäft)"/>
 	<entry name="AcceptDenounce" value="(akzeptiert Denunziation)"/>
+	<entry name="AcceptDenounceThirdParty0" value="(erwägt Denunziation dritter Partei)"/>
+	<entry name="AcceptDenounceThirdParty1" value="(akzeptiert Denunziation dritter Partei)"/>
 	<entry name="AcceptOpenBorders" value="(akzeptiert offene Grenzen)"/>
 	<entry name="AcceptPeaceOfferToThirdParty0" value="(erwägt Friedensangebot an dritte Partei)"/>
 	<entry name="AcceptPeaceOfferToThirdParty1" value="(akzeptiert Friedensangebot an dritte Partei)"/>
 	<entry name="AcceptPraise" value="(akzeptiert Lob)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="(erwägt Sanktionen gegen dritte Partei)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="(akzeptiert Sanktionen gegen dritte Partei)"/>
 	<entry name="AcceptShareMap" value="(akzeptiert Teilen von Karten)"/>
 	<entry name="AcceptWarDeclarationOnThirdParty0" value="(erwägt Kriegserklärung an dritte Partei)"/>
 	<entry name="AcceptWarDeclarationOnThirdParty1" value="(akzeptiert Kriegserklärung an dritte Partei)"/>
@@ -18,11 +22,14 @@
 	<entry name="DeclareWar" value="(erklärt den Krieg)"/>
 	<entry name="DemandCreditsForDeal" value="(verlangt Bezahlung für Geschäft)"/>
 	<entry name="DemandPeaceOfferToThirdParty0" value="(verlangt Friedensangebot an dritte Partei)"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="(verlangt Sanktionen gegen dritte Partei)"/>
 	<entry name="DemandTribute0" value="(verlangt Tributzahlung)"/>
 	<entry name="DemandWarDeclarationOnThirdParty0" value="(verlangt Kriegserklärung an dritte Partei)"/>
 	<entry name="DemandWithdrawal" value="(verlangt Rückzug)"/>
 	<entry name="Denounce" value="(denunziert öffentlich)"/>
-	<entry name="DenounceHint" value="Öffentliche Beschuldigungen, die die Beziehungen der denunzierten Fraktion mit Ihren Freunden verschlechtern, dafür aber die Beziehungen der denunzierten Fraktion mit Ihren Feinden verbessern. Wenn die Denunziation abgelehnt wird, werden die Auswirkungen abgeschwächt."/>	
+	<entry name="DenounceHint" value="Öffentliche Beschuldigungen, die die Beziehungen der denunzierten Fraktion mit Ihren Freunden verschlechtern, dafür aber die Beziehungen der denunzierten Fraktion mit Ihren Feinden verbessern. Wenn die Denunziation abgelehnt wird, werden die Auswirkungen abgeschwächt."/>
+	<entry name="DenounceThirdParty0" value="(denunziert nichtöffentlich dritte Partei)"/>
+	<entry name="DenounceThirdPartyHint" value="Beschuldigungen einer dritten Partei, Verbrechen gegen Ihren Dialogpartner verübt zu haben. Wenn der Dialogpartner das glaubt, verbessern sich Ihre Beziehungen mit ihm, während sich seine Beziehungen mit der beschuldigten Partei verschlechtern. Anderenfalls verschlechtern sich Ihre Beziehungen."/>
 	<entry name="GiftAccepted0" value="(erwägt, das Geschenk zu akzeptieren)"/>
 	<entry name="GiftAccepted1" value="(akzeptiert Geschenk)"/>
 	<entry name="GiftHint" value="Ein Geldgeschenk, das - wenn es akzeptiert wird - den Schenker in der Gunst des Beschenkten steigen lässt."/>
@@ -48,12 +55,19 @@
 	<entry name="Praise" value="(lobt öffentlich)"/>
 	<entry name="PraiseHint" value="Öffentliche Lobesworte, die - falls sie akzeptiert werden - die Beziehungen der gelobten Fraktion mit Ihren Freunden verbessern, aber die Beziehungen der gelobten Fraktion mit Ihren Feinden verschlechtern."/>
 	<entry name="RejectDenounce" value="(lehnt Denunziation ab)"/>
+	<entry name="RejectDenounceThirdParty0" value="(lehnt Denunziation dritter Partei ab)"/>
+	<entry name="RejectDenounceThirdParty1" value="(lehnt Denunziation dritter Partei ab)"/>
 	<entry name="RejectOpenBorders" value="(lehnt offene Grenzen ab)"/>
-	<entry name="RejectPraise" value="(lehnt Lob ab)"/>	
+	<entry name="RejectPeaceOfferToThirdParty0" value="(lehnt Friedensangebot an dritte Partei ab)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(lehnt Friedensangebot an dritte Partei ab)"/>
+	<entry name="RejectPraise" value="(lehnt Lob ab)"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="(lehnt Sanktionen gegen dritte Partei ab)"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="(lehnt Sanktionen gegen dritte Partei ab)"/>
 	<entry name="RejectShareMap" value="(lehnt Teilen von Karten ab)"/>
 	<entry name="ResearchPactAccepted" value="(akzeptiert Forschungsabkommen)"/>
-	<entry name="ResearchPactHint" value="Bei einem Forschungsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 10% ihrer Gesamtforschung pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerer Forschung pro Runde mehr von solch einem Abkommen."/>
+	<entry name="ResearchPactHint" value="Bei einem Forschungsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamtforschung pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerer Forschung pro Runde mehr von solch einem Abkommen."/>
 	<entry name="ResearchPactRejected" value="(lehnt Forschungsabkommen ab)"/>
+	<entry name="SanctionsAgainstThirdPartyHint" value="Verlangt vom Dialogpartner, jegliche bestehenden Handels- und Forschungsabkommen mit einer dritten Partei aufzukündigen. Wird die Forderung abgelehnt, kommt es zu einer Verschlechterung der Beziehungen, während ein Befolgen der Forderung die Beziehungen verbessert."/>
 	<entry name="ShareMapHint" value="Die beiden Fraktionen teilen ihre erforschten Gebiete, allerdings bleibt der Nebel des Krieges bestehen."/>
 	<entry name="TerminateAlliance" value="(beendet Allianz)"/>
 	<entry name="TerminateNonAggressionPact" value="(beendet Nichtangriffspakt)"/>
@@ -61,7 +75,7 @@
 	<entry name="TerminateResearchPact" value="(beendet Forschungsabkommen)"/>
 	<entry name="TerminateTradingPact" value="(beendet Handelsabkommen)"/>
 	<entry name="TradingPactAccepted" value="(akzeptiert Handelsabkommen)"/>
-	<entry name="TradingPactHint" value="Bei einem Handelsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 10% ihrer Gesamteinnahmen pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerem Einkommen pro Runde mehr von solch einem Abkommen."/>
+	<entry name="TradingPactHint" value="Bei einem Handelsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamteinnahmen pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerem Einkommen pro Runde mehr von solch einem Abkommen."/>
 	<entry name="TradingPactRejected" value="(lehnt Handelsabkommen ab)"/>
 	<entry name="TributeAccepted0" value="(erwägt Tributzahlung)"/>
 	<entry name="TributeAccepted1" value="(akzeptiert Tributzahlung)"/>
