@@ -16,6 +16,9 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Ah, l'incontro con te è una benedizione. Pandora è stata promessa al nostro popolo come rifugio spirituale. Fintanto che tu credi ad un dio... uno qualunque... penso che potremmo essere amici.&quot;"/>
 	
+	<entry name="NamePositive" value="&quot;La pia Lady Vermillion.&quot;"/> 
+	<entry name="NameNegative" value="&quot;La fanatica Lady Vermillion.&quot;"/> 
+
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 
 	
@@ -24,7 +27,7 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Ho pensato non esistesse alcun diavolo... ma, dopotutto, far finta di non esistere è il suo più grande trucco.&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;No. Come disse il profeta Wilde, ognuno di noi è il diavolo di qualcun altro, e tutti facciamo di questo mondo un inferno..&quot;"/> 
+	<entry name="RejectDenounceThirdParty0" value="&quot;No. Come disse il profeta Wilde: &quot;Ognuno di noi è il diavolo di qualcun altro, e tutti facciamo di questo mondo un inferno.&quot;&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
 	<!-- Dialogue partner believes it. -->
@@ -33,12 +36,12 @@
 	<entry name="RejectDenounceThirdParty1" value="&quot;Oh, no, non c'è speranza per questo. Devo sopportare le tentazioni e continuare.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
-	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;%6% ha contestato la nostra fede. Vuoi lavorare con lui mentre l'Unica Vera Religione viene fatta a pezzi in questo modo?&quot;"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;I peccatori hanno contestato la nostra fede. Vuoi lavorare con loro mentre l'Unica Vera Religione viene fatta a pezzi in questo modo?&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;È vero che c'è qualcosa di impuro in questo lavoro. Quale alleato ti ha offeso in questa maniera?&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;San Einstein disse che la scienza senza religione è zoppa, ma la religione senza scienza è cieca. I nostri amici ci aiutano a vedere.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Dio ci amerà per questo atto, come dovresti fare tu.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. Abbiamo bisogno di questi pagani, se non altro per costruire i nostri vitelli d'oro.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. Abbiamo bisogno di questi pagani, se non altro per punirli quando costruiranno i loro vitelli d'oro.&quot;"/>
 
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;La guerra è empia. Perché combattere e sputare negli occhi degli dèi?&quot;"/> 

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="Armor0" value="Corazza in Acciaio"/>
+	<entry name="Alien" value="Carapace Messari"/>
+	<entry name="AlienDescription" value="Le tremende energie delle armi Messari vengono replicate in scala minore nelle loro corazze. I proiettili o i fasci d'energia che colpiscono la loro superficie si disperdono come petali al vento."/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor0" value="Corazza d'Acciaio"/>
 	<entry name="Armor0Description" value="Spessa corazza d'acciaio 'Ironclad' che fornisce una protezione basilare contro proiettili ed esplosivi in cambio di un aumento del costo di produzione."/>
 	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
 	<entry name="Armor1" value="Corazza in Titanio"/>

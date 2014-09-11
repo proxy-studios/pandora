@@ -96,6 +96,9 @@
 	<entry name="MineralsBonus2Description" value="Il Noxium, color blu notte, è probabilmente il minerale più prezioso dell'universo, ed in quest'area ne è stato scoperto un giacimento incredibilmente ricco. Tuttavia, le sue radiazioni saranno letali per svariati chilometri tutt'attorno. Sebbene le tecnologie odierne possano eliminare il pericolo per le persone, la maggior parte della gente ancora teme il &quot;Polmone Blu&quot;."/>
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1"/>
+	<entry name="Mines" value="Mine Vulcaniche"/>
+	<entry name="MinesDescription" value="Munizioni satellitari che si riveleranno mortali per l'ignaro viaggiatore."/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
 	<entry name="MoraleBonus0" value="Sorgente Calda"/>
 	<entry name="MoraleBonus0Description" value="I nostri coloni hanno imparato ad apprezzare molto le vasche fumanti delle sorgenti calde, che donano loro una tregua dai fardelli della vita coloniale e del tempo per rinnovare il loro spirito."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -143,6 +146,7 @@
 	<entry name="Ruin" value="Rovine"/>
 	<entry name="RuinDescription" value="I resti di una civiltà aliena ormai scomparsa, le rovine possono nascondere enormi ricchezze ed infinita conoscenza.<br/><br/>Per esplorare le rovine, invia un'unità in questo territorio."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Costruzione Aliena"/>
+	<entry name="Sand" value="Sabbia"/>
 	<entry name="Savanna" value="Savana"/>
 	<entry name="SavannaDescription" value="Le savane sono caratterizzate da un clima caldo e secco e, con le loro ampie pianure fertili, sono candidate accettabili per l'agricoltura."/>
 	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -171,4 +175,20 @@
 	<entry name="TundraDescription" value="La tundra è fredda e sterile, la sua vegetazione è composta per lo più da arbusti, muschi e licheni. L'agricoltura è ostacolata dalle basse temperature e dal suolo perennemente ghiacciato, anche nelle brevi stagioni calde."/>
 	<entry name="TundraProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
 	<entry name="TundraStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="WaterCreditsBonus" value="Giacimento Petrolifero"/>
+	<entry name="WaterCreditsBonusDescription" value="Su Pandora, solo gli oceani ospitano da abbastanza tempo materia organica da poter produrre prodotti petrolchimici. Sfruttarli produrrà un'enorme aumento economico e minerario."/>
+	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterFoodBonus" value="Canne di Panspermia"/>
+	<entry name="WaterFoodBonusDescription" value="Viste dallo spazio, queste piante locali somigliano ai canneti terrestri. Eppure, dalla superficie, queste piante risultano morbide come asparagi e spesse come palme, crescendo rapidamente nei fertili oceani. Sono un'eccellente fonte di sostentamento."/>
+	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
+	<entry name="WaterFoodBonusStats" value="<icon texture='Resources/Food'/> +3"/>
+	<entry name="WaterFungus" value="Funghi"/>
+	<entry name="WaterFungusDescription" value="Molto simili a quelli terrestri, i funghi di Pandora sono per lo più simbionti di piante ed animali. Tuttavia, abbiamo di recente scoperto un una specie macroscopica e molto aggressiva che infesta tutte le specie di vita organica, emettendo spore altamente tossiche. Sono necessarie altre ricerche, ma per ora le truppe dovrebbero operare nei territori contaminati con estrema cautela."/>
+	<entry name="WaterFungusProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>Infliggono 0.2 danni per turno<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento"/>
+	<entry name="WaterFungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>	
+	<entry name="WaterMineralsBonus" value="Mexallon Acquatico"/>
+	<entry name="WaterMineralsBonusDescription" value="Qui giacciono dei cristalli di Mexallon provenienti dalle profondità oceaniche. Il Mexallon è un minerale molto prezioso e molto complicato da estrarre."/>
+	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
 </language>

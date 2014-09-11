@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<entry name="AgileDevice" value="Bewegungsregulierung"/>
 	<entry name="AgileDeviceDescription" value="Ein Gerät, das die Bewegung regelt, um der Ermüdung vorzubeugen."/>
@@ -24,8 +24,6 @@
 	<entry name="AlienAggressionDescription" value="Das Studium von - toten wie lebendigen - außerirdischen Lebensformen, um unser Wissen über ihre Spezies zu erweitern."/>
 	<entry name="AlwaysHealDevice" value="Mechanische und organische Wartung"/>
 	<entry name="AlwaysHealDescription" value="Neue Möglichkeiten, mechanische, organische und kybernetische Einheiten in Schuss zu halten."/>
-	<entry name="AmphibiousFormer" value="Amphibische Landschaftsgestaltung"/>
-	<entry name="AmphibiousFormerDescription" value="Ermöglicht die Konstruktion von Verbesserungen in Küsten und Ozeanen mittels spezieller Formereinheiten."/>
 	<entry name="Armor0" value="Gehärtete Stahlplatten"/>
 	<entry name="Armor0Description" value="Einfache Stahlpanzerung, um den Schutz unserer Truppen gegen feindliche Waffen zu erhöhen."/>
 	<entry name="Armor1" value="Titanplatten"/>
@@ -136,6 +134,8 @@
 	<entry name="Food2Description" value="Replizieren Sie vorhandene Nahrungsmittel aus Mycoproteinen, um die Bedürfnisse von Megastädten zu stillen, deren Wachstum alle Erwartungen übertrifft."/>
 	<entry name="FoodMinerals" value="Kolonieschiffdemontage"/>
 	<entry name="FoodMineralsDescription" value="Recyceln Sie das stillstehende Raumschiff, mit dem Pandora erreicht wurde, in notwendige Ressourcen."/>
+	<entry name="Former1" value="Amphibische Landschaftsgestaltung"/>
+	<entry name="Former1Description" value="Ermöglicht die Konstruktion von Verbesserungen in Küsten und Ozeanen mittels spezieller Formereinheiten."/>
 	<entry name="FormerWorkSpeed" value="Große planetare Untersuchung"/>
 	<entry name="FormerWorkSpeedDescription" value="Groß angelegte biologisch-ökologische Untersuchung von Pandora, um die Möglichkeiten auf dem Planeten besser einschätzen zu können."/>
 	<entry name="Fungus0" value="Pilzkultivierung"/>

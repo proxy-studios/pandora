@@ -69,6 +69,9 @@
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="Der Former ist eine leistungsstarke und revolutionäre Maschine, die in der Lage ist, das Gelände zu bearbeiten und sogar zu verändern. Die Lösung unserer Ressourcenprobleme liegt in solchen umwälzenden Entwicklungen. Allerdings müssen auch Former wie jedes Werkzeug vorsichtig eingesetzt werden."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Einheit<br/><icon texture='GUI/Bullet'/>Wertet Gelände auf<br/><icon texture='GUI/Bullet'/>Kann nicht angreifen"/>
+	<entry name="Former1" value="Amphibischer Former"/>
+	<entry name="Former1Description" value="Unsere ursprünglichen Former waren landgebunden aufgrund ihres schieren Gewichts - aber mit unseren voranschreitenden Erkundungen haben wir festgestellt, wie vorteilhaft eine aquatische Entwicklung sein könnte. Diese neuen Modelle sind wasserdicht sowie deutlich leichter, was ihnen die Durchführung amphibischer Aufgaben ermöglicht."/>
+	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische amphibische Einheit<br/><icon texture='GUI/Bullet'/>Wertet Gelände auf<br/><icon texture='GUI/Bullet'/>Kann nicht angreifen"/>
 	<entry name="Giant" value="Galeth"/>
 	<entry name="GiantDescription" value="Diese Kolosse werden aufgrund ihrer Größe von mehr als zwölf Metern auch gerne &quot;Riesen&quot; genannt. Wenn sie in Rage sind, können sie Panzer oder sogar Stadtteile vernichten, und gegen ihr imposantes Schädelhorn sehen selbst unsere stärksten Panzerungen alt aus. Von daher sollten wir auf Kämpfe mit einem Galeth verzichten, bis wir fortschrittlichere militärische Technologien erforscht haben."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Schwere biologische Einheit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> Stärke gegen ungeschützte Städte"/>

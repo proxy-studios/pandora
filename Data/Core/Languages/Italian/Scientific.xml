@@ -16,6 +16,9 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Posso presentarmi? Io sono il Dottor Alpheus Schreiber, capo nominale dell'Università di Togra. È stata una delle nostre creazioni, come il dispositivo Alcubierre, a portare l'uomo su Pandora. Detto questo, non penso che proverai rancore nel permetterci una chance nello studio di questo mondo affascinante e nell'espansione dei confini del pensiero umano, vero? Io credo di no. Penso che andremo sicuramente d'accordo.&quot;"/>
 	
+	<entry name="NamePositive" value="&quot;Il brillante Dottor Schreiber.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'immorale Dottor Schreiber.&quot;"/> 
+
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 
 	
@@ -89,7 +92,7 @@
 	<entry name="RejectSurrender" value="&quot;No, non abbiamo abbastanza professori per insegnare a tutta la tua popolazione il sincronismo quantistico, e sarebbe inutile provare ad inserirsi nella nostra società senza conoscerne le basi.&quot;"/>
 	
 	<!-- Compliments for this faction. -->
-	<entry name="Compliment0" value="Ogni scienza sufficientemente avanzata è indistinguibile dalla magia. E voi siete stregoni!"/>
+	<entry name="Compliment0" value="Ogni scienza sufficientemente avanzata è indistinguibile dalla magia. E voi siete stregoni!"/>		<!-- Clarke's third law. Translations can be found on Wikiquote, for example http://nl.wikiquote.org/wiki/Arthur_C._Clarke for Dutch -->
 	<entry name="Compliment1" value="Senza persone come voi, la razza umana non sarebbe mai uscita da sotto i cavoli. Siamo nati sotto ai cavoli, vero?"/>
 	<entry name="Compliment2" value="Pandora è benedetta da esploratori come voi che svelano i suoi misteri!"/>
 	

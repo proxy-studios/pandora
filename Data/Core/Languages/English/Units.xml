@@ -39,9 +39,6 @@
 	<entry name="AlienTrooper" value="Messari Trooper"/>
 	<entry name="AlienTrooperDescription" value="These foot-soldiers of the alien invasion look almost human -- bipedal and simian. However, given that we've never captured one alive or even managed to penetrate their armor, we can't tell if they're the aliens themselves, some servitor race, or even just a cruel mockery of the human form.<br/><br/>They might be the weakest Messari unit, but they come in their hundreds and they're still lethally effective."/>
 	<entry name="AlienTrooperProperties" value="<icon texture='GUI/Bullet'/>Light biological unit"/>	
-	<entry name="AmphibiousFormer" value="Amphibious Former"/>
-	<entry name="AmphibiousFormerDescription" value="The original Formers were landbound because of their sheer weight -- but as we've explored, we've realized how advantageous aquatic development could be. These new models are watertight and much lighter, so they're capable of amphibious tasks."/>
-	<entry name="AmphibiousFormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical amphibious unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
 	<entry name="Aspidoch" value="Aspidoch"/>
 	<entry name="AspidochDescription" value="A blue whale, on earth, can be 100 feet long and weigh as much as 170 tonnes. By comparison to Pandora's Aspidoch, though, the blue whale is a minnow. The Aspidoch could literally swallow it in a bite. Given Pandora's high gravity, such a creature can only survive in the oceans. We've only encountered one Aspidoch, so we can't tell if it's the last of a species or simply a rare apex predator -- but it's the biggest, most deadly creature we've ever encountered."/>
 	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power when defending"/>
@@ -72,6 +69,9 @@
 	<entry name="Former" value="Former"/>
 	<entry name="FormerDescription" value="The Former is a powerful, revolutionary machine capable of transforming almost any terrain. The solution to our resource struggles lies with life-changing apparatus like this. But as with all tools, it must be used with care."/>
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
+	<entry name="Former1" value="Amphibious Former"/>
+	<entry name="Former1Description" value="The original Formers were landbound because of their sheer weight -- but as we've explored, we've realized how advantageous aquatic development could be. These new models are watertight and much lighter, so they're capable of amphibious tasks."/>
+	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Heavy mechanical amphibious unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
 	<entry name="Giant" value="Galeth"/>
 	<entry name="GiantDescription" value="Fittingly dubbed as &quot;Giants&quot; due to their height of over a dozen meters, these clumsy beasts can easily pulp tanks or city-blocks when on a rampage. Their bizarre cranium-sting bypasses even our strongest armor, so combat with a Galeth should be avoided until we discover more advanced military technology."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs undefended cities"/>

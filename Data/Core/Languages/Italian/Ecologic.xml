@@ -16,6 +16,9 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Salve, Terreno. Io sono l'Avvocato Vivian Gardinier di Terra Salvum. Siamo qui per salvare questo nuovo mondo e, speriamo, tu ci aiuterai.&quot;"/>
 	
+	<entry name="NamePositive" value="&quot;La bellissima Avvocatessa Gardinier.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'indegna Avvocatessa Gardinier.&quot;"/> 
+	
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 
 	
@@ -24,7 +27,7 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Dimmi di più. Quale erbaccia hai sradicato?&quot;"/> 
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;Alcuni di noi scavano nel fango, mentre altri ammirano le stelle. Ma tu... tu stai ammirando il fango!&quot;"/> 
+	<entry name="RejectDenounceThirdParty0" value="&quot;Alcuni di noi scavano nel fango, mentre altri ammirano le stelle. Ma tu... tu non stai scavando, tu stai ammirando il fango!&quot;"/> 
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
 	<!-- Dialogue partner believes it. -->

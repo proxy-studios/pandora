@@ -24,8 +24,6 @@
 	<entry name="AlienAggressionDescription" value="The study of aliens, both alive and dead, to expand our knowledge of their species."/>
 	<entry name="AlwaysHealDevice" value="Mechanical and Organic Maintenance"/>
 	<entry name="AlwaysHealDescription" value="New ways of keeping robotic, organic and cybernetic units in shape."/>
-	<entry name="AmphibiousFormer" value="Amphibious Landscaping"/>
-	<entry name="AmphibiousFormerDescription" value="Explore terraforming the waters and seabeds of Pandora, for better exploitation."/>
 	<entry name="Armor0" value="Reinforced Steel Plates"/>
 	<entry name="Armor0Description" value="Basic steel armor to increase our troops' resistance against enemy weaponry."/>
 	<entry name="Armor1" value="Titanium Plates"/>
@@ -134,6 +132,8 @@
 	<entry name="Food2Description" value="Replicate existing food from mycoproteins, to satisfy the nutritional demands of megacities growing beyond expectations."/>
 	<entry name="FoodMinerals" value="Colony Ship Dismantling"/>
 	<entry name="FoodMineralsDescription" value="Recycle the defunct space vessel used to reach Pandora into much-needed resources."/>
+	<entry name="Former1" value="Amphibious Landscaping"/>
+	<entry name="Former1Description" value="Explore terraforming the waters and seabeds of Pandora, for better exploitation."/>
 	<entry name="FormerWorkSpeed" value="Great Planetary Survey"/>
 	<entry name="FormerWorkSpeedDescription" value="Large-scale bioenvironmental study of Pandora to better assess the possibilities offered by the terrain."/>
 	<entry name="Fungus0" value="Fungus Cultivation"/>

@@ -83,6 +83,7 @@
 	<entry name="DirectConnect" value="Connessione Diretta"/>
 	<entry name="DisableTips" value="Disabilita"/>
 	<entry name="DisableTipsHint" value="Non mostrare più i suggerimenti. Puoi riabilitarli dal pannello impostazioni."/>
+	<entry name="EclipseOfNashira" value="L'Eclissi di Nashira"/>
 	<entry name="Economy" value="Economia"/>
 	<entry name="Economy1" value="Abisso economico"/>
 	<entry name="Economy2" value="Economia povera"/>
@@ -99,6 +100,7 @@
 	<entry name="Enter" value="Entra"/>
 	<entry name="EnterCityHint" value="Clicca per entrare nel pannello cittadino."/>
 	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> danno"/>
+	<entry name="EntityInfiltrationModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> potere d'infiltrazione"/>
 	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> energia"/>
 	<entry name="Era0" value="Era della Colonizzazione"/>
 	<entry name="Era1" value="Era della Meccanizzazione"/>
@@ -113,6 +115,7 @@
 	<entry name="Feature" value="Caratteristica"/>
 	<entry name="Features" value="Caratteristiche"/>
 	<entry name="FeaturesHelp" value="Le caratteristiche vengono utilizzare per classificare lo stato dei territori. Possono essere semplici caratteristiche territoriali come pianure o foreste, costruzioni come strade e fattorie o anche strutture sofisticate create dalle operazioni."/>
+	<entry name="FirstContact" value="Primo Contatto"/>
 	<entry name="Flanking" value="Affiancamento"/>
 	<entry name="Food" value="Cibo"/>
 	<entry name="FoodColonists" value="Agricoltori"/>
@@ -282,6 +285,7 @@
 	<entry name="ResearchVictoryDescription" value="Ricerca il 75% di tutte le tecnologie per ottenere una vittoria scientifica."/>
 	<entry name="ResearchVictoryProgress" value="Progresso vittoria scientifica: %1%%%"/>
 	<entry name="ResetPassword" value="Resetta Password"/>
+	<entry name="Resign" value="Riconnettiti"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% accumulati"/>
 	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% accumulati"/>
 	<entry name="ResourcePerTurn" value="%1% per turno"/>
@@ -304,6 +308,7 @@
 	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% dalla popolazione"/>
 	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% dalla produzione"/>
 	<entry name="ResourcePerTurnFromRazing" value="<icon texture='GUI/Bullet'/>%1% dalle razzie"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% dalle rivolte sovversive"/>
 	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% dalla ricerca"/>
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% dagli scienziati"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% dai patti di ricerca"/>
@@ -316,6 +321,7 @@
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% dai trattati commerciali"/>
 	<entry name="ResourcePerTurnFromUnits" value="<icon texture='GUI/Bullet'/>%1% dalle unità"/>
 	<entry name="ResourcePerTurnFromUnitUpkeep" value="<icon texture='GUI/Bullet'/>%1% dal mantenimento delle unità"/>
+	<entry name="ResourcePerTurnFromVirus" value="<icon texture='GUI/Bullet'/>%1% dal virus genetico"/>
 	<entry name="ResourcePerTurnFromWorkers" value="<icon texture='GUI/Bullet'/>%1% dagli operai"/>
 	<entry name="ResourceTotal" value="%1% totale"/>
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>%1% turno/i rimanente/i"/>

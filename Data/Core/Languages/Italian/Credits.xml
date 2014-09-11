@@ -6,5 +6,6 @@
 	<entry name="Music" value="<br/><style upperCase='1'/>Musica<style upperCase='0'/>"/>
 	<entry name="Sound" value="<br/><style upperCase='1'/>Suono<style upperCase='0'/>"/>
 	<entry name="SpecialThanks" value="<br/><style upperCase='1'/>Ringraziamenti Speciali<style upperCase='0'/>"/>
+	<entry name="Translation" value="<br/><style upperCase='1'/>Traduzione<style upperCase='0'/>"/>
 	<entry name="Writing" value="<br/><style upperCase='1'/>Scrittura<style upperCase='0'/>"/>
 </language>

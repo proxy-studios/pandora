@@ -18,8 +18,6 @@
 	<entry name="AlienAggressionDescription" value="De studie van - zowel dode als levende - buitenaardse levensvormen, om meer kennis over hun soorten op te doen."/>
 	<entry name="AlwaysHealDevice" value="Mechanische en organisch onderhoud"/>
 	<entry name="AlwaysHealDescription" value="Nieuwe mogelijkheden om mechanische, organische en cybernetische eenheden in vorm te houden."/>
-	<entry name="AmphibiousFormer" value="Amfibische Amfibische landschapsinrichting"/>
-	<entry name="AmphibiousFormerDescription" value="Maakt he aanleg van verbeteringen aan kusten en in oceanen mogelijk met speciale vormereenheden."/>
 	<entry name="Armor0" value="Geharde staalplaten"/>
 	<entry name="Armor0Description" value="Eenvoudige staalbepantsering, om de beschutting van onze troepen tegen vijandelijke wapens te verhogen."/>
 	<entry name="Armor1" value="Titaniumplaten"/>
@@ -130,6 +128,8 @@
 	<entry name="Food2Description" value="Repliceer de beschikbare voedingsmiddelen uit micro-eiwitten, om in de behoeften van megasteden te voorzien, waarvan de groei alle verwachtingen overstijgt."/>
 	<entry name="FoodMinerals" value="Kolonisatieschipdemontage"/>
 	<entry name="FoodMineralsDescription" value="Hergebruik het afgedankte ruimteschip waarmee Pandora bereikt werd voor hardnodige grondstoffen."/>
+	<entry name="Former1" value="Amfibische Amfibische landschapsinrichting"/>
+	<entry name="Former1Description" value="Maakt he aanleg van verbeteringen aan kusten en in oceanen mogelijk met speciale vormereenheden."/>
 	<entry name="FormerWorkSpeed" value="Grote planetaire studie"/>
 	<entry name="FormerWorkSpeedDescription" value="Groot opgezette biologisch-ecologische studie van Pandora, om de mogelijkheden op de planeet beter te kunnen inschatten."/>
 	<entry name="Fungus0" value="Schimmelcultivering"/>

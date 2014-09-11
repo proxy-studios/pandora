@@ -37,6 +37,8 @@
 	<entry name="Cannon2" value="Cannone a Tachioni"/>
 	<entry name="Cannon2Description" value="Pur non utilizzando di per sé i tachioni, il Cannone a Tachioni è comunque un pezzo d'artiglieria impressionante. È in grado di spingere le particelle fotoniche super-caricate ad altissima frequenza a velocità che si avvicinano a quelle della luce, permettendo di penetrare anche la difesa più compatta. Il suo sistema di puntamento tramite IA garantisce un'accuratezza vicina alla perfezione, facendo di questo cannone l'arma più temuta nella guerra moderna."/>
 	<entry name="Cannon2Properties" value="<icon texture='GUI/Bullet'/>Cannone<br/><icon texture='GUI/Bullet'/>Utilizzabile da carri armati e watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità pesanti<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità leggere<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità volanti"/>
+	<entry name="Crab" value="Chele"/>
+	<entry name="CrabProperties" value="<icon texture='GUI/Bullet'/>Arma da mischia<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche"/>
 	<entry name="Flak0" value="Contraerea P-5 Bantham"/>
 	<entry name="Flak0Description" value="Largamente basati sulla teoria delle probabilità e sugli schemi di volo, i nostri nuovi algoritmi possono prevedere in tempo reale i cambiamenti dell'assetto di volo e la velocità. Tutto questo ci permette di reintrodurre finalmente su Pandora delle armi contraeree efficaci e di reclamare il trono dei sistemi missilistici come effettivi distruttori di velivoli."/>  
 	<entry name="Flak0Properties" value="<icon texture='GUI/Bullet'/>Contraerea<br/><icon texture='GUI/Bullet'/>Utilizzabile da carri armati e watercraft<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> alla potenza contro unità volanti"/>
@@ -58,6 +60,15 @@
 	<entry name="Flyer" value="Sferzata"/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Arma da mischia<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche"/>
 	<entry name="Giant" value="Pungiglione"/>
+	<entry name="Gun0" value="Lady Finger"/>
+	<entry name="Gun0Description" value=""/>
+	<entry name="Gun0Properties" value="<icon texture='GUI/Bullet'/>Arma automatica<br/><icon texture='GUI/Bullet'/>Utilizzabile dagli agenti<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche"/>
+	<entry name="Gun1" value="Arasaka Minami 10"/>
+	<entry name="Gun1Description" value=""/>
+	<entry name="Gun1Properties" value="<icon texture='GUI/Bullet'/>Arma automatica<br/><icon texture='GUI/Bullet'/>Utilizzabile dagli agenti<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche"/>
+	<entry name="Gun2" value="Techtronica M40"/>
+	<entry name="Gun2Description" value=""/>
+	<entry name="Gun2Properties" value="<icon texture='GUI/Bullet'/>Arma automatica<br/><icon texture='GUI/Bullet'/>Utilizzabile dagli agenti<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche"/>
 	<entry name="Laser0" value="Laser ad Impulsi"/>
 	<entry name="Laser0Description" value="Anche se la sua frequenza di fuoco è piuttosto bassa, quest'arma è ragionevolmente potente: più il dispositivo rimane in funzione, più sono alte le temperature che si raggiungono, al punto che il laser fa semplicemente evaporare il bersaglio."/>
 	<entry name="Laser0Properties" value="<icon texture='GUI/Bullet'/>Arma ad energia<br/><icon texture='GUI/Bullet'/>Utilizzabile da aeroplani, ATV, mech, carri armati e watercraft"/>  
@@ -70,7 +81,7 @@
 	<entry name="Leviathan" value="Leviatano"/>
 	<entry name="LeviathanDescription" value="Le potenti braccia del Leviatano sono in grado di distruggere uno scafo rinforzato senza fatica."/>
 	<entry name="Missile0" value="Lanciamissili Hammerhead"/>
-	<entry name="Missile0Description" value="<style name='Italic'/>&quot;I mezzi con cui viviamo hanno distanziato il fine stesso delle nostre vite. Il nostro potere scientifico ha superato il nostro potere spirituale. Abbiamo missili teleguidati ed uomini disorientati.&quot;<br/>    -- Martin Luther King, Jr.<style name='Default'/><br/><br/>Questo lanciamissili impiega sistemi avanzati di guida per manovrare i suoi pesanti proiettili, soprannominati Hammerhead. Le armi missilistiche sono una buona scelta contro i bersagli pesanti, come i carri armati, ed allo stesso tempo sono relativamente efficaci anche contro bersagli più leggeri e veloci."/>
+	<entry name="Missile0Description" value="<style name='Italic'/>&quot;I mezzi con cui viviamo hanno distanziato il fine stesso delle nostre vite. Il nostro potere scientifico ha superato il nostro potere spirituale. Abbiamo missili teleguidati ed uomini disorientati.&quot;<br/>    -- Martin Luther King, Jr.<style name='Default'/><br/><br/>Questo lanciamissili impiega sistemi avanzati di guida per manovrare i suoi pesanti proiettili, soprannominati Hammerhead. Le armi missilistiche sono una buona scelta contro i bersagli pesanti, come i carri armati, ed allo stesso tempo sono relativamente efficaci anche contro bersagli più leggeri e veloci."/>		<!-- Martin Luther King citation is from "Strength to Love" ISBN 978-0-8006-9740-2. -->
 	<entry name="Missile0Properties" value="<icon texture='GUI/Bullet'/>Lanciamissili<br/><icon texture='GUI/Bullet'/>Utilizzabile da aeroplani, ATV, mech, carri armati, soldati e watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche"/>
 	<entry name="Missile1" value="Lanciamissili Hydra"/>
 	<entry name="Missile1Description" value="Le armi teleguidate hanno subito a lungo i disturbi elettronici, ma la quantità dei proiettili del Lanciamissili Hydra ed il suo sistema di puntamento intelligente hanno trovato un equilibrio per eludere la maggior parte delle contromisure difensive."/>
@@ -78,6 +89,10 @@
 	<entry name="Missile2" value="Lanciamissili Anti-Materia"/>
 	<entry name="Missile2Description" value="La potenza di questa collisione di materia ed anti-materia fa vergognare ogni reazione di fusione nucleare. La miniaturizzazione ed il bilanciamento dei proiettili hanno un costo enorme, ma l'efficacia di quest'arma non ha eguali."/>
 	<entry name="Missile2Properties" value="<icon texture='GUI/Bullet'/>Lanciamissili<br/><icon texture='GUI/Bullet'/>Utilizzabile da aeroplani, ATV, mech, carri armati, soldati e watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche"/>
+	<entry name="Nightcrawler" value="Tentacoli"/>
+	<entry name="NightcrawlerProperties" value="<icon texture='GUI/Bullet'/>Arma da mischia<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza contro unità biologiche<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità meccaniche"/>
+	<entry name="Ningen" value="Laringe"/>
+	<entry name="NingenProperties" value="<icon texture='GUI/Bullet'/>Arma d'artiglieria<br/><icon texture='GUI/Bullet'/>Attacco a spruzzo a doppia portata<br/><icon texture='GUI/Bullet'/>Nessun contrattacco nemico<br/><icon texture='GUI/Bullet'/>Nessuna difesa dalla corazza quando attacca<br/><icon texture='GUI/Bullet'/>Il danno diminuisce proporzionalmente con il diminuire della salute del nemico<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza contro unità volanti"/>
 	<entry name="None" value="Nessuna Arma"/>
 	<entry name="NoneDescription" value="Le unità senza un'arma non possono attaccare e di solito hanno una potenza militare molto bassa, così necessitano di protezione."/>
 	<entry name="QueenFlyer" value="Sferzata"/>

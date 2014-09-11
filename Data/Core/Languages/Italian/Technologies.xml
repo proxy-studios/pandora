@@ -8,9 +8,15 @@
 	<entry name="Academy1Description" value="Adatta l'equipaggiamento al soldato, non il soldato all'equipaggiamento."/>
 	<entry name="Academy2" value="Interfaccia Neurale"/>
 	<entry name="Academy2Description" value="Un collegamento diretto ad un database di combattimento centralizzato che migliora l'efficienza delle truppe."/>
+	<entry name="Agent0" value="Spionaggio"/>
+	<entry name="Agent0Description" value="Ripristina le tecniche di spionaggio della vecchia Terra e recluta spie."/>
+	<entry name="Agent1" value="Wetware"/>
+	<entry name="Agent1Description" value="Impiantando i dispositivi di Kusanagi nei nostri agenti dovremmo permettergli di operare simultaneamente sia nel campo fisico che in quello informatico."/>
+	<entry name="Agent2" value="M-Spiriti"/>
+	<entry name="Agent2Description" value="Spostare i nostri agenti oltre alla loro vincolante forma umana."/>
 	<entry name="Aircraft0" value="Propulsore Magnetoplasmadinamico"/>
 	<entry name="Aircraft0Description" value="Un sistema di propulsione elettrico che porta la guerra nei cieli."/>
-	<entry name="Aircraft1" value="Contromisure d'Evasione Avanzate"/>
+	<entry name="Aircraft1" value="Contromisure Elettroniche"/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
 	<entry name="Aircraft1Description" value="L'integrazione d'intelligenza artificiale e di vari sistemi di contromisura nelle unità volanti."/>
 	<entry name="Aircraft2" value="Scafo Geomagnetico"/>
 	<entry name="Aircraft2Description" value="Questo ingombrante scafo permette agli aeroplani di trarre potenza dalle differenze di ionizzazione della termosfera di Pandora."/>
@@ -18,8 +24,6 @@
 	<entry name="AlienAggressionDescription" value="Lo studio degli alieni, che siano morti o vivi, per espandere la conoscenza delle loro specie."/>
 	<entry name="AlwaysHealDevice" value="Manutenzione Meccanica ed Organica"/>
 	<entry name="AlwaysHealDescription" value="Nuovi modi per mantenere le unità organiche, robotiche e cibernetiche in perfetta forma."/>
-	<entry name="AmphibiousFormer" value="Terraformazione Anfibia"/>
-	<entry name="AmphibiousFormerDescription" value="Esplora la terraformazione delle acque e dei mari di Pandora, per uno sfruttamento migliore."/>
 	<entry name="Armor0" value="Piastre d'Acciaio Rinforzato"/>
 	<entry name="Armor0Description" value="Corazza basilare in acciaio per aumentare la resistenza delle truppe contro l'artiglieria nemica."/>
 	<entry name="Armor1" value="Piastre in Titanio"/>
@@ -43,7 +47,7 @@
 	<entry name="Artillery1" value="Esplosione Simultanea Multi-Turno"/>
 	<entry name="Artillery1Description" value="Un'esplosione simultanea di proiettili a mezz'aria che ricopre una vastissima area e lascia al bersaglio minime possibilità di sfuggire al bombardamento."/>
 	<entry name="Artillery2" value="Proiettili a Gravitoni"/>
-	<entry name="Artillery2Description" value="Avanzati Proiettili a deflagrazione che generano campi gravitazionali portatili."/>
+	<entry name="Artillery2Description" value="Avanzati Proiettili a deflagrazione che generano campi gravitazionali portatili."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1216284&langId=s -->
 	<entry name="Aspidoch" value="Rivestimenti Aspidoch"/>
 	<entry name="Assault" value="Operazione Valchiria"/>
 	<entry name="AssaultDescription" value="Ricognizione e schieramento orbitale delle truppe di terra che consentono un attacco militare improvviso in una qualunque parte del pianeta."/>
@@ -128,6 +132,8 @@
 	<entry name="Food2Description" value="Replica il cibo esistente a partire da micro-proteine, per soddisfare le esigenze nutrizionali delle megalopoli che crescono oltre le aspettative."/>
 	<entry name="FoodMinerals" value="Smantellamento Nave Colonia"/>
 	<entry name="FoodMineralsDescription" value="Ricicla la defunta nave utilizzata per raggiungere Pandora in risorse più utili."/>
+	<entry name="Former1" value="Terraformazione Anfibia"/>
+	<entry name="Former1Description" value="Esplora la terraformazione delle acque e dei mari di Pandora, per uno sfruttamento migliore."/>
 	<entry name="FormerWorkSpeed" value="Grande Censimento Planetario"/>
 	<entry name="FormerWorkSpeedDescription" value="Studio bio-ambientale su larga scala di Pandora per valutare nel migliore dei modi le possibilità offerte dal territorio."/>
 	<entry name="Fungus0" value="Coltivazione di Funghi"/>
@@ -137,6 +143,7 @@
 	<entry name="Fungus2" value="Ormoni Micetici"/>
 	<entry name="Fungus2Description" value="Ulteriore incremento di produzione di cibo e minerali dai funghi."/>
 	<entry name="GoldenAge" value="Età dell'Oro"/>
+	<entry name="GoldenAgeDescription" value="Rallegratevi perché la colonia sta entrando in un era di luce ed armonia."/>
 	<entry name="Growth" value="Censimento Eugenetico"/>
 	<entry name="GrowthDescription" value="Un censimento che determina i più disparati difetti genetici."/>
 	<entry name="Growth0" value="Terapia Genetica Pubblica"/>
@@ -152,7 +159,7 @@
 	<entry name="HealAreaDevice" value="Soccorso Globale"/>
 	<entry name="HealAreaDeviceDescription" value="Strumento per la guarigione e la riparazione delle unità in un'intera area."/>
 	<entry name="Laser0" value="Emissioni Stimolate Avanzate"/>
-	<entry name="Laser0Description" value="La progettazione di un dispositivo elettrico in grado di produrre un fascio alla stato solido da 100kW o più."/>
+	<entry name="Laser0Description" value="La progettazione di un dispositivo elettrico in grado di produrre un fascio alla stato solido da 100kW o più."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1581268&langId=s -->
 	<entry name="Laser1" value="Raggi di Fusione"/>
 	<entry name="Laser1Description" value="Fondendo, i nuclei di deuterio e tritio rilasciano un raggio laser letale."/>
 	<entry name="Laser2" value="Gravitoni"/>
@@ -173,6 +180,8 @@
 	<entry name="Minerals1Description" value="Droni robotizzati per l'assistenza mineraria."/>
 	<entry name="Minerals2" value="Teletrasporto Minerario"/>
 	<entry name="Minerals2Description" value="Estrazione dei minerali tramite l'utilizzo di precisi micro-portali."/>
+	<entry name="Mines" value="Mine Orbitali"/>
+	<entry name="MinesDescription" value="Armi estremamente esplosive lanciate dallo spazio."/>
 	<entry name="Missile0" value="Armi Guidate"/>
 	<entry name="Missile0Description" value="Sistemi bellici guidati ad auto-propulsione."/>
 	<entry name="Missile1" value="Ricerca del Bersaglio Intelligente"/>
@@ -243,6 +252,14 @@
 	<entry name="Sniper2" value="Correlazione Quantistica Applicata"/>
 	<entry name="Sniper2Description" value="I proiettili quantistici sono stati creati specificamente per le armi di precisione; creano una deformazione cellulare nel bersaglio colpito."/>
 	<entry name="SociologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Tecnologia sociologica"/>
+	<entry name="SpyAttack" value="Virus Convertente"/>
+	<entry name="SpyAttackDescription" value="Una spora persuasiva che può essere utilizzata come arma su piccola scala."/>
+	<entry name="SpyBuilding" value="Città Panottiche"/>
+	<entry name="SpyBuildingDescription" value="Città progettate di modo che nemmeno un centimetro possa nascondersi alla vista delle squadre di sicurezza."/>
+	<entry name="SpyDefense" value="Custodi"/>
+	<entry name="SpyDefenseDescription" value="Dispositivi automatici in grado di rilevare e tracciare il DNA nemico."/>
+	<entry name="SpyDevice" value="Illusione Elusiva"/>
+	<entry name="SpyDeviceDescription" value="Illusioni ottiche, mentali e digitali, combinate per produrre un dispositivo di prevenzione anti-rilevamento."/>
 	<entry name="StrategyCategoryProperties" value="<icon texture='GUI/Bullet'/>Tecnologia strategica"/>
 	<entry name="Tank0" value="Macchine da Guerra Pesanti"/>
 	<entry name="Tank0Description" value="La progettazione di uno scafo in grado di alta deflessione meccanica ed elettrostatica permette la costruzione di veicoli da combattimento pesanti."/>

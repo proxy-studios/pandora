@@ -117,5 +117,8 @@
 	<entry name="ScanBuilding" value="Collegamento per Scansioni Satellitari"/>
 	<entry name="ScanBuildingDescription" value="I disturbi sono molto frequenti nella ionosfera di Pandora, ed impediscono un costante collegamento con i satelliti di ricognizione; con questa tecnologia possiamo comunicare con essi molto di frequente, potendo impartirgli ordini ad un ritmo piuttosto costante."/>
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Fornisce un'operazione Scansioni Satellitari<br/><icon texture='GUI/Bullet'/>Ricarica: 2 turni"/>
+	<entry name="SpyBuilding" value="Città Panottiche"/>
+	<entry name="SpyBuildingDescription" value="La privacy è stata abolita. Le pareti sono trasparenti, ci sono telecamere ovunque, le torri Zamyatin dei servizi di sicurezza si ergono in ogni strada, e le bocche della verità ascoltano ogni pettegolezzo. Gli arresti sono rapidi e funzionali, così le persone sono al sicuro dalle spie, e da loro stessi. Ma sono felici?"/>
+	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Progetto<br/><icon texture='GUI/Bullet'/>-100% alle probabilità d'infiltrazione degli agenti nemici<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> al morale"/>
 	<entry name="StormBuilding" value="Generatore di Tempesta Ionica"/>
 </language>

@@ -27,7 +27,7 @@
 	<entry name="InvalidCommand" value="Comando non valido: &quot;%1%&quot;"/>
 	<entry name="InvalidEmail" value="E-mail non valida."/>
 	<entry name="InvalidName" value="Nome non valido."/>
-	<entry name="InvalidProductKey" value="Product Key non valido."/>
+	<entry name="InvalidProductKey" value="Product Key %1% non valido."/>
 	<entry name="Kicked" value="Sei stato espulso dal server."/>
 	<entry name="MasterServerUnreachable" value="Impossibile connettersi al server principale."/>
 	<entry name="NameTooShort" value="Nome troppo corto."/>
@@ -55,4 +55,5 @@
 	<entry name="ServerShutDown" value="Server spento."/>
 	<entry name="ServerUnreachable" value="Impossibile connettersi al server. Per migliorare la connessione, assicurati che l'host abbia aperto le porte di rete (predefinita: TCP 6121)."/>
 	<entry name="Unknown" value="Sconosciuto."/>
+	<entry name="VictoryAchievements" value="Gli obiettivi vittoria possono essere sbloccati solamente nelle partite a singolo giocatore iniziate dal pannello Nuova Partita."/>
 </language> 

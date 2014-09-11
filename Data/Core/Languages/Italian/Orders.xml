@@ -65,6 +65,10 @@
 	<entry name="ImproveClosestCityHint" value="Migliora Città più Vicina [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Migliora Ecoregione"/>
 	<entry name="ImproveEcoregionHint" value="Migliora Ecoregione [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="InciteRiot" value="Incita Rivolta"/>
+	<entry name="InciteRiotHint" value="Incita Rivolta<br/><icon texture='GUI/Bullet'/>Incita una rivolta in una città che dura 5 turni e riduce drasticamente il morale<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="InfiltrateReconnaissance" value="Infiltrazione"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Infiltrazione<br/><icon texture='GUI/Bullet'/>Garantisce pieno accesso ai dati di un giocatore fino alla fine del turno<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="LowerTerrain" value="Abbassa Territorio"/>
 	<entry name="LowerTerrainHint" value="Abbassa Territorio [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>	
 	<entry name="Move" value="Spostati verso"/>
@@ -73,8 +77,20 @@
 	<entry name="RaiseTerrainHint" value="Innalza Territorio [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 	<entry name="Refit" value="Aggiorna"/>
 	<entry name="RefitHint" value="Aggiorna [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Modifica il design dell'unità<br/><icon texture='GUI/Bullet'/>L'unità deve trovarsi in una città controllata dal suo proprietario"/>
+	<entry name="ReleaseGeneticVirus" value="Rilascia Virus Genetico"/>
+	<entry name="ReleaseGeneticVirusHint" value="Rilascia Virus Genetico<br/><icon texture='GUI/Bullet'/>Rilascia un virus genetico in una città che dura 5 turni ed uccide continuamente la popolazione<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageBuilding" value="Sabota Costruzione"/>
+	<entry name="SabotageBuildingHint" value="Sabota Costruzione<br/><icon texture='GUI/Bullet'/>Distrugge una costruzione a caso in una città<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageProduction" value="Sabota Produzione"/>
+	<entry name="SabotageProductionHint" value="Sabota Produzione<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della produzione accumulata da una città, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageResearch" value="Sabota Ricerca"/>
+	<entry name="SabotageResearchHint" value="Sabota Ricerca<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="Skip" value="Passa"/>
 	<entry name="SkipHint" value="Passa [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Passa il turno"/>
+	<entry name="StealCredits" value="Ruba Crediti"/>
+	<entry name="StealCreditsHint" value="Ruba Crediti<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di crediti accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="StealResearch" value="Ruba Ricerca"/>
+	<entry name="StealResearchHint" value="Ruba Ricerca<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="WorsenEcoregion" value="Peggiora Ecoregione"/>
 	<entry name="WorsenEcoregionHint" value="Peggiora Ecoregione [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 </language>

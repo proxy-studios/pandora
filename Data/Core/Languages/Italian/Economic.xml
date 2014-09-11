@@ -15,6 +15,9 @@
 	
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Salve %3%, io sono il Direttor Eric Preston della Noxium Corporation. È un piacere fare la tua conoscenza. Ora, pensiamo che Pandora abbia un grande potenziale per lo sfruttamento economico... quindi finché non manometterai i mercati, siamo i migliori amici che tu possa avere, hmm?&quot;"/>
+		
+	<entry name="NamePositive" value="&quot;Il ragionevole Direttor Preston.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'avido Direttor Preston.&quot;"/> 
 	
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 
@@ -34,11 +37,11 @@
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Commerciando con una fazione, stai effettivamente imponendo le tariffe anche sul resto di noi. Lasciali e potremmo parlare seriamente.&quot;"/>
-	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ok, abbiamo cancellato il trattato. Speriamo ne valga la pena. &quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ok, speriamo che ne valga tangibilmente la pena.&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Mi spiace, sono solo affari.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Ok. È cieco e cammina senza bastone, non vede le porte che si aprono con il denaro.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. È un gioco serio, qualcuno vince, qualcuno perde. Tu hai perso.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. Loro sono degli alleati migliori. È un gioco serio, qualcuno vince, qualcuno perde. Tu hai perso.&quot;"/>
 
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Ho una proposta che porterà benefici a molte persone... ma è necessario che tu smetta questa guerra. Ti interessa?&quot;"/> 
