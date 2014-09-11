@@ -1,5 +1,5 @@
 ================================================================================
-	Pandora: First Contact
+	Pandora: Eclipse of Nashira
 	Read Me
 ================================================================================
 
@@ -64,6 +64,8 @@ Benutzen Sie zum Deinstallieren des Spiels die Option "Software -> Programme
 Windows-Systemsteuerung oder die Deinstallationsverknüpfung im
 Windows-Startmenüeintrag des Spiels. Eine andere Vorgehensweise führt dazu,
 dass das Spiel nicht korrekt deinstalliert wird.
+Es besteht die Möglichkeit, dass Sie nach der Deinstallation die im
+Installationsverzeichnis verbleibenden Dateien manuell löschen mössen.
 
 2.2	Mac OS X
 --------------------------------------------------------------------------------

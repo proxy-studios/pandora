@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Bombardment" value="Bombardamento Orbitale"/>
+	<entry name="BombardmentDescription" value="<style name='Italic'/>&quot;Qualche fanatico religioso ancora teme che l'ira degli Dei arrivi dal cielo. Anche se non è necessario diventare un Dio per avere un simile potere, potrebbe instillare terrore in questi lunatici senza cervello.&quot;<br/>    -- Ammiraglio James Heid, La Campagna di Callisto<style name='Default'/><br/><br/>Le armi orbitali non sono né economiche né semplici da maneggiare. Eppure la capacità di colpire i nemici in ogni momento ed ovunque siano può drasticamente modificare l'esito di qualsiasi guerra."/>
+	<entry name="BombardmentProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Infligge 1 <icon texture='Attributes/Power'/> danno a tutte le unità presenti in un territorio<br/><icon texture='GUI/Bullet'/>Ignora le armi delle unità coinvolte"/>
+	<entry name="BlackHole" value="Buco Nero"/>
+	<entry name="BlackHoleDescription" value="A differenza delle armi di distruzione di massa basate su fusione e fissione, questo pseudo buco nero non ha effetti collaterali sull'ambiente. A parte, naturalmente, l'enorme potere distruttivo che spazza via qualunque cosa all'interno del suo ampio raggio d'azione."/>
+	<entry name="BlackHoleProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Infligge 64 <icon texture='Attributes/Power'/> danni a tutte le unità e la popolazione presenti in un territorio o vicine ad esso<br/><icon texture='GUI/Bullet'/>Ignora le armi delle unità coinvolte<br/><icon texture='GUI/Bullet'/>Distrugge le caratteristiche territoriali<br/><icon texture='GUI/Bullet'/>Crea terreni sterili"/>
+	<entry name="DropPod" value="Capsula d'Atterraggio"/>
+	<entry name="DropPodDescription" value="Le capsule d'atterraggio sono contenitori corazzati che vengono lanciati dallo spazio sulla terra; contengono una o più truppe, e danno loro la possibilità di atterrare direttamente dietro le linee nemiche con estrema velocità ed accuratezza."/>
+	<entry name="DropPodProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Schieramento non immediato, viene consumata quando un'unità esegue uno schieramento orbitale"/>
+	<entry name="Eggs0" value="Uova0"/>
+	<entry name="Eggs1" value="Uova1"/>
+	<entry name="Eggs2" value="Uova2"/>
+	<entry name="EMPBeam" value="Raggio IEM"/>
+	<entry name="EMPBeamDescription" value="Rilascia un raggio elettromagnetico concentrato che sconvolge tutte le produzioni in corso, influenza tutte i dispositivi elettronici ed induce malfunzionamenti a tutti i sistemi computerizzati dell'area. Utilizzato su una colonia, crea un blackout completo e prolungato."/>
+	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Causa un blackout che inabilita completamente una città per 5 turni"/>
+	<entry name="Mines" value="Mine Vulcaniche"/>
+	<entry name="MinesDescription" value="Lanciati dai nostri satelliti, questi solidi dispositivi scendono in profondità nel terreno. Qui espongono le loro sostanze chimiche all'aria di Pandora, creando un'instabile bomba pressurizzata, in attesa di essere disturbata."/>
+	<entry name="MinesProperties" value=""/>
+	<entry name="NanoRobots" value="Nano Robot"/>
+	<entry name="NanoRobotsDescription" value="Dei robot microscopici possono essere programmati per eseguire compiti particolari, come nano-medicina e micro riparazioni, sacrificando parte della loro stessa struttura come parte integrante del processo di ricomposizione molecolare delle unità ferite o danneggiate."/>
+	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Ripara completamente tutte le unità presenti in un territorio"/>
+	<entry name="Nuke" value="Missile Nucleare"/>
+	<entry name="NukeDescription" value="Le reazioni nucleari rilasciano un'enorme energia distruttiva da una quantità di materia relativamente modesta. Non più grandi delle tradizionali bombe, possono devastare intere città con esplosioni, fuoco e radiazioni.<br/><br/>Lo spostamento delle testate nucleari è importante e costoso quasi quanto produrle. Tramite missili balistici a lungo raggio ora siamo in grado di consegnare queste armi di distruzione di massa direttamente sulla soglia del nostro nemico.<br/><br/><style name='Italic'/>Gli intellettuali da tempo avvertono delle devastanti conseguenze che deriverebbero da una guerra nucleare."/>
+	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Infligge 8 <icon texture='Attributes/Power'/> danni a tutte le unità e la popolazione presenti in un territorio<br/><icon texture='GUI/Bullet'/>Ignora le armi delle unità coinvolte<br/><icon texture='GUI/Bullet'/>Distrugge le caratteristiche territoriali<br/><icon texture='GUI/Bullet'/>Crea terreni sterili"/>
+	<entry name="Portal0" value="Portale0"/>
+	<entry name="Portal1" value="Portale1"/>
+	<entry name="Portal2" value="Portale2"/>
+	<entry name="Portal3" value="Portale3"/>
+	<entry name="Portal4" value="Portale4"/>
+	<entry name="Promotion" value="Campi d'Addestramento"/>
+	<entry name="PromotionDescription" value="Una variante brutale dei giochi di guerra, nei Campi d'Addestramento si utilizzano vere munizioni. Sono noti per aver traumatizzato o paralizzato più di un soldato. Solo i migliori sopravvivono, e le conoscenze acquisite permettono loro di eccellere in una vera guerra."/>
+	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> al livello per tutte le unità presenti in un territorio<br/><icon texture='GUI/Bullet'/>Infligge il 20% <icon texture='Attributes/Health'/> di danno<br/><icon texture='GUI/Bullet'/>Non aumenta il <icon texture='Attributes/Rank'/> livello oltre il 10<br/><icon texture='GUI/Bullet'/>Non ha effetto sulle unità che morirebbero"/>
+	<entry name="Scan" value="Scansione Satellitare"/>
+	<entry name="ScanDescription" value="La ricognizione orbitale possiede molti vantaggi; è discreta, efficiente, precisa ed onnipresente. L'ultima generazione di satelliti ricognitori è in grado di spiare un'ampia zona, rendendoli uno strumento indispensabile per lo spionaggio e la guerra."/>
+	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Rivela un territorio e quelli vicini per 1 turno"/>
+	<entry name="Storm" value="Tempesta Ionica"/>
+	<entry name="Teleportation" value="Portale Planetario"/>
+	<entry name="TeleportationDescription" value="Anche chiamati 'Whormhole' dai profani, i Portali Planetari sono semplicemente degli ingressi che portano all'interno di piccoli buchi bianchi. Questi dispositivi permettono ad ogni unità di viaggiare a velocità super-luce fino ad un luogo prestabilito."/>
+	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operazione<br/><icon texture='GUI/Bullet'/>Teletrasporta tutte le unità da un territorio ad un altro"/>
+</language>

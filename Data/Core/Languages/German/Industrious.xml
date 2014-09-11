@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+	
+	%1% with faction leader title, e.g. "Lady".
+	%2% with faction leader name, e.g. "Vermillion".
+	%3% with faction leader title and name, e.g. "Lady Vermillion".
+	%4% with a random insult.
+	%5% with a random compliment.
+	%6% with message context.
+	%7% with a random crime (second person).
+	%8% with a random crime (third person).
+-->
+<language>
+	
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="&quot;Als Ministerpräsident, oberster Bürger und erster Klon der Solar-Dynastie heiße ich, Yun Xi, Sie willkommen auf unserer Welt Pandora. Ich hoffe, wir können Ihnen dabei helfen, sie wieder zu verlassen.&quot;"/>
+	<entry name="LetMeThink" value="&quot;Hmm... geben Sie mir einen Moment darüber nachzudenken.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Natürlich, lassen Sie mich wissen wenn Sie eine Entscheidung getroffen haben.&quot;"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="&quot;Ein stolzer Narr arbeitet gegen Ihre Revolution.&quot;"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="&quot;Verraten Sie mir, wer dieser anarchosyndikalistische Hund ist!&quot;"/>
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="&quot;Das entspricht nicht der Wahrheit. Vielleicht wären Sie in einem Umerziehungslager besser aufgehoben.&quot;"/>
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/>
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="&quot;Ja, das sind elende Konterrevolutionäre. Wir werden sie ... umerziehen.&quot;"/>
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="&quot;Das sind keine größeren Rebellen als Mao selbst. Hinfort mit Ihnen!&quot;"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Ihr Partner ist kein Freund des Volkes. Ich bin das Volk.&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ja, diese kleinbürgerlichen Umtriebe zehren an meiner Geduld. Wer zehrt an Ihrer?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Das wäre ein großer Schritt zurück.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Diese reaktionären, kleinbürgerlichen, bonapartistischen CIA-Verräter? Ja, mit denen hatten wir schon abgeschlossen, noch bevor Sie es angesprochen haben.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nein, wir werden nicht zulassen, dass Sie Zwietracht zwischen uns und unseren Verbündeten säen. Wir bleiben standhaft.&quot;"/>
+	
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Wir benötigen gegenseitigen Respekt vor unseren jeweiligen Aktivitäten - wie Zhou es in seinen Fünf Prinzipien der Friedlichen Koexistenz fordert.&quot;"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Dieser Klassenkampf muss enden - Frieden wäre die vernünftige Lösung. Aber mit wem?&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;Nein, die Kapitalisten müssen leiden.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;Mit denen? Gerne ... alles, damit unsere Arbeiter wieder in die Fabriken zurückkehren können.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;Die Rote Garde wird nicht aufgeben. Niemals!&quot;"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="&quot;Wie können sie es wagen? Ich bin der Klon meines Vaters, der Erbe meines Volkes. Ich werde das nicht zulassen. Werden Sie meine Ehre verteidigen?&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="&quot;Der Krieg wird nicht lange dauern und wir werden obsiegen. Gegen wen soll es gehen?&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="&quot;Nein, nicht heute. Wir müssen unsere Fabriken am Laufen halten.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="&quot;Ja, ja ... unsere große Armee ist bereits unterwegs.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Nein! Es ist nicht so, dass wir nicht gegen sie kämpfen und siegen könnten ... wir wollen es nur nicht. Sie verdienen Yun Xis Aufmerksamkeit nicht.&quot;"/>
+	
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="&quot;Wenn ich diese Welt nach meinem Bilde umgestalten will, muss ich mehr über sie wissen. Lassen Sie uns unsere Karten teilen.&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;Ja, alles sollte gleich verteilt sein. Und mein gleicher Anteil sollte gleicher als alle anderen sein.&quot;"/>
+	<entry name="RejectShareMap" value="&quot;Je mehr ich über diese Welt weiß, desto stärker muss ich mein Volk vom Erkunden abhalten. Nein, nein und nochmals nein!&quot;"/>
+	
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="&quot;Wir wollen zu Ehren unserer Vorväter den Langen Marsch nachstellen. Dürfen wir dafür Ihr Land betreten?&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;Kommen Sie, wir haben nichts zu verbergen. Sie können unser Land erkunden, aber halten Sie sich von unseren Städten fern.&quot;"/>
+	<entry name="RejectOpenBorders" value="&quot;Eines Tages könnten wir uns so etwas vorstellen, zu unser aller Nutzen. Aber heute ist nicht dieser Tag.&quot;"/>
+	<entry name="TerminateOpenBorders" value="&quot;Die Aktivitäten Ihres Volkes in unserem Land werden immer mehr zum Ärgernis für uns. Deswegen beende ich hiermit unsere Abmachung der offenen Grenzen.&quot;"/>
+	<entry name="AcceptOpenBordersTerminated" value="&quot;In unserem Reich konnten Ihre Untertanen die Erleuchtung finden, während Sie ihnen nichts weiter als fehlgeleitete Ideologien bieten können. Aber ganz wie Sie wünschen.&quot;"/>
+
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Ihre Arbeiter sterben, während Sie in Saus und Braus leben, Sie dekadenter Heuchler! Schämen Sie sich überhaupt nicht?"/>
+	<entry name="Crime1" value="Was ist mit dem Nationalkongress geschehen? Verräterische Rebellen? Ha, dass ich nicht lache! Aber das Vergiften Ihrer eigenen Landsleute ist noch Ihr kleinstes Verbrechen."/>
+	<entry name="Crime2" value="Geben Sie sich ja nicht der Illusion hin, dass wir nicht von Ihren 'Umerziehungslagern' wüssten. Ich frage mich, ob es dort jemals jemand lebend herausgeschafft hat."/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="&quot;%7% Welche Verbrechen Sie verüben ... für Ihr eigenes Wohlergehen!&quot;"/>
+	<entry name="AcceptDenounce" value="&quot;Jawohl, all das habe ich getan und noch viel mehr. Ich tue das alles für mein Volk. Für den Teil, der überlebt.&quot;"/>
+	<entry name="RejectDenounce" value="&quot;Das können Sie nicht beweisen. Es gibt keine Aufzeichnungen und diejenigen, die darüber aussagen könnten, sind tot. Dennoch danke ich Ihnen für Ihr Interesse.&quot;"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="&quot;%5% Sie haben hundert Blumen blühen lassen - und hundert Fabriken dazu!&quot;"/>
+	<entry name="AcceptPraise" value="&quot;Vielen Dank. Ja, ich bin der vollkommene Mensch - und ich werde diese Welt nach meinem perfekten Bilde umgestalten.&quot;"/>
+	<entry name="RejectPraise" value="&quot;Wagen Sie es ja nicht, die Worte meiner Vorfahren zu nutzen, um mich um den Finger zu wickeln. Ich bin nicht so leichtgläubig, wie Sie meinen.&quot;"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="&quot;Für das Wohl meines Volkes muss ich zurücktreten. Die Solar-Dynastie gehört ab sofort Ihnen. Ich hoffe, Sie klonen besser, als ich es getan habe.&quot;"/>
+	<entry name="AcceptSurrender" value="&quot;Wir haben immer genügend freie Plätze in den Minen für weitere Arbeiter.&quot;"/>
+	<entry name="RejectSurrender" value="&quot;Nein, wir wollen nicht auch noch Ihre Mägen füllen müssen.&quot;"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Sie sind in allen Belangen vollkommen, Ministerpräsident Yun Xi. Ich kann verstehen, warum Ihr Volk Sie so sehr verehrt."/>
+	<entry name="Compliment1" value="Solch großartige Fabriken können nur von einer großartigen Nation stammen, Yun Xi. Sie sind wirklich gesegnet."/>
+	<entry name="Compliment2" value="Gleichheit ist das höchste Ziel - alle Menschen auf dieselbe Stufe zu bringen. Wie ehrbar Sie doch sind, dass Sie bei solch einem Unterfangen die Federführung übernehmen."/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="Sie sind ein rücksichtsloser Tyrann, der sein eigenes Volk versklavt und sich nicht darum schert, wie dieser Planet in 20 Jahren aussehen wird."/>
+	<entry name="Insult1" value="Wie arrogant muss man sein, um seinen eigenen Klon-Sohn an die Spitze seines Volkes zu setzen? Sind die Menschen so wenig wert für Sie, während Sie über allem stehen?"/>
+	<entry name="Insult2" value="Sie massenmörderischer Klon-Idiot! Das ist Inzucht in Perfektion ... Sie sind Ihr eigener Sohn!"/>
+	
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="&quot;Wenn das Schicksal von weit her kommt, sollte man es nicht grundlos abweisen. Darum und als Zeichen meiner Hochachtung möchte ich Ihnen einige Credits überweisen ...&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;Es ist keine Schande, das Geld eines Narren anzunehmen. Das Volk dankt Ihnen ... aber wie viel wollen Sie zahlen?&quot;"/>
+	<entry name="GiftAccepted1" value="&quot;Vielen Dank. Es waren sowieso neue Konkubinenhalter für meinen Lustpalast nötig.&quot;"/>
+	<entry name="GiftRejected0" value="&quot;Keine Macht auf Erden oder im Himmel kann mich dazu bringen, Geld von Armen anzunehmen.&quot;"/>
+	<entry name="GiftRejected1" value="&quot;Hmmm ... das Volk würde Ihnen danken, wenn Sie etwas großzügiger wären.&quot;"/>
+	
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="&quot;Ohne die Kontrolle über die Produktionsmittel können Sie diesen Kampf nicht gewinnen, %3%. Aber im Gegenzug für eine nette Spende kann ich Ihnen eine Kopie meines kleinen roten Buches schicken, in dem Sie die entscheidenden Tipps finden.&quot;"/>
+	<entry name="TributeAccepted0" value="&quot;Sie nehmen mir damit das letzte Hemd - aber bevor ich friere, werden es tausende andere tun. Wenn Ihnen das nichts ausmacht, können Sie das Geld haben.&quot;"/>
+	<entry name="TributeAccepted1" value="&quot;Ich kann Ihren Wunsch nicht ablehnen. Hier, nehmen Sie es.&quot;"/>
+	<entry name="TributeRejected0" value="&quot;Ich werde mir nicht vorwerfen lassen, dass ich leicht kapituliere, %2%. Ich kämpfe für mein Volk.&quot;"/>
+	<entry name="TributeRejected1" value="&quot;Mein Volk und vor allem ich würden verhungern, wenn wir Ihren Forderungen entsprechen. Deswegen ein entschiedenes Nein!&quot;"/>
+	
+	<entry name="AcceptCreditsForDeal0" value="&quot;Elende Oligarchokapitalisten! %1%, was wollen Sie?&quot;"/>
+	<entry name="AcceptCreditsForDeal1" value="&quot;Fein, ich werde Ihnen das Geld überweisen. Nun zu meinem Angebot ...&quot;"/>
+	<entry name="RejectCreditsForDeal0" value="&quot;Wenn Ihnen der Nutzen dieses Angebots ohne Bestechung nicht klar ist, habe ich kein Interesse mehr.&quot;"/>
+	<entry name="RejectCreditsForDeal1" value="&quot;Da verlangen Sie leider zu viel, %1%.&quot;"/>
+	<entry name="CreditsForDealRejected" value="&quot;Nun gut.&quot;"/>
+	<entry name="DemandCreditsForDeal" value="&quot;Mit einem finanziellen Beitrag von Ihrer Seite aus könnte das wirklich funktionieren ...&quot;"/>
+	<entry name="DemandCredits0" value="&quot;Ich bin nicht insolvent, %6% <icon texture='Resources/Credits'/> Credits sind ausreichend.&quot;"/>
+	<entry name="DemandCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> Credits klingen doch ganz vernünftig, oder?&quot;"/>
+	<entry name="DemandCredits2" value="&quot;In diesem Fall fürchte ich, dass eine größere Summe fällig wird: %6% <icon texture='Resources/Credits'/> Credits.&quot;"/>
+	<entry name="DemandCredits3" value="&quot;Ich möchte alles, was Sie haben - und nicht einen Cent weniger!&quot; (%6% <icon texture='Resources/Credits'/> Credits)"/>
+	<entry name="OfferCredits0" value="&quot;Würde Ihnen eine bescheidene Summe von %6% <icon texture='Resources/Credits'/> Credits irgendwie weiterhelfen?&quot;"/>
+	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> Credits sollten durchaus ausreichend sein für Ihre Unternehmungen.&quot;"/>
+	<entry name="OfferCredits2" value="&quot;Ich bin gewillt, Ihnen die großzügige Summe von %6% <icon texture='Resources/Credits'/> Credits zu schenken.&quot;"/>
+	<entry name="OfferCredits3" value="&quot;Ich gebe zu, dass die Umrechnungskurse zwischen dem Yuan und diesen Credits recht verwirrend sein können ... aber %6% <icon texture='Resources/Credits'/> Credits sind mein ganzes Vermögen.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Jawohl, %2%! Lassen Sie uns eine Allianz bilden, die bis in alle Ewigkeit Bestand haben wird!&quot;"/>
+	<entry name="AllianceRejected" value="&quot;Ein ehrenwertes Angebot, das wir jedoch nicht annehmen können. Die Gründe dafür sind ... vertraulich.&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;Nun ja, soviel also zu unserer Allianz für die Ewigkeit.&quot;"/>
+	<entry name="Condemn" value="&quot;Millionen werden im Fallout sterben, Sie Ungeheuer! Ich werde das nicht vergessen!&quot;"/>
+	<entry name="CondemnAccepted" value="&quot;%4% Sie bekommen, was Sie verdienen.&quot;"/>
+	<entry name="DeclareWar" value="&quot;%4% Ich werde Ihnen eine Lektion über den Krieg erteilen.&quot;"/>
+	<entry name="DemandWithdrawal" value="&quot;Glauben Sie ja nicht, dass uns Ihre Truppenkonzentration an unseren Grenzen nicht aufgefallen wäre! Ziehen Sie sie umgehend zurück oder es wird Konsequenzen geben.&quot;"/>
+	<entry name="Eliminated" value="&quot;Eintausend außerirdische Sonnen brennen auf unsere Dynastie herab, aber wir werden zurückkehren. Wir kehren immer zurück.&quot;"/>
+	<entry name="Goodbye" value="&quot;Passen Sie auf sich auf.&quot;"/>
+	<entry name="Greet0" value="&quot;Was führen Sie im Schilde, %2%?&quot;"/>
+	<entry name="Greet1" value="&quot;Ich grüße Sie, %3%, unter dieser fremden Sonne. Was kann ich für Sie tun?&quot;"/>
+	<entry name="Greet2" value="&quot;Vor treuen Freunden wie Ihnen verneige ich mich gerne. Wie kann ich Ihnen helfen?&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Lassen Sie uns für Frieden an unseren Grenzen sorgen.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;Nein. Ganz gleich, was Sie davon halten mögen.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;Ihr Geist ist wohl umnachtet, wenn Sie so etwas wagen!&quot;"/>
+	<entry name="OfferAlliance" value="&quot;Mein Freund, verbünden Sie sich mit der starken, großen Solar-Dynastie. Yun Xi ist der beste aller Genossen.&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;Ich weiß, Krieg ist ein Gräuel für Sie. Und wir wollen unsere Nation in Isolation zur Perfektion führen. Wollen wir nicht einen beiderseitigen Kriegsverzicht vereinbaren?&quot;"/>
+	<entry name="OfferPeace" value="&quot;Es ist kein Zeichen von Schwäche, die Hand in Frieden auszustrecken. Sie nicht anzunehmen, hingegen schon.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Wollen wir den Weg der Erleuchtung gemeinsam bestreiten?&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;Lassen Sie uns ein Handelsabkommen unterzeichnen. Davon würden wir beide profitieren.&quot;"/>
+	<entry name="PeaceAccepted" value="&quot;Ja, Frieden ist eine kluge Entscheidung.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;Sie betteln wie ein Hund um Frieden? Da können Sie lange darauf warten!&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Jawohl, lassen Sie uns gemeinsam nach Erleuchtung streben.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;Es tut mir leid, aber ich fürchte, solch ein Abkommen würde nur einer Seite wirklich helfen.&quot;"/>
+	<entry name="ResearchPactTerminated" value="&quot;Enttäuschend, aber da kann man nichts machen. Vielleicht können wir uns in einigen Monaten noch einmal darüber unterhalten.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;Unsere Allianz ist zwar ohne Zweifel stark, aber dennoch denken wir, dass sich ab jetzt unsere Wege trennen müssen.&quot;"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;Unser unsinniger Nichtangriffspakt ist hiermit null und nichtig!&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;Wir ziehen kaum einen wissenschaftlichen Nutzen aus unserem Forschungsabkommen. Daher löse ich es hiermit auf.&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;Um ehrlich zu sein, ist unser Handelsabkommen nicht profitabel genug für uns. Aus diesem Grunde beende ich es hiermit.&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Hervorragend! Jetzt kann der Rubel rollen, %1%.&quot;"/>
+	<entry name="TradingPactRejected" value="&quot;Wir sind zu diesem Zeitpunkt nicht an Ihren Gütern interessiert.&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;Wie kommen Sie denn zu dieser unklugen Entscheidung? Einer Ihrer Berater ist wohl ein feindlicher Spion!&quot;"/>
+	<entry name="WarAccepted" value="&quot;Sehr gerne, %2%. Es ist Zeit, dass ich Ihnen eine Lektion in der Kunst des Krieges erteile.&quot;"/>
+	<entry name="WithdrawalAccepted" value="&quot;Ich muss zugeben, dass sich die Rote Garde manchmal meiner Kontrolle entzieht. Doch ich verspreche Ihnen, %1%, dass sie mir gehorchen werden, wenn ich sie zurückbeordere. Dafür werde ich sorgen, das können Sie mir glauben.&quot;"/>
+	<entry name="WithdrawalRejected" value="&quot;Wenn sich eine Tür schließt, öffnet sich irgendwo eine andere. Einfacher ausgedrückt: Nein.&quot;"/>
+</language>

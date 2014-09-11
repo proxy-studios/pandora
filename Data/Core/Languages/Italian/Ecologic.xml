@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+	
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="&quot;Salve, Terreno. Io sono l'Avvocato Vivian Gardinier di Terra Salvum. Siamo qui per salvare questo nuovo mondo e, speriamo, tu ci aiuterai.&quot;"/>
+	
+	<entry name="NamePositive" value="&quot;La bellissima Avvocatessa Gardinier.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'indegna Avvocatessa Gardinier.&quot;"/> 
+	
+	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="&quot;Il tocco mortale di qualcuno sta facendo appassire tutti i tuoi sforzi. Vuoi sapere chi?&quot;"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="&quot;Dimmi di più. Quale erbaccia hai sradicato?&quot;"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="&quot;Alcuni di noi scavano nel fango, mentre altri ammirano le stelle. Ma tu... tu non stai scavando, tu stai ammirando il fango!&quot;"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="&quot;Questo è... esattamente quello che mi aspettavo da quegli assassini di alberi. Grazie.&quot;"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="&quot;Perché stai sprecando il mio tempo in questa maniera? Ho un pianeta da salvare!&quot;"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Annulla quel trattato commerciale con quei puzzolenti, mostruosi inquinatori... ti va?&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Chi sta distruggendo il pianeta, questa volta?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Scusa, ma devo innaffiare le mie piante domestiche e non posso ascoltare questi piagnucolii.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Okay. Distruggiamo i distruttori.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Mi spiace, ma mi servono per le mie statistiche sulle emissioni carboniche.&quot;"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Immagina tu ed il tuo nemico, immagina tutte le persone, che vivono la loro vita in... pace?&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Io sono una sognatrice. Chi avrebbe mai creduto che anche tu condividessi il mio sogno?&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;No, mi spiace. Non siamo Greenpeace... noi crediamo nella guerra, di qualsiasi colore sia.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;Una fratellanza di uomini? Posso starci.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;Quelle sono il tipo di persone che bastonano le foche e tagliano le pinne agli squali. Si meritano tutto questo.&quot;"/>
+	
+	<entry name="DemandWarDeclarationOnThirdParty0" value="&quot;Devi dichiarare guerra. Ora. Questi taglia-alberi devono morire.&quot;"/> 
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="&quot;Noi detestiamo la guerra... ma potremmo fare un'eccezione in questo caso. Contro chi?&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="&quot;No, niente guerra. Abbiamo già distrutto il nostro pianeta.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="&quot;Sì, i loro cadaveri saranno un fertilizzante eccellente per le mie aiuole. Ci sto.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;No, non potremmo mai farlo. Scusa!&quot;"/>
+	
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="&quot;Lavorare assieme per creare una mappa delle meraviglie di Pandora è un degno sforzo per l'umanità. Non sei d'accordo?&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;Eccellente! Assieme potremmo creare una mappa delle meraviglie di Pandora!&quot;"/>
+	<entry name="RejectShareMap" value="&quot;No, non penso proprio. Le meraviglie di questo pianeta non dovrebbero essere condivise con persone come te.&quot;"/>
+		
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="&quot;Ecco, amico. Attraversa le nostre terre, e noi potremo attraversare le tue.&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;Ora potremo vagare per questo magnifico paesaggio.&quot;"/>
+	<entry name="RejectOpenBorders" value="&quot;No. La nostra terra è una riserva naturale, non una destinazione per turisti.&quot;"/>
+	<entry name="TerminateOpenBorders" value="&quot;Ho paura di dover revocare la nostra politica di confini aperti... la natura ha sofferto abbastanza a causa della tua disattenzione.&quot;"/>
+	<entry name="AcceptOpenBordersTerminated" value="&quot;Molto bene, la nostra terra non sentirà la mancanza dei tuoi pesanti scarponi.&quot;"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Un altro lavoratore assassinato. Ti interessano di più le tue dannate piante degli esseri umani! Non posso più continuare così!"/>
+	<entry name="Crime1" value="Dannata ipocrita. Le tue città sono inquinatissime e punti il dito contro di noi!"/>
+	<entry name="Crime2" value="Abbiamo catturato un altro dei tuoi attivisti. Smettila di sabotare le nostre centrali elettriche. Non sei Gandhi!"/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="&quot;%7% Il pianeta geme ricordando i tuoi crimini.&quot;"/>
+	<entry name="AcceptDenounce" value="&quot;Questo è il miglior insulto che riesci a trovare? Beh, è vero.&quot;"/>
+	<entry name="RejectDenounce" value="&quot;Oh, cresci!&quot;"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="&quot;%5% Sto iniziando a pensare che tu sia un bene per Pandora... ed ho intenzione di dirlo a tutti!&quot;"/>
+	<entry name="AcceptPraise" value="&quot;Assieme faremo di questo posto un paradiso. Se gli altri ce lo permetteranno.&quot;"/>
+	<entry name="RejectPraise" value="&quot;L'adulazione non ti porterà da nessuna parte.&quot;"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="&quot;Basta. Il sogno di Gaia è infranto. Ci sottomettiamo.&quot;"/>
+	<entry name="AcceptSurrender" value="&quot;Sì, potrete seguire il nostro cammino, ora. Venite.&quot;"/>
+	<entry name="RejectSurrender" value="&quot;Vi spazzeremo via dal pianeta. La resa non è mai stata un'opzione valida.&quot;"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Hai preso gli orrori di questo pianeta e ci hai mostrato quanto siano meravigliosi."/>
+	<entry name="Compliment1" value="Vivere in armonia con la natura è un risultato significativo."/>
+	<entry name="Compliment2" value="Anche se posso non essere d'accordo con la tua posizione etica, la difenderò fino in fondo."/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="%2%, tu ed i tuoi seguaci siete solo un branco di romantici primitivi che ballano nudi attorno agli alberi."/>
+	<entry name="Insult1" value="Voi inutili abbracciatori d'alberi non avete posto nella civiltà moderna, %2%."/>
+	<entry name="Insult2" value="Ti spalmerò un po' di quel fango che tanto ami sulla faccia, %3%."/>
+
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="&quot;Pandora esige che il tuo comportamento venga ricompensato. Preferisci crediti... o va bene del fertilizzante? È organico, biologico ed a chilometri zero. No, non sto scherzando.&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;Che Pandora ti benedica, Terreno. Che dono hai per lei?&quot;"/>
+	<entry name="GiftAccepted1" value="&quot;Grazie, il tuo denaro è benaccetto e contribuirà alla buona causa per preservare la natura.&quot;"/>
+	<entry name="GiftRejected0" value="&quot;Apprezzo il gesto, ma mi sentirei male nel prendere il tuo denaro. Scusa!&quot;"/>
+	<entry name="GiftRejected1" value="&quot;No grazie, ho paura che questa somma non ci porterà da nessuna parte...&quot;"/>
+
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="&quot;La tua industria è un pesante fardello per questo pianeta. Ti consiglio vivamente di pagarmi una tassa ecologica così da riparare ai danni che hai causato alla natura.&quot;"/>
+	<entry name="TributeAccepted0" value="&quot;Il pianeta potrà sicuramente fare a meno di un po' di denaro, per una giusta causa. Quanto avevi in mente?&quot;"/>
+	<entry name="TributeAccepted1" value="&quot;Prendi i tuoi soldi e vattene. Sai quanti alberi avremmo potuto piantare con questa somma?&quot;"/>
+	<entry name="TributeRejected0" value="&quot;Ho paura di non potermi sottomettere alle tue minacce, %1%, altrimenti diventerebbe un'abitudine...&quot;"/>
+	<entry name="TributeRejected1" value="&quot;Come tutti gli uomini, se fossi meno avido, potresti avere ciò che desideri.&quot;"/>	
+
+	<entry name="AcceptCreditsForDeal0" value="&quot;Allora dimmi, %1%, quanti soldi servono per convincerti su quest'offerta?&quot;"/>
+	<entry name="AcceptCreditsForDeal1" value="&quot;Bene, ti trasferirò il denaro. Ora riguardo alla mia offerta...&quot;"/>
+	<entry name="RejectCreditsForDeal0" value="&quot;Se non capisci la saggezza di quest'offerta, senza una mazzetta, non siamo più interessati.&quot;"/>
+	<entry name="RejectCreditsForDeal1" value="&quot;Ho paura che tu abbia chiesto troppo, %1%.&quot;"/>
+	<entry name="CreditsForDealRejected" value="&quot;Così sia.&quot;"/>
+	<entry name="DemandCreditsForDeal" value="&quot;Stiamo creando una nuova economia energetica basata su risorse rinnovabili. Non sta andando secondo i piani. Una donazione potrebbe aiutarci a sistemare le cose.&quot;"/>
+	<entry name="DemandCredits0" value="&quot;Oh, ci vorrebbero solo %6% <icon texture='Resources/Credits'/> crediti per rendere i pannelli solari ecologici.&quot;"/>
+	<entry name="DemandCredits1" value="&quot;Con una donazione di soli %6% <icon texture='Resources/Credits'/> crediti potremmo creare dei pannelli solari con saliva di Xenomorfo piuttosto che con polimeri derivanti dal petrolio.&quot;"/>
+	<entry name="DemandCredits2" value="&quot;Con una donazione di %6% <icon texture='Resources/Credits'/> crediti, potremmo creare una foresta di mulini di legno, che fornirebbero più del %1% del nostro fabbisogno energetico!&quot;"/>
+	<entry name="DemandCredits3" value="&quot;Con una donazione di %6% <icon texture='Resources/Credits'/> crediti, potremmo iniziare un progetto di conservazione per prelevare campioni di tessuto da animali rari come l'Aspidoch ed il Leviatano.&quot;"/>
+	<entry name="OfferCredits0" value="&quot;Odio vedere qualsiasi forma di vita soffrire. %6% <icon texture='Resources/Credits'/> crediti ti persuaderebbero a lasciar stare la fauna locale?&quot;"/>
+	<entry name="OfferCredits1" value="&quot;Come disse Roosvelt, le foreste sono i polmoni del mondo. Ecco %6% <icon texture='Resources/Credits'/> crediti per farti smettere di abbatterle.&quot;"/>
+	<entry name="OfferCredits2" value="&quot;Abbiamo pensato che se ti dessimo %6% <icon texture='Resources/Credits'/> crediti, potresti sterminare tutti gli altri umani... cosa che, a mio parere, farebbe molto felice Gaia-Pandora.&quot;"/>
+	<entry name="OfferCredits3" value="&quot;Wow, sei messo male, ma non posso permettermi più di %6% <icon texture='Resources/Credits'/> crediti per aiutarti. Stammi bene!&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Oh sì! Assieme potremmo assicurarci che gli errori compiuti sulla vecchia Terra non vengano ripetuti.&quot;"/>
+	<entry name="AllianceRejected" value="&quot;Grazie, ma la tua ideologia è poco, come posso dire, convenzionale per i miei gusti. Senza offesa...&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;Sul serio? Ah beh, è stato bello finché è durato.&quot;"/>
+	<entry name="Condemn" value="&quot;Sei un mostro, %3%, ed un giorno pagherai il prezzo di queste azioni oltraggiose!&quot;"/>
+	<entry name="CondemnAccepted" value="&quot;%4% Il fatto che sia disposta ad arrivare a questo punto, dovrebbe dimostrarti la mia disperazione!&quot;"/>
+	<entry name="DeclareWar" value="&quot;%4% Per quanto io disprezzi la violenza, tutto questo è semplicemente inaccettabile!&quot;"/>
+	<entry name="DemandWithdrawal" value="&quot;Non pensare che non sia a conoscenza della concentrazione delle tue truppe vicino ai miei confini! Ordina immediatamente una ritirata, o ci saranno delle conseguenze...&quot;"/>
+	<entry name="Eliminated" value="&quot;Ci rivedremo.&quot;"/>
+	<entry name="Goodbye" value="&quot;Va' con Gaia.&quot;"/>
+	<entry name="Greet0" value="&quot;Di nuovo tu? Sei consapevole del fatto che non ti sopporto, vero?&quot;"/>
+	<entry name="Greet1" value="&quot;Cordiali saluti a te, %3%. Non è eccitante questo nuovo mondo?&quot;"/>
+	<entry name="Greet2" value="&quot;Salve, mio caro %1%. Cos'hai in mente?&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Accettiamo! Ed a differenza di altri leader, intendo sul serio.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;Ahh... Hmm... No.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;Ah, quindi qual è il tuo prossimo passo? Dichiarare guerra?&quot;"/>
+	<entry name="OfferAlliance" value="&quot;Per il bene della Terra e di Pandora, combattiamo assieme!&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;Non deriva nulla di buono dalla guerra... un patto di non aggressione sarebbe una buona dichiarazione dei nostri comuni intenti.&quot;"/>
+	<entry name="OfferPeace" value="&quot;Ti prego, ferma questa pazzia! Sai quante specie native sono già andate perdute per sempre per colpa degli effetti collaterali?&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Condividere la nostra ricerca ci aiuterà entrambi lungo il cammino verso la luce di Gaia.&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;Il commercio tra le nostre nazioni potrebbe avvicinarci. Cosa ne dici?&quot;"/>
+	<entry name="PeaceAccepted" value="&quot;Accettiamo. Uomo e natura hanno sofferto abbastanza.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;No, no, no! Non è ancora finita!&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Molto bene, scopriamo una nuova era assieme!&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;Mi spiace %2%, non siamo interessati.&quot;"/>
+	<entry name="ResearchPactTerminated" value="&quot;Pensi davvero che sia la decisione giusta, %2%? Ne dubito.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;Spero che tu non fraintenda questo gesto, mio vecchio amico, ma la nostra alleanza è finita... con effetto immediato.&quot;"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;Le cose iniziano ad andare troppo in là... il nostro patto di non aggressione è annullato.&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;Non ci piace la piega inquinante che sta prendendo la tua ricerca. Il nostro patto è annullato.&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;Ne abbiamo abbastanza delle tue merci prodotte senza attenzione per la natura. I commerci tra le nostre fazioni sono sospesi!&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Accettiamo! Speriamo in una collaborazione fruttuosa.&quot;"/>
+	<entry name="TradingPactRejected" value="&quot;Il mio popolo non è ancora pronto ad utilizzare i tuoi prodotti.&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;Tutto questo è davvero deludente.&quot;"/>
+	<entry name="WarAccepted" value="&quot;Quindi è questo che pensi davvero, eh? Aspetta e preparati, la terra tremerà sotto la marcia delle nostre truppe!&quot;"/>
+	<entry name="WithdrawalAccepted" value="&quot;Non so come la mia gente possa essere arrivata lì... probabilmente seguendo il cammino di Gaia... li richiamerò a casa.&quot;"/>
+	<entry name="WithdrawalRejected" value="&quot;Con quale diritto? Loro camminano tra gli animali, mentre tu li calpesti macchiando la terra di sangue. Non si sposteranno.&quot;"/>
+</language>

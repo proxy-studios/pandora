@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlienAggression" value="Aggressività Aliena"/>
+	<entry name="AlienAggression0" value="Molto Bassa"/>
+	<entry name="AlienAggression0Hint" value="Gli alieni diventano ostili molto tardi e percorrono brevi distanze per attaccare. Gli alveari producono nuovi xenomorfi molto lentamente."/>
+	<entry name="AlienAggression1" value="Bassa"/>
+	<entry name="AlienAggression1Hint" value="Gli alieni diventano ostili relativamente tardi e percorrono brevi distanze per attaccare. Gli alveari producono nuovi xenomorfi abbastanza lentamente."/>
+	<entry name="AlienAggression2" value="Media"/>
+	<entry name="AlienAggression2Hint" value="Gli alieni diventano ostili relativamente presto e percorrono distanze moderate per attaccare. Gli alveari producono nuovi xenomorfi a velocità standard."/>
+	<entry name="AlienAggression3" value="Alta"/>
+	<entry name="AlienAggression3Hint" value="Gli alieni diventano ostili relativamente presto e percorrono distanze considerevoli per attaccare. Gli alveari producono nuovi xenomorfi velocemente."/>
+	<entry name="AlienAggression4" value="Molto Alta"/>
+	<entry name="AlienAggression4Hint" value="Gli alieni diventano ostili estremamente presto e percorrono distanze smisurate per attaccare. Gli alveari producono nuovi xenomorfi molto velocemente."/>
+	<entry name="AlienAggression5" value="Casuale"/>
+	<entry name="AlienAggression5Hint" value="L'aggressività aliena viene determinata casualmente all'inizio della partita."/>
+	<entry name="AlliedVictory" value="Vittoria Alleata"/>
+	<entry name="Difficulty" value="Difficoltà"/>
+	<entry name="Difficulty0" value="Molto Facile"/>
+	<entry name="Difficulty0Hint" value="L'IA subisce una lieve penalità rispetto al giocatore."/>
+	<entry name="Difficulty1" value="Facile"/>
+	<entry name="Difficulty1Hint" value="L'IA non ha vantaggi rispetto al giocatore."/>
+	<entry name="Difficulty2" value="Media"/>
+	<entry name="Difficulty2Hint" value="L'IA subisce un lieve bonus rispetto al giocatore."/>
+	<entry name="Difficulty3" value="Difficile"/>
+	<entry name="Difficulty3Hint" value="L'IA subisce un bonus moderato rispetto al giocatore."/>
+	<entry name="Difficulty4" value="Molto Difficile"/>
+	<entry name="Difficulty4Hint" value="L'IA subisce un considerevole bonus rispetto al giocatore."/>
+	<entry name="Difficulty5" value="Casuale"/>
+	<entry name="Difficulty5Hint" value="Il livello di difficoltà per ogni IA viene determinato casualmente all'inizio della partita."/>
+	<entry name="EconomyVictory" value="Vittoria Economica"/>
+	<entry name="DropIn" value="Adesione in Ritardo"/>
+	<entry name="DropInHint" value="Permette di prendere il posto dei giocatori disconnessi e delle IA dopo che la partita è già cominciata. Normalmente i giocatori potrebbero solo riconnettersi o partecipare come spettatori."/>
+	<entry name="GameVisibility" value="Visibilità Partita"/> 
+	<entry name="GameVisibility0" value="Solo Amici"/>
+	<entry name="GameVisibility0Hint" value="Alla partita possono partecipare i tuoi amici, le persone che inviti o che connetti direttamente."/>
+	<entry name="GameVisibility1" value="Privata"/>
+	<entry name="GameVisibility1Hint" value="Alla partita possono partecipare solo le persone che inviti o che connetti direttamente."/>
+	<entry name="GameVisibility2" value="Pubblica"/>
+	<entry name="GameVisibility2Hint" value="La partita viene visualizzata nell'elenco pubblico e chiunque potrà parteciparvi."/>
+	<entry name="MilitaryVictory" value="Vittoria Militare"/>
+	<entry name="Pace" value="Velocità"/>
+	<entry name="Pace0" value="Veloce"/>
+	<entry name="Pace0Hint" value="Diminuisce costi e durata del 50%."/>
+	<entry name="Pace1" value="Normale"/>
+	<entry name="Pace1Hint" value="Non modifica costi e durata."/>
+	<entry name="Pace2" value="Epica"/>
+	<entry name="Pace2Hint" value="Aumenta costi e durata del 50%."/>
+	<entry name="Pace3" value="Maratona"/>
+	<entry name="Pace3Hint" value="Aumenta costi e durata del 100%."/>
+	<entry name="Pace4" value="Casuale"/>
+	<entry name="Pace4Hint" value="La velocità viene determinata casualmente all'inizio della partita."/>
+	<entry name="RandomizedResearchTree" value="Albero Ricerca Casuale"/>
+	<entry name="ResearchVictory" value="Vittoria Scientifica"/>
+	<entry name="RevealedResearchTiers" value="Livelli Ricerca Rivelati"/>
+	<entry name="RevealedResearchTiers0" value="Uno"/>
+	<entry name="RevealedResearchTiers0Hint" value="Vengono rivelate le tecnologie di un livello successivo."/>
+	<entry name="RevealedResearchTiers1" value="Due"/>
+	<entry name="RevealedResearchTiers1Hint" value="Vengono rivelate le tecnologie di due livelli successivi."/>
+	<entry name="RevealedResearchTiers2" value="Tre"/>
+	<entry name="RevealedResearchTiers2Hint" value="Vengono rivelate le tecnologie di tre livelli successivi."/>
+	<entry name="RevealedResearchTiers3" value="Quattro"/>
+	<entry name="RevealedResearchTiers3Hint" value="Vengono rivelate le tecnologie di quattro livelli successivi."/>
+	<entry name="RevealedResearchTiers4" value="Tutti"/>
+	<entry name="RevealedResearchTiers4Hint" value="L'intero albero delle ricerche è mostrato dall'inizio."/>
+	<entry name="RevealedResearchTiers5" value="Casuale"/>
+	<entry name="RevealedResearchTiers5Hint" value="I livelli di ricerca rivelati vengono determinati casualmente all'inizio della partita."/>
+	<entry name="Shape" value="Forma Mondo"/>
+	<entry name="Shape0" value="Arcipelago"/>
+	<entry name="Shape0Hint" value="Il mondo è composto da molte piccole isole, l'acqua ricopre l'80% della superficie. L'esplorazione e la guerra navale giocano un ruolo decisivo."/>
+	<entry name="Shape1" value="Continenti"/>
+	<entry name="Shape1Hint" value="Il mondo è formato da pochi grandi continenti, l'acqua ricopre il 70% della superficie. Bilanciare le forze militari è la chiave del successo bellico."/>
+	<entry name="Shape2" value="Pangea"/>
+	<entry name="Shape2Hint" value="Il mondo è un unico super continente, l'acqua ricopre il 60% della superficie. Forti armate terrestri sono caldamente consigliate."/>
+	<entry name="Shape3" value="Casuale"/>
+	<entry name="Shape3Hint" value="La forma del mondo viene determinata casualmente all'inizio della partita."/>
+	<entry name="Size" value="Dimensione Mondo"/>
+	<entry name="Size0" value="Minuscolo"/>
+	<entry name="Size0Hint" value="Un minuscolo mondo da 24x24 per un totale di 576 territori."/>
+	<entry name="Size0HintFactions" value="Due fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
+	<entry name="Size1" value="Piccolo"/>
+	<entry name="Size1Hint" value="Un piccolo mondo da 32x32 per un totale di 1024 territori."/>
+	<entry name="Size1HintFactions" value="Quattro fazioni umane stanno colonizzando il mondo, per una media di circa 7 città per fazione."/>
+	<entry name="Size2" value="Medio"/>
+	<entry name="Size2Hint" value="Un mondo medio da 40x40 per un totale di 1600 territori."/>
+	<entry name="Size2HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
+	<entry name="Size3" value="Grande"/>
+	<entry name="Size3Hint" value="Un grande mondo da 48x48 per un totale di 2304 territori."/>
+	<entry name="Size3HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 11 città per fazione."/>
+	<entry name="Size4" value="Immenso"/>
+	<entry name="Size4Hint" value="Un mondo immenso da 56x56 per un totale di 3136 territori."/>
+	<entry name="Size4HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 15 città per fazione."/>
+	<entry name="Size5" value="Casuale"/>
+	<entry name="Size5Hint" value="La dimensione del mondo viene determinata casualmente all'inizio della partita."/>
+	<entry name="Size5HintFactions" value=""/>
+	<entry name="Temperature" value="Temperatura"/>
+	<entry name="Temperature0" value="Fredda"/>
+	<entry name="Temperature0Hint" value=""/>
+	<entry name="Temperature1" value="Temperata"/>
+	<entry name="Temperature1Hint" value=""/>
+	<entry name="Temperature2" value="Calda"/>
+	<entry name="Temperature2Hint" value=""/>
+	<entry name="Temperature3" value="Casuale"/>
+	<entry name="Temperature3Hint" value="La temperatura del mondo viene determinata casualmente all'inizio della partita."/>
+	<entry name="TurnTimer" value="Timer Turno"/>
+	<entry name="TurnTimer0" value="Nessuno"/>
+	<entry name="TurnTimer0Hint" value=""/>
+	<entry name="TurnTimer1" value="Molto Breve (2 minuti)"/>
+	<entry name="TurnTimer1Hint" value=""/>
+	<entry name="TurnTimer2" value="Molto Breve (adattabile)"/>
+	<entry name="TurnTimer2Hint" value=""/>
+	<entry name="TurnTimer3" value="Breve (4 minuti)"/>
+	<entry name="TurnTimer3Hint" value=""/>
+	<entry name="TurnTimer4" value="Breve (adattabile)"/>
+	<entry name="TurnTimer4Hint" value=""/>
+	<entry name="TurnTimer5" value="Moderato (6 minuti)"/>
+	<entry name="TurnTimer5Hint" value=""/>
+	<entry name="TurnTimer6" value="Moderato (adattabile)"/>
+	<entry name="TurnTimer6Hint" value=""/>
+	<entry name="TurnTimer7" value="Lungo (8 minuti)"/>
+	<entry name="TurnTimer7Hint" value=""/>
+	<entry name="TurnTimer8" value="Lungo (adattabile)"/>
+	<entry name="TurnTimer8Hint" value=""/>
+	<entry name="TurnTimer9" value="Molto Lungo (10 minuti)"/>
+	<entry name="TurnTimer9Hint" value=""/>
+	<entry name="TurnTimer10" value="Molto Lungo (adattabile)"/>
+	<entry name="TurnTimer10Hint" value=""/>
+	<entry name="Victory1" value="Vittoria Economica"/>
+	<entry name="Victory2" value="Vittoria Militare"/>
+	<entry name="Victory3" value="Vittoria Scientifica"/>
+</language>

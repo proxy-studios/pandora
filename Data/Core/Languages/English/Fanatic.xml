@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+	
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="&quot;Ah, it is a blessing to meet you. Pandora has been promised to our people as a spiritual refuge. As long as you believe in a god - any god - I believe we shall be friends.&quot;"/>
+
+	<entry name="NamePositive" value="&quot;The pious Lady Vermillion.&quot;"/> 
+	<entry name="NameNegative" value="&quot;The fanatic Lady Vermillion.&quot;"/> 
+
+	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="&quot;A devil is at work in our new world, and its eye is on you.&quot;"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="&quot;I thought there was no devil -- but, after all, to make himself mythical was His greatest trick.&quot;"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="&quot;No. As the prophet Wilde said, 'We are each our own devil and we make this world our hell.'&quot;"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="&quot;I will chase this Shaitan down and make an end of him.&quot;"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="&quot;Oh, no, there is no hope for that one. I must suffer that devil to continue.&quot;"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Sinners has impugned our faith. Will you work with them whilst the One True Religion is savaged so?&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;It is true that there is something unclean about this work. Which ally has offended you so?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Saint Einstein said that science without religion is lame, yet religion without science is blind. Our friends help us see.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;God will love us for this act, as should you.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;No. We have need of these heathens, if only to strike them down when building calves of gold.&quot;"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;War is ungodly. Why do you fight and spit in the gods' eyes?&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Lo, not all war is holy. We could be mistaken. Who is blessed?&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;That infidel, that blaggard? No, they deserve punishment, on earth and in heaven.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;We shall set the dove of peace free, to fly on Pandora.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;No. The Lord is a man of war. We will have war with %6% from generation to generation.&quot;"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="&quot;Somebody needs a good smiting.&quot;"/> 
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="&quot;Warfare is ordained for us, though it is hateful unto us.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="&quot;I came to this new earth not to send a sword, but to bring peace.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="&quot;Their ultimate abode is hell, a hapless journey's end.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Them? No, I cannot harden my heart against them, not teach my hands to war.&quot;"/>
+		
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="&quot;Would you care to share with us our vision of god's glory?&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;So much of our world revealed! So much new to explore and convert.&quot;"/>
+	<entry name="RejectShareMap" value="&quot;There are unconverted souls that will be beyond your reach for a time yet.&quot;"/>
+		
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="&quot;When the sweet rains of Pandora come, our people long to go on pilgrimages and seek strange shores. Can they wander through your lands?&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;We could not, in good faith, refuse your pilgrims.&quot;"/>
+	<entry name="RejectOpenBorders" value="&quot;This is our holy of holies, our Kabba. You would desecrate it with your presence.&quot;"/>
+	<entry name="TerminateOpenBorders" value="&quot;Your people instill sinister and heretic thoughts in my flock. I've had enough of it, no more disbelievers in the holy lands!&quot;"/>
+	<entry name="AcceptOpenBordersTerminated" value="&quot;Afraid of your followers finding salvation in my arms? You cannot escape god's judgement, %1%.&quot;"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Your last sermon damned us all to hell. For what? Are we subhuman because we don't share your criminal faith?"/>
+	<entry name="Crime1" value="We've had reports that you personally ordered the crucifixion of our diplomats. This will not stand."/>
+	<entry name="Crime2" value="Talking to god is crazy. Hearing god is schizophrenia. Acting on it is pure insanity. And warring in his name is pure evil."/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="&quot;%7% The pantheon of all gods will judge you for this sin. &quot;"/>
+	<entry name="AcceptDenounce" value="&quot;I never claimed to be 'the' Messiah. Merely 'a' messiah.&quot;"/>
+	<entry name="RejectDenounce" value="&quot;This God has a plan for all of us, and it has chosen me as its instrument.&quot;"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="&quot;%5% May your god bless you and keep you... far away.&quot;"/>
+	<entry name="AcceptPraise" value="&quot;We shall glorify your sweetness and love for all time. Thank you.&quot;"/>
+	<entry name="RejectPraise" value="&quot;Commendations from such as you are gods way of telling us to burn more sinners.&quot;"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="&quot;Pandora, that was to be our new Canaan, is lost to us. Our gods, our lords, have abandoned us. We submit.&quot;"/>
+	<entry name="AcceptSurrender" value="&quot;We accept. We shall be as one.&quot;"/>
+	<entry name="RejectSurrender" value="&quot;No, even a god full of loving-kindness cannot swallow your cowardice. We fight on.&quot;"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="It is good that there is some spirituality in this god-forsaken planet."/>
+	<entry name="Compliment1" value="When religion came to Pandora, it came as sweet as the lamb and as fierce as the lion."/>
+	<entry name="Compliment2" value="Whilst I disagree with your beliefs, I admire your ability to hold such beautifully-contradictory principles. Your divided mind is a work of art!"/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="%1%, your fanatical beliefs and blind aggression make you monstrous to our eyes."/>
+	<entry name="Insult1" value="The world would be better without your bigotry, %3%. I think it an evil that children should be born into delusions such as yours."/>
+	<entry name="Insult2" value="You have disguised your malice as a religion, making it a dagger in the heart of civilization, %2%."/>
+
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="&quot;The Lord paid us richly for our labors, and I'd like to share with you, %1%.&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;Speak forth, for I can sense your good intentions!&quot;"/>
+	<entry name="GiftAccepted1" value="&quot;The Lord will not forget your generosity. Go in peace, %3%.&quot;"/>
+	<entry name="GiftRejected0" value="&quot;My brothers and sisters will see this as a bribe from an infidel, so I can't accept, %3%.&quot;"/>
+	<entry name="GiftRejected1" value="&quot;I'm sure you need this money more than we do. Keep it.&quot;"/>
+
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="&quot;The rumors about your sins reach far, %3%, but for a couple hours of praying and a little donation in the name of the Lord I'm willing to grant you absolution.&quot;"/>
+	<entry name="TributeAccepted0" value="&quot;I do not like where this going, but speak. Charity is a virtue.&quot;"/>
+	<entry name="TributeAccepted1" value="&quot;Very well, you shall see your demands fulfilled -- at least this time.&quot;"/>
+	<entry name="TributeRejected0" value="&quot;How can you dare to approach me with such sinister intentions to steal the donations of our brethren! I'll have none of it!&quot;"/>
+	<entry name="TributeRejected1" value="&quot;The Lord teaches us humility, but this sum is outrageous. I will pay you nothing.&quot;"/>	
+
+	<entry name="AcceptCreditsForDeal0" value="&quot;What would it take %1%, to make you see god's glory in this deal?&quot;"/>
+	<entry name="AcceptCreditsForDeal1" value="&quot;Angels are winging it to your wire account as we speak. Now, to business.&quot;"/>
+	<entry name="RejectCreditsForDeal0" value="&quot;No. I will not yield to temptation, for mine is the power and the glory.&quot;"/>
+	<entry name="RejectCreditsForDeal1" value="&quot;Neither a borrower nor a lender be, %1%.&quot;"/>
+	<entry name="CreditsForDealRejected" value="&quot;We will do this another way.&quot;"/>
+	<entry name="DemandCreditsForDeal" value="&quot;Oh, father Vishnu, personification of peace, our donation box is just so empty...&quot;"/>
+	<entry name="DemandCredits0" value="&quot;With %6% <icon texture='Resources/Credits'/> credits, starving soldiers on Pandora will be able to afford yet more food.&quot;"/>
+	<entry name="DemandCredits1" value="&quot;With just %6% <icon texture='Resources/Credits'/> credits, our educational missions to the wastes of Northern Pandora will be able to afford more prayer-quilts.&quot;"/>
+	<entry name="DemandCredits2" value="&quot;A donation of just %6% <icon texture='Resources/Credits'/> credits will allow us to build a bunkershrine to my glory.&quot;"/>
+	<entry name="DemandCredits3" value="&quot;If you give up your worldly goods -- every last holy iota -- you shall shrive yourselves of your sins and buy access to heaven itself!&quot; (%6% <icon texture='Resources/Credits'/> credits)"/>
+	<entry name="OfferCredits0" value="&quot;Charity begins at home. Here, %6% <icon texture='Resources/Credits'/> credits is a good amount to feed your soul.&quot;"/>
+	<entry name="OfferCredits2" value="&quot;Your poverty is a cry to the three Greek spirits of the poor -- Ptokheia, Penia and Amekhania. They demand I give you %6% <icon texture='Resources/Credits'/> credits, though it impoverishes me too.&quot;"/>
+	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> credits will warm your bones. Lan-Caihe, the Chinese god of mendicants, ordains it.&quot;"/>
+	<entry name="OfferCredits3" value="&quot;To dispose of all worldly goods, in an act of charity, is the way of Bhikshatana, the Hindu god of beggars. So, here, take it all -- %6% <icon texture='Resources/Credits'/> credits -- so we may be shriven of our sins.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Gladly do we accept, my dear friend! Let us rule this world together in the name of God.&quot;"/>
+	<entry name="AllianceRejected" value="&quot;Your offer honors us, but we do not think it would be a wise choice at this point in time.&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;So be it. Leave it to the Lord to sort the chaff from the wheat.&quot;"/>
+	<entry name="Condemn" value="&quot;For these hideous crimes you will burn in hell, %2%! You hear me? BURN IN HELL!&quot;"/>
+	<entry name="CondemnAccepted" value="&quot;%4% The Almighty has ordered me to purge you from these lands -- and I shall obey.&quot;"/>
+	<entry name="DeclareWar" value="&quot;%4% God be my witness, I will put an end to this heresy!&quot;"/>
+	<entry name="DemandWithdrawal" value="&quot;Don't think I'm not aware of your growing troop concentrations at my borders! Order their immediate withdrawal or the gods of the pantheon will smite them down.&quot;"/>
+	<entry name="Eliminated" value="&quot;The rapture comes -- we go to god.&quot;"/>
+	<entry name="Goodbye" value="&quot;Gods go with you.&quot;"/>
+	<entry name="Greet0" value="&quot;You better come here to beg for forgiveness, sinner.&quot;"/>
+	<entry name="Greet1" value="&quot;Speak freely but true, %3%. Argus Panoptes and the Ophanim are always watching.&quot;"/>
+	<entry name="Greet2" value="&quot;Welcome, my dear friend! How may I be of service?&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;So be it. May our factions prosper in the years of peace to come, under the sight of the gods.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;You might not like to hear this, my dear %1%, but we are not interested.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;The termination of a non-aggression pact has well-known implications. We will remember this, %2%. The holy warriors stand prepared.&quot;"/>
+	<entry name="OfferAlliance" value="&quot;Joining with us will be one more step along the path to enlightenment.&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;Lady Pax came to me in a shower of gold and told me that we should swear off war, for a time.&quot;"/>
+	<entry name="OfferPeace" value="&quot;By Forseti and Tyr, let this war end! We are tired of bloodshed, especially our own.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;We need to prove that the universe was created 6000 years ago, as some of the holy texts state. Your scientific help would be a boon in this.&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;We should trade. We have a stack of bibles, korans, talmuds and so on that we need to get rid of. We'd gambled that there would be local life to convert - how did we know that the xenomorphs wouldn't be able to read?&quot;"/>
+	<entry name="PeaceAccepted" value="&quot;It was about time we stopped this waste of human life. Only Ares and the Graeae should choose when men die.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;Nice try, heretic. As an instrument of God's will, our holy warriors will crush you.&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Let us embrace the wonders of a new spiritual age together, my friend.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;I am sorry, but for now we will make the journey into the unknown alone.&quot;"/>
+	<entry name="ResearchPactTerminated" value="&quot;What miracle did you discover that lead to such an act? It shall not matter, we will find out soon enough.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;While our alliance surely stood strong under this alien sky, the time has come to part ways.&quot;"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;The lord has nullified our non-aggression pact, heathen.&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;The scientific profit from our research pact is too one-sided, so I'm canceling it.&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;Mercury looked over our trading pact and found it wanting. It's simply not profitable enough for us, and hereby nullified.&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Very well! Bring the traders into the temples!&quot;"/>
+	<entry name="TradingPactRejected" value="&quot;It seems a bit too early for this step.&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;Your citizens will feel the lack of our holy goods soon enough and be like Job, forsaken.&quot;"/>
+	<entry name="WarAccepted" value="&quot;So shall it be. Our holy forces will subjugate your states in a swift campaign.&quot;"/>
+	<entry name="WithdrawalAccepted" value="&quot;Our men were lost in pilgrimage, hermitage and meditation. We shall round them up immediately.&quot;"/>
+	<entry name="WithdrawalRejected" value="&quot;Who are you to question the placing of god's people?&quot;"/>
+</language>

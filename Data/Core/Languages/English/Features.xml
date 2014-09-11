@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="Arctic"/>
+	<entry name="ArcticDescription" value="Cold and deadly, the frozen landscape at the either pole of Pandora is a very hostile climate to humans. Agriculture is impossible without technical assistance."/> 
+	<entry name="ArcticProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="ArcticStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Blackout" value="Blackout"/>
+	<entry name="BlackoutDescription" value="This area is suffering a complete loss of energy, all communications are halted and production is on hold."/>
+	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>City produces no resources"/>
+	<entry name="City" value="City"/>
+	<entry name="CityDescription" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
+	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate"/>
+	<entry name="CreditsBonus0" value="Gold Vein"/>
+	<entry name="CreditsBonus0Description" value="Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old Earth. Just like on our old world, virtually all accessible gold on Pandora's surface has been deposited by meteorites. A gold vein drastically increases the credits output of the city that controls the territory."/>
+	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
+	<entry name="Creep" value="Infestation"/>
+	<entry name="CreepDescription" value="As the Messari advance, the landscape about them changes. Reports from scientists occupying the observatories say that this seems to be a fundamental chemical reaction, perhaps using the fungus in the ground, perhaps its spores in the air. The atmosphere left when the reaction is complete seems to invigorate the Messari troops -- could this be their version of terraforming?"/>
+	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost for Messari ground units<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
+	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Coast" value="Coast"/>
+	<entry name="CoastDescription" value="The mixture of fresh and salt water provided by coastal regions offers many nutrients for marine and terrestrial fauna and flora, making them highly sought-after zones."/>
+	<entry name="CoastProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="CoastStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="ConstructionBay" value="Construction Bay"/>
+	<entry name="ConstructionBayDescription" value="The cramped confines of our base weren't designed for large-scale construction. These exterior bays have the space and shelter to make production easier, safer and faster, once we get our tools in place."/>
+	<entry name="ConstructionBayProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="ConstructionBayStats" value="<icon texture='Resources/Production'/> +1"/>
+	<entry name="Desert" value="Desert"/>
+	<entry name="DesertDescription" value="Extremely high temperatures and miles upon miles of infertile sand make the desert a very difficult climate to survive in. Agriculture is impossible without technical assistance."/>
+	<entry name="DesertProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="DesertStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="EnergyPark" value="Energy Park"/>
+	<entry name="EnergyParkDescription" value="These spaces are focal points for a distributed solar / wind / wave energy collection network. Here, we can safely siphon off the collected energy, to be sold on the open market."/>
+	<entry name="EnergyParkProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="EnergyParkStats" value="<icon texture='Resources/Credits'/> +3"/>
+	<entry name="Farm" value="Farm"/>
+	<entry name="FarmDescription" value="With the advent of industrialization, these huge areas provide the raw materials for our food processing facilities."/>
+	<entry name="FarmProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="FarmStats" value="<icon texture='Resources/Food'/> +1"/>
+	<entry name="FieldLaboratory" value="Field Laboratory"/>
+	<entry name="FieldLaboratoryDescription" value="These pre-fab labs allow us to set up scientists outside of the cramped central study institutes. Once we get remote access put in, this'll be a boon to our research efforts."/>
+	<entry name="FieldLaboratoryProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="FieldLaboratoryStats" value="<icon texture='Resources/Research'/> +1"/>
+	<entry name="FoodBonus0" value="Natural Plantation"/>
+	<entry name="FoodBonus0Description" value="Rich soil, proximity to water and a perfect micro-climate will help us attain generous harvests in this area."/>
+	<entry name="FoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="FoodBonus0Stats" value="<icon texture='Resources/Food'/> +2"/>
+	<entry name="FoodBonus1" value="Gaia Forest"/>
+	<entry name="FoodBonus1Description" value="A lush forest of titanic fruit trees which provides more food than even the best agricultural compound."/>
+	<entry name="FoodBonus1Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="FoodBonus1Stats" value="<icon texture='Resources/Food'/> +3  <icon texture='Resources/Pollution'/> -1"/>
+	<entry name="FoodBonus2" value="Garden of Eden"/>
+	<entry name="FoodBonus2Description" value="Beautiful to behold, this idyllic area is unnaturally rich in nutrients and its plant growth rate is unequaled. Some say it could sustain a megalopolis by itself."/>
+	<entry name="FoodBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4  <icon texture='Resources/Morale'/> +1"/>
+	<entry name="Forest" value="Forest"/>
+	<entry name="ForestDescription" value="A forest is an area with a high density of trees. It functions as a habitat for organisms, hydrologic flow modulators, and soil conservers, constituting one of the most important aspects of the biosphere. Mechanical units will struggle to access this area."/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1"/>
+	<entry name="Fort" value="Fort"/>
+	<entry name="FortDescription" value="Massive fortifications that provide strong defenses and a vision bonus to any garrison. When manned by artillery units they are perfect for protecting borders or strategic positions."/>
+	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate"/>
+	<entry name="Fungus" value="Fungus"/>
+	<entry name="FungusDescription" value="Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution."/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Grassland" value="Grassland"/>
+	<entry name="GrasslandDescription" value="Grasslands are areas dominated by herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
+	<entry name="GrasslandProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="GrasslandStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Growth" value="Orb Plantations"/>
+	<entry name="GrowthDescription" value="As the Formers pass, they sow the ground with parcels of construction and gardening machines. These build orb plantations using local organic materials -- sealed hydroponic nurseries in which plants are seeded and raised to full growth before the whole structure is harvested."/>
+	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="GrowthStats" value="<icon texture='Resources/PositiveGrowth'/> +1  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="Hills" value="Hills"/>
+	<entry name="HillsDescription" value="The transitional area between mountains and plains. The rough terrain makes agriculture more difficult but provides valuable minerals."/>
+	<entry name="HillsProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="HillsStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +1"/>
+	<entry name="Hive" value="Hive"/>
+	<entry name="HiveDescription" value="This organic structure hosts a colony of Xenomorphs, giving them shelter and allowing them to reproduce."/>
+	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations"/>
+	<entry name="Mine" value="Mine"/>
+	<entry name="MineDescription" value="Built for the extraction of mineral resources from the ground, this mine provides the colonists with raw materials."/>
+	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="MineStats" value="<icon texture='Resources/Minerals'/> +1"/>
+	<entry name="MineralsBonus0" value="Mexallon Field"/>
+	<entry name="MineralsBonus0Description" value="The soil in this area is filled with Mexallon, a very valuable mineral that's tough to extract."/>
+	<entry name="MineralsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="MineralsBonus0Stats" value="<icon texture='Resources/Minerals'/> +2"/>
+	<entry name="MineralsBonus1" value="Isogen Field"/>
+	<entry name="MineralsBonus1Description" value="Huge deposits of Isogen have been detected in this area. While toxic to the local environment, its high value and easy extraction should make mining here a priority."/>
+	<entry name="MineralsBonus1Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="MineralsBonus1Stats" value="<icon texture='Resources/Minerals'/> +3  <icon texture='Resources/Pollution'/> +1"/>
+	<entry name="MineralsBonus2" value="Noxium Field"/>
+	<entry name="MineralsBonus2Description" value="The midnight-blue Noxium is probably the most valuable mineral in the universe and incredibly-dense deposits have been found in this area. However, as its name implies, its radiation is lethal for miles around. While modern technology can eliminate the danger to personnel, most people still fear &quot;Blue Lung&quot;."/>
+	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1"/>
+	<entry name="Mines" value="Vulcan Mines"/>
+	<entry name="MinesDescription" value="Satellite-deployed munitions that will prove deadly to the unaware traveler."/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="MoraleBonus0" value="Hot Springs"/>
+	<entry name="MoraleBonus0Description" value="Our colonists have learned to greatly enjoy the steaming baths of hot springs, which give them a reprieve from the daily burdens of colonial life and time to renew their spirit."/>
+	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="MoraleBonus0Stats" value="<icon texture='Resources/Morale'/> +4"/>
+	<entry name="Mountains" value="Mountains"/>
+	<entry name="MountainsDescription" value="Towering over Pandora's terrain to a height of several kilometers, the mountains' rough terrain offers a natural tactical advantage to infantry units."/>
+	<entry name="MountainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="MountainsStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 2"/>
+	<entry name="Ocean" value="Ocean"/>
+	<entry name="OceanDescription" value="The majority of Pandora's surface is covered by oceans, which are the hosts to numerous plant and animal lifeforms, from the microscopic to the unbelievably large."/>
+	<entry name="OceanProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="OceanStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="SunkenRuin" value="Sunken Ruin"/>
+	<entry name="SunkenRuinDescription" value="The remains of a long-gone alien civilization, sunken ruins can host great knowledge and richness.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
+	<entry name="SunkenRuinProperties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
+	<entry name="Plains" value="Plains"/>
+	<entry name="PlainsDescription" value="The near absence of native shrubs and trees make the plains of Pandora easily-habitable areas, but offer little cover to infantry troops."/>
+	<entry name="PlainsProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for mechanical ground units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for light biological ground units"/>
+	<entry name="Pollution" value="Wasteland"/>
+	<entry name="PollutionDescription" value="Usually caused by weapons with immense power, territories which are turned into wasteland are toxic to organic life and provide no resources at all.<br/><br/>Former units are able to clear up the waste and restore the territory's original ecology, but it is a difficult and time-consuming process."/>
+	<entry name="PollutionProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Territory provides no resources"/>
+	<entry name="PollutionStats" value="<icon texture='Resources/Pollution'/> +1"/>
+	<entry name="Portal" value="Portal"/>
+	<entry name="PortalDescription" value="The portals by which the Messari appear on Pandora are closely guarded. Towers on inhuman scales, like the ruins we discovered, but shiny and new. And occupied by Messari troops."/>
+	<entry name="PortalProperties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations"/>
+	<entry name="ProductionBonus0" value="Xenite Flowers"/>
+	<entry name="ProductionBonus0Description" value="Xenite is a wondrous plant that, when administered as a drug, allows the human body to enter a state of trance resistant to exhaustion and numbed to pain. While a person's working capacity is significantly increased by its usage, even a slight overdose results in instant cardiac arrest -- thus requiring a continuous monitoring of any workers who use it."/>
+	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="ProductionBonus0Stats" value="<icon texture='Resources/Production'/> +50%"/>
+	<entry name="Purifier" value="Purifier"/>
+	<entry name="PurifierDescription" value="In contrast to the energy parks, these wind and water traps use tremendous power to filter the atmosphere and seas of Pandora. They're expensive, but they hugely reduce our impact on the planet."/>
+	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="ResearchBonus0" value="Observatory"/>
+	<entry name="ResearchBonus0Description" value="A largely intact observation tower constructed with alien technology eons ago is both a marvelous sight and a real boon for our scientists. It greatly boosts the research output of the controlling city not only by allowing our scientists to study the sky, but also by letting us observe the aliens themselves from a safe distance."/>
+	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
+	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +50%"/>
+	<entry name="River" value="River"/>
+	<entry name="RiverDescription" value="Pandora's greater gravity means rivers cut deeper into the landscape, making them highly defensible."/>
+	<entry name="RiverProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending units vs opponents on the other side of the river"/>
+	<entry name="RiverStats" value="<icon texture='Resources/Food'/> +1"/>
+	<entry name="Road" value="Road"/>
+	<entry name="RoadDescription" value="When properly maintained, this thoroughfare greatly eases the transportation and deployment of vehicles and troops."/>
+	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="Ruin" value="Ruin"/>
+	<entry name="RuinDescription" value="The remnant of a long-gone alien civilization, these ruins can host great knowledge and richness.<br/><br/>To explore the ruin, dispatch a unit to its territory."/>
+	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Alien construction"/>
+	<entry name="Sand" value="Sand"/>
+	<entry name="Savanna" value="Savanna"/>
+	<entry name="SavannaDescription" value="Savannas are characterized by a warm and dry climate, and with their fertile wide plains they are a passable candidate for agriculture."/>
+	<entry name="SavannaProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="SavannaStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0"/>
+	<!-- <entry name="ScorchedEarth" value="Scorched Earth"/> -->
+	<!-- <entry name="ScorchedEarthDescription" value="As beautiful as it once was, this area scarred by war doesn't provide much in the way of operational or strategic assets anymore."/> -->
+	<!-- <entry name="ScorchedEarthProperties" value="Effect"/> -->
+	<!-- <entry name="Shield" value="Shield"/> -->
+	<!-- <entry name="ShieldDescription" value="This area is currently protected by a shield jamming all remote reconnaissance technologies. There's no telling what it's hiding."/> -->
+	<!-- <entry name="ShieldProperties" value="Effect"/> -->
+	<entry name="SeafoodBonus0" value="Fish"/>
+	<entry name="SeafoodBonus0Description" value="The sea in this area is home to edible aquatic lifeforms in great numbers, which would greatly facilitate the survival of nearby cities."/>
+	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="Storm" value="Ion Storm"/>
+	<entry name="StormDescription" value="Ahead of the Messari arrival, areas are wracked by massive electromagnetic storms which inflict severe damage on any inhabitants."/>
+	<entry name="StormProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Inflicts 1.0 damage per turn<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="Suburb" value="Suburb"/>
+	<entry name="SuburbDescription" value="This area of low-rise homes is ideal for our blue-collar population to retire to after a hard day in the factories and mines."/>
+	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="Tropical" value="Tropical"/>
+	<entry name="TropicalDescription" value="The distinguishing features of tropical zones are a warm, humid climate, lush vegetation, and soil that's rather poor in nutrients."/>
+	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="TropicalStats" value="<icon texture='Resources/Food'/> 2  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="Tundra" value="Tundra"/>
+	<entry name="TundraDescription" value="The tundra is cold and barren, its vegetation mainly composed of shrubs, mosses and lichens. Agriculture is hampered by the low temperatures and permanently frozen subsoil, even in the short growing seasons."/>
+	<entry name="TundraProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="TundraStats" value="<icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 0"/>
+	<entry name="WaterCreditsBonus" value="Oil Field"/>
+	<entry name="WaterCreditsBonusDescription" value="On Pandora, only the planet's oceans have hosted enough organic matter over a long enough time to produce petrochemicals. Exploiting them will produce a huge resource and credit boost."/>
+	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterFoodBonus" value="Panspermia Reeds"/>
+	<entry name="WaterFoodBonusDescription" value="From space, these native plants bear a resemblance to Terran reeds. Yet, from the surface, these skyscrapin, metronomic plants are as soft as asparagus and as thick as palms, growing rapidly in the fertile oceans. They're an excellent source of nutrients."/>
+	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterFoodBonusStats" value="<icon texture='Resources/Food'/> +3"/>
+	<entry name="WaterFungus" value="Fungus"/>
+	<entry name="WaterFungusDescription" value="Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution."/>
+	<entry name="WaterFungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="WaterFungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>	
+	<entry name="WaterMineralsBonus" value="Aquatic Mexallon"/>
+	<entry name="WaterMineralsBonusDescription" value="Mexallon crystals reach up from the ocean beds here. Mexallon is a very valuable mineral that's tough to extract."/>
+	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
+</language>

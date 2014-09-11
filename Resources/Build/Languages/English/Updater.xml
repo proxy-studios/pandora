@@ -9,7 +9,9 @@
 	<entry name="Done" value="Done."/>
 	<entry name="DownloadingUpdate" value="Downloading update ..."/>
 	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Failed" value="Failed."/>
+	<entry name="FirstContact" value="First Contact"/>
 	<entry name="Notice" value="NOTE: Antivirus and firewall software may interfere with the update process."/>
 	<entry name="PreparingUpdate" value="Preparing update ..."/>
 	<entry name="Quit" value="Quit"/>

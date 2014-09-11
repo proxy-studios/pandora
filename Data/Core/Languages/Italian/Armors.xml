@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Alien" value="Carapace Messari"/>
+	<entry name="AlienDescription" value="Le tremende energie delle armi Messari vengono replicate in scala minore nelle loro corazze. I proiettili o i fasci d'energia che colpiscono la loro superficie si disperdono come petali al vento."/>
+	<entry name="AlienProperties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor0" value="Corazza d'Acciaio"/>
+	<entry name="Armor0Description" value="Spessa corazza d'acciaio 'Ironclad' che fornisce una protezione basilare contro proiettili ed esplosivi in cambio di un aumento del costo di produzione."/>
+	<entry name="Armor0Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor1" value="Corazza in Titanio"/>
+	<entry name="Armor1Description" value="Forgiata in titanio, brillante e forte metallo resistente alla corrosione, questa corazza avanzata fornisce una protezione doppia rispetto al normale acciaio."/>
+	<entry name="Armor1Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor2" value="Corazza in Zortium"/>
+	<entry name="Armor2Description" value="Abbiamo scoperto che gli isotopi puri del mexallon si legano chimicamente al titanio, creando un materiale estremamente robusto che chiamiamo zortium, ideale per costruire corazze."/>
+	<entry name="Armor2Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor3" value="Corazza Gauss"/>
+	<entry name="Armor3Description" value="Le esplosioni e gli impatti cinetici danneggiano le strutture delle corazze a livello molecolare. La corazza Gauss altro non è che una corazza in zortium con una superficie molecolare ottimizzata, che aumenta notevolmente la sua resistenza. Tuttavia, il processo di ottimizzazione dev'essere eseguito per ogni singola corazza, aumentando estremamente i costi di produzione."/>
+	<entry name="Armor3Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor4" value="Corazza in Adamantio"/>
+	<entry name="Armor4Description" value="Nero ed estremamente pesante, l'adamantio è un materiale superdenso trovato a molti chilometri di profondità all'interno del pianeta; è molto difficile da estrarre e da raffinare. Anche le corazze che ne derivano sono molto ingombranti, ma possono resistere anche ad impatti massicci.<br/><br/><style name='Italic'/>Tra i militari, le truppe che indossano il nero adamantio vengono chiamate &quot;Scarafaggi&quot;."/>
+	<entry name="Armor4Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor5" value="Corazza in Silksteel"/>
+	<entry name="Armor5Description" value="Sottile come la seta ma più robusto dell'acciaio normale, queste corazze sono molto apprezzate dalle truppe per la loro flessibilità e la manutenzione semplice. La manovrabilità extra permette alle truppe di sopravvivere di più rispetto a quelle che indossano corazze di materiali più resistenti."/>
+	<entry name="Armor5Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor6" value="Corazza in Neutronium"/>
+	<entry name="Armor6Description" value="Un mini reattore integrato produce costantemente un flusso di neutroni che crea una barriera magnetica in grado di neutralizzare raggi, proiettili e flussi d'energia.<br/><br/><style name='Italic'/>&quot;Sai, Johnson il Bello del quinto battaglione indossava una delle corazze al neutronium di prima generazione. Un Galeth danneggiò il reattore con un colpo fortunato ed i neutroni iniziarono a trapassare il povero John. Qualche minuto dopo... beh, diciamo che non era più così bello.&quot;"/>
+	<entry name="Armor6Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor7" value="Corazza Anti-Materia"/>
+	<entry name="Armor7Description" value="Corazza ricoperta di un sottilissimo strato di anti-materia mantenuto da un campo magnetico. Utilizzata correttamente, la corazza assorbe la maggior parte degli attacchi fisici.<br/><br/><style name='Italic'/>ATTENZIONE: Solo le truppe più esperte sono in grado di indossare al meglio questa corazza. L'utilizzo non corretto porterà allo smembramento, nella migliore delle ipotesi."/>
+	<entry name="Armor7Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Armor8" value="Corazza in Xenotronium"/>
+	<entry name="Armor8Description" value="Lo xenotronium è la protezione più avanzata mai creata, basata sui principi dell'anti-materia. La corazza è auto consapevole e rileva le minacce in arrivo tramite le fluttuazioni di energia dell'ambiente. Se è presente un fascio od un proiettile in arrivo nell'arco di diversi chilometri, tutte le capacità difensive vengono focalizzate sul punto dell'attacco in qualche pico-secondo, neutralizzando la minaccia."/>
+	<entry name="Armor8Properties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="Best" value="Corazza Migliore"/>
+	<entry name="BestProperties" value="<icon texture='GUI/Bullet'/>Corazza"/>
+	<entry name="None" value="Nessuna Corazza"/>
+	<entry name="NoneDescription" value="Le unità senza corazza non hanno protezioni aggiuntive e devono contare sui loro soli abiti quando vengono attaccate."/>
+</language>

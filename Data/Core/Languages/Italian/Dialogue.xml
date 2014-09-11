@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcceptCreditsForDeal0" value="(esamina l'affare)"/>
+	<entry name="AcceptCreditsForDeal1" value="(accetta l'affare)"/>
+	<entry name="AcceptDenounce" value="(accetta la denuncia)"/>
+	<entry name="AcceptDenounceThirdParty0" value="(considera la denuncia contro un'altra fazione)"/>
+	<entry name="AcceptDenounceThirdParty1" value="(accetta la denuncia contro un'altra fazione)"/>
+	<entry name="AcceptOpenBorders" value="(accetta l'apertura dei confini)"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="(esamina l'offerta di pace verso un'altra fazione)"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="(accetta l'offerta di pace verso un'altra fazione)"/>
+	<entry name="AcceptPraise" value="(accetta la lode)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="(considera le sanzioni contro un'altra fazione)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="(accetta le sanzioni contro un'altra fazione)"/>
+	<entry name="AcceptShareMap" value="(accetta la condivisione delle mappe)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="(esamina la dichiarazione di guerra verso un'altra fazione)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="(accetta la dichiarazione di guerra verso un'altra fazione)"/>
+	<entry name="RejectCreditsForDeal0" value="(rifiuta l'affare)"/>
+	<entry name="RejectCreditsForDeal1" value="(rifiuta l'affare)"/>
+	<entry name="AllianceAccepted" value="(accetta l'alleanza)"/>
+	<entry name="AllianceHint" value="Un'alleanza dura almeno 10 turni e permette ad entrambe le fazioni l'accesso al territorio alleato e la possibilità di combattere fianco a fianco."/>
+	<entry name="AllianceRejected" value="(rifiuta alleanza)"/>
+	<entry name="DeclareWar" value="(dichiara guerra)"/>
+	<entry name="DemandCreditsForDeal" value="(pretende pagamento)"/>
+	<entry name="DemandPeaceOfferToThirdParty0" value="(pretende un'offerta di pace verso un'altra fazione)"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="(pretende delle sanzioni contro un'altra fazione)"/>
+	<entry name="DemandTribute0" value="(pretende un tributo)"/>
+	<entry name="DemandWarDeclarationOnThirdParty0" value="(pretende una dichiarazione di guerra verso un'altra fazione)"/>
+	<entry name="DemandWithdrawal" value="(pretende la resa)"/>
+	<entry name="Denounce" value="(denuncia pubblicamente)"/>
+	<entry name="DenounceHint" value="Una denuncia pubblica peggiora i rapporti con gli amici della fazione denunciata ma li migliora con i nemici. Se negata, l'impatto sarà minore."/>
+	<entry name="DenounceThirdParty0" value="(denuncia privatamente un'altra fazione)"/>
+	<entry name="DenounceThirdPartyHint" value="Denuncia un'altra fazione che sta commettendo crimini contro il tuo interlocutore. Se verrai creduto, guadagnerai i favori dell'interlocutore mentre l'altra fazione peggiorerà i rapporti con lui. Altrimenti, perderai fiducia."/>
+	<entry name="GiftAccepted0" value="(esamina la possibilità di accettare il dono)"/>
+	<entry name="GiftAccepted1" value="(accetta il dono)"/>
+	<entry name="GiftHint" value="Un dono, se accettato, migliora i rapporti tra le fazioni."/>
+	<entry name="GiftRejected0" value="(rifiuta il dono)"/>
+	<entry name="GiftRejected1" value="(rifiuta il dono)"/>
+	<entry name="Goodbye" value="(termina il dialogo)"/>
+	<entry name="LetMeKnow" value="(termina il dialogo)"/>
+	<entry name="LetMeThink" value="(considera le opzioni)"/>
+	<entry name="NonAggressionPactAccepted" value="(accetta il patto di non aggressione)"/>
+	<entry name="NonAggressionPactHint" value="Un patto di non aggressione impedisce ad entrambe le fazioni di attaccarsi a vicenda. Annullarlo provoca un significativo peggioramento dei rapporti tra le fazioni e, minimamente, anche con quelle a conoscenza del patto."/>
+	<entry name="NonAggressionPactRejected" value="(rifiuta il patto di non aggressione)"/>
+	<entry name="OfferAlliance" value="(propone un'alleanza)"/>
+	<entry name="OfferGift0" value="(offre un dono)"/>
+	<entry name="OfferNonAggressionPact" value="(offre un patto di non aggressione)"/>
+	<entry name="OfferOpenBorders" value="(offre l'apertura dei confini)"/>
+	<entry name="OfferPeace" value="(offre un trattato di pace)"/>
+	<entry name="OfferResearchPact" value="(offre un patto di ricerca)"/>
+	<entry name="OfferShareMap" value="(offre la condivisione delle mappe)"/>
+	<entry name="OfferTradingPact" value="(offre un trattato commerciale)"/>
+	<entry name="OpenBordersHint" value="Permette ad entrambe le fazioni di entrare nel territorio dell'altro."/>
+	<entry name="PeaceAccepted" value="(accetta il trattato di pace)"/>
+	<entry name="PeaceOfferToThirdPartyHint" value="Richiede all'interlocutore di stipulare un trattato di pace con un'altra fazione. Se gli interlocutori sono alleati, rifiutare di offrire la pace peggiorerà i rapporti con l'alleato."/>
+	<entry name="PeaceRejected" value="(rifiuta il trattato di pace)"/>
+	<entry name="Praise" value="(loda pubblicamente)"/>
+	<entry name="PraiseHint" value="Una lode pubblica, se accettata, migliora i rapporti con le fazioni amiche di quella lodata ma li peggiora con i suoi nemici."/>
+	<entry name="RejectDenounce" value="(rifiuta denuncia)"/>
+	<entry name="RejectDenounceThirdParty0" value="(rifiuta denuncia contro un'altra fazione)"/>
+	<entry name="RejectDenounceThirdParty1" value="(rifiuta denuncia contro un'altra fazione)"/>
+	<entry name="RejectOpenBorders" value="(rifiuta l'apertura dei confini)"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="(rifiuta l'offerta di pace verso un'altra fazione)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(rifiuta l'offerta di pace verso un'altra fazione)"/>
+	<entry name="RejectPraise" value="(rifiuta la lode)"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="(rifiuta le sanzioni contro un'altra fazione)"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="(rifiuta le sanzioni contro un'altra fazione)"/>
+	<entry name="RejectShareMap" value="(rifiuta la condivisione delle mappe)"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="(rifiuta la dichiarazione di guerra verso un'altra fazione)"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="(rifiuta la dichiarazione di guerra verso un'altra fazione)"/>
+	<entry name="ResearchPactAccepted" value="(accetta il patto di ricerca)"/>
+	<entry name="ResearchPactHint" value="Un patto di ricerca garantisce un bonus, che può raggiungere il 25% (a seconda della durata), al totale della ricerca del partner. Quindi, la fazione con la ricerca inferiore gode di più benefici da questo patto."/>
+	<entry name="ResearchPactRejected" value="(rifiuta il patto di ricerca)"/>
+	<entry name="SanctionsAgainstThirdPartyHint" value="Richiede all'interlocutore di terminare ogni trattato commerciale e di ricerca con un'altra fazione. Il rifiuto della richiesta peggiora i rapporti, mentre l'accettazione li migliora."/>
+	<entry name="ShareMapHint" value="Entrambe le fazioni condividono i territori esplorati, ma la nebbia non verrà diradata."/>
+	<entry name="TerminateAlliance" value="(termina alleanza)"/>
+	<entry name="TerminateNonAggressionPact" value="(termina il patto di non aggressione)"/>
+	<entry name="TerminateOpenBorders" value="(termina l'apertura dei confini)"/>
+	<entry name="TerminateResearchPact" value="(termina il patto di ricerca)"/>
+	<entry name="TerminateTradingPact" value="(termina il trattato commerciale)"/>
+	<entry name="TradingPactAccepted" value="(accetta il trattato commerciale)"/>
+	<entry name="TradingPactHint" value="Un trattato commerciale garantisce un bonus, che può raggiungere il 25% (a seconda della durata), al reddito totale del partner. Quindi, la fazione con il reddito inferiore gode di più benefici da questo patto."/>
+ 	<entry name="TradingPactRejected" value="(rifiuta il trattato commerciale)"/>
+	<entry name="TributeAccepted0" value="(esamina la possibilità di pagare il tributo)"/>
+	<entry name="TributeAccepted1" value="(accetta il pagamento il tributo)"/>
+	<entry name="TributeHint" value="Un riflesso del bilanciamento di potere tra due fazioni, richiedere o rifiutare il pagamento di un tributo peggiora i rapporti tra le fazioni."/>
+	<entry name="TributeRejected0" value="(rifiuta il pagamento del tributo)"/>
+	<entry name="TributeRejected1" value="(rifiuta il pagamento del tributo)"/>
+	<entry name="WarHint" value="Una guerra peggiora drasticamente i rapporti tra le fazioni e permette alle unità di entrare in territorio nemico, di attaccare altre unità e di catturare città."/>
+	<entry name="WarDeclarationOnThirdPartyHint" value="Richiede all'interlocutore di dichiarare guerra ad un'altra fazione. Se gli interlocutori sono alleati, rifiutare la dichiarazione di guerra peggiorerà i rapporti."/>
+	<entry name="WithdrawalAccepted" value="(accetta la resa)"/>
+	<entry name="WithdrawalRejected" value="(rifiuta la resa)"/>
+</language>

@@ -6,4 +6,5 @@ By submitting changes or pull requests you agree to allow Proxy Studios to inclu
 
 Credits
 -------
-Italian translation: Puxxup
+* Dutch translation: dmantione
+* Italian translation: Puxxup

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Attack" value="Attacca"/>
+	<entry name="AttackHint" value="Attacca"/>
+	<entry name="Automatize" value="Automatizza"/>
+	<entry name="AutomatizeHint" value="Automatizza [A]"/>
+	<entry name="BuildCity" value="Costruisci Città"/>
+	<entry name="BuildCityHint" value="Costruisci Città [B]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> all'energia difensiva contro le unità biologiche leggere<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> al tasso di guarigione<br/><icon texture='GUI/Bullet'/>Le città devono possedere almeno 2 territori<br/><icon texture='GUI/Bullet'/>Rimuove tutti i miglioramenti territoriali<br/><icon texture='GUI/Bullet'/>Impossibile costruire sulle montagne<br/><icon texture='GUI/Bullet'/>Impossibile costruire su caratteristiche territoriali speciali"/>
+	<entry name="BuildConstructionBay" value="Costruisci Baia di Costruzione"/>
+	<entry name="BuildConstructionBayHint" value="Costruisci Baia di Costruzione [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Production'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildEnergyPark" value="Costruisci Parco Energetico"/>
+	<entry name="BuildEnergyParkHint" value="Costruisci Parco Energetico [Y]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Credits'/> +3<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildFarm" value="Costruisci Fattoria"/>
+	<entry name="BuildFarmHint" value="Costruisci Fattoria [F]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildFieldLaboratory" value="Costruisci Laboratorio da Campo"/>
+	<entry name="BuildFieldLaboratoryHint" value="Costruisci Laboratorio da Campo [L]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Research'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildFort" value="Costruisci Fortino"/>
+	<entry name="BuildFortHint" value="Costruisci Fortino [O]<br/><style name='Small'/><icon texture='GUI/Bullet'/>+50%% <icon texture='Attributes/Power'/> all'energia delle unità difensive<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/Power'/> all'energia contro le operazioni<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione<br/><icon texture='GUI/Bullet'/>+100%% <icon texture='Attributes/HealingRate'/> al tasso di guarigione<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildMine" value="Costruisci Miniera"/>
+	<entry name="BuildMineHint" value="Costruisci Miniera [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildPurifier" value="Costruisci Purificatore"/>
+	<entry name="BuildPurifierHint" value="Costruisci Purificatore [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildRoad" value="Costruisci Strada"/>
+	<entry name="BuildRoadHint" value="Costruisci Strada [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>dimezza il costo di movimento<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="BuildSuburb" value="Costruisci Sobborgo"/>
+	<entry name="BuildSuburbHint" value="Costruisci Sobborgo [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearCreep" value="Rimuovi Infestazione"/>
+	<entry name="ClearCreepHint" value="Rimuovi Infestazione<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearForest" value="Ripulisci Foresta"/>
+	<entry name="ClearForestHint" value="Ripulisci Foresta [Alt+T]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearFungus" value="Ripulisci Funghi"/>
+	<entry name="ClearFungusHint" value="Ripulisci Funghi [Alt+N]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="ClearPollution" value="Ripulisci Deserto"/>
+	<entry name="ClearPollutionHint" value="Ripulisci Deserto [Alt+W]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="Deploy" value="Schiera"/>
+	<entry name="DeployHint" value="Schiera"/>
+	<entry name="DestroyImprovement" value="Demolisci Miglioramento"/>
+	<entry name="DestroyImprovementHint" value="Demolisci Miglioramento [Alt+D]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Demolisci ogni miglioramento tranne le strade"/>
+	<entry name="DestroyRoad" value="Demolisci Strada"/>
+	<entry name="DestroyRoadHint" value="Demolisci Strada [Alt+R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Demolisci miglioramento stradale"/>
+	<entry name="Disband" value="Congeda"/>
+	<entry name="DisbandHint" value="Congeda [Canc]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Ricevi il 25%% dei <icon texture='Resources/Credits'/> crediti del costo unità se vengono congedate in territorio alleato<br/><icon texture='GUI/Bullet'/>Ricevi %1% <icon texture='Resources/Credits'/> crediti se congedi qui"/>
+	<entry name="Drop" value="Sgancia"/>
+	<entry name="DropHint" value="Schieramento Orbitale<br/><icon texture='GUI/Bullet'/>Schiera unità in un qualsiasi territorio libero rivelato sul pianeta<br/><icon texture='GUI/Bullet'/>L'unità deve trovarsi in una città controllata dal suo proprietario<br/><icon texture='GUI/Bullet'/>Consuma un'operazione di rilascio"/>
+	<entry name="Guard" value="Sorveglia"/>
+	<entry name="GuardHint" value="Sorveglia [G]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Mantieni la posizione finché un nemico non arriva a tiro o ti attacca<br/>"/>
+	<entry name="GrowForest" value="Crea Foresta"/>
+	<entry name="GrowForestHint" value="Crea Foresta [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="GrowFungus" value="Crea Funghi"/>
+	<entry name="GrowFungusHint" value="Crea Funghi [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="HarvestCredits" value="Raccogli Crediti"/>
+	<entry name="HarvestCreditsHint" value="Raccogli Crediti<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccoglie <icon texture='Resources/Credits'/> crediti dal territorio"/>
+	<entry name="HarvestFood" value="Raccogli Cibo"/>
+	<entry name="HarvestFoodHint" value="Raccogli Cibo [Alt+F]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Food'/> cibo dal territorio"/>
+	<entry name="HarvestMinerals" value="Raccogli Minerali"/>
+	<entry name="HarvestMineralsHint" value="Raccogli Minerali [Alt+M]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Minerals'/> minerali dal territorio"/>
+	<entry name="HarvestResearch" value="Raccogli Ricerca"/>
+	<entry name="HarvestResearchHint" value="Raccogli Ricerca<br/><style name='Small'/><icon texture='GUI/Bullet'/>Raccogli <icon texture='Resources/Research'/> ricerca dal territorio"/>
+	<entry name="Heal" value="Guarisci"/>
+	<entry name="HealHint" value="Guarisci [H]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Mantieni la posizione fino a completa guarigione<br/><icon texture='GUI/Bullet'/>Guarisce %1%%% ogni turno<br/><icon texture='GUI/Bullet'/>%2% turni rimanenti per la guarigione totale"/>
+	<entry name="HoldPosition" value="Mantieni Posizione"/>
+	<entry name="HoldPositionHint" value="Mantieni Posizione [D]"/>
+	<entry name="Idle" value="Inattivo"/>
+	<entry name="ImproveClosestCity" value="Migliora Città più Vicina"/>
+	<entry name="ImproveClosestCityHint" value="Migliora Città più Vicina [Alt+A]"/>
+	<entry name="ImproveEcoregion" value="Migliora Ecoregione"/>
+	<entry name="ImproveEcoregionHint" value="Migliora Ecoregione [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="InciteRiot" value="Incita Rivolta"/>
+	<entry name="InciteRiotHint" value="Incita Rivolta<br/><icon texture='GUI/Bullet'/>Incita una rivolta in una città che dura 5 turni e riduce drasticamente il morale<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="InfiltrateReconnaissance" value="Infiltrazione"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Infiltrazione<br/><icon texture='GUI/Bullet'/>Garantisce pieno accesso ai dati di un giocatore fino alla fine del turno<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="LowerTerrain" value="Abbassa Territorio"/>
+	<entry name="LowerTerrainHint" value="Abbassa Territorio [Alt+I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>	
+	<entry name="Move" value="Spostati verso"/>
+	<entry name="MoveHint" value="Spostati"/>
+	<entry name="RaiseTerrain" value="Innalza Territorio"/>
+	<entry name="RaiseTerrainHint" value="Innalza Territorio [I]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+	<entry name="Refit" value="Aggiorna"/>
+	<entry name="RefitHint" value="Aggiorna [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Modifica il design dell'unità<br/><icon texture='GUI/Bullet'/>L'unità deve trovarsi in una città controllata dal suo proprietario"/>
+	<entry name="ReleaseGeneticVirus" value="Rilascia Virus Genetico"/>
+	<entry name="ReleaseGeneticVirusHint" value="Rilascia Virus Genetico<br/><icon texture='GUI/Bullet'/>Rilascia un virus genetico in una città che dura 5 turni ed uccide continuamente la popolazione<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageBuilding" value="Sabota Costruzione"/>
+	<entry name="SabotageBuildingHint" value="Sabota Costruzione<br/><icon texture='GUI/Bullet'/>Distrugge una costruzione a caso in una città<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageProduction" value="Sabota Produzione"/>
+	<entry name="SabotageProductionHint" value="Sabota Produzione<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della produzione accumulata da una città, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageResearch" value="Sabota Ricerca"/>
+	<entry name="SabotageResearchHint" value="Sabota Ricerca<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="Skip" value="Passa"/>
+	<entry name="SkipHint" value="Passa [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Passa il turno"/>
+	<entry name="StealCredits" value="Ruba Crediti"/>
+	<entry name="StealCreditsHint" value="Ruba Crediti<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di crediti accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="StealResearch" value="Ruba Ricerca"/>
+	<entry name="StealResearchHint" value="Ruba Ricerca<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="WorsenEcoregion" value="Peggiora Ecoregione"/>
+	<entry name="WorsenEcoregionHint" value="Peggiora Ecoregione [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
+</language>

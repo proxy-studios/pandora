@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlienAggression" value="Alien Aggression"/>
+	<entry name="AlienAggression0" value="Very Low"/>
+	<entry name="AlienAggression0Hint" value="Aliens turn hostile very late and are willing to travel only very short distances from their home territories in order to attack. Hives hatch new xenomorphs extremely slowly."/>
+	<entry name="AlienAggression1" value="Low"/>
+	<entry name="AlienAggression1Hint" value="Aliens turn hostile relatively late and are willing to travel short distances from their home territories in order to attack. Hives hatch new xenomorphs quite slowly."/>
+	<entry name="AlienAggression2" value="Medium"/>
+	<entry name="AlienAggression2Hint" value="Aliens turn hostile reasonably fast and are willing to travel moderate distances from their home territories in order to attack. Hives hatch new xenomorphs at an average speed."/>
+	<entry name="AlienAggression3" value="High"/>
+	<entry name="AlienAggression3Hint" value="Aliens turn hostile quite fast and are willing to travel considerable distances from their home territories in order to attack. Hives hatch new xenomorphs relatively quickly."/>
+	<entry name="AlienAggression4" value="Very High"/>
+	<entry name="AlienAggression4Hint" value="Aliens turn hostile extremely fast and are willing to travel immense distances from their home territories in order to attack. Hives hatch new xenomorphs very quickly."/>
+	<entry name="AlienAggression5" value="Random"/>
+	<entry name="AlienAggression5Hint" value="The alien aggression is determined randomly at the start of the game."/>
+	<entry name="AlliedVictory" value="Allied Victory"/>
+	<entry name="Difficulty" value="Difficulty"/>
+	<entry name="Difficulty0" value="Very Easy"/>
+	<entry name="Difficulty0Hint" value="The AI suffers a slight penalty compared to the player."/>
+	<entry name="Difficulty1" value="Easy"/>
+	<entry name="Difficulty1Hint" value="The AI has no advantage over the player."/>
+	<entry name="Difficulty2" value="Medium"/>
+	<entry name="Difficulty2Hint" value="The AI gains a slight advantage over the player."/>
+	<entry name="Difficulty3" value="Hard"/>
+	<entry name="Difficulty3Hint" value="The AI gains a moderate advantage over the player."/>
+	<entry name="Difficulty4" value="Very Hard"/>
+	<entry name="Difficulty4Hint" value="The AI gains a considerable advantage over the player."/>
+	<entry name="Difficulty5" value="Random"/>
+	<entry name="Difficulty5Hint" value="The difficulty level for each AI faction is determined randomly at the start of the game."/>
+	<entry name="EconomyVictory" value="Economic Victory"/>
+	<entry name="DropIn" value="Drop-In"/>
+	<entry name="DropInHint" value="Allow joining players to take over disconnected and AI players after the game has started. Normally joining players may only reconnect or take over spectator slots."/>
+	<entry name="GameVisibility" value="Game Visibility"/> 
+	<entry name="GameVisibility0" value="Friends Only"/>
+	<entry name="GameVisibility0Hint" value="Game is only joinable through friends lists, invites or direct connect."/>
+	<entry name="GameVisibility1" value="Private"/>
+	<entry name="GameVisibility1Hint" value="Game is only joinable through invites or direct connect."/>
+	<entry name="GameVisibility2" value="Public"/>
+	<entry name="GameVisibility2Hint" value="Game shows in public lists and is joinable by anyone."/>
+	<entry name="MilitaryVictory" value="Military Victory"/>
+	<entry name="Pace" value="Pace"/>
+	<entry name="Pace0" value="Quick"/>
+	<entry name="Pace0Hint" value="Decreases costs and durations by 50%."/>
+	<entry name="Pace1" value="Standard"/>
+	<entry name="Pace1Hint" value="Does not modify costs or durations."/>
+	<entry name="Pace2" value="Epic"/>
+	<entry name="Pace2Hint" value="Increases costs and durations by 50%."/>
+	<entry name="Pace3" value="Marathon"/>
+	<entry name="Pace3Hint" value="Increases costs and durations by 100%."/>
+	<entry name="Pace4" value="Random"/>
+	<entry name="Pace4Hint" value="The pace is determined randomly at the start of the game."/>
+	<entry name="RandomizedResearchTree" value="Randomized Research Tree"/>
+	<entry name="ResearchVictory" value="Research Victory"/>
+	<entry name="RevealedResearchTiers" value="Revealed Research Tiers"/>
+	<entry name="RevealedResearchTiers0" value="One"/>
+	<entry name="RevealedResearchTiers0Hint" value="Technologies one tier ahead are revealed."/>
+	<entry name="RevealedResearchTiers1" value="Two"/>
+	<entry name="RevealedResearchTiers1Hint" value="Technologies two tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers2" value="Three"/>
+	<entry name="RevealedResearchTiers2Hint" value="Technologies three tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers3" value="Four"/>
+	<entry name="RevealedResearchTiers3Hint" value="Technologies four tiers ahead are revealed."/>
+	<entry name="RevealedResearchTiers4" value="All"/>
+	<entry name="RevealedResearchTiers4Hint" value="The whole research tree is revealed from the start."/>
+	<entry name="RevealedResearchTiers5" value="Random"/>
+	<entry name="RevealedResearchTiers5Hint" value="Revealed research tiers are determined randomly at the start of the game."/>
+	<entry name="Shape" value="World Shape"/>
+	<entry name="Shape0" value="Archipelago"/>
+	<entry name="Shape0Hint" value="The world is shaped in the form of several smaller islands with water covering 80% of the planetary surface. Naval exploration and warfare play a vital role."/>
+	<entry name="Shape1" value="Continents"/>
+	<entry name="Shape1Hint" value="The world is shaped in the form of a few large continents with water covering 70% of the planetary surface. Balanced forces are the key to military success."/>
+	<entry name="Shape2" value="Pangea"/>
+	<entry name="Shape2Hint" value="The world is shaped in the form of one massive super-continent with water covering 60% of the planetary surface. Strong army ground troops are highly recommended."/>
+	<entry name="Shape3" value="Random"/>
+	<entry name="Shape3Hint" value="World shape is determined randomly at the start of the game."/>
+	<entry name="Size" value="World Size"/>
+	<entry name="Size0" value="Tiny"/>
+	<entry name="Size0Hint" value="A tiny world spans 24x24 for a total of 576 territories."/>
+	<entry name="Size0HintFactions" value="There are two landing human factions, for an average of about 8 cities per faction."/>
+	<entry name="Size1" value="Small"/>
+	<entry name="Size1Hint" value="A small world spans 32x32 for a total of 1024 territories."/>
+	<entry name="Size1HintFactions" value="There are four landing human factions, for an average of about 7 cities per faction.."/>
+	<entry name="Size2" value="Medium"/>
+	<entry name="Size2Hint" value="A medium world spans 40x40 for a total of 1600 territories."/>
+	<entry name="Size2HintFactions" value="There are six landing human factions, for an average of about 8 cities per faction.."/>
+	<entry name="Size3" value="Large"/>
+	<entry name="Size3Hint" value="A large world spans 48x48 for a total of 2304 territories."/>
+	<entry name="Size3HintFactions" value="There are six landing human factions, for an average of about 11 cities per faction."/>
+	<entry name="Size4" value="Huge"/>
+	<entry name="Size4Hint" value="A huge world spans 56x56 for a total of 3136 territories."/>
+	<entry name="Size4HintFactions" value="There are six landing human factions, for an average of about 15 cities per faction."/>
+	<entry name="Size5" value="Random"/>
+	<entry name="Size5Hint" value="World size is determined randomly at the start of the game."/>
+	<entry name="Size5HintFactions" value=""/>
+	<entry name="Temperature" value="World Temperature"/>
+	<entry name="Temperature0" value="Cold"/>
+	<entry name="Temperature0Hint" value=""/>
+	<entry name="Temperature1" value="Temperate"/>
+	<entry name="Temperature1Hint" value=""/>
+	<entry name="Temperature2" value="Warm"/>
+	<entry name="Temperature2Hint" value=""/>
+	<entry name="Temperature3" value="Random"/>
+	<entry name="Temperature3Hint" value="World temperature is determined randomly at the start of the game."/>
+	<entry name="TurnTimer" value="Turn Timer"/>
+	<entry name="TurnTimer0" value="None"/>
+	<entry name="TurnTimer0Hint" value=""/>
+	<entry name="TurnTimer1" value="Very Short (2 minutes)"/>
+	<entry name="TurnTimer1Hint" value=""/>
+	<entry name="TurnTimer2" value="Very Short (adaptive)"/>
+	<entry name="TurnTimer2Hint" value=""/>
+	<entry name="TurnTimer3" value="Short (4 minutes)"/>
+	<entry name="TurnTimer3Hint" value=""/>
+	<entry name="TurnTimer4" value="Short (adaptive)"/>
+	<entry name="TurnTimer4Hint" value=""/>
+	<entry name="TurnTimer5" value="Moderate (6 minutes)"/>
+	<entry name="TurnTimer5Hint" value=""/>
+	<entry name="TurnTimer6" value="Moderate (adaptive)"/>
+	<entry name="TurnTimer6Hint" value=""/>
+	<entry name="TurnTimer7" value="Long (8 minutes)"/>
+	<entry name="TurnTimer7Hint" value=""/>
+	<entry name="TurnTimer8" value="Long (adaptive)"/>
+	<entry name="TurnTimer8Hint" value=""/>
+	<entry name="TurnTimer9" value="Very Long (10 minutes)"/>
+	<entry name="TurnTimer9Hint" value=""/>
+	<entry name="TurnTimer10" value="Very Long (adaptive)"/>
+	<entry name="TurnTimer10Hint" value=""/>
+	<entry name="Victory1" value="Economic Victory"/>
+	<entry name="Victory2" value="Military Victory"/>
+	<entry name="Victory3" value="Research Victory"/>
+</language>

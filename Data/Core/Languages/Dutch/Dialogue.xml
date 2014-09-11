@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcceptCreditsForDeal0" value="(overweegt betaling voor verdrag)"/>
+	<entry name="AcceptCreditsForDeal1" value="(accepteert betaling voor verdrag)"/>
+	<entry name="AcceptDenounce" value="(accepteert terechtwijzing)"/>
+	<entry name="AcceptOpenBorders" value="(accepteert open grenzen)"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="(verwacht vredesaanbod aan derde partij)"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="(accepteert vredesaanbod aan derde partij)"/>
+	<entry name="AcceptPraise" value="(accepteert lof)"/>
+	<entry name="AcceptShareMap" value="(accepteert delen van kaarten)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="(verwacht oorslogsverklaring aan derde partij)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="(accepteert oorlogsverklaring aan derde partij)"/>
+	<entry name="RejectCreditsForDeal0" value="(wijst betaling voor verdrag af)"/>
+	<entry name="RejectCreditsForDeal1" value="(wijst betaling voor verdrag af)"/>
+	<entry name="AllianceAccepted" value="(accepteert alliantie)"/>
+	<entry name="AllianceHint" value="Een alliantie bestaat voor minstens 10 ronden en staat het beide fracties toe wederzijds elkaars territorium te betreden en zij aan zij te strijden."/>
+	<entry name="AllianceRejected" value="(wijst alliantie af)"/>
+	<entry name="DeclareWar" value="(verklaart de oorlog)"/>
+	<entry name="DemandCreditsForDeal" value="(verlangt betaling voor verdrag)"/>
+	<entry name="DemandPeaceOfferToThirdParty0" value="(verlangt vredesaanbod aan derde partij)"/>
+	<entry name="DemandTribute0" value="(verlangt vredesafdracht)"/>
+	<entry name="DemandWarDeclarationOnThirdParty0" value="(verlangt oorlogsverklaring aan derde partij)"/>
+	<entry name="DemandWithdrawal" value="(verlangt terugtrekking)"/>
+	<entry name="Denounce" value="(wijst openlijk terecht)"/>
+	<entry name="DenounceHint" value="Openlijke beschuldigingen, die de verstandhouding van de terechtgewezen fractie met haar vrieden verslechteren, maar de verstandhouding van de terechtgewezen fractie met haar vijanden verbeteren. Als de terechtwijzing geweigerd wordt, worden de effecten afgezwakt."/>	
+	<entry name="GiftAccepted0" value="(overweegt, het geschenk te accepteren)"/>
+	<entry name="GiftAccepted1" value="(accepteert geschenk)"/>
+	<entry name="GiftHint" value="Een geldgeschenk, dat - indien het wordt geaccepteerd - tot gevolg heeft dat de ontvanger de schenker hoger zal achten."/>
+	<entry name="GiftRejected0" value="(wijst geschenk af)"/>
+	<entry name="GiftRejected1" value="(wijst geschenk af)"/>
+	<entry name="Goodbye" value="(beëindigt dialoog)"/>
+	<entry name="LetMeKnow" value="(beëindigt dialoog)"/>
+	<entry name="LetMeThink" value="(overdenkt mogelijkheden)"/>
+	<entry name="NonAggressionPactAccepted" value="(accepteert niet-aanvalsverdrag)"/>
+	<entry name="NonAggressionPactHint" value="Een niet-aanvalsverdrag verhindert beide partners elkaar de oorlog te verklaren. Het opzeggen ervan leidt tot een drastisch aanziensverlies bij de andere fractie, alsook een geringer verlies bij alle fracties die met minstens één van de beiden voormalige vertragspartners contakt hebben."/>
+	<entry name="NonAggressionPactRejected" value="(wijst niet-aanvalsverdrag af)"/>
+	<entry name="OfferAlliance" value="(biedt alliantie aan)"/>
+	<entry name="OfferGift0" value="(biedt geschenk aan)"/>
+	<entry name="OfferNonAggressionPact" value="(biedt niet-aanvalsverdrag aan)"/>
+	<entry name="OfferOpenBorders" value="(biedt open grenzen aan)"/>
+	<entry name="OfferPeace" value="(biedt vrede aan)"/>
+	<entry name="OfferResearchPact" value="(biedt onderzoekspact aan)"/>
+	<entry name="OfferShareMap" value="(biedt delen van kaarten aan)"/>
+	<entry name="OfferTradingPact" value="(biedt handelspact aan)"/>
+	<entry name="OpenBordersHint" value="Maakt het mogelijk dat beide fracties elkaars gebieden kunnen betreden."/>
+	<entry name="PeaceAccepted" value="(accepteert vrede)"/>
+	<entry name="PeaceRejected" value="(wijst vrede af)"/>
+	<entry name="Praise" value="(looft openlijk)"/>
+	<entry name="PraiseHint" value="Openlijke lofbetuigingen, die - indien ze geaccepteerd worden - verstandhouding van de geloofde fractie met haar vrienden verbeteren, maar de verstandhouding van de geloofde fractie met haar vijanden verslechteren.."/>
+	<entry name="RejectDenounce" value="(wijst terechtwijzing)"/>
+	<entry name="RejectOpenBorders" value="(wijst open grenzen af)"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="(wijst vredesaanbod aan derde partij af)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(wijst vredesaanbod aan derde partij af)"/>
+	<entry name="RejectPraise" value="(wijst lof af)"/>	
+	<entry name="RejectShareMap" value="(wijst delen van kaartden af)"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="(wijst oorlogsverklaring aan derde partij af)"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="(wijst oorlogsverklaring aan derde partij af)"/>
+	<entry name="ResearchPactAccepted" value="(accepteert onderzoekspact)"/>
+	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 10% van hun onderzoek per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste onderzoek het meest van zo'n pact."/>
+	<entry name="ResearchPactRejected" value="(wijst onderzoekspact af)"/>
+	<entry name="ShareMapHint" value="De beide fracties delen hun verkende gebieden, echter blijft de oorlogsnevel bestaan."/>
+	<entry name="TerminateAlliance" value="(beëindigt alliantie)"/>
+	<entry name="TerminateNonAggressionPact" value="(beëindigt niet-aanvalsverdrag)"/>
+	<entry name="TerminateOpenBorders" value="(beëindigt open grenzen)"/>
+	<entry name="TerminateResearchPact" value="(beëindigt onderzoekspact)"/>
+	<entry name="TerminateTradingPact" value="(beëindigt handelspact)"/>
+	<entry name="TradingPactAccepted" value="(accepteert handelspact)"/>
+	<entry name="TradingPactHint" value="Bij een handelspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 10% van hun inkomen per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste imkomen het meest van zo'n pact."/>
+	<entry name="TradingPactRejected" value="(wijst handelspact af)"/>
+	<entry name="TributeAccepted0" value="(overweegt vredesafdracht)"/>
+	<entry name="TributeAccepted1" value="(accepteert vredesafdracht)"/>
+	<entry name="TributeHint" value="Een vredesafdracht verlangen is gewoonlijk een teken van de dominatie van een fractie tegenover de ander. Als gevolg leidt de vordering alsook de niet-betaling van een vredesafdracht tot een verschlechting van de verstandhouding tussen beide fracties."/>
+	<entry name="TributeRejected0" value="(wijst vredesafdracht af)"/>
+	<entry name="TributeRejected1" value="(wijst vredesafdracht af)"/>
+	<entry name="WarHint" value="Een oorlog verslechtert de verstandhouding tussen twee fracties dramatisch. Er staat beide partijen toe in het nu vijandige territorium binnen te dringen, elkaars eenheden aan te vallen en elkaars steden te veroveren."/>
+	<entry name="WithdrawalAccepted" value="(accepteert terugtrekking)"/>-
+	<entry name="WithdrawalRejected" value="(wijst terugtrekking af)"/>
+</language>
