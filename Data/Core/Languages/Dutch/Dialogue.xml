@@ -3,10 +3,14 @@
 	<entry name="AcceptCreditsForDeal0" value="(overweegt betaling voor verdrag)"/>
 	<entry name="AcceptCreditsForDeal1" value="(accepteert betaling voor verdrag)"/>
 	<entry name="AcceptDenounce" value="(accepteert terechtwijzing)"/>
+	<entry name="AcceptDenounceThirdParty0" value="(overweegt terechtwijzing van derde partij)"/>
+	<entry name="AcceptDenounceThirdParty1" value="(accepteert terechtwijzing van derde partij)"/>
 	<entry name="AcceptOpenBorders" value="(accepteert open grenzen)"/>
 	<entry name="AcceptPeaceOfferToThirdParty0" value="(verwacht vredesaanbod aan derde partij)"/>
 	<entry name="AcceptPeaceOfferToThirdParty1" value="(accepteert vredesaanbod aan derde partij)"/>
 	<entry name="AcceptPraise" value="(accepteert lof)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="(overweegt sancties tegen derde partij)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="(accepteert sancties tegen derde partij)"/>
 	<entry name="AcceptShareMap" value="(accepteert delen van kaarten)"/>
 	<entry name="AcceptWarDeclarationOnThirdParty0" value="(verwacht oorslogsverklaring aan derde partij)"/>
 	<entry name="AcceptWarDeclarationOnThirdParty1" value="(accepteert oorlogsverklaring aan derde partij)"/>
@@ -18,11 +22,14 @@
 	<entry name="DeclareWar" value="(verklaart de oorlog)"/>
 	<entry name="DemandCreditsForDeal" value="(verlangt betaling voor verdrag)"/>
 	<entry name="DemandPeaceOfferToThirdParty0" value="(verlangt vredesaanbod aan derde partij)"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="(eist sancties tegen derde partij)"/>
 	<entry name="DemandTribute0" value="(verlangt vredesafdracht)"/>
 	<entry name="DemandWarDeclarationOnThirdParty0" value="(verlangt oorlogsverklaring aan derde partij)"/>
 	<entry name="DemandWithdrawal" value="(verlangt terugtrekking)"/>
 	<entry name="Denounce" value="(wijst openlijk terecht)"/>
 	<entry name="DenounceHint" value="Openlijke beschuldigingen, die de verstandhouding van de terechtgewezen fractie met haar vrieden verslechteren, maar de verstandhouding van de terechtgewezen fractie met haar vijanden verbeteren. Als de terechtwijzing geweigerd wordt, worden de effecten afgezwakt."/>	
+	<entry name="DenounceThirdParty0" value="(wijst derde partij besloten terecht)"/>
+	<entry name="DenounceThirdPartyHint" value="Beschuldigingen dat een derde partij misdaden begaat tegen je gesprekspartner. Indien je geloofd wordt, dan stijgt je achting met de partner, terwijl de derde partij hun achting verliest. Wordt je niet geloofd, dan vermindert hun achting tegenover jou."/>
 	<entry name="GiftAccepted0" value="(overweegt, het geschenk te accepteren)"/>
 	<entry name="GiftAccepted1" value="(accepteert geschenk)"/>
 	<entry name="GiftHint" value="Een geldgeschenk, dat - indien het wordt geaccepteerd - tot gevolg heeft dat de ontvanger de schenker hoger zal achten."/>
@@ -48,6 +55,8 @@
 	<entry name="Praise" value="(looft openlijk)"/>
 	<entry name="PraiseHint" value="Openlijke lofbetuigingen, die - indien ze geaccepteerd worden - verstandhouding van de geloofde fractie met haar vrienden verbeteren, maar de verstandhouding van de geloofde fractie met haar vijanden verslechteren.."/>
 	<entry name="RejectDenounce" value="(wijst terechtwijzing)"/>
+	<entry name="RejectDenounceThirdParty0" value="(weigert terechtwijzing van derde partij)"/>
+	<entry name="RejectDenounceThirdParty1" value="(weigert terechtwijzing van derde partij)"/>
 	<entry name="RejectOpenBorders" value="(wijst open grenzen af)"/>
 	<entry name="RejectPeaceOfferToThirdParty0" value="(wijst vredesaanbod aan derde partij af)"/>
 	<entry name="RejectPeaceOfferToThirdParty1" value="(wijst vredesaanbod aan derde partij af)"/>
@@ -56,8 +65,9 @@
 	<entry name="RejectWarDeclarationOnThirdParty0" value="(wijst oorlogsverklaring aan derde partij af)"/>
 	<entry name="RejectWarDeclarationOnThirdParty1" value="(wijst oorlogsverklaring aan derde partij af)"/>
 	<entry name="ResearchPactAccepted" value="(accepteert onderzoekspact)"/>
-	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 10% van hun onderzoek per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste onderzoek het meest van zo'n pact."/>
+	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 25% van hun onderzoek per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste onderzoek het meest van zo'n pact."/>
 	<entry name="ResearchPactRejected" value="(wijst onderzoekspact af)"/>
+	<entry name="SanctionsAgainstThirdPartyHint" value="Eist van de gespreksparner dat deze alle handels- en onderzoekspacten die hij met een derde partij heeft opzegt. Het weigeren van het verzoek betekent dat de partner je lager zal achten, terwijl akkoord gaan hun achting tegenover je zal doen toenemen."/>
 	<entry name="ShareMapHint" value="De beide fracties delen hun verkende gebieden, echter blijft de oorlogsnevel bestaan."/>
 	<entry name="TerminateAlliance" value="(beëindigt alliantie)"/>
 	<entry name="TerminateNonAggressionPact" value="(beëindigt niet-aanvalsverdrag)"/>
@@ -65,7 +75,7 @@
 	<entry name="TerminateResearchPact" value="(beëindigt onderzoekspact)"/>
 	<entry name="TerminateTradingPact" value="(beëindigt handelspact)"/>
 	<entry name="TradingPactAccepted" value="(accepteert handelspact)"/>
-	<entry name="TradingPactHint" value="Bij een handelspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 10% van hun inkomen per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste imkomen het meest van zo'n pact."/>
+	<entry name="TradingPactHint" value="Bij een handelspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 25% van hun inkomen per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste imkomen het meest van zo'n pact."/>
 	<entry name="TradingPactRejected" value="(wijst handelspact af)"/>
 	<entry name="TributeAccepted0" value="(overweegt vredesafdracht)"/>
 	<entry name="TributeAccepted1" value="(accepteert vredesafdracht)"/>
