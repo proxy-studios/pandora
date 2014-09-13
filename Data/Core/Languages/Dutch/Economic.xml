@@ -33,11 +33,11 @@
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Door de handel met een bepaalde fractie drijft u voor ons - de overige fracties - effektief de prijzen op. Beëindig deze samenwerking en dan kunnen we eens serieus met elkaar praten.&quot;"/>
-	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ik hoop maar, dat hier iets goed voor ons uitkomt. Maar goed, we hebben de verdrag opgezegd.&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Ik hoop maar, dat hier iets goed voor ons uitkomt. Maar goed, we hebben het verdrag opgezegd.&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Het spijt me, maar zo loopt onze onderneming nu eenmaal.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;In orde, voor ons geld enkel de beste deal.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nee, nee, dit is een nulsomspel: Iemand wint wat, iemand verliest wat, maar de hoeveelheid geld verandert niet. In dit geval bent u de verliezer.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nee, nee, ze zijn een bevoorrechte partner. Dit is een nulsomspel: Iemand wint wat, iemand verliest wat, maar de hoeveelheid geld verandert niet. In dit geval bent u de verliezer.&quot;"/>
 	
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Ik heb een aanbod, dat vele mensen zal helpen - indien u deze oorlog beëindigt. Heeft u interesse?&quot;"/>

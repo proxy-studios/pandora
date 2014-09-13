@@ -23,7 +23,7 @@
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Vertelt u mij meer. Wat heeft u uitgespit?&quot;"/>
 	<!-- Dialogue partner is not interested. -->
-	<entry name="RejectDenounceThirdParty0" value="&quot;Terwijl sommigen onder ons liever rond morrelen in de rommel, wanden anderen zich tot de sterren. U... behoort duidelijk tot de eerste groep!&quot;"/>
+	<entry name="RejectDenounceThirdParty0" value="&quot;Terwijl sommigen onder ons liever rond morrelen in de rommel, wenden anderen zich tot de sterren. U... behoort duidelijk tot de eerste groep!&quot;"/>
 	<!-- Tells dialogue partner the third faction and their crime. -->
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/>
 	<!-- Dialogue partner believes it. -->
