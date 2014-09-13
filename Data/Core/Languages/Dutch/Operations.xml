@@ -9,23 +9,29 @@
 	<entry name="DropPod" value="Afwerpcapsules"/>
 	<entry name="DropPodDescription" value="Afwerpcapsules zijn afgescherme kamers, afgevuurd vanuit een baan om de planeet, die één of twee troepen bevatten. Daarmee hebben we de mogelijkheid, ze op ieder moment achter de vijandelijke linies met hoge snelheid en precisie af te werpen."/>
 	<entry name="DropPodProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Wordt niet direct ingezet, maar verbruikt, als een eenheid vanuit een baan om de planeet afgeworpen wordt"/>
+	<entry name="Eggs0" value="Eieren0"/>
+	<entry name="Eggs1" value="Eieren1"/>
+	<entry name="Eggs2" value="Eieren2"/>
 	<entry name="EMPBeam" value="EMP-straal"/>
 	<entry name="EMPBeamDescription" value="Met deze geconcentreerde magnetische straal wordt alle productie verstoord, heeft effect op alle electronische apparaten, en heeft storingen tot gevolg in alle computersystemen in het werkingsgebied. Indien de straal op een kolonie gericht wordt, veroorzaakt hij een langdurige stroomuitval, waarvan de taktische voordelen niet in woorden te bevatten zijn."/>
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Veroorzaakt een stroomuitval, waarmee een stad voor 5 ronden volledig buiten gevecht gesteld wordt<br/><icon texture='GUI/Bullet'/>Verklaart de getroffen fracties de oorlog"/>
 	<entry name="Growth" value="Klooncentrum"/>
 	<entry name="GrowthDescription" value="Toegepaste auxologie, stamcelmanipulatie en groeicontrole stellen ons in staat om enkele van onze kolonisten snel en efficiënt te repliceren. Dit zal de bevolkingsgroei een tijd lang aanzwengelen."/>
 	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> groei in een stad voor 10 ronden"/>
+	<entry name="Mines" value="Vulkaanmijnen"/>
+	<entry name="MinesDescription" value="Nadat ze uitgezet worden vanaf onze satellieten, graven deze geharde apparaten zich diep in de grond. Daar stellen ze hun vluchige chemische interieurs bloot aan Pandora's lucht, waarbij een belachtige drukbom ontstaat, die erop wacht om gestoord te worden."/>
+	<entry name="MinesProperties" value=""/>
 	<entry name="NanoRobots" value="Nanorobots"/>
 	<entry name="NanoRobotsDescription" value="Microscopisch kleine robotjes kunnen voor bepaalde taken geprogrammeerd worden, zoals bijv. nanomedicijn- of reparatierobotjes, die bij de heropbouw van moleculaire structuren van beschadigde of verwonde eenheden een deel van zichzelf of zichzelf zelfs geheel opofferen."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Repareert of geneest alle eenheden in een gebied"/>
 	<entry name="Nuke" value="Kernraket"/>
 	<entry name="NukeDescription" value="Nucleare kettingreacties laten bij verhoudingsgewijs weinig bronmateriaal grote hoeveelheden energie vrijkomen. Als men dit principe in wapenvorm in een kleine behuizing onderbrengt, die niet groter is dan een conventionele bom, dan kunnen met de resulterende explosies, vuren en straling gehele steden verwoest worden.<br/><br/>Die Raketen erfolgreich ins Ziel zu bringen, ist mindestens genauso wichtig und kostspielig wie ihre Herstellung selbst. Dank ballistischer Raketen mit großer Reichweite sind wir nun in der Lage, diese Massenvernichtungswaffen direkt in den Schoß unserer Gegner zu tragen!<br/><br/><style name='Italic'/>Intellektuelle warnen jedoch schon immer vor den Gefahren eines Atomkriegs, in dem wir uns alle gegenseitig auslöschen würden."/>
 	<entry name="NukeProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Brengt in een gebied elke eenheid en de bevolking 8 <icon texture='Attributes/Power'/> schade toe<br/><icon texture='GUI/Bullet'/>Verklaart de getroffen fracties de oorlog<br/><icon texture='GUI/Bullet'/>Verwoest terreineigenschappen<br/><icon texture='GUI/Bullet'/>Produceerd vervuiling"/>
-	<entry name="Portal0" value="Portaal"/>
-	<entry name="Portal1" value="Portaal"/>
-	<entry name="Portal2" value="Portaal"/>
-	<entry name="Portal3" value="Portaal"/>
-	<entry name="Portal4" value="Portaal"/>
+	<entry name="Portal0" value="Portaal0"/>
+	<entry name="Portal1" value="Portaal1"/>
+	<entry name="Portal2" value="Portaal2"/>
+	<entry name="Portal3" value="Portaal3"/>
+	<entry name="Portal4" value="Portaal4"/>
 	<entry name="Promotion" value="Veldtraining"/>
 	<entry name="PromotionDescription" value="De veldtraining is een hardere vorm van de gevechtsimulatie en wordt met scherpe munitie doorlopen. Vele soldaten houden er blijvend letsel aan over, of raken getraumatiseerd - of beiden. Enkel de besten overleven deze training en de kennis die ze daarbij opdoen, levert ze tijdens een echte oorlog een duidelijk voordeel op."/>
 	<entry name="PromotionProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>+2 <icon texture='Attributes/Rank'/> rang voor alle eenheden in een gebied<br/><icon texture='GUI/Bullet'/>bevorderde eenheden verliezen 20% <icon texture='Attributes/Health'/> gezondheid<icon texture='GUI/Bullet'/>Verhoogt de <icon texture='Attributes/Rank'/> rang niet boven 10<br/><icon texture='GUI/Bullet'/>Heeft geen effect op eenheden die zouden sterven"/>
@@ -33,8 +39,7 @@
 	<entry name="ScanDescription" value="De satellietscan kent veel voordelen: Hij is discreet, efficiënt, precies en omvattend. De nieuwste generatie spionagesatellieten kunnen een zeer groot bereik afdekken, wat ze tot een onontbeerlijk stuk gereeschap in de spionage en oologsvoering maakt."/>
 	<entry name="ScanProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Onthult een gebied en de omliggende gebieden voor 1 ronde"/>
 	<entry name="Storm" value="Ionenstorm"/>
-	<entry name="StormDescription" value=""/>
-	<entry name="StormProperties" value=""/>	<entry name="Teleportation" value="Planetaire poort"/>
+	<entry name="Teleportation" value="Planetaire poort"/>
 	<entry name="TeleportationDescription" value="Planetaire poorten worden door leken veelal aangeduid als wormgaten of zwarte gaten, doch het gaat eigenlijk om een toegang tot een klein wit gat. Daarmee stelt het iedere eenheid in staat om sneller dan het licht naar een vastgelegd doel te reizen."/>
 	<entry name="TeleportationProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Teleporteert alle eenheden van het start- naar het doelgebied"/>
 </language>

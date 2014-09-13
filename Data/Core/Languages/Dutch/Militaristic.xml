@@ -19,7 +19,7 @@
 	<entry name="LetMeKnow" value="&quot;Natuurlijk, laat u maar weten wanneer u de beslissing genomen heeft.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
-	<entry name="DenounceThirdParty0" value="&quot;Ik denk, dat u behoort te weten dat iemand u in de rug wil aanvallen. Misschien interesseert u dit.&quot;"/>
+	<entry name="DenounceThirdParty0" value="&quot;Ik denk, dat u behoort te weten dat een schoft u in de rug wil aanvallen. Misschien interesseert u dit.&quot;"/>
 	<!-- Dialogue partner wants to know who and what. -->
 	<entry name="AcceptDenounceThirdParty0" value="&quot;Om eerlijk te zijn, heb ik alle informatie nodig, die ik kan krijgen.&quot;"/>
 	<!-- Dialogue partner is not interested. -->
@@ -35,7 +35,6 @@
 	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We moeten eens over uw logistiek praten. Ik dat dat deze gecompromiteerd wordt.&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Handel? Onderzoek? Verdorie! Waarom kunnen we iedereen niet gewoon neerknallen, zodat we er gelijk vanaf zijn? Om wie gaat het?&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Corrigeert u mij, voor het geval ik mij vergis, maar u bevindt zich niet boven mij in de bevelshiërarchie. Opdracht geweigerd.&quot;"/>
-	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Verdomme en verdraaid! We konden nog wel zo goed met elkaar overweg. In orde, we laten ze vallen als een leeg magazijn.&quot;"/>
 	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Niet zolang ik leef. We laten onze vrienden niet zo makkelijk in de steek.&quot;"/>
 	
@@ -43,7 +42,6 @@
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;U moet echt wat aardiger tegen uw buren gaan worden.&quot;"/>
 	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Meent u dat echt? Welja, ik denk dat we wel voor een tijdje kunnen stoppen met schieten. Tegen wie?&quot;"/>
 	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;De tranen staan me in de ogen. Maar als de oorlog zo goed verloopt, zeg ik met tegenzin, dat het me spijt.&quot;"/>
-	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;Ik beken: Het is me zowieso nooit bevallen om tegen hen te vechten. In orde, we stellen een pauze in ...&quot;"/>
 	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;Mij vragen de oorlog op te geven, is zoals de vogels vragen niet meer te vliegen. Dat is simpelweg onmogelijk.&quot;"/>
 	

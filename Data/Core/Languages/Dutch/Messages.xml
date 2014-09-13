@@ -27,7 +27,7 @@
 	<entry name="InvalidCommand" value="Ongeldig bevel: &quot;%1%&quot;"/>
 	<entry name="InvalidEmail" value="Ongeldig e-mailadres"/>
 	<entry name="InvalidName" value="Ongeldige naam."/>
-	<entry name="InvalidProductKey" value="Ongeldige productsleutel."/>
+	<entry name="InvalidProductKey" value="Ongeldige productsleutel voor %1%."/>
 	<entry name="Kicked" value="Je bent van de server getrapt."/>
 	<entry name="MasterServerUnreachable" value="Er kon geen verbinding met de masterserver gemaakt worden."/>
 	<entry name="NameTooShort" value="Je naam is te kort."/>
