@@ -31,6 +31,8 @@
 	<entry name="Cannon2" value="Tachyonenkanon"/>
 	<entry name="Cannon2Description" value="Hoewel het tachyonenkanon niet persé van tachyonen gebruik maakt, is het nog altijd een indrukwekkend wapen. Het schiet energiedeeltjes af op een zeer hoge frequentie en op een snelheid sneller dan het licht, waardoor het ook de sterkste bepantseringen kan doorvoren. Daarbovenop zorgt het KI-gestuurde doelzoeksysteem ook nog voor gegenoeg perfecte precisie. Daarom is het tachyonenkanon het meest gevreesde wapen in moderne legers."/>
 	<entry name="Cannon2Properties" value="<icon texture='GUI/Bullet'/>Kanonwapen<br/><icon texture='GUI/Bullet'/>Geschikt voor pantservoertuigen en vaartuigen<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen zware eenheden<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen lichte eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen luchteenheden"/>
+	<entry name="Crab" value="Klauwen"/>
+	<entry name="CrabProperties" value="<icon texture='GUI/Bullet'/>Slagwapen<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden"/>
 	<entry name="Flak0" value="P-5-banthamflak"/>
 	<entry name="Flak0Description" value="Onze nieuwe algoritmen voor de bewegingsvoorspellingen baseren op de waarschijnlijkheidstheorie en op vliegpatronen. Hiermee is het nu mogelijk voor ons om ogenblikkelijk te reageren op veranderingen in de snelheid en vliegrichting van luchteenheden. Dankzij deze vaardigheid is de flak eindelijk weer een bruikbaar wapen geworden in de moderne wereld en onttroont zelfs raketsystemen als het effectiefste luchtafweergeschut."/>
 	<entry name="Flak0Properties" value="<icon texture='GUI/Bullet'/>Luchtafweertuig<br/><icon texture='GUI/Bullet'/>Geschikt voor pantservoertuigen en vaartuigen<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen luchteenheden<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> sterkte tegen grondeenheden"/>
@@ -51,6 +53,15 @@
 	<entry name="Flame2Properties" value="<icon texture='GUI/Bullet'/>Vlammenwerper<br/><icon texture='GUI/Bullet'/>Geschikt voor soldaten<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen luchteenheden"/>
 	<entry name="Flyer" value="Bijter"/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Slagwapen<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden"/>
+	<entry name="Gun0" value="Damesvinger"/>
+	<entry name="Gun0Description" value=""/>
+	<entry name="Gun0Properties" value="<icon texture='GUI/Bullet'/>Automatisch wapen<br/><icon texture='GUI/Bullet'/>Geschikt voor geheim agenten<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden"/>
+	<entry name="Gun1" value="Arasaka Minami 10"/>
+	<entry name="Gun1Description" value=""/>
+	<entry name="Gun1Properties" value="<icon texture='GUI/Bullet'/>Automatisch wapen<br/><icon texture='GUI/Bullet'/>Geschikt voor geheim agenten<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden"/>
+	<entry name="Gun2" value="Techtronica M40"/>
+	<entry name="Gun2Description" value=""/>
+	<entry name="Gun2Properties" value="<icon texture='GUI/Bullet'/>Automatisch wapen<br/><icon texture='GUI/Bullet'/>Geschikt voor geheim agenten<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden"/>
 	<entry name="Giant" value="Steek"/>
 	<entry name="Laser0" value="Impulslaser"/>
 	<entry name="Laser0Description" value="Hoewel het tempo waarin dit wapen laserpulsen afgeeft beperkt is, is een een goede reden voor dit ontwerp: Des te langer het wapen energie kan opbouwen, des te hogere temperaturen bereikt kunnen worden. Dit gaat zo ver dat op een bepaald moment de laser het doelwit simpelweg verdampt."/>
@@ -72,6 +83,10 @@
 	<entry name="Missile2" value="Antimaterieraketwerper"/>
 	<entry name="Missile2Description" value="Deze vorm van botsing tussen materie en anti-materie heeft het protentieel zelfs kernfusiereacties in de schaduw te zetten. De miniaturisering en uitbalancering kosten weliswaar een vermogen, maar de werking van het wapen is onovertroffen."/>
 	<entry name="Missile2Properties" value="<icon texture='GUI/Bullet'/>Raketwapen<br/><icon texture='GUI/Bullet'/>Geschikt voor vliegtuigen, terreinwagens, mechs, pantservoertuigen, soldaten en vaartuigen<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden"/>
+	<entry name="Nightcrawler" value="Tentakels"/>
+	<entry name="NightcrawlerProperties" value="<icon texture='GUI/Bullet'/>Slagwapen<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte tegen biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen mechanische eenheden"/>
+	<entry name="Ningen" value="Larynx"/>
+	<entry name="NingenProperties" value="<icon texture='GUI/Bullet'/>Artilleriewapen<br/><icon texture='GUI/Bullet'/>Spuugaanval met dubbel bereik<br/><icon texture='GUI/Bullet'/>Geen tegenaanval na aanval<br/><icon texture='GUI/Bullet'/>Geen bonus door bepantsering bij aanval<br/><icon texture='GUI/Bullet'/>Hoe slechter de gezondheid van de tegenstander is, hoe geringer de schade van een aanval uitvalt<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte tegen luchteenheden"/>
 	<entry name="None" value="Geen wapen"/>
 	<entry name="NoneDescription" value="Onbewapende eenheden kunnen niet aanvallen en hebben doorgaans een zeer geringe militaire sterkte. Daarom moeten ze beschermd worden."/>
 	<entry name="QueenFlyer" value="Bijter"/>

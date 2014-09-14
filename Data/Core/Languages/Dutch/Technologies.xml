@@ -8,6 +8,12 @@
 	<entry name="Academy1Description" value="Pas de uitrusting aan de soldaten aan en niet omgekeerd."/>
 	<entry name="Academy2" value="Neurale interface"/>
 	<entry name="Academy2Description" value="Een directe verbinding met een centrale gevechtsdatabank, die de troepenefficiëntie verhoogt."/>
+	<entry name="Agent0" value="Spionage"/>
+	<entry name="Agent0Description" value="Breng spionagetechnieke van de oude aarde weer tot leven en werf spionageringen aan."/>
+	<entry name="Agent1" value="Verbonden wetware"/>
+	<entry name="Agent1Description" value="Het implanteren van Koesanagi-apparaten in onze spionnen zou ze in staat moeten stellen om zowel in de fysieke als de virtuele wereld tegelijk actief te kunnen zijn."/>
+	<entry name="Agent2" value="M-geesten"/>
+	<entry name="Agent2Description" value="Onze agenten voorbij de grenzen van hun menselijke vorm verheffen."/>
 	<entry name="Aircraft0" value="Magnetoplasmadynamische aandrijving"/>
 	<entry name="Aircraft0Description" value="Een elektrisch aandrijfsysteem, dat de oorlog naar het luchtruim brengt."/>
 	<entry name="Aircraft1" value="Geavanceerde afweersystemen"/>
@@ -179,6 +185,8 @@
 	<entry name="Minerals1Description" value="Robotdronen ter ondersteuning bij mijnbouwactiviteiten."/>
 	<entry name="Minerals2" value="Mineraalteleportatie"/>
 	<entry name="Minerals2Description" value="Ontginning van mineralen met behulp van nauwkeurige microwarps."/>
+	<entry name="Mines" value="Hemelmijnen"/>
+	<entry name="MinesDescription" value="Zeer explosieve pakketjes die vanuit de ruimte worden uitgezet."/>
 	<entry name="Missile0" value="Geleide wapens"/>
 	<entry name="Missile0Description" value="Geleide zelfaangedreven wapensystemen."/>
 	<entry name="Missile1" value="Intelligente doelzoeksystemen"/>
@@ -249,6 +257,14 @@
 	<entry name="Sniper2" value="Toegepaste kwantumverstrengeling"/>
 	<entry name="Sniper2Description" value="Kwantumkogels, die speciaal voor precisiewapens ontworpen zijn, om bij het doelwit celdistorsies te veroorzaken."/>
 	<entry name="SociologyCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Sociologie"/>
+	<entry name="SpyAttack" value="Overloopvirus"/>
+	<entry name="SpyAttackDescription" value="Een verleidelijk schimmelspoor dat op kleine schaal tot wapen gemaakt kan worden."/>
+	<entry name="SpyBuilding" value="Panopticonsteden"/>
+	<entry name="SpyBuildingDescription" value="Steden ontworpen opdat geen vierkante centimeter ontsnapt aan de veiligheidsteams."/>
+	<entry name="SpyDefense" value="Custodes"/>
+	<entry name="SpyDefenseDescription" value="Autonome, autochthone apparaten die in staat zijn om al het vijandige DNA te detecteren en te volgen."/>
+	<entry name="SpyDevice" value="Illusie-onderzoek"/>
+	<entry name="SpyDeviceDescription" value="Optische, mentale en digitale illusies die gecombineerd worden in een uniek ontdekkingspreventieapparaat."/>
 	<entry name="StrategyCategoryProperties" value="<icon texture='GUI/Bullet'/>Categorie: Strategie"/>
 	<entry name="Tank0" value="Zwaar oorlogstuig"/>
 	<entry name="Tank0Description" value="Het ontwerp van een romp die geschikt is voor mechanische en elektrostatische afscherming stelt ons in staat zwaar bepantserde gevechtsvoertuigen te produceren."/>
