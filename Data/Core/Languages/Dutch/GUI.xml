@@ -96,8 +96,9 @@
 	<entry name="EndTurnHint" value="Beëindig je ronde [Spatie]."/>
 	<entry name="Enter" value="Selecteren"/>
 	<entry name="EnterCityHint" value="Klik, om naar het stadsoverzicht te schakelen."/>
-	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Schade"/>
-	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Sterkte"/>
+	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> schade"/>
+	<entry name="EntityInfiltrationModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> infiltratievermogen"/>
+	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> sterkte"/>
 	<entry name="Era0" value="Kolonisatietijdperk"/>
 	<entry name="Era1" value="Mechaniseringstijdperk"/>
 	<entry name="Era2" value="Trancendentietijdperk"/>

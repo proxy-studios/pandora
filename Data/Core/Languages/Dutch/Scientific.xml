@@ -15,6 +15,10 @@
 	
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Mag ik mij even voorstellen? Ik ben doctor Alfeus Schrijver, rector magnificus van de Togra-universiteit. Het waren onze uitvindingen, zoals bijvoorbeeld de Alcubierre-aandrijving, die de mensen naar Pandora brachten. Derhalve geloof ik niet, dat u ons de gelegenheid misgunt, om deze fascinerende nieuwe wereld te onderzoeken en de grenzen van het menselijke denken te verleggen, nietwaar? Dacht ik niet. Ik zie al, we zullen goed met elkaar overweg kunnen.&quot;"/>
+
+	<entry name="NamePositive" value="&quot;De brilliante Doctor Schrijver.&quot;"/>
+	<entry name="NameNegative" value="&quot;De onethische Doctor Schrijver.&quot;"/>
+
 	<entry name="LetMeThink" value="&quot;Hmm... geeft u me een momentje om daarover na te denken.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Natuurlijk, laat u het me weten zodra u de beslissing genomen heeft.&quot;"/> 
 		
