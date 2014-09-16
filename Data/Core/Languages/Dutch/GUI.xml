@@ -80,6 +80,7 @@
 	<entry name="Device" value="Uitrusting"/>
 	<entry name="Devices" value="Uitrustingen"/>
 	<entry name="DevicesHelp" value="Uitrustingen worden in de werkplaats aan eenheden toegewezen en verlenen voor een navenant hogere productieprijs verscheidende bonussen.<br/><br/>In tegenstelling tot de hogere sterkte door bepantseringen zijn de bonussen door uitrustingen van situative aard - daarvoor moet je erop letten, ze correct in te zetten."/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Economy" value="Economie"/>
 	<entry name="Economy1" value="Miserabele economie"/>
 	<entry name="Economy2" value="Zwakke economie"/>
@@ -95,8 +96,9 @@
 	<entry name="EndTurnHint" value="Beëindig je ronde [Spatie]."/>
 	<entry name="Enter" value="Selecteren"/>
 	<entry name="EnterCityHint" value="Klik, om naar het stadsoverzicht te schakelen."/>
-	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Schade"/>
-	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Sterkte"/>
+	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> schade"/>
+	<entry name="EntityInfiltrationModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> infiltratievermogen"/>
+	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> sterkte"/>
 	<entry name="Era0" value="Kolonisatietijdperk"/>
 	<entry name="Era1" value="Mechaniseringstijdperk"/>
 	<entry name="Era2" value="Trancendentietijdperk"/>
@@ -110,6 +112,7 @@
 	<entry name="Feature" value="Eigenschap"/>
 	<entry name="Features" value="Eigenschappen"/>
 	<entry name="FeaturesHelp" value="Eigenschappen classificeren de staat van gebieden. Het kan daarbij gaan om eenvoudige terreineigenschappen zoals vlaktes of bossen, om menselijke constructies zoals wegen en boerderijen of zelfs om effecten als gevolg van operaties."/>
+	<entry name="FirstContact" value="First Contact"/>
 	<entry name="Flanking" value="Flankend"/>
 	<entry name="Food" value="Voedsel"/>
 	<entry name="FoodColonists" value="Boeren"/>
@@ -301,6 +304,7 @@
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% uit wetenschappers"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% uit onderzoekspacten"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% uit hongersnood"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% uit opgehitste opstanden"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% uit overname"/>
 	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% uit slachtoffers overname"/>
 	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% uit migratie overname"/>
@@ -308,6 +312,7 @@
 	<entry name="ResourcePerTurnFromTerritories" value="<icon texture='GUI/Bullet'/>%1% uit gebieden"/>
 	<entry name="ResourcePerTurnFromTradingPacts" value="<icon texture='GUI/Bullet'/>%1% uit handelspacten"/>
 	<entry name="ResourcePerTurnFromUnitUpkeep" value="<icon texture='GUI/Bullet'/>%1% uit eenhedenonderhoud"/>
+	<entry name="ResourcePerTurnFromVirus" value="<icon texture='GUI/Bullet'/>%1% uit genetisch virus"/>
 	<entry name="ResourcePerTurnFromWorkers" value="<icon texture='GUI/Bullet'/>%1% uit arbeiders"/>
 	<entry name="ResourceTotal" value="Totaal %1%"/>
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>Nog %1% ronde(s)"/>

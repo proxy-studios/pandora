@@ -61,6 +61,10 @@
 	<entry name="ImproveClosestCityHint" value="Dichtstbijzijnde stad verbeteren [Alt+A]"/>
 	<entry name="ImproveEcoregion" value="Ecoregio verbeteren"/>
 	<entry name="ImproveEcoregionHint" value="Ecoregio verbeteren [C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
+	<entry name="InciteRiot" value="Opstand ontketenen"/>
+	<entry name="InciteRiotHint" value="Incite Riot<br/><icon texture='GUI/Bullet'/>Ontketent een opstand in een stad die 5 ronden duurt en het moraal drastisch omlaag brengt<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="InfiltrateReconnaissance" value="Verkenningen infiltreren"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Verkenningen infiltreren<br/><icon texture='GUI/Bullet'/>Levert volledige toegang op tot het zichtveld van een speler<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="LowerTerrain" value="Terrein verlagen"/>
 	<entry name="LowerTerrainHint" value="Terrein verlagen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>	
 	<entry name="Move" value="Beweeg naar"/>
@@ -69,8 +73,20 @@
 	<entry name="RaiseTerrainHint" value="Terrein ophogen<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>	
 	<entry name="Refit" value="Ombouwen"/>
 	<entry name="RefitHint" value="Ombouwen [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Het eenheidontwerp veranderen<br/><icon texture='GUI/Bullet'/>De eenheid moet in een stad gestationeerd zijn, die onder bestuur van de speler valt."/>
+	<entry name="ReleaseGeneticVirus" value="Genetisch virus uitzetten"/>
+	<entry name="ReleaseGeneticVirusHint" value="Genetisch virus uitzetten<br/><icon texture='GUI/Bullet'/>Zet een genetisch virus uit in een stad, dat 5 rondes actief blijft en voortdurent bevolking doodt<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="SabotageBuilding" value="Gebouw saboteren"/>
+	<entry name="SabotageBuildingHint" value="Gebouw saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurig gebouw in een stad<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="SabotageProduction" value="Productie saboteren"/>
+	<entry name="SabotageProductionHint" value="Productie saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van de verzamelde productie in een stad, maximaal de gehele productie<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="SabotageResearch" value="Onderzoek saboteren"/>
+	<entry name="SabotageResearchHint" value="Onderzoek saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van het onderzoek dat de speler vergaard heeft, maximaal het gehele onderzoek<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="Skip" value="Overslaan"/>
 	<entry name="SkipHint" value="Overslaan [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Deze ronde overslaan"/>
+	<entry name="StealCredits" value="Kredieten stelen"/>
+	<entry name="StealCreditsHint" value="Kredieten stelen<br/><icon texture='GUI/Bullet'/>Steelt een willekeurige hoeveelheid van het kredietsaldo van een speler, maximaal zijn gehele saldo.<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="StealResearch" value="Steel kennis"/>
+	<entry name="StealResearchHint" value="Steel kennis<br/><icon texture='GUI/Bullet'/>Steely een willekeurige hoeveelheid van het onderzoek dat een speler verzameld heeft, maximaal het totale onderzoek<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="WorsenEcoregion" value="Ecoregio verslechteren"/>
 	<entry name="WorsenEcoregionHint" value="Ecoregio verslechteren [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 </language>

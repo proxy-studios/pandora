@@ -15,7 +15,11 @@
 	
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Ah, een god heeft voorbestemd, dat wij elkaar treffen. Welke god? Die god, waarin u wilt geloven.&quot;"/>
-	<entry name="LetMeThink" value="&quot;Hmm... geeft u mij een moment daarover na te denken.&quot;"/> 
+
+	<entry name="NamePositive" value="&quot;De vrome Vrouwe Vermillion.&quot;"/>
+	<entry name="NameNegative" value="&quot;De fanatieke Vrouwe Vermillion.&quot;"/>
+	
+	<entry name="LetMeThink" value="&quot;Hmm... geeft u mij een moment daarover na te denken.&quot;"/>
 	<entry name="LetMeKnow" value="&quot;Natuurlijk, laat u het me weten wanneer u de beslissing genomen heeft.&quot;"/> 
 	
 	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
@@ -32,13 +36,13 @@
 	<entry name="RejectDenounceThirdParty1" value="&quot;Oh nee, er is geen hoop voor hem meer. Ik zal dit leed moeten dragen.&quot;"/>
 	
 	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
-	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;%6% heeft ons geloof belasterd. Wilt u met zulke lui blijven samenwerken, terwijl de enige ware godsdienst te schande wordt gemaakt?&quot;"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;Zondaars hebben ons geloof belasterd. Wilt u met zulke lui blijven samenwerken, terwijl de enige ware godsdienst te schande wordt gemaakt?&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Voorwaar! Het klopt dat dit zaakje stinkt. Welke bondgenoot heeft u zo gekweld?&quot;"/>
 	<!-- Einstein quote translation found: http://nl.wikiquote.org/wiki/Overleg:Albert_Einstein -->
 	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;De heilige Einstein zei ooit: Wetenschap zonder religie is lam, religie zonder wetenschap is blind. Onze vrienden helpen ons te zien.&quot;"/>
 	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
 	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;God zal ons daarvoor liefhebben, zoals u dat ook zou horen te doen.&quot;"/>
-	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nee. We hebben deze heidenen nodig, al is het maar om onze gouden kalveren te maken.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Nee. We hebben deze heidenen nodig, al is het maar om ze neer te slaan tijdens het maken van gouden kalveren.&quot;"/>
 	
 	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
 	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Oorlog is goddeloos. Waarom vecht u en spuugt u daarmee God in het gezicht?&quot;"/>

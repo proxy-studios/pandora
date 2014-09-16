@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="&quot;Wat is het me een genoegen om u te ontmoeten! Itala Palomino staat tot uw dienst, nederige vertegenwoordigster van de Ambassadeursfractie. Wij streven ernaar om ervoor te zorgen dat iedereen hier op Pandora ongestoord zijn doelen kan nastreven, wat ons allen ten goede komt. Oh, het is zo fijn om u te ontmoeten. Ik weet nu al dat we de beste vrienden zullen worden!&quot;"/>
+
+	<entry name="NamePositive" value="&quot;De nobele Secretaresse Palomino.&quot;"/> 
+	<entry name="NameNegative" value="&quot;De bedriegelijke Secretaresse Palomino.&quot;"/> 
+
+	<entry name="LetMeThink" value="&quot;Fascinerend! Ik heb wat tijd nodig om dit met de raad te bespreken.&quot;"/> 
+	<entry name="LetMeKnow" value="&quot;Uitstekend! Ik weet zeker dat u het ons zult laten weten zodra u dat kunt.&quot;"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="&quot;Onze kanalen hebben blootgelegd dat er een kleine diplomatieke ijsberg uw kant op komt...&quot;"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="&quot;Ik weet zeker dat we er al alles over weten - maar desondanks ben ik één en al oor.&quot;"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="&quot;Als we dat zouden geloven dan zouden we niet langer geloofwaardig zijn als vertegenwoordigers van de diplomatieke elite.&quot;"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="&quot;Het moet wel berusten op een miscommunicatie... maar toch, we spelen het beter op zeker. Dank u.&quot;"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="&quot;Nee, onze verstandhouding met hen is nog beter dan uitmuntend. Maar bedenkt!&quot;"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="&quot;We zijn nooit voorstander van agressieve handelingen, maar als we dat wel zouden zijn, dan zouden we zeker de zin van sancties tegen een bepaalde groep inzien...&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="&quot;Sancties zijn beter dan oorlog. Wie moeten we isoleren?&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="&quot;Ik denk dat sancties een stap te ver zijn. We hebben meer bewijs nodig, sorry.&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="&quot;Het is een teleurstelling - onze verstandhouding was prima, maar anders zullen ze het nooit leren.&quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="&quot;Ik begrijp dat dit een klein maar fijne tip zou zijn voor onze vrienden, om hun gedrag te veranderen. Wat nobel van u!&quot;"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="&quot;Ach, ik weet dat de oorlog u zo enthousiasmeert, maar bent echt niet bereid er eens met ze over te praten, hmm?&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="&quot;Uitstekend idee. We organiseren meteen een vredestop.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="&quot;Het spijt me, de raad heeft vandaag geen zitting. Zou u morgen terug kunnen bellen?&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="&quot;Ja! Ik ik denk niet dat deze oorlog enig iemands doel dient.&quot;"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="&quot;Ah, het spijt me. Mijn assistente heeft geen tijd om het papierwerk voor dat verdrag in orde te maken.&quot;"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="&quot;Het zou verschrikkelijk zijn als het tot een oorlog tussen jullie zou komen, ten spijte van wat men zegt. Oh, u heeft het niet gehoord...? Oh, mijn....&quot;"/> 
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="&quot;Ik ben erg benieuwd hoe nu uitgerekend wij de oorlog in getrokken kunnen worden...&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="&quot;In oorlog? De Ambassadeurs? We zouden onze naam moeten veranderen!&quot;"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="&quot;Ja, ik denk dat de oorlog niet meer is dan een vervolg op diplomatie met andere middelen.&quot;"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Ik ben bang dat dat de machtsverhoudingen gaat verstoren.&quot;"/>
+	
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="&quot;Onze cartografen kunnen deze kaarten gewoon niet zo mooi maken als de hangetekende exemplaren die we meegebracht hebben van de aarde. Wilt u er eens een blik op werpen?&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;We zullen hem met de hand op perkament tekenen en met het volgende vliegtuig meesturen. Onze gift aan u.&quot;"/>
+	<entry name="RejectShareMap" value="&quot;Ik ben bang dat onze kaarten voornamelijk relaties in kaart brengen en geen territorium. Daarom zouden ze nutteloos voor u zijn.&quot;"/>
+	
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="&quot;Heeft u ooit van Schengen gehoord? Was dat geen schitterend experiment? Vrijheid om te gaan en staan waar je wilt komt ons allen ten goede.&quot;"/>
+	<entry name="AcceptOpenBorders" value="&quot;Kijk, we geven tijdelijk werkvergunningen uit aan al uw burgers. En als soldaten eens door ons land lopen op hun weg ergens anders heen... dan weten we gewoon van niets, mijn vriend.&quot;"/>
+	<entry name="RejectOpenBorders" value="&quot;Natuurlijk! U hoeft alleen maar deze papieren in te vullen, en op de juiste manier te stempelen en dan breng ik het naar ispepecteur Grestin op het ministerie van bureaucratie.&quot;"/>
+	<entry name="TerminateOpenBorders" value="&quot;We hebben klaarblijkelijk wat problemen gehad met een inspecteur aan de grens, die zomaar iedereen doorliet. We moeten de grens sluiten om met een paar indringers af te rekenen. Ik hoop dat u het zult begrijpen, %1%?&quot;"/>
+	<entry name="AcceptOpenBordersTerminated" value="&quot;Nou, dat is nu echt jammer. Ik bedoel, als we spionnen zouden hebben dan zouden ze nog toch wel de grenzen overschrijden. Maar dat zullen we natuurlijk niet doen.&quot;"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Hoe durft u hier met gespleten tong te spreken en uw zakken te vullen, terwijl ons volk sterft? "/>
+	<entry name="Crime1" value="U kijkt lijdzaam toe terwijl u dineert met canapé's en champagne, terwijl ons volk verhongert. Maakt u dat echt niet uit? "/>
+	<entry name="Crime2" value="Elk huishoudelijk apparaat dat u ontwerpt doodt nog weer een half dozijn van mijn mensen. Test u uw technologie nooit? Of is het gewoon onderdeel van uw plan?"/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="&quot;%7%, er zijn diplomatieke methoden om hetzelfde te bereiken.&quot;"/>
+	<entry name="AcceptDenounce" value="&quot;Kom op. Dit is niets anders dan realpolitik. Heeft ooit Il Principe gelezen? Zou u eens moeten doen.&quot;"/>
+	<entry name="RejectDenounce" value="&quot;Dat is niet waar. En als het waar zou zijn, dan zou het niet fout zijn. En als het fout zou zijn, dan zou u het niet kunnen bewijzen.&quot;"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="&quot;%5%, u staat model voor de diplomatie. We moeten u op één van onze feesten uitnodigen!&quot;"/>
+	<entry name="AcceptPraise" value="&quot;Wat aardig van u. Het is allemaal voor het welzijn van de mensheid.&quot;"/>
+	<entry name="RejectPraise" value="&quot;Wat een bewonderingswaardig vals geslijm. Het spijt me, dat brengt mijn stenen hart niet in verroering.&quot;"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="&quot;We geven ons over en zijn bereid om ons aan uw ijzeren wil te onderwerpen. We eisen niet eens een verdrag! ...nou ja, misschien een kleintje dan.&quot;"/>
+	<entry name="AcceptSurrender" value="&quot;Ik wist wel dat u uiteindelijk zou inzien dat onze manier van denken de juiste is.&quot;"/>
+	<entry name="RejectSurrender" value="&quot;Nee. We verkiezen ervoor onze vijanden dichtbij te houden en onze vrienden op een afstand. Sorry.&quot;"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Met uw welbespraaktheid zou u ons kunnen overtuigen dat zwart wit is en andersom. Wat een bewonderenswaardige demagogie!"/>	
+	<entry name="Compliment1" value="Het is zo verrukelijk om iemand te ontmoeten die niets meer wenst dan vrede voor iedereen. "/>
+	<entry name="Compliment2" value="Ik weet dat u een ijzeren vuist heeft, maar u toont de wereld een fluwelen handschoen. Indrukwekkend... tactisch."/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="Jullie vuile leugenaars."/>
+	<entry name="Insult1" value="Monsters. Spelen met de levens van mensen zou niet lollig mogen zijn."/>
+	<entry name="Insult2" value="Uw gespleten toen is als verschrikkelijke herrie in mijn oren."/>
+	
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="&quot;We hebben ons hulpbudget net verhoogd. U ziet eruit alsof u behoefte heeft aan luchtdroppings.&quot;"/>
+	<entry name="GiftAccepted0" value="&quot;Dat is nu eens een aardig aanbod.&quot;"/>
+	<entry name="GiftAccepted1" value="&quot;We zullen dit geld inzetten voor ons doel om een civiele maatschappij te herbouwen.&quot;"/>
+	<entry name="GiftRejected0" value="&quot;Waarom hebben we uw geld nodig, als we lood in goud kunnen veranderen?&quot;"/>
+	<entry name="GiftRejected1" value="&quot;Daarvan zouden we nog niet één Rerrero Foche kunnen kopen.&quot;"/>
+	
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="&quot;We bouwen momenteel een interfractionaire financiële instelling, die groepen die in nood geraakt zijn uit de brand gaat helpen. Kunnen we op u rekenen voor een bijdrage?&quot;"/>
+	<entry name="TributeAccepted0" value="&quot;Ons IFI-fonds staat altijd klaar om wankelende economieën te helpen stabiliseren? Wat kunnen we voor u doen?&quot;"/>
+	<entry name="TributeAccepted1" value="&quot;Prima. De bankiers halen momenteel het digigoud uit de virtuele kluis.&quot;"/>
+	<entry name="TributeRejected0" value="&quot;Helaas, ik ben bang dat nu momenteel niet aan de vereisten voor hulp voldoet. Sorry!&quot;"/>
+	<entry name="TributeRejected1" value="&quot;Mijn excuses, maar dat is meer dan er in het hulpfonds beschijbaar is.&quot;"/>	
+	
+	<entry name="AcceptCreditsForDeal0" value="&quot;%1%, kunnen we wat schuiven om dit proces wat soepeler te laten verlopen?&quot;"/>
+	<entry name="AcceptCreditsForDeal1" value="&quot;Maar natuurlijk. Ons genoegen.&quot;"/>
+	<entry name="RejectCreditsForDeal0" value="&quot;Snode geldzuch heeft in deze zaak niets verloren, %1%.&quot;"/>
+	<entry name="RejectCreditsForDeal1" value="&quot;Goed. Dan moeten we het op een andere manier gedaan krijgen.&quot;"/>
+	<entry name="CreditsForDealRejected" value="&quot;Laten we verder praten.&quot;"/>
+	<entry name="DemandCreditsForDeal" value="&quot;We hebben passende financiering nodig om dit project van de grond te krijgen.&quot;"/>
+	<entry name="DemandCredits0" value="&quot;Met slechts %6% <icon texture='Resources/Credits'/> kredieten kunnen we een uigehongerde bureaucraat een week voeden.&quot;"/>
+	<entry name="DemandCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> zouden een naar u vernoemde filantropische instelling tot stand kunnen brengen.&quot;"/>
+	<entry name="DemandCredits2" value="&quot;Wat dacht u van donatie van %6% <icon texture='Resources/Credits'/> kredieten zou een hele goede daad zijn. Voor de mensheid, begrijpt u.&quot;"/>
+	<entry name="DemandCredits3" value="&quot;Geld is de bron van al het kwaad. Als u ons al uw geld geeft, dan zullen wij een manier vinden om er veilig vanaf te komen.&quot; (%6% <icon texture='Resources/Credits'/> kredieten)"/>
+	<entry name="OfferCredits0" value="&quot;We hebben een hulppakket samengesteld van %6% <icon texture='Resources/Credits'/> kredieten.&quot;"/>
+	<entry name="OfferCredits1" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten. Dat is ons laatste bod.&quot;"/>
+	<entry name="OfferCredits2" value="&quot;We zijn ons er bewust van dat %6% <icon texture='Resources/Credits'/> kredieten een flink verschil zou maken voor ons geluk.&quot;"/>
+	<entry name="OfferCredits3" value="&quot;%6% <icon texture='Resources/Credits'/> kredieten -- en geen cent meer. Omdat dat alles is wat we hebben.&quot;"/>
+	<entry name="AllianceAccepted" value="&quot;Opdat niemand ons bondgenootschap mag breken, behalve wijzelf dan.&quot;"/>
+	<entry name="AllianceRejected" value="&quot;Hoe kunnen we dit diplomatiek zeggen? Ah... nee.&quot;"/>
+	<entry name="AllianceTerminated" value="&quot;Begrijpelijk. Maar u zult weer terugkomen.&quot;"/>
+	<entry name="Condemn" value="&quot;De raad heeft uw handelingen zonder voorbehoud als provocatief veroordeeld. Persoonlijk ik het zo zeggen: Rot weg in de hel.&quot;"/>
+	<entry name="CondemnAccepted" value="&quot;%4% Met anderen woorden: Uw mening is volledig legitiem, ook al is hij op verdachte gronden gestoeld.&quot;"/>	
+	<entry name="DeclareWar" value="&quot;%4% Of anders uitgedrukt: We beginnen aan een beperkte tactische operatie binnen uw grenzen.&quot;"/>
+	<entry name="DemandWithdrawal" value="&quot;Uw vredestroepen houden zich zorgbarend dicht op bij ons op. Trekt u ze alstublieft terug achter de overeengekomen buffer lijn.&quot;"/>
+	<entry name="Eliminated" value="&quot;Geeft niemand de vrede een kans?&quot;"/>
+	<entry name="Goodbye" value="&quot;Altijd een genot, nooit een last.&quot;"/>
+	<entry name="Greet0" value="&quot;Mijn vriend! Het is zo goed om u te zien.&quot;"/>
+	<entry name="Greet1" value="&quot;Ah, de onstuitbare %3%. Het zien van u verblijdt mijn hart.&quot;"/>
+	<entry name="Greet2" value="&quot;Groeten van de raad, %1%.&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Met dit stuk papier zullen we de vrede nog meemaken.&quot;"/>
+	<entry name="NonAggressionPactRejected" value="&quot;Ik twijfel over de bewoordingen in dit verdrag.&quot;"/>
+	<entry name="NonAggressionPactTerminated" value="&quot;Mijn excuses, we hebben een maas gevonden, en we denken dat we dit verdrag beter buiten werking stellen terwijl we hem dichten.&quot;"/>
+	<entry name="OfferAlliance" value="&quot;Het is goed om vrienden te hebben. En het is nog beter om dat op schrift te hebben.&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;We hebben hier een verdragstekst. Ehm... zou u ons liever aanduiden als de as of de geallieerden? Ik kan nooit beslissen.&quot;"/>
+	<entry name="OfferPeace" value="&quot;We willen u niet met geweld veroveren; we willen u met begrip veroveren.&quot;"/>
+	<entry name="OfferResearchPact" value="&quot;Misschien zullen we deze wereld beter begrijpen als we samenwerken?&quot;"/>
+	<entry name="OfferTradingPact" value="&quot;Vrede, handel en oprechte vriendschap met alle naties... dat is ons streven.&quot;"/>
+	<entry name="PeaceAccepted" value="&quot;We geven de vrede een kans.&quot;"/>
+	<entry name="PeaceRejected" value="&quot;Na wat u allemaal gedaan heeft? Ik denk dat u uw les nog niet geleerd heeft.&quot;"/>
+	<entry name="ResearchPactAccepted" value="&quot;Super. We bouwen samen een nieuwe wereld.&quot;"/>
+	<entry name="ResearchPactRejected" value="&quot;De raad denkt niet dat uw aanbod oprecht is.&quot;"/>
+	<entry name="ResearchPactTerminated" value="&quot;%1%, dit pact is overbodig.&quot;"/>
+	<entry name="TerminateAlliance" value="&quot;De raad denkt dat we vriendelijker met elkaar zullen omdaan als we niet langer bondgenoten zijn.&quot;"/>
+	<entry name="TerminateNonAggressionPact" value="&quot;Een dergelijk pact is nutteloos voor ons. Eerlijkheid en waarheid zijn meer waard dan woorden op papier.&quot;"/>
+	<entry name="TerminateResearchPact" value="&quot;Dit is een formele mededeling dat ons onderzoekpact is beëindigd. Bevel van de raad.&quot;"/>
+	<entry name="TerminateTradingPact" value="&quot;Dit is een formele mededeling dat ons handelspact is beëindigd. Bevel van de raad.&quot;"/>
+	<entry name="TradingPactAccepted" value="&quot;Natuurlijk. Wat van u is, is van ons.&quot;"/>
+	<entry name="TradingPactRejected" value="&quot;We hebben genoeg goederen, %1%.&quot;"/>
+	<entry name="TradingPactTerminated" value="&quot;Genoeg gehandeld. We hebben alles wat we nodig hebben.&quot;"/>
+	<entry name="WarAccepted" value="&quot;We stellen op prijs dat u het formeel verklaart en zien uit naar een waardige periode van vijandelijkheden.&quot;"/>
+	<entry name="WithdrawalAccepted" value="&quot;We trekken deze missie terug.&quot;"/>
+	<entry name="WithdrawalRejected" value="&quot;Deze eenheden zijn humanitaire waarnemers, niets anders.&quot;"/>
+</language>
