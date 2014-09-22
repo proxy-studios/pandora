@@ -60,7 +60,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Ik ben bang dat dat de machtsverhoudingen gaat verstoren.&quot;"/>
 	
 	<!-- Offers dialogue partner to share explored territories. -->
-	<entry name="OfferShareMap" value="&quot;Onze cartografen kunnen deze kaarten gewoon niet zo mooi maken als de hangetekende exemplaren die we meegebracht hebben van de aarde. Wilt u er eens een blik op werpen?&quot;"/>
+	<entry name="OfferShareMap" value="&quot;Onze cartografen kunnen deze kaarten gewoon niet zo mooi maken als de handgetekende exemplaren die we meegebracht hebben van de aarde. Wilt u er eens een blik op werpen?&quot;"/>
 	<entry name="AcceptShareMap" value="&quot;We zullen hem met de hand op perkament tekenen en met het volgende vliegtuig meesturen. Onze gift aan u.&quot;"/>
 	<entry name="RejectShareMap" value="&quot;Ik ben bang dat onze kaarten voornamelijk relaties in kaart brengen en geen territorium. Daarom zouden ze nutteloos voor u zijn.&quot;"/>
 	

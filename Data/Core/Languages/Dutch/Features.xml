@@ -8,7 +8,7 @@
 	<entry name="BlackoutDescription" value="Dit gebied is getroffen door een volledige stroomuitval, waardooor geen communicatie mogelijk is en de productie stilstaat."/>
 	<entry name="BlackoutProperties" value="<icon texture='GUI/Bullet'/>Effect<br/><icon texture='GUI/Bullet'/>Stad produceert geen hulpbronnen"/>
 	<entry name="ConstructionBay" value="Bouwplaats"/>
-	<entry name="ConstructionBayDescription" value="De ingeperkte grezen van onze basis zijn niet voor de grootschalige bouw ontworpen. Deze landelijk gelegen percelen bieden ruimte en beschutting om de productie eenvoudiger, veiliger en sneller te maken, zodra we onze werktuigen ter plekke hebben."/>
+	<entry name="ConstructionBayDescription" value="De ingeperkte grenzen van onze basis zijn niet voor de grootschalige bouw ontworpen. Deze landelijk gelegen percelen bieden ruimte en beschutting om de productie eenvoudiger, veiliger en sneller te maken, zodra we onze werktuigen ter plekke hebben."/>
 	<entry name="ConstructionBayProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
 	<entry name="ConstructionBayStats" value="<icon texture='Resources/Production'/> +1"/>
 	<entry name="City" value="Stad"/>
@@ -57,7 +57,7 @@
 	<entry name="FoodBonus2Stats" value="<icon texture='Resources/Food'/> +4 <icon texture='Resources/Morale'/> +1"/>
 	<entry name="Forest" value="Bos"/>
 	<entry name="ForestDescription" value="Een bos is een gebied met een hoge boomdichtheid en fungeert als leefomgeving voor organismen, als hydrologische stromingsregelaar en als bodemconservator. Bossen vormen één van de belangrijkste delen van de biosfeer. Voor mechanische eenheden is het niet eenvoudig om bossen te betreden."/>
-	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologisch eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanische eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="ForestProperties" value="<icon texture='GUI/Bullet'/>Terrein<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> sterkte voor lichte biologische eenheden<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> sterkte voor mechanische eenheden<br/><icon texture='GUI/Bullet'/>2 <icon texture='Attributes/Movement'/> bewegingskosten"/>
 	<entry name="ForestStats" value="<icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1"/>
 	<entry name="Fort" value="Fort"/>
 	<entry name="FortDescription" value="Zware versterking, die de garnizoenseenheden een sterke verdedigings- en zichtbonus oplevert. Indien forten door artillerieeenheden bemand worden, zijn ze optimaal voor de verdediging van grenzen en stratigische sleutelposities geschikt."/>
@@ -81,7 +81,7 @@
 	<entry name="HiveDescription" value="Deze organische gebouwen herbergen een kolonie xenomorfen, die erin leven en zich erin kunnen voortplanten."/>
 	<entry name="HiveProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> sterkte voor verdedigende eenheden<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> sterkte tegen operaties."/>
 	<entry name="Mine" value="Mijn"/>
-	<entry name="MineDescription" value="Dient de delving van mineralen uit de aardbodem en daarmee voor de verzorging van grondstoffen voor de kolonisten.."/>
+	<entry name="MineDescription" value="Dient de delving van mineralen uit de aardbodem en daarmee voor de verzorging van grondstoffen voor de kolonisten."/>
 	<entry name="MineProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk"/>
 	<entry name="MineStats" value="<icon texture='Resources/Minerals'/> +1"/>
 	<entry name="MineralsBonus0" value="Mexallonveld"/>
@@ -93,7 +93,7 @@
 	<entry name="MineralsBonus1Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="MineralsBonus1Stats" value="<icon texture='Resources/Minerals'/> +3 <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="MineralsBonus2" value="Noxiumveld"/>
-	<entry name="MineralsBonus2Description" value="Het middelnachtblauwe Noxium is waarschijnlijk het kostbaarste mineraal in het gehele universum. En in dit gebeid zijn er zeer rijke aders van ontdekt. Daarentegen rijkt de dodelijke straling van Noxium mijlenver en hoewel moderne techniek de gezonheidsgevaren voor personeel kan elimineren, vrezen de meesten nog steeds voor &quot;blauwe longen&quot;."/>
+	<entry name="MineralsBonus2Description" value="Het middelnachtblauwe Noxium is waarschijnlijk het kostbaarste mineraal in het gehele universum. En in dit gebied zijn er zeer rijke aders van ontdekt. Daarentegen rijkt de dodelijke straling van Noxium mijlenver en hoewel moderne techniek de gezonheidsgevaren voor personeel kan elimineren, vrezen de meesten nog steeds voor &quot;blauwe longen&quot;."/>
 	<entry name="MineralsBonus2Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4 <icon texture='Resources/Morale'/> -1"/>
 	<entry name="Mines" value="Vulkaanmijnen"/>
@@ -168,7 +168,7 @@
 	<entry name="SeafoodBonus0Description" value="De zee in dit gebied huisvest talrijke eetbare levensvormen, die een overvloedige voedingsbron kunnen vormen voor de omliggende steden."/>
 	<entry name="SeafoodBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="Tropical" value="Tropisch"/>
-	<entry name="TropicalDescription" value="Tropische gebieden kenmerken zich door een warm en vochtig klimaar, welige vegetatie alsook een bodem die relatief arm aan voedingstoffen is."/>
+	<entry name="TropicalDescription" value="Tropische gebieden kenmerken zich door een warm en vochtig klimaat, welige vegetatie alsook een bodem die relatief arm aan voedingstoffen is."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="TropicalStats" value="<icon texture='Resources/Food'/> 2 <icon texture='Resources/Minerals'/> 0"/>
 	<entry name="Tundra" value="Toendra"/>
@@ -180,7 +180,7 @@
 	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2 <icon texture='Resources/Credits'/> +25%"/>
 	<entry name="WaterFoodBonus" value="Panspermieriet"/>
-	<entry name="WaterFoodBonusDescription" value="Vanuit de ruimte gezien lijken deze inheemse planten sterk op aardse rietsoorten. Op de grond blijken deze wolkenkrabbende, metronomsiche planten, zo zacht als asperges en zo dik als palmbomen, snel te groeien in de vrichtbare oceanen. Ze zijn een uitstekende bron van voedingstoffen."/>
+	<entry name="WaterFoodBonusDescription" value="Vanuit de ruimte gezien lijken deze inheemse planten sterk op aardse rietsoorten. Op de grond blijken deze wolkenkrabbende, metronomsiche planten, zo zacht als asperges en zo dik als palmbomen, snel te groeien in de vruchtbare oceanen. Ze zijn een uitstekende bron van voedingstoffen."/>
 	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="WaterFoodBonusStats" value="<icon texture='Resources/Food'/> +3"/>
 	<entry name="WaterFungus" value="Schimmel"/>

@@ -14,7 +14,7 @@
 	<entry name="AllowGrowthHint" value=""/>
 	<entry name="Armor" value="Bepantsering"/>
 	<entry name="Armors" value="Bepantseringen"/>
-	<entry name="ArmorsHelp" value="In de workplaatsen worden de eenheden voorzien van bepantsering. In feite betekent dit dat de eenheden tegen een verhoogde productieprijs over aanvullende kracht beschikken. <br/><br/>Gezien een betere bepantsering geen hogere onderhoudskosten meebrengt, is het altijd een goed idee om de beste beschikbare bepantsering in te bouwen, zolang de totale kosten van een model op een redelijk niveau blijven."/>
+	<entry name="ArmorsHelp" value="In de werkplaatsen worden de eenheden voorzien van bepantsering. In feite betekent dit dat de eenheden tegen een verhoogde productieprijs over aanvullende kracht beschikken. <br/><br/>Gezien een betere bepantsering geen hogere onderhoudskosten meebrengt, is het altijd een goed idee om de beste beschikbare bepantsering in te bouwen, zolang de totale kosten van een model op een redelijk niveau blijven."/>
 	<entry name="Army" value="Leger"/>
 	<entry name="Background" value="Achtergrond"/>
 	<entry name="Building" value="Gebouw"/>

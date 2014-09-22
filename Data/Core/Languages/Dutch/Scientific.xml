@@ -61,7 +61,7 @@
 	
 	<!-- Offers dialogue partner to share explored territories. -->
 	<entry name="OfferShareMap" value="&quot;Onze data-analyselaboratoria hebben enkele prachtige elfdimensionale kaarten gemaakt, maar ze zouden er voor u wel eens als donuts uit kunnen zien. We kunnen ze in een tweedimensionale vorm omrekenen, mocht u interesse hebben om een fractie te begrijpen van waar we mee bezig zijn.&quot;"/>
-	<entry name="AcceptShareMap" value="&quotWe gaan hem direct omlaag schalen naar een lagere resolutie - uw oude aardse computers zouden zich in de oorspronkelijke gegevensomvang verslikken.&quot;"/>
+	<entry name="AcceptShareMap" value="&quot;We gaan hem direct omlaag schalen naar een lagere resolutie - uw oude aardse computers zouden zich in de oorspronkelijke gegevensomvang verslikken.&quot;"/>
 	<entry name="RejectShareMap" value="&quot;De KI's op de oude aarde konden onze kaarten waarschijnlijk nog net bevatten. Maar bij een aap als u vraag ik mij af of u hem gaat proberen op te eten, of er mee gaat spelen.&quot;"/>
 	
 	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
