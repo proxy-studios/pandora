@@ -63,7 +63,7 @@
 	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power for defending units<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs operations<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate"/>
 	<entry name="Fungus" value="Fungus"/>
 	<entry name="FungusDescription" value="Very similar to old Earth, fungi on Pandora mainly act as symbionts for plants and animals. However, we recently discovered a macroscopic and very aggressive species that infests all kinds of organic lifeforms, emitting highly toxic spores. Further research is required, but for now troops should operate in fungus-contaminated territories with extreme caution."/>
-	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Terrain<br/><icon texture='GUI/Bullet'/>Inflicts 0.2 <icon texture='Attributes/Power'/> damage per turn<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for light biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power for mechanical units<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> movement cost"/>
 	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Grassland" value="Grassland"/>
 	<entry name="GrasslandDescription" value="Grasslands are areas dominated by herbaceous plants. The soil is very nutrient-rich, making it a prime candidate for agriculture."/>
@@ -98,7 +98,7 @@
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1"/>
 	<entry name="Mines" value="Vulcan Mines"/>
 	<entry name="MinesDescription" value="Satellite-deployed munitions that will prove deadly to the unaware traveler."/>
-	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns"/>
 	<entry name="MoraleBonus0" value="Hot Springs"/>
 	<entry name="MoraleBonus0Description" value="Our colonists have learned to greatly enjoy the steaming baths of hot springs, which give them a reprieve from the daily burdens of colonial life and time to renew their spirit."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -178,7 +178,7 @@
 	<entry name="WaterCreditsBonus" value="Oil Field"/>
 	<entry name="WaterCreditsBonusDescription" value="On Pandora, only the planet's oceans have hosted enough organic matter over a long enough time to produce petrochemicals. Exploiting them will produce a huge resource and credit boost."/>
 	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
-	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Food'/> -2  <icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
 	<entry name="WaterFoodBonus" value="Panspermia Reeds"/>
 	<entry name="WaterFoodBonusDescription" value="From space, these native plants bear a resemblance to Terran reeds. Yet, from the surface, these skyscrapin, metronomic plants are as soft as asparagus and as thick as palms, growing rapidly in the fertile oceans. They're an excellent source of nutrients."/>
 	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -190,5 +190,5 @@
 	<entry name="WaterMineralsBonus" value="Aquatic Mexallon"/>
 	<entry name="WaterMineralsBonusDescription" value="Mexallon crystals reach up from the ocean beds here. Mexallon is a very valuable mineral that's tough to extract."/>
 	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>
-	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +4"/>
 </language>

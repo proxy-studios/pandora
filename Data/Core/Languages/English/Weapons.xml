@@ -17,6 +17,7 @@
 	<entry name="Artillery2Properties" value="<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units"/>
 	<entry name="Aspidoch" value="Yaw"/>
 	<entry name="AspidochDescription" value="When the Aspidoch breaches, you don't want to be nearby."/>
+	<entry name="AspidochProperties" value="<icon texture='GUI/Bullet'/>Melee weapon"/>
 	<entry name="Automatic0" value="L-15 Lance Gun"/>
 	<entry name="Automatic0Description" value="The most widespread human weapon since the colonization of extraterrestrial bodies, the Lance Gun is a fully automatic assault weapon."/>
 	<entry name="Automatic0Properties" value="<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
@@ -38,7 +39,7 @@
 	<entry name="Cannon2Description" value="While not making use of tachyons per se, the Tachyon Cannon is still an impressive piece or weaponry. It is able to propel super-energised photon particles at very high frequency and superluminal speeds, letting them pierce right through the thickest defense. Its AI-driven targeting system also grants it near-perfect accuracy, making the Tachyon Cannon the most frightening weapon in modern armies."/>
 	<entry name="Cannon2Properties" value="<icon texture='GUI/Bullet'/>Cannon weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units"/>
 	<entry name="Crab" value="Claws"/>
-	<entry name="CrabProperties" value="<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="CrabProperties" value="<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs light units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs heavy units"/>
 	<entry name="Flak0" value="P-5 Bantham Flak"/>
 	<entry name="Flak0Description" value="Heavily based on probability theory and flight patterns, our new maneuver-estimation algorithms can predict changes in flight craft orientation and speed in  real-time. This allows us to finally reintroduce effective flak weaponry to Pandora and even reclaims the throne from missile systems as the de-facto aircraft destroyer."/>  
 	<entry name="Flak0Properties" value="<icon texture='GUI/Bullet'/>Anti-air weapon<br/><icon texture='GUI/Bullet'/>Usable by tanks and watercraft<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> power vs airborne units"/>
@@ -60,14 +61,15 @@
 	<entry name="Flyer" value="Yaw"/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units"/>
 	<entry name="Giant" value="Sting"/>
+	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Melee weapon"/>
 	<entry name="Gun0" value="Lady Finger"/>
-	<entry name="Gun0Description" value=""/>
+	<entry name="Gun0Description" value="Very expensive but small, concealable and with surprising fire power the Ladyfinger was specifically developed for our agents in the field to make them a threat not to be taken lightly."/>
 	<entry name="Gun0Properties" value="<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Gun1" value="Arasaka Minami 10"/>
-	<entry name="Gun1Description" value=""/>
+	<entry name="Gun1Description" value="Upgraded with a Smartlink to directly interface with its wielder's cyberware, the Minami 10 allows a single well-trained agent to engage and survive battle encounters even against larger troop formations."/>
 	<entry name="Gun1Properties" value="<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Gun2" value="Techtronica M40"/>
-	<entry name="Gun2Description" value=""/>
+	<entry name="Gun2Description" value="The Techtronica M40 is a state of the art weapon that harbors an integrated consciousness. While the manufactoring cost is tremendous, the satellite supported battlefield assistance and intelligent threat analysis basically turn agents into one-man armies."/>
 	<entry name="Gun2Properties" value="<icon texture='GUI/Bullet'/>Automatic weapon<br/><icon texture='GUI/Bullet'/>Usable by agents<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
 	<entry name="Laser0" value="Pulse Laser"/>
 	<entry name="Laser0Description" value="Even though its pulse rate is quite low, this design is reasonably powerful: the longer the device builds energy, the higher the temperatures reached, up to the point where the laser simply evaporates the target."/>
@@ -80,6 +82,7 @@
 	<entry name="Laser2Properties" value="<icon texture='GUI/Bullet'/>Beam weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks and watercraft"/>  
 	<entry name="Leviathan" value="Leviathan"/>
 	<entry name="LeviathanDescription" value="The Leviathan's powerful arms are able to crush a reinforced hull with little to no effort."/>
+	<entry name="LeviathanProperties" value="<icon texture='GUI/Bullet'/>Melee weapon"/>
 	<entry name="Missile0" value="Hammerhead Missile Launcher"/>
 	<entry name="Missile0Description" value="<style name='Italic'/>&quot;The means by which we live have outdistanced the ends for which we live. Our scientific power has outrun our spiritual power. We have guided missiles and misguided men.&quot;<br/>    -- Martin Luther King, Jr.<style name='Default'/><br/><br/>This self-propelled projectile delivery weapon employs guidance systems to maneuver its heavy ordnance missiles, dubbed Hammerheads. Missile based weapon systems are a good choice against heavy targets, like tanks, but at the same time stay relatively effective against lighter and faster targets."/>		<!-- Martin Luther King citation is from "Strength to Love" ISBN 978-0-8006-9740-2. -->
 	<entry name="Missile0Properties" value="<icon texture='GUI/Bullet'/>Missile weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units"/>
@@ -90,7 +93,7 @@
 	<entry name="Missile2Description" value="This matter-antimatter collision has the potency to put nuclear fusion reactions to shame. The miniaturization and balancing of the projectiles costs a tremendous amount, but the efficiency of this weapon has no equal."/>
 	<entry name="Missile2Properties" value="<icon texture='GUI/Bullet'/>Missile weapon<br/><icon texture='GUI/Bullet'/>Usable by aircraft, ATVs, mechs, tanks, troopers and watercraft<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs mechanical units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs biological units"/>
 	<entry name="Nightcrawler" value="Tentacles"/>
-	<entry name="NightcrawlerProperties" value="<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs biological units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs mechanical units"/>
+	<entry name="NightcrawlerProperties" value="<icon texture='GUI/Bullet'/>Melee weapon<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs heavy units<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs light units"/>
 	<entry name="Ningen" value="Larynx"/>
 	<entry name="NingenProperties" value="<icon texture='GUI/Bullet'/>Artillery weapon<br/><icon texture='GUI/Bullet'/>Double range splash attack<br/><icon texture='GUI/Bullet'/>No enemy retaliation when attacking<br/><icon texture='GUI/Bullet'/>No gain from armor when attacking<br/><icon texture='GUI/Bullet'/>Damage proportionally lower with enemy missing health when attacking<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> power vs airborne units"/>
 	<entry name="None" value="No Weapon"/>

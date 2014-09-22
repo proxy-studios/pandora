@@ -2,13 +2,13 @@
 <language>
 	<entry name="Agent0" value="Covert Agent"/>
 	<entry name="Agent0Description" value="<style name='Italic'/>&quot;Mata Hari? The spy? I've never heard of her. But if I had, I would never admit it.&quot;<br/>    -- Itala Palomino, A Child's Guide to Espionage<style name='Default'/><br/><br/>Most factions call their spies attachés or military advisors or diplomatic aides - but they're spies all the same. On Pandora, though all the factions are unified in their mutual friendship and trust, we thought it wise to revive this oldest of professions. Use them discreetly and wisely."/>
-	<entry name="Agent0Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Agent0Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
 	<entry name="Agent1" value="Cyber Agent"/>
 	<entry name="Agent1Description" value="<style name='Italic'/>&quot;It's a very sad thing that nowadays there is so little useless information.&quot;<br/>    -- Oscar Wilde<style name='Default'/><br/><br/>Our agents may have had all the wiles of the old world, but they were traditional types, using sad little pistols and blackbagging each other outside embassies. Our new agents, though as capable as their predecessors at the Le Carré style of espionage, have wetware interfaces and all sorts of hidden extras."/>
-	<entry name="Agent1Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Agent1Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
 	<entry name="Agent2" value="Datangel"/>
 	<entry name="Agent2Description" value="<style name='Italic'/>&quot;If our memories are hard drives, our eyes satellites and our hands machines a thousand miles distant... what do we care if someone's watching? They're probably just another part of us.&quot;<br/>    -- Itala Palomino<style name='Default'/><br/><br/>It's hard to talk about our third generation agents... because they're always listening. We assume that they're still working for us, wherever or whatever they are, because parcels of enemy data keep unlocking in my terminal. But they've moved so far past human now that communication with them is like talking to angels. It's a blessing that they still appear to be, mostly on our side."/>
-	<entry name="Agent2Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
+	<entry name="Agent2Properties" value="<icon texture='GUI/Bullet'/>Light biological unit<br/><icon texture='GUI/Bullet'/>Can infiltrate cities<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
 	<entry name="Aircraft0" value="Strike Aircraft"/>
 	<entry name="Aircraft0Description" value="<style name='Italic'/>&quot;Fight on and fly on to the last drop of blood and the last drop of fuel, to the last beat of the heart.&quot;<br/>    -- Baron Manfred von Richthofen<style name='Default'/><br/><br/>The problem of flight in Pandora's unreliable atmosphere has been solved. Gaseous fuel is ionized and fed into an acceleration chamber containing magnetic and electrical fields, where particles are propelled through the exhaust chamber by the Lorentz force. This produces an exhaust velocity of up to and beyond 10,000 meters per second, allowing smaller airborne vessels with a limited power source to evolve into fast and agile fighters."/>
 	<entry name="Aircraft0Properties" value="<icon texture='GUI/Bullet'/>Airborne light mechanical unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains<br/><icon texture='GUI/Bullet'/>Cannot flank<br/><icon texture='GUI/Bullet'/>Cannot capture cities or ruins"/>
@@ -60,9 +60,9 @@
 	<entry name="Colonizer" value="Colonizer"/>
 	<entry name="ColonizerDescription" value="Fragile exploration vehicles that are stockpiled with necessities to sustain life, Colonizers hold the power humanity hungers for the most -- expansion."/>
 	<entry name="ColonizerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Consumes a colonist<br/><icon texture='GUI/Bullet'/>Builds new cities<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
-	<entry name="Crab" value="Crabs"/>
-	<entry name="CrabDescription" value="Under the planet's surface, something breeds monsters. We've dubbed these 'crabs', though the Solar Dynasty boffins call them Takaashigani. They're visually similar to Terran arthropods, save for their great scale and the sickening speed of their movement. They stun their prey and drag them down, alive, underground or undersea, to be consumed by their young."/>
-	<entry name="CrabProperties" value=""/>
+	<entry name="Crab" value="Karkinos"/>
+	<entry name="CrabDescription" value="Under the planet's surface, something breeds monsters. We've dubbed these 'karkinos', though the Solar Dynasty boffins call them Takaashigani. They're visually similar to Terran arthropods, save for their great scale and the sickening speed of their movement. They stun their prey and drag them down, alive, underground or undersea, to be consumed by their young."/>
+	<entry name="CrabProperties" value="<icon texture='GUI/Bullet'/>Amphibious light biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories"/>
 	<entry name="Flyer" value="Scite"/>
 	<entry name="FlyerDescription" value="Flocks of these flying predators travel large distances each day, searching for prey. While smaller objects like humans seem relatively safe, we've received reports of Scites mercilessly attacking our undefended machinery."/>
 	<entry name="FlyerProperties" value="<icon texture='GUI/Bullet'/>Airborne light biological unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains"/>
@@ -71,7 +71,7 @@
 	<entry name="FormerProperties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
 	<entry name="Former1" value="Amphibious Former"/>
 	<entry name="Former1Description" value="The original Formers were landbound because of their sheer weight -- but as we've explored, we've realized how advantageous aquatic development could be. These new models are watertight and much lighter, so they're capable of amphibious tasks."/>
-	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Heavy mechanical amphibious unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
+	<entry name="Former1Properties" value="<icon texture='GUI/Bullet'/>Amphibious heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Improves terrain<br/><icon texture='GUI/Bullet'/>Cannot attack"/>
 	<entry name="Giant" value="Galeth"/>
 	<entry name="GiantDescription" value="Fittingly dubbed as &quot;Giants&quot; due to their height of over a dozen meters, these clumsy beasts can easily pulp tanks or city-blocks when on a rampage. Their bizarre cranium-sting bypasses even our strongest armor, so combat with a Galeth should be avoided until we discover more advanced military technology."/>
 	<entry name="GiantProperties" value="<icon texture='GUI/Bullet'/>Heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power vs undefended cities"/>
@@ -87,12 +87,12 @@
 	<entry name="Mech2" value="Titan Mech"/>
 	<entry name="Mech2Description" value="The organic Titan is the most advanced and fearsome man-machine hybrid ever designed. Weighing over a million tons and topping a kilometer tall, whole cities shake in its wake. Properly equipped and armored, a Titan is basically unstoppable and can even withstand nuclear missiles."/>
 	<entry name="Mech2Properties" value="<icon texture='GUI/Bullet'/>Heavy mechanical unit<br/><icon texture='GUI/Bullet'/>Not affected by roads<br/><icon texture='GUI/Bullet'/>Cannot perform orbital deployment"/>
-	<entry name="Nightcrawler" value="Nightcrawler"/>
+	<entry name="Nightcrawler" value="Kraken"/>
 	<entry name="NightcrawlerDescription" value="Awoken by the sun's disappearance, rising from the depths, this city-sized creature harks back to primeval nightmares and the mad scribblings found in Lovecraftian tomes. Writhing tentacles, mouths everywhere, endless fields of flesh stretching to the horizon, and a stench like the grave. It's like a battlefield come to life, to wreak revenge on the living."/>
-	<entry name="NightcrawlerProperties" value=""/>
+	<entry name="NightcrawlerProperties" value="<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories"/>
 	<entry name="Ningen" value="Ningen"/>
 	<entry name="NingenDescription" value="The dark-loving Ningen feels like an answer to the unanswered question &quot;why digest your food internally?&quot; Hurling acidic bile many kilometres, the Ningen waits for its prey to die from the horrific burns, before descending for a pre-digested midnight snack."/>
-	<entry name="NingenProperties" value=""/>
+	<entry name="NingenProperties" value="<icon texture='GUI/Bullet'/>Amphibious heavy biological unit<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> power in water territories"/>
 	<entry name="QueenFlyer" value="Devourer"/>
 	<entry name="QueenFlyerDescription" value="A massive winged beast, the Devourer's shadow is widely known as the &quot;Harbinger of Death&quot;. With its meter long jaws and claws, the creature can lift and swallow even our heaviest tanks."/>
 	<entry name="QueenFlyerProperties" value="<icon texture='GUI/Bullet'/>Airborne heavy biological unit<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power vs ground units on plains"/>

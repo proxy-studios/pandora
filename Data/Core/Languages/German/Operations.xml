@@ -17,7 +17,7 @@
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Verursacht einen Stromausfall, der eine Stadt für 5 Runden vollständig außer Gefecht setzt<br/><icon texture='GUI/Bullet'/>Erklärt den betroffenen Fraktionen den Krieg"/>
 	<entry name="Mines" value="Vulkanminen"/>
 	<entry name="MinesDescription" value="Diese gehärteten Objekte werden von unseren Satelliten aus ausgesetzt und bohren sich dann tief in den Boden. Dort setzen sie ihren gefährlich flüchtigen chemischen Inhalt in die Luft von Pandora aus. Damit entstehen brodelnde und unter Druck stehende Bomben, die nur darauf warten, dass man sie auslöst."/>
-	<entry name="MinesProperties" value=""/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Verursacht 1 <icon texture='Attributes/Power'/> Schaden pro Runde<br/><icon texture='GUI/Bullet'/>Verbraucht alle <icon texture='Attributes/Movement'/> Bewegungspunkte beim Betreten<br/><icon texture='GUI/Bullet'/>Dauert 8 Runden"/>
 	<entry name="Growth" value="Klonzentrum"/>
 	<entry name="GrowthDescription" value="Angewandte Auxologie, Stammzellenmodifikation und Wachstumskontrolle versetzen uns in die Lage, einige unserer Kolonisten schnell und effizient zu replizieren. Das dürfte das Bevölkerungswachstum eine Zeit lang ankurbeln."/>
 	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> Wachstum in einer Stadt für 10 Runden"/>

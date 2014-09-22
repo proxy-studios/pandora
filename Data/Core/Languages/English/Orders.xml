@@ -66,7 +66,7 @@
 	<entry name="ImproveEcoregion" value="Improve Ecoregion"/>
 	<entry name="ImproveEcoregionHint" value="Improve Ecoregion [K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>	
 	<entry name="InciteRiot" value="Incite Riot"/>
-	<entry name="InciteRiotHint" value="Incite Riot<br/><icon texture='GUI/Bullet'/>Incites a riot in a city that lasts 5 turns and drastically reduces morale<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="InciteRiotHint" value="Incite Riot<br/><icon texture='GUI/Bullet'/>Incites a riot in a city that lasts 4 turns and drastically reduces morale<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="InfiltrateReconnaissance" value="Infiltrate Reconnaissance"/>
 	<entry name="InfiltrateReconnaissanceHint" value="Infiltrate Reconnaissance<br/><icon texture='GUI/Bullet'/>Grants full access to a player's view until the end of the turn<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="LowerTerrain" value="Lower Terrain"/>
@@ -78,7 +78,7 @@
 	<entry name="Refit" value="Refit"/>
 	<entry name="RefitHint" value="Refit [E]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Change unit design<br/><icon texture='GUI/Bullet'/>Unit has to be stationed in a city controlled by its player"/>
 	<entry name="ReleaseGeneticVirus" value="Release Genetic Virus"/>
-	<entry name="ReleaseGeneticVirusHint" value="Release Genetic Virus<br/><icon texture='GUI/Bullet'/>Releases a genetic virus in a city that lasts 5 turns and continuously kills population<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="ReleaseGeneticVirusHint" value="Release Genetic Virus<br/><icon texture='GUI/Bullet'/>Releases a genetic virus in a city that lasts 4 turns and continuously kills population<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="SabotageBuilding" value="Sabotage Building"/>
 	<entry name="SabotageBuildingHint" value="Sabotage Building<br/><icon texture='GUI/Bullet'/>Destroys a random building of a city<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="SabotageProduction" value="Sabotage Production"/>
