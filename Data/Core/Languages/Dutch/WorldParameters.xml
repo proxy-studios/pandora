@@ -76,19 +76,19 @@
 	<entry name="Size" value="Wereldgrootte"/>
 	<entry name="Size0" value="Zeer klein"/>
 	<entry name="Size0Hint" value="Een zeer kleine wereld bestaat uit 24x24 en daarmee uit totaal 576 gebieden."/>
-	<entry name="Size0HintFactions" value="Er zijn 3 menselijke fracties."/>
+	<entry name="Size0HintFactions" value="Er zijn 3 menselijke fracties, voor een gemiddelde van ongeveer 5 steden per fractie."/>
 	<entry name="Size1" value="Klein"/>
 	<entry name="Size1Hint" value="Een kleine wereld bestaat uit 32x32 en daarmee uit totaal 1024 gebieden."/>
-	<entry name="Size1HintFactions" value="Er zijn 5 menselijke fracties."/>
+	<entry name="Size1HintFactions" value="Er zijn 5 menselijke fracties, voor een gemiddelde van ongeveer 6 steden per fractie."/>
 	<entry name="Size2" value="Middel"/>
-	<entry name="Size2Hint" value="Een middelgrote wereld bestaat uit 44x44 en daarmee uit totaal 1936 gebieden.."/>
-	<entry name="Size2HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size2Hint" value="Een middelgrote wereld bestaat uit 40x40 en daarmee uit totaal 1600 gebieden.."/>
+	<entry name="Size2HintFactions" value="Er zijn 7 menselijke fracties, voor een gemiddelde van ongeveer 6 steden per fractie."/>
 	<entry name="Size3" value="Groot"/>
-	<entry name="Size3Hint" value="Een grote wereld bestaat uit 60x60 en daarmee uit totaal 3600 gebieden."/>
-	<entry name="Size3HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size3Hint" value="Een grote wereld bestaat uit 48x48 en daarmee uit totaal 2304 gebieden."/>
+	<entry name="Size3HintFactions" value="Er zijn 7 menselijke fracties, voor een gemiddelde van ongeveer 9 steden per fractie."/>
 	<entry name="Size4" value="Zeer groot"/>
-	<entry name="Size4Hint" value="Een zeer grote wereld bestaat uit 80x80 en daarmee uit totaal 6400 gebieden."/>
-	<entry name="Size4HintFactions" value="Er zijn 6 menselijke fracties."/>
+	<entry name="Size4Hint" value="Een zeer grote wereld bestaat uit 56x56 en daarmee uit totaal 3136 gebieden."/>
+	<entry name="Size4HintFactions" value="Er zijn 7 menselijke fracties, voor een gemiddelde van ongeveer 12 steden per fractie."/>
 	<entry name="Size5" value="Willekeurig"/>
 	<entry name="Size5Hint" value="De omvang van de spelwereld wordt aan het begin van het spel willekeurig gekozen."/>
 	<entry name="Size5HintFactions" value=""/>

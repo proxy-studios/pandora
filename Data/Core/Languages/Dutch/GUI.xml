@@ -128,6 +128,7 @@
 	<entry name="GlobalTaxSliderHint" value="Regelt het algemene belastingtarief. Hogere belastingen verhogen het <icon texture='Resources/Credits'/> inkomen, terwijl ;agere belastingtarieven het <icon texture='Resources/Morale'/> moraal versterken."/>
 	<entry name="Growth" value="Groei"/>
 	<entry name="GrowthHint" value="Groei<br/>De snelheid waarmee de bevolking groeit of krimpt. Zodra er genoeg positieve of negatieve groei verzameld is, ontvang of verlies je een kolonist. Vanaf een bevolking van 8 groeit met iedere groei van een stad ook je rijk verder."/>
+	<entry name="Riot" value="Rellen"/>
 	<entry name="Habitat" value="Leefruimte"/>
 	<entry name="HabitatHint" value="Leefruimte<br/>Leefruimte, die je bevolking ter beschikking staat. Een negatieve waarde betekent overbevolking en doet het moraal dalen."/>
 	<entry name="HallOfFame" value="Hal van beroemdheden"/>
@@ -373,6 +374,7 @@
 	<entry name="Stories" value="Verhalen"/>
 	<entry name="StoriesHelp" value="Hier vind je korte verhalen uit de wereld van Pandora. Veel plezier bij het lezen!"/>
 	<entry name="Story" value="Verhaal"/>
+	<entry name="SuccessChance" value="Succeskans"/>
 	<entry name="Targets" value="Doelwitten"/>
 	<entry name="TargetPower" value="Doelwitsterkte"/>
 	<entry name="Technologies" value="Technologieën"/>
