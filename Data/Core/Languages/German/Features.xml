@@ -64,7 +64,7 @@
 	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Konstruktion<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> Stärke für verteidigende Einheiten<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> Stärke gegen Operationen<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> Heilungsrate"/>
 	<entry name="Fungus" value="Pilze"/>
 	<entry name="FungusDescription" value="Wie auch auf der alten Erde fungieren Pilze auf Pandora hauptsächlich als Symbionten für Pflanzen bzw. Tiere. Allerdings haben wir vor kurzem eine makroskopische und sehr aggressive Pilzart entdeckt, die offenbar alle Arten von organischen Lebensformen befällt und hochgiftige Sporen absondert. Wir müssen noch weiter forschen, aber bis auf weiteres sollten unsere Truppen in pilzbefallenen Gebieten mit äußerster Vorsicht zu Werke gehen."/>
-	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Gelände<br/><icon texture='GUI/Bullet'/>Verursacht 0,2 Schaden pro Runde<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> Stärke für mechanische Einheiten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> Bewegungskosten"/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Gelände<br/><icon texture='GUI/Bullet'/>Verursacht 0,2 <icon texture='Attributes/Power'/> Schaden pro Runde<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> Stärke für leichte biologische Einheiten<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> Stärke für mechanische Einheiten<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> Bewegungskosten"/>
 	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0 <icon texture='Resources/Minerals'/> 0 <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Grassland" value="Grasland"/>
 	<entry name="GrasslandDescription" value="Grasland nennt man Gebiete, in denen krautartige Pflanzen dominieren. Der Boden ist sehr nährreich und eignet sich daher sehr gut für Landwirtschaft."/>
@@ -98,7 +98,7 @@
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4 <icon texture='Resources/Morale'/> -1"/>
 	<entry name="Mines" value="Vulkanminen"/>
 	<entry name="MinesDescription" value="Von Satelliten ausgesetzte Minen, die tödlich für unbedarfte Reisende sind."/>
-	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Gebäude"/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Konstruktion<br/><icon texture='GUI/Bullet'/>Verursacht 1 <icon texture='Attributes/Power'/> Schaden pro Runde<br/><icon texture='GUI/Bullet'/>Verbraucht alle <icon texture='Attributes/Movement'/> Bewegungspunkte beim Betreten<br/><icon texture='GUI/Bullet'/>Dauert 8 Runden"/>
 	<entry name="MoraleBonus0" value="Heiße Quellen"/>
 	<entry name="MoraleBonus0Description" value="Unsere Kolonisten genießen ihre Bäder in den heißen Quellen, in denen sie etwas Abstand von den täglichen Mühen des kolonialen Lebens gewinnen können und Kraft tanken."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Gelände"/>

@@ -76,19 +76,19 @@
 	<entry name="Size" value="World Size"/>
 	<entry name="Size0" value="Tiny"/>
 	<entry name="Size0Hint" value="A tiny world spans 24x24 for a total of 576 territories."/>
-	<entry name="Size0HintFactions" value="There are two landing human factions, for an average of about 8 cities per faction."/>
+	<entry name="Size0HintFactions" value="There are 3 landing human factions, for an average of about 5 cities per faction."/>
 	<entry name="Size1" value="Small"/>
 	<entry name="Size1Hint" value="A small world spans 32x32 for a total of 1024 territories."/>
-	<entry name="Size1HintFactions" value="There are four landing human factions, for an average of about 7 cities per faction.."/>
+	<entry name="Size1HintFactions" value="There are 5 landing human factions, for an average of about 6 cities per faction.."/>
 	<entry name="Size2" value="Medium"/>
 	<entry name="Size2Hint" value="A medium world spans 40x40 for a total of 1600 territories."/>
-	<entry name="Size2HintFactions" value="There are six landing human factions, for an average of about 8 cities per faction.."/>
+	<entry name="Size2HintFactions" value="There are 7 landing human factions, for an average of about 6 cities per faction.."/>
 	<entry name="Size3" value="Large"/>
 	<entry name="Size3Hint" value="A large world spans 48x48 for a total of 2304 territories."/>
-	<entry name="Size3HintFactions" value="There are six landing human factions, for an average of about 11 cities per faction."/>
+	<entry name="Size3HintFactions" value="There are 7 landing human factions, for an average of about 9 cities per faction."/>
 	<entry name="Size4" value="Huge"/>
 	<entry name="Size4Hint" value="A huge world spans 56x56 for a total of 3136 territories."/>
-	<entry name="Size4HintFactions" value="There are six landing human factions, for an average of about 15 cities per faction."/>
+	<entry name="Size4HintFactions" value="There are 7 landing human factions, for an average of about 12 cities per faction."/>
 	<entry name="Size5" value="Random"/>
 	<entry name="Size5Hint" value="World size is determined randomly at the start of the game."/>
 	<entry name="Size5HintFactions" value=""/>

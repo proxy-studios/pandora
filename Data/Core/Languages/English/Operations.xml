@@ -17,7 +17,7 @@
 	<entry name="EMPBeamProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Causes a blackout which fully disables a city for 5 turns"/>
 	<entry name="Mines" value="Vulcan Mines"/>
 	<entry name="MinesDescription" value="Deployed from our satellites, these hardened devices burrow deep into the ground. There, they expose their volatile chemical interiors to Pandora's air, creating a bubbling pressurized bomb, waiting to be disturbed."/>
-	<entry name="MinesProperties" value=""/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Inflicts 1 <icon texture='Attributes/Power'/> power of damage per turn<br/><icon texture='GUI/Bullet'/>Consumes all <icon texture='Attributes/Movement'/> movement upon entering<br/><icon texture='GUI/Bullet'/>Lasts 8 turns"/>
 	<entry name="NanoRobots" value="Nano Robots"/>
 	<entry name="NanoRobotsDescription" value="Microscopic scale robots can be programmed for specific tasks, such as nanomedicine or repairing devices, sacrificing part of their structures or themselves as a whole in the process to recompose the molecular structure of damaged or wounded units."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operation<br/><icon texture='GUI/Bullet'/>Fully repairs all units in a territory"/>

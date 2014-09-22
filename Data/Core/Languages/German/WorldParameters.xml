@@ -76,19 +76,19 @@
 	<entry name="Size" value="Weltgröße"/>
 	<entry name="Size0" value="Sehr klein"/>
 	<entry name="Size0Hint" value="Eine sehr kleine Welt besteht aus 24x24 und damit insgesamt 576 Gebieten."/>
-	<entry name="Size0HintFactions" value="Es gibt zwei menschliche Fraktionen."/>
+	<entry name="Size0HintFactions" value="Es gibt 3 menschliche Fraktionen."/>
 	<entry name="Size1" value="Klein"/>
 	<entry name="Size1Hint" value="Eine kleine Welt besteht aus 32x32 und damit insgesamt 1024 Gebieten."/>
-	<entry name="Size1HintFactions" value="Es gibt vier menschliche Fraktionen."/>
+	<entry name="Size1HintFactions" value="Es gibt 5 menschliche Fraktionen."/>
 	<entry name="Size2" value="Mittel"/>
 	<entry name="Size2Hint" value="Eine mittelgroße Welt besteht aus 40x40 und damit insgesamt 1600 Gebieten."/>
-	<entry name="Size2HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
+	<entry name="Size2HintFactions" value="Es gibt 7 menschliche Fraktionen."/>
 	<entry name="Size3" value="Groß"/>
 	<entry name="Size3Hint" value="Eine große Welt besteht aus 48x48 und damit insgesamt 2304 Gebieten."/>
-	<entry name="Size3HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
+	<entry name="Size3HintFactions" value="Es gibt 7 menschliche Fraktionen."/>
 	<entry name="Size4" value="Sehr groß"/>
 	<entry name="Size4Hint" value="Eine sehr große Welt besteht aus 56x56 und damit insgesamt 3136 Gebieten."/>
-	<entry name="Size4HintFactions" value="Es gibt sechs menschliche Fraktionen."/>
+	<entry name="Size4HintFactions" value="Es gibt 7 menschliche Fraktionen."/>
 	<entry name="Size5" value="Zufällig"/>
 	<entry name="Size5Hint" value="Die Größe der Spielwelt wird zu Beginn des Spiels zufällig festgelegt."/>
 	<entry name="Size5HintFactions" value=""/>

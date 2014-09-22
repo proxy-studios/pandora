@@ -321,6 +321,7 @@
 	<entry name="Raze" value="Zerstören"/>
 	<entry name="RazeHint" value="Klicken Sie, um mit der Zerstörung der Stadt zu beginnen, indem pro Runde 1 Bevölkerung entfernt wird."/>
 	<entry name="RazeOrder" value="Zerstören-Befehl"/>
+	<entry name="Riot" value="Aufstand"/>
 	<entry name="Save" value="Speichern"/>
 	<entry name="SaveGame" value="Spiel speichern"/>
 	<entry name="SaveGameHint" value="Spiel speichern [Strg+S]<br/>Quicksave [F11]"/>
@@ -373,6 +374,7 @@
 	<entry name="Stories" value="Geschichten"/>
 	<entry name="StoriesHelp" value="Hier finden Sie Kurzgeschichten aus der Welt von Pandora. Viel Spass beim Lesen!"/>
 	<entry name="Story" value="Geschichte"/>
+	<entry name="SuccessChance" value="Erfolgswahrscheinlichkeit"/>
 	<entry name="Targets" value="Ziele"/>
 	<entry name="TargetPower" value="Zielstärke"/>
 	<entry name="Team" value="Team"/>

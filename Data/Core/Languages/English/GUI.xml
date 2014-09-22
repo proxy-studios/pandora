@@ -328,6 +328,7 @@
 	<entry name="Return" value="Return"/>
 	<entry name="ReturnToMap" value="Return to Map"/>
 	<entry name="RazeOrder" value="raze order"/>
+	<entry name="Riot" value="Riot"/>
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>
 	<entry name="SaveGameHint" value="Save Game [Ctrl+S]<br/>Quick Save [F10]"/>
@@ -378,6 +379,7 @@
 	<entry name="Stories" value="Stories"/>
 	<entry name="StoriesHelp" value="Here you can find short stories about the world of Pandora. Enjoy the reading!"/>
 	<entry name="Story" value="Story"/>
+	<entry name="SuccessChance" value="Success Chance"/>
 	<entry name="Targets" value="Targets"/>
 	<entry name="TargetPower" value="Target Power"/>
 	<entry name="Team" value="Team"/>

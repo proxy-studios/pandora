@@ -35,7 +35,7 @@
 	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Device<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
 	<entry name="SpyDevice" value="Illusive Eluder"/>
 	<entry name="SpyDeviceDescription" value="Making use of a variety of optical and psychological illusions, the eluder makes it extremely hard to even notice its user, making them effectively invisible. "/>
-	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>+25% infiltration chance"/>
+	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Device<br/><icon texture='GUI/Bullet'/>+25% infiltration chance"/>
 	<entry name="Upkeep" value="Resource Usage Normalizer"/>
 	<entry name="UpkeepDescription" value="This portable kit is designed solely to carefully ration all units so as to not waste an ounce of resource. While it may have a negative effect on morale, the boost in efficiency is invaluable."/>
 	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Device<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> upkeep"/>

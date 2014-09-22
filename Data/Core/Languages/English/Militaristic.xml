@@ -16,8 +16,8 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Greetings %3%! You are talking to Admiral James Heid of the Imperium, 1st Div, Expeditionary Force. Under my direct command is the most advanced war machinery known to men, and the beasts inhabiting this world will feel its full wrath. You better make sure not to walk into my line of fire...&quot;"/>
 
-	<entry name="NamePositive" value="&quot;The honourable Admiral Heid.&quot;"/> 
-	<entry name="NameNegative" value="&quot;The warmongering Admiral Heid.&quot;"/> 
+	<entry name="NamePositive" value="&quot;The honourable %6%.&quot;"/> 
+	<entry name="NameNegative" value="&quot;The warmongering %6%.&quot;"/> 
 
 	<entry name="LetMeThink" value="&quot;Hmm... give me a moment to think about it.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Sure, just let me know once you have made your decision.&quot;"/> 
