@@ -16,8 +16,8 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Wat is het me een genoegen om u te ontmoeten! Itala Palomino staat tot uw dienst, nederige vertegenwoordigster van de Ambassadeursfractie. Wij streven ernaar om ervoor te zorgen dat iedereen hier op Pandora ongestoord zijn doelen kan nastreven, wat ons allen ten goede komt. Oh, het is zo fijn om u te ontmoeten. Ik weet nu al dat we de beste vrienden zullen worden!&quot;"/>
 
-	<entry name="NamePositive" value="&quot;De nobele Secretaresse Palomino.&quot;"/> 
-	<entry name="NameNegative" value="&quot;De bedriegelijke Secretaresse Palomino.&quot;"/> 
+	<entry name="NamePositive" value="&quot;De nobele %6%.&quot;"/> 
+	<entry name="NameNegative" value="&quot;De bedriegelijke %6%.&quot;"/> 
 
 	<entry name="LetMeThink" value="&quot;Fascinerend! Ik heb wat tijd nodig om dit met de raad te bespreken.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Uitstekend! Ik weet zeker dat u het ons zult laten weten zodra u dat kunt.&quot;"/> 
@@ -60,7 +60,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Ik ben bang dat dat de machtsverhoudingen gaat verstoren.&quot;"/>
 	
 	<!-- Offers dialogue partner to share explored territories. -->
-	<entry name="OfferShareMap" value="&quot;Onze cartografen kunnen deze kaarten gewoon niet zo mooi maken als de hangetekende exemplaren die we meegebracht hebben van de aarde. Wilt u er eens een blik op werpen?&quot;"/>
+	<entry name="OfferShareMap" value="&quot;Onze cartografen kunnen deze kaarten gewoon niet zo mooi maken als de handgetekende exemplaren die we meegebracht hebben van de aarde. Wilt u er eens een blik op werpen?&quot;"/>
 	<entry name="AcceptShareMap" value="&quot;We zullen hem met de hand op perkament tekenen en met het volgende vliegtuig meesturen. Onze gift aan u.&quot;"/>
 	<entry name="RejectShareMap" value="&quot;Ik ben bang dat onze kaarten voornamelijk relaties in kaart brengen en geen territorium. Daarom zouden ze nutteloos voor u zijn.&quot;"/>
 	

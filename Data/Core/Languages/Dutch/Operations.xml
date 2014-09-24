@@ -20,7 +20,7 @@
 	<entry name="GrowthProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>+4 <icon texture='Resources/PositiveGrowth'/> groei in een stad voor 10 ronden"/>
 	<entry name="Mines" value="Vulkaanmijnen"/>
 	<entry name="MinesDescription" value="Nadat ze uitgezet worden vanaf onze satellieten, graven deze geharde apparaten zich diep in de grond. Daar stellen ze hun vluchige chemische interieurs bloot aan Pandora's lucht, waarbij een belachtige drukbom ontstaat, die erop wacht om gestoord te worden."/>
-	<entry name="MinesProperties" value=""/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Brengt 1 <icon texture='Attributes/Power'/> schadepunt toe per ronde<br/><icon texture='GUI/Bullet'/>Neemt alle resterende <icon texture='Attributes/Movement'/> bewegingspunten af bij betreden<br/><icon texture='GUI/Bullet'/>Duurt 8 rondes"/>
 	<entry name="NanoRobots" value="Nanorobots"/>
 	<entry name="NanoRobotsDescription" value="Microscopisch kleine robotjes kunnen voor bepaalde taken geprogrammeerd worden, zoals bijv. nanomedicijn- of reparatierobotjes, die bij de heropbouw van moleculaire structuren van beschadigde of verwonde eenheden een deel van zichzelf of zichzelf zelfs geheel opofferen."/>
 	<entry name="NanoRobotsProperties" value="<icon texture='GUI/Bullet'/>Operatie<br/><icon texture='GUI/Bullet'/>Repareert of geneest alle eenheden in een gebied"/>

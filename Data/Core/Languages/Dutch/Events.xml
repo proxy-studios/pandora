@@ -3,6 +3,16 @@
 	<entry name="NearX" value=" in de buurt van %1%"/>
 	
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AdvancementProductionComplete" value="%1% heeft een %2% voltooid."/>
+	<entry name="AgentEliminated" value="%1% werd uitgeschakeld tijdens het infiltreren van %2%."/>
+	<entry name="AgentIncitedRiot" value="%1% heeft een opstand ontketend in %2%."/>
+	<entry name="AgentInfiltratedReconnaissance" value="%1% heeft verkenning geïnfiltreerd in %2%."/>
+	<entry name="AgentReleasedGeneticVirus" value="%1% heeft een genetisch virus uitgezet in %2%."/>
+	<entry name="AgentSabotagedBuilding" value="%1% heeft %3% gesaboteerd in %2%."/>
+	<entry name="AgentSabotagedProduction" value="%1% heeft %3% <icon texture='Resources/Production'/> productie in %2% gesaboteerd."/>
+	<entry name="AgentSabotagedResearch" value="%1% heeft %3% <icon texture='Resources/Research'/> onderzoek in %2% gesaboteerd."/>
+	<entry name="AgentStoleCredits" value="%1% heeft %3% <icon texture='Resources/Credits'/> kredieten gestolen uit %2%."/>
+	<entry name="AgentStoleResearch" value="%1% heeft %3% <icon texture='Resources/Research'/> onderzoek gestolen uit %2%."/>
 	<entry name="AllianceEntered" value="De fractie %1% heeft een alliantie met de fractie %2% gesloten."/>
 	<entry name="AllianceTerminated" value="De fractie %1% heeft de alliantie met de fractie %2% verbroken."/>
 	<entry name="BuildingDismantled" value="%1% heeft het gebouw %2% afgebroken."/>
