@@ -83,7 +83,7 @@
 	<entry name="RejectDenounce" value="&quot;Wat gelooft u wat wij zijn? Verstrooide wetenschappers? Onze premissen mogen u dan vreemd overkomen, maar onze conclusies zijn hoogstwaarschijnlijk perfect (of waren het tenminste, als die vervloekte Gödel er niet was geweest.&quot;"/>
 	
 	<!-- Publicly praises dialogue partner. -->
-	<entry name="Praise" value="&quot;%5% U behoort tot de hoogontwikkelde apen. Dat bedoel ik als complient, want ik hou van apen. Ze zijn zeer geschikt... voor experimeten.&quot;"/>
+	<entry name="Praise" value="&quot;%5% U behoort tot de hoogontwikkelde apen. Dat bedoel ik als complient, want ik hou van apen. Ze zijn zeer geschikt... voor experimenten.&quot;"/>
 	<entry name="AcceptPraise" value="&quot;Oh, hartelijk dank. Nog een Nobelprijs zou fijn zijn.&quot;"/>
 	<entry name="RejectPraise" value="&quot;Met een waarschijnlijkheid van 97,34%% bent u tegen ons aan het flikflooien, terwijl u iets van ons wilt. Wat ... lief!&quot;"/>
 	
@@ -143,11 +143,11 @@
 	<entry name="Greet0" value="&quot;Ik heb belangrijker zaken te doen, dan gezellige onderhoudjes met laagbegaafde idioten. Houdt u het dus kort.&quot;"/>
 	<entry name="Greet1" value="&quot;Gegroet, %3%. Wat zijn de nieuwste vindingen in uw rijk?&quot;"/>
 	<entry name="Greet2" value="&quot;Het is iedere keer weer een plezier om u te zien, %1%. Wat heeft u op uw hart?&quot;"/>
-	<entry name="NonAggressionPactAccepted" value="&quot;Afgesproken. We geen plannen om u in de afzienbare toekomst aan te vallen. En ook niet in het verleden. Haha, grapje.&quot;"/>
+	<entry name="NonAggressionPactAccepted" value="&quot;Afgesproken. We hebben geen plannen om u in de afzienbare toekomst aan te vallen. En ook niet in het verleden. Haha, grapje.&quot;"/>
 	<entry name="NonAggressionPactRejected" value="&quot;Bedankt voor het aanbod, maar ik kan u die garantie niet geven.&quot;"/>
 	<entry name="NonAggressionPactTerminated" value="&quot;Nu moet ik me aan zulke saaie dingen zoals de oorlog wijden!&quot;"/>
 	<entry name="OfferAlliance" value="&quot;Wij zijn niet de beste strijders. Wilt u ons misschien helpen?&quot;"/>
-	<entry name="OfferNonAggressionPact" value="&quot;Wat dacht u van een niet-aanvalsverdrag? Hoewel ik betwijfel of uw verstand meer dan Ik mag brillendragers niet in het gezicht slaan' kan bevatten...&quot;"/>
+	<entry name="OfferNonAggressionPact" value="&quot;Wat dacht u van een niet-aanvalsverdrag? Hoewel ik betwijfel of uw verstand meer dan 'Ik mag brillendragers niet in het gezicht slaan' kan bevatten...&quot;"/>
 	<entry name="OfferPeace" value="&quot;Argh! Kunnen we deze oorlog eindelijk beëindigen? De trillingen die de granaatinslagen veroorzaken, verstoren onze experimenten.&quot;"/>
 	<entry name="OfferResearchPact" value="&quot;Ik kan maar moeilijk geloven dat u dit ons nog niet heeft voorgesteld, maar ... zullen we onze wetenschappelijke ontdekkingen delen?&quot;"/>
 	<entry name="OfferTradingPact" value="&quot;We willen graag handel met u drijven. Maar... kent u toevallig het gevangenendilemma? Nee? Goed.&quot;"/>

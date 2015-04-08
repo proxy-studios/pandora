@@ -58,7 +58,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty1" value="&quot;Hé, ik ben veel te goed en verwaand om naar de pijpen van iemand anders te dansen.&quot;"/>
 	
 	<!-- Offers dialogue partner to share explored territories. -->
-	<entry name="OfferShareMap" value="&quot;Hé maat! Zin in een blik op onze militaire kaartenn?&quot;"/>
+	<entry name="OfferShareMap" value="&quot;Hé maat! Zin in een blik op onze militaire kaarten?&quot;"/>
 	<entry name="AcceptShareMap" value="&quot;Dat lijkt me zinnig. Het zal het een stuk makkelijker maken om de weg te vinden.&quot;"/>
 	<entry name="RejectShareMap" value="&quot;Wat kan het bommem hoe de kaarten eruit zien? Onze pantservoertuigen rollen er toch wel overheen.&quot;"/>
 	

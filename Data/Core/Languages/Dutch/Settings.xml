@@ -84,6 +84,8 @@
 	<entry name="TextureQuality0" value="Laag"/>
 	<entry name="TextureQuality1" value="Middel"/>
 	<entry name="TextureQuality2" value="Hoog"/>
+	<entry name="TitleScreen" value="Openingsscherm"/>
+	<entry name="TitleScreenHint" value="Bepaalt het openingsscherm dat getoond wordt."/>
 	<entry name="VerticalSynchronization" value="Verticale synchronisatie"/>
 	<entry name="VerticalSynchronizationHint" value="Synchroniseert de framerate in het spel met de beeldverversingsfrequentie van je beeldscherm. Daarmee worden scheureffecten verminderd en de hardwarebelasting verlaagd. Desondanks kan het tot prestatieproblemen leiden, indien de gebruikte hardware problemen heeft, om de beeldverversingsfrequentie van je monitor uit te lezen."/>
 	<entry name="Video" value="Grafica"/>
