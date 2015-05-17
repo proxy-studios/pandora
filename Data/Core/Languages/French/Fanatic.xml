@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+	
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="« Ah, c&apos;est une bénédiction de faire votre connaissance. Pandora a été promis à notre peuple en tant que refuge spirituel. Tant que vous croyez en un Dieu - n&apos;importe quel Dieu - je crois que nous serons amis. »"/>
+
+	<entry name="NamePositive" value="« La pieuse %6% »"/> 
+	<entry name="NameNegative" value="« La fanatique %6% »"/> 
+
+	<entry name="LetMeThink" value="« Hmm... accordez-moi du temps pour y réfléchir. »"/> 
+	<entry name="LetMeKnow" value="« Bien sûr, faites-moi signe quand vous aurez pris votre décision. »"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="« Un diable est à l&apos;œuvre dans notre nouveau monde, et son œil regarde dans votre direction. »"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="« Je pensais que le diable n&apos;existait pas - mais, après tout, faire de lui un mythe a été Son plus grand tour. »"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="« Non, comme le prophète Wilde a déclaré : &apos;Nous sommes chacun notre propre diable et nous faisons de ce monde notre enfer.&apos; »"/>
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/>
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="« Je vais traquer cet Iblis et en finir avec lui. »"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="« Oh non, il n&apos;y aucun espoir pour celui-là. Je dois endurer la présence de cet être diabolique pour continuer Son œuvre. »"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="« Des pécheurs ont mis en doute notre foi. Allez-vous collaborer avec eux alors que la Seule Vraie Religion est sauvagement attaquée ? »"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="« Il est vrai qu&apos;il y a quelque chose d&apos;impur dans ses activités. Quel allié vous a offensé de la sorte ? »"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="« Saint Einstein a dit que la science était déficiente sans la religion, mais que la religion était aveugle sans la science. Nos amis nous aident à voir. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="« Dieu nous aimera pour agir ainsi, comme vous le devriez. »"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="« Non. Nous avons besoin de ces païens, ne serait-ce que pour les enterrer sous des montagnes d&apos;or. »"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="« La guerre est impie. Pourquoi combattre et s&apos;étriper sous le regard des dieux ? »"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="« Non, toute guerre n&apos;est pas sainte. Nous pourrions être dans l&apos;erreur. Qui bénéficie de la bénédiction divine ? »"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="« Ces infidèles, cette engeance ? Non, ils méritent une punition, sur terre comme dans le ciel. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="« Nous allons libérer la colombe de la paix, pour qu&apos;elle plane sur Pandora. »"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="« Non. Le Seigneur est un homme de guerre. Nous serons en guerre avec %6% pour des générations. »"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="« Quelqu&apos;un a besoin d&apos;un bon châtiment. »"/> 
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="« La guerre nous a été ordonnée, même si elle est méprisable à nos yeux. »"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="« Je ne suis pas venue sur cette nouvelle terre pour tirer l&apos;épée, mais pour amener la paix. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="« Leur ultime demeure sera l&apos;enfer, le dénouement d&apos;un voyage misérable. »"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="« Eux ? Non, je ne puis durcir mes sentiments à leur égard ni entacher mes mains de sang. »"/>
+		
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="« Voudriez-vous nous accompagner dans notre vision de la gloire de dieu ? »"/>
+	<entry name="AcceptShareMap" value="« Une si grande partie de notre monde révélée ! Et tellement de nouveaux territoires à explorer et convertir. »"/>
+	<entry name="RejectShareMap" value="« Des âmes non converties resteront hors de votre portée pendant longtemps encore. »"/>
+		
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="« Lorsque les douces pluies de Pandora viendront, notre peuple partira pour un long pèlerinage en quête d&apos;étranges rivages. Pourront-ils marcher à travers vos terres ? »"/>
+	<entry name="AcceptOpenBorders" value="« Nous ne pourrions pas, en toute bonne foi, refuser vos pèlerins. »"/>
+	<entry name="RejectOpenBorders" value="« C&apos;est notre Sainte des Saintes, notre Kabba. Vous la profaneriez par votre simple présence. »"/>
+	<entry name="TerminateOpenBorders" value="« Votre peuple instille des pensées sinistres et hérétiques dans ma communauté de croyants. Cela suffit, je ne veux plus de mécréants en terre Sainte ! »"/>
+	<entry name="AcceptOpenBordersTerminated" value="« Vous craignez que vos fidèles trouvent le salut dans mes bras ? Vous ne pouvez échapper au jugement de Dieu, %1%. »"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Votre dernier sermon nous a tous condamnés à l&apos;enfer. Pour quoi ? Sommes-nous des sous-hommes parce que nous ne partageons pas votre foi criminelle ?"/>
+	<entry name="Crime1" value="Nous avons des rapports attestant que vous avez personnellement ordonné la crucifixion de nos diplomates. Cela ne restera pas inaperçu."/>
+	<entry name="Crime2" value="Parler à Dieu est de la démence. Entendre Dieu est de la schizophrénie. Agir sur ces délires est pure folie. Et guerroyer en son nom est le mal à l&apos;état pur."/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="« %7% Le Panthéon de tous les dieux vous jugera pour ce péché.  »"/>
+	<entry name="AcceptDenounce" value="« Je n&apos;ai jamais prétendu être &apos;le&apos; Messie. Simplement &apos;un&apos; Messie. »"/>
+	<entry name="RejectDenounce" value="« Dieu a un plan pour nous tous, et il m&apos;a choisie pour être son instrument. »"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="« %5% Que votre Dieu vous bénisse et vous garde... à bonne distance. »"/>
+	<entry name="AcceptPraise" value="« Nous louerons votre générosité et votre amour pour l&apos;éternité. Merci. »"/>
+	<entry name="RejectPraise" value="« À travers les louanges de personnes telles que vous, les dieux nous disent de brûler plus de pécheurs. »"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="« Pandora, qui devait être notre nouvelle Canaan, n&apos;est plus à notre portée. Nos dieux, nos seigneurs, tous nous ont abandonnés. Nous nous soumettons. »"/>
+	<entry name="AcceptSurrender" value="« Nous acceptons. Nous ne ferons plus qu&apos;un. »"/>
+	<entry name="RejectSurrender" value="« Non, même un Dieu plein de bonté ne saurait avaler vos boniments. Nous allons nous battre. »"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Il est bon de voir un ilot de spiritualité sur cette planète abandonnée de Dieu."/>
+	<entry name="Compliment1" value="Lorsque la religion est arrivée Pandora, elle s&apos;est faite aussi douce que l&apos;agneau et aussi féroce que le lion."/>
+	<entry name="Compliment2" value="Même si je suis en désaccord avec vos croyances, j&apos;admire votre capacité à supporter ces principes joliment contradictoires. Votre esprit entre deux eaux est une véritable œuvre d&apos;art !"/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="%1%, vos croyances fanatiques et vos agressions aveugles vous rendent monstrueux à nos yeux."/>
+	<entry name="Insult1" value="Le monde se porterait mieux sans votre sectarisme, %3%. Je pense qu&apos;il est nuisible de voir des enfants naître au milieu de vos délires."/>
+	<entry name="Insult2" value="Vous avez masqué votre malice sous le couvert de la religion, ce qui est un véritable coup de poignard en plein cœur de la civilisation, %2%."/>
+
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="« Le Seigneur nous a richement rétribués pour nos labeurs, et je souhaiterais en partager une partie avec vous, %1%. »"/>
+	<entry name="GiftAccepted0" value="« Parlez maintenant, que je puisse sentir vos bonnes intentions ! »"/>
+	<entry name="GiftAccepted1" value="« Le Seigneur n&apos;oubliera pas votre générosité. Allez en paix, %3%. »"/>
+	<entry name="GiftRejected0" value="« Mes frères et sœurs verront cela comme une tentative de corruption provenant d&apos;un infidèle, je ne peux donc pas accepter, %3%. »"/>
+	<entry name="GiftRejected1" value="« Je suis sûre que vous avez besoin de cet argent bien plus que nous. Gardez-le. »"/>
+
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="« Les rumeurs de vos péchés portent jusqu&apos;aux confins de Pandora, %3%, mais après quelques heures de prière et une petite donation en faveur du Seigneur, je serais disposée à vous accorder l&apos;absolution. »"/>
+	<entry name="TributeAccepted0" value="« Je n&apos;aime pas où cela peut mener, mais parlons. La charité est une vertu. »"/>
+	<entry name="TributeAccepted1" value="« Très bien, vous verrez vos demandes exaucées - du moins pour cette fois. »"/>
+	<entry name="TributeRejected0" value="« Comment osez-vous m&apos;aborder avec des intentions aussi sordides que voler les dons de nos frères dévoués ! » Je n&apos;en ferai rien. »"/>
+	<entry name="TributeRejected1" value="« Le Seigneur nous enseigne l&apos;humilité, mais cette somme est une injure. Je ne vous donnerai rien. »"/>	
+
+	<entry name="AcceptCreditsForDeal0" value="« Que faudrait-il, %1%, pour vous faire voir la gloire de Dieu dans cette affaire ? »"/>
+	<entry name="AcceptCreditsForDeal1" value="« Les anges portent cette somme sur votre compte pendant que nous parlons. Maintenant, parlons affaires. »"/>
+	<entry name="RejectCreditsForDeal0" value="« Non. Je ne cèderai pas à la tentation, la mienne étant la puissance et la gloire »."/>
+	<entry name="RejectCreditsForDeal1" value="« Ne soyez ni un emprunteur, ni un prêteur, %1%. »"/>
+	<entry name="CreditsForDealRejected" value="« Nous nous arrangerons autrement. »"/>
+	<entry name="DemandCreditsForDeal" value="« Oh, père Vishnu, personnification de la paix, notre boîte à donation est tellement vide... »"/>
+	<entry name="DemandCredits0" value="« Avec %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, les soldats affamés sur Pandora pourront s&apos;offrir davantage de nourriture. »"/>
+	<entry name="DemandCredits1" value="« Avec seulement %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, nos missions éducatives dans les terres désolées au nord de Pandora pourront s&apos;offrir plus de couvertures pour les croyants. »"/>
+	<entry name="DemandCredits2" value="« Une modeste donation de %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits nous permettrait de bâtir un sanctuaire fortifié à ma gloire. »"/>
+	<entry name="DemandCredits3" value="« Si vous abandonnez vos biens terrestres - jusqu&apos;à la dernière sainte miette - vous serez absous de tous vos péchés et vous vous paierez un accès direct au paradis ! » (%6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits)"/>
+	<entry name="OfferCredits0" value="« Charité bien ordonnée commence par soi-même. Tenez, %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits est une bonne somme pour nourrir votre âme. »"/>
+	<entry name="OfferCredits2" value="« Votre pauvreté est un cri aux trois esprits grecs des pauvres - Ptokheia, Penia et Amekhania. Ils réclament que je vous verse %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, même si cela m&apos;appauvrit par la même occasion. »"/>
+	<entry name="OfferCredits1" value="« %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits réchaufferont vos os. Lan-Caihe, le dieu chinois des mendiants, l&apos;ordonne. »"/>
+	<entry name="OfferCredits3" value="« Se débarrasser de tous les biens matériels, dans un acte de charité, est la voie de Bhikshatana, le dieu hindou des mendiants. Donc, voilà, prenez tous ces %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits - afin que nous puissions être absous de nos péchés. »"/>
+	<entry name="AllianceAccepted" value="« Nous acceptions volontiers, mon cher ami ! Gouvernons ce monde ensemble au nom de Dieu. »"/>
+	<entry name="AllianceRejected" value="« Votre offre nous honore, mais nous ne pensons pas que ce serait un choix judicieux en cet instant précis. »"/>
+	<entry name="AllianceTerminated" value="« Qu&apos;il en soit ainsi. Laissons au Seigneur le soin de trier le bon grain de l&apos;ivraie. »"/>
+	<entry name="Condemn" value="« Pour ces crimes abominables vous brûlerez en enfer, %2% ! Vous m&apos;entendez ? BRÛLEZ EN ENFER ! »"/>
+	<entry name="CondemnAccepted" value="« %4%, le Tout-Puissant m&apos;a ordonnée de vous excommunier de ces terres - et j&apos;obéirai. »"/>
+	<entry name="DeclareWar" value="« %4%, Dieu m&apos;en soit témoin, je mettrai fin à cette hérésie ! »"/>
+	<entry name="DemandWithdrawal" value="« N&apos;imaginez pas que je ne suis pas au courant de vos concentrations de troupes toujours plus nombreuses à mes frontières ! Ordonnez leur retrait immédiat ou les dieux du panthéon les foudroieront. »"/>
+	<entry name="Eliminated" value="« L&apos;enlèvement de l&apos;Église s&apos;en vient - nous allons à Dieu. »"/>
+	<entry name="Goodbye" value="« Que Dieu soit avec vous. »"/>
+	<entry name="Greet0" value="« Vous feriez mieux de venir ici pour implorer Son pardon, pécheur. »"/>
+	<entry name="Greet1" value="« Parlez librement mais vrai, %3%. Argos Panoptès et Ophanim observent toujours. »"/>
+	<entry name="Greet2" value="« Bienvenue, mon cher ami ! En quoi puis-je vous être utile ? »"/>
+	<entry name="NonAggressionPactAccepted" value="« Qu&apos;il en soit ainsi. Puissent nos factions prospérer dans les années de paix à venir, sous le regard bienveillant des dieux. »"/>
+	<entry name="NonAggressionPactRejected" value="« Vous n&apos;allez peut-être pas apprécié mes paroles, mon cher %1%, mais nous ne sommes pas intéressés. »"/>
+	<entry name="NonAggressionPactTerminated" value="« L&apos;arrêt d&apos;un pacte de non-agression a des conséquences bien connues. Nous nous en souviendrons, %2%. Les guerriers saints se tiennent prêts. »"/>
+	<entry name="OfferAlliance" value="« Vous joindre à nous sera un pas de plus sur le chemin de l&apos;illumination. »"/>
+	<entry name="OfferNonAggressionPact" value="« Dame Pax est venue à moi dans une pluie d&apos;or, et m&apos;a dit que nous devrions cesser les hostilités, pour quelque temps. »"/>
+	<entry name="OfferPeace" value="« Par Forseti et Tyr, mettons fin à cette guerre ! Nous sommes las de ces effusions de sang, en particulier du nôtre. »"/>
+	<entry name="OfferResearchPact" value="« Nous devons prouver que l&apos;univers a été créé il y a 6 000 ans, comme l&apos;attestent certains textes sacrés. Votre aide scientifique serait un atout précieux dans cette mission divine. »"/>
+	<entry name="OfferTradingPact" value="« Nous pourrions commercer. Nous avons des bibles, corans, talmuds et autres ouvrages à profusion, que nous devons écouler. Nous avions compté sur la présence d&apos;une vie indigène à convertir - comment pouvions-nous savoir que les xénomorphes ne seraient pas capables de lire ? »"/>
+	<entry name="PeaceAccepted" value="« Il était temps d&apos;arrêter ce gaspillage de vies humaines. Seulement Ares et et les Grées devraient choisir quand les hommes doivent mourir. »"/>
+	<entry name="PeaceRejected" value="« Bien essayé, hérétique. En tant qu&apos;instruments de la volonté divine, nos guerriers saints vous écraseront. »"/>
+	<entry name="ResearchPactAccepted" value="« Embrassons ensemble les merveilles d&apos;un nouvel âge spirituel, mon ami. »"/>
+	<entry name="ResearchPactRejected" value="« Je suis navrée, mais pour l&apos;heure nous accomplirons seuls ce voyage vers l&apos;inconnu. »"/>
+	<entry name="ResearchPactTerminated" value="« Quel miracle avez-vous découvert pour vous mener à une telle extrémité ? Peu importe, nous le découvrirons bien assez tôt. »"/>
+	<entry name="TerminateAlliance" value="« Bien que notre alliance était assurément forte sous ce ciel étranger, chacun doit maintenant suivre son chemin. »"/>
+	<entry name="TerminateNonAggressionPact" value="« Le seigneur a nullifié notre pacte de non-agression, païen. »"/>
+	<entry name="TerminateResearchPact" value="« Les bénéfices scientifiques de notre pacte de recherche sont trop unilatéraux, je me dois donc de l&apos;annuler. »"/>
+	<entry name="TerminateTradingPact" value="« Mercure a examiné notre pacte commercial et l&apos;a jugé non satisfaisant. Il n&apos;est pas assez rentable pour nous, et par conséquent nullifié. »"/>
+	<entry name="TradingPactAccepted" value="« Très bien ! Amenez les financiers dans les temples ! »"/>
+	<entry name="TradingPactRejected" value="« Cette étape est encore un peu prématurée. »"/>
+	<entry name="TradingPactTerminated" value="« Vos citoyens éprouveront très bientôt le manque de nos biens sacrés et comme Job, le sentiment d&apos;abandon. »"/>
+	<entry name="WarAccepted" value="« Ainsi soit-il. Nos armées saintes soumettront vos états dans une campagne rapide. »"/>
+	<entry name="WithdrawalAccepted" value="« Nos hommes étaient perdus dans les pèlerinages, les monastères et la méditation. Nous allons les rassembler sur-le-champ. »"/>
+	<entry name="WithdrawalRejected" value="« Qui êtes-vous pour mettre en doute la façon dont Dieu répartit ses brebis ? »"/>
+</language>

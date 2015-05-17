@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AgileDevice" value="Régulateur de mouvement"/>
+	<entry name="AgileDeviceDescription" value="Dispositif qui régule le mouvement pour atténuer la fatigue."/>
+	<entry name="Academy0" value="Bataillon spartiate"/>
+	<entry name="Academy0Description" value="Corps armé permanent qui suit une discipline stricte."/>
+	<entry name="Academy1" value="Accommodation"/>
+	<entry name="Academy1Description" value="Ajuste l&apos;équipement au soldat, et non le contraire."/>
+	<entry name="Academy2" value="Interface neuronale"/>
+	<entry name="Academy2Description" value="Lien direct avec la base de données militaire centralisée, qui améliore l&apos;efficacité des troupes."/>
+	<entry name="Agent0" value="Espionnage"/>
+	<entry name="Agent0Description" value="Remet au goût du jour les techniques d&apos;espionnage de l&apos;ancienne Terre et recrute des espions."/>
+	<entry name="Agent1" value="Implants neuronaux"/>
+	<entry name="Agent1Description" value="Implanter des dispositifs Kusanagi dans le corps de nos agents devrait leur permettre d&apos;opérer à la fois dans les mondes physique et numérique."/>
+	<entry name="Agent2" value="Esprits M"/>
+	<entry name="Agent2Description" value="Élève nos agents au-delà des contraintes de leur forme humaine."/>
+	<entry name="Aircraft0" value="Propulseur magnétoplasmadynamique"/>
+	<entry name="Aircraft0Description" value="Un système de propulsion électrique qui porte la guerre jusqu&apos;aux cieux."/>
+	<entry name="Aircraft1" value="Contre-mesures d&apos;évasion avancées"/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1153453&langId=s -->
+	<entry name="Aircraft1Description" value="Intégration d&apos;une intelligence artificielle et de différentes contre-mesures au sein des unités aériennes."/>
+	<entry name="Aircraft2" value="Fuselage géomagnétique"/>
+	<entry name="Aircraft2Description" value="Ce fuselage épais permet aux aéronefs de puiser de l&apos;énergie à partir des différences d&apos;ionisation dans la thermosphère de Pandora."/>
+	<entry name="AlienAggression" value="Xénologie"/>
+	<entry name="AlienAggressionDescription" value="L&apos;étude des extraterrestres, aussi bien vivants que morts, afin d&apos;élargir nos connaissances sur leurs espèces."/>
+	<entry name="AlwaysHealDevice" value="Maintenance mécanique et organique"/>
+	<entry name="AlwaysHealDescription" value="De nouvelles méthodes pour maintenir en bon état les unités robotisées, organiques et cybernétiques."/>
+	<entry name="Armor0" value="Revêtement en acier renforcé"/>
+	<entry name="Armor0Description" value="Armure de base en acier pour augmenter la résistance de nos troupes face à l&apos;arsenal ennemi."/>
+	<entry name="Armor1" value="Revêtement en titane"/>
+	<entry name="Armor1Description" value="Armure robuste faite de titane, un métal très résistant et précieux qu&apos;on trouve en abondance sur Pandora."/>
+	<entry name="Armor2" value="Molécules de zortium"/>
+	<entry name="Armor2Description" value="Un alliage de titane et de mexallon, plus résistant que chacun des deux matériaux."/>
+	<entry name="Armor3" value="Optimisation de Gauss"/>
+	<entry name="Armor3Description" value="Un nouvel algorithme qui nous permet d&apos;analyser et d&apos;optimiser l&apos;armure à l&apos;échelle moléculaire."/>
+	<entry name="Armor4" value="Traitement de l&apos;adamantium"/>
+	<entry name="Armor4Description" value="Techniques requises pour le traitement de l&apos;adamantium, un matériau lourd et très résistant utile pour concevoir des armures."/>
+	<entry name="Armor5" value="Alliage en fils d&apos;acier"/>
+	<entry name="Armor5Description" value="Un alliage créé spécialement pour les armures, à la fois extrêmement léger et solide."/>
+	<entry name="Armor6" value="Neutrons nomades"/>
+	<entry name="Armor6Description" value="Un type d&apos;armure entièrement nouveau qui utilise des neutrons absorbants produits par un réacteur incorporé."/>
+	<entry name="Armor7" value="Substrat d&apos;antimatière"/>
+	<entry name="Armor7Description" value="Permet de porter une armure avec une couche d&apos;antimatière relativement stable et capable d&apos;absorber les impacts."/>
+	<entry name="Armor8" value="Synapses de xénotrium"/>
+	<entry name="Armor8Description" value="Imaginez une armure à antimatière consciente d&apos;elle-même et qui « vit » dans un seul but : protéger son porteur."/>
+	<entry name="Artillery0" value="Tir indirect guidé"/>
+	<entry name="Artillery0Description" value="Armement lourd à longue portée, appuyé par un drone, capable de décimer des sections ennemies entières."/>
+	<entry name="Artillery1" value="Salve d&apos;obus"/>
+	<entry name="Artillery1Description" value="Une rafale d&apos;obus tirés simultanément, destinée à couvrir une zone importante et réduire les chances de survie de la cible."/>
+	<entry name="Artillery2" value="Obus à gravitons"/>
+	<entry name="Artillery2Description" value="Des obus d&apos;un haut niveau technologique qui génèrent des champs gravitationnels localisés."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1216284&langId=s -->
+	<entry name="Aspidoch" value="Maillage aspidoche"/>
+	<entry name="Assault" value="Opération Valkyrie"/>
+	<entry name="AssaultDescription" value="Reconnaissance orbitale et largage de troupes qui permettent d&apos;intervenir ponctuellement n&apos;importe où sur la planète."/>
+	<entry name="AttackDevice" value="Tactiques d&apos;assaut"/>
+	<entry name="AttackDeviceDescription" value="Développement d&apos;outils centralisés pour améliorer la coordination des offensives."/>
+	<entry name="ATV0" value="Analyse dynamique"/>
+	<entry name="ATV0Description" value="Adaptation des véhicules aux paramètres environnementaux particuliers de Pandora."/>
+	<entry name="ATV1" value="Absorption d&apos;énergie"/>
+	<entry name="ATV1Description" value="Une meilleure absorption des chocs confère aux véhicules légers un atout appréciable en terrain accidenté ou lors d&apos;exécution de manœuvres difficiles."/>
+	<entry name="ATV2" value="Armure à charge électrique"/>
+	<entry name="ATV2Description" value="Une couche de protection électrostatique qui protège les tout-terrains des armes classiques."/>
+	<entry name="Automatic1" value="Projectiles stochastiques"/>
+	<entry name="Automatic1Description" value="Armes automatiques évoluées, basées sur la dispersion aléatoire de projectiles."/>
+	<entry name="Automatic2" value="Projectiles mutagènes"/>
+	<entry name="Automatic2Description" value="Développement d&apos;un chargeur qui abrite de façon sécurisée des munitions chargées de mutagènes, capables de provoquer une décomposition cellulaire spontanée."/>
+	<entry name="BiologyCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Biologie"/>
+	<entry name="BlackHole" value="Singularité sous contrôle"/>
+	<entry name="BlackHoleDescription" value="Production d&apos;armes de destruction massive non radioactives à l&apos;échelle industrielle."/>
+	<entry name="Bombardment" value="Bombardement planétaire"/>
+	<entry name="BombardmentDescription" value="Largage de troupes et de matériel directement depuis l&apos;espace."/>
+	<entry name="Cannon0" value="Ogives perforantes"/>
+	<entry name="Cannon0Description" value="Ogives capables de percer le blindage des chars les plus massifs."/>
+	<entry name="Cannon1" value="Amplificateur photonique"/>
+	<entry name="Cannon1Description" value="Un canon à photons qui génère un puissant champ électromagnétique."/>
+	<entry name="Cannon2" value="Projectiles supraluminiques"/>
+	<entry name="Cannon2Description" value="Un canon dévastateur qui tire des particules à haute fréquence et plus rapides que la lumière, capables de traverser n&apos;importe quelle protection."/>
+	<entry name="ChemistryCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Chimie"/>
+	<entry name="Colonization" value="Ferveur coloniale"/>
+	<entry name="ColonizationDescription" value="Concentre les efforts de la colonie sur l&apos;expansion pendant un certain temps."/>
+	<entry name="Construction0" value="Construction pandorane"/>
+	<entry name="Construction0Description" value="Schémas d&apos;améliorations sur le terrain."/>
+	<entry name="ConvertNativeDevice" value="Phéropode xénomorphe"/>
+	<entry name="Credits" value="Négociation Qan"/>
+	<entry name="CreditsDescription" value="Une toute nouvelle structure d&apos;analyse dédiée aux données de marché, qui aide à obtenir de nouveaux matériaux et de nouvelles technologies pour un tarif compétitif."/>
+	<entry name="Credits0" value="Place boursière"/>
+	<entry name="Credits0Description" value="Met en place un marché organisé dans le but de faciliter le développement économique."/>
+	<entry name="Credits1" value="Microstructuration du marché"/>
+	<entry name="Credits1Description" value="Examine de quelles façons les processus de fonctionnement d&apos;un marché affectent les transactions et comportements boursiers."/>
+	<entry name="Credits2" value="Manipulation économique"/>
+	<entry name="Credits2Description" value="Le commerce peut être un bon moyen de soutenir une économie, mais piper le dé donne de meilleurs résultats que les paris hasardeux."/>
+	<entry name="Defense" value="Centre de commandement central"/>
+	<entry name="DefenseDescription" value="Organise les systèmes de défense de façon plus efficace grâce à un QG centralisé."/>
+	<entry name="Defense0" value="Fortifications adaptatives"/>
+	<entry name="Defense0Description" value="Barricades et bunkers amovibles, utilisés pour le combat urbain."/>
+	<entry name="Defense1" value="Défense structurelle"/>
+	<entry name="Defense1Description" value="Intègre à la colonie un vaste éventail de défenses contre toutes sortes de menaces."/>
+	<entry name="Defense2" value="Construction superscalaire"/>
+	<entry name="Defense2Description" value="Fournit une évaluation de la menace extérieure, puis assure la sécurité à l&apos;intérieur."/>
+	<entry name="DefenseDevice" value="Contournement des dommages"/>
+	<entry name="DefenseDeviceDescription" value="Étudie les façons d&apos;éviter les dommages pour améliorer la défense des unités."/>
+	<entry name="Diplomacy" value="Conseil planétaire"/>
+	<entry name="DiplomacyDescription" value="Les relations diplomatiques peuvent être améliorées grâce à la mise en place d&apos;un Conseil multiculturel."/>
+	<entry name="DropPod" value="Capsule de largage atmosphérique"/>
+	<entry name="DropPodDescription" value="Technologie et logistique nécessaires pour déployer des forces armées importantes derrière les lignes ennemies, à partir de l&apos;orbite de Pandora."/>
+	<entry name="Ecoform" value="Écoformation"/>
+	<entry name="EcoformDescription" value="Technologie de remodelage du terrain pour l&apos;adapter à nos besoins."/>
+	<entry name="ElectronicsCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Électronique"/>
+	<entry name="EMPBeam" value="Canon orbital"/>
+	<entry name="EMPBeamDescription" value="Satellite équipé d&apos;un canon électromagnétique visant à perturber la production ennemie."/>
+	<entry name="EngineeringCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Ingénierie"/>
+	<entry name="ExperienceDevice" value="Drones enregistreurs in situ"/>
+	<entry name="ExperienceDeviceDescription" value="Engins paramilitaires ayant pour seule fonction d&apos;enregistrer et analyser les données directement sur le théâtre des combats."/>
+	<entry name="FirstStrikeDevice" value="Analyse préliminaire et évaluation des risques"/>
+	<entry name="FirstStrikeDeviceDescription" value="Une expertise peut être réalisée sur les conditions tactiques initiales de chaque attaque, et la meilleure stratégie à adopter pour y faire face."/>
+	<entry name="Flak0" value="Prédiction de manœuvre aérienne"/>
+	<entry name="Flak0Description" value="Estimation en temps réel des futurs paramètres de vol, qui permet de rendre l&apos;armement sol-air plus efficace."/>
+	<entry name="Flak1" value="Dispersion de projectiles"/>
+	<entry name="Flak1Description" value="La fragmentation à moyenne portée permet aux projectiles sol-air de couvrir une large zone."/>
+	<entry name="Flak2" value="Farfadet"/>
+	<entry name="Flak2Description" value="Beaucoup plus puissant qu&apos;une impulsion électromagnétique, le farfadet (ou éclair bleu) peut couvrir une large zone du ciel avec des effets dévastateurs."/>
+	<entry name="Flame0" value="Pré-allumage infernal"/>
+	<entry name="Flame0Description" value="Nouveau système d&apos;allumage portatif générant des flammes à plus de 2000 degrés Celsius, et capables de faire fondre la chair de n&apos;importe quelle espèce."/>
+	<entry name="Flame1" value="Post-réaction chimique"/>
+	<entry name="Flame1Description" value="Leçon de chimie de base, quoique mémorable, enseignée à l&apos;ennemi."/>
+	<entry name="Flame2" value="Armement biochimique"/>
+	<entry name="Flame2Description" value="Permet d&apos;élaborer des armes ultra-spécialisées, embarquant les substances chimiques les plus toxiques de la faune et de la flore locales."/>
+	<entry name="Food0" value="Engrais de synthèse"/>
+	<entry name="Food0Description" value="Rend l&apos;agriculture possible sur tout type de sol."/>
+	<entry name="Food1" value="Aéroponie"/>
+	<entry name="Food1Description" value="Les plantes poussent dans un environnement aérien ou humide, sans utiliser de sol ni de substrat solide."/>
+	<entry name="Food2" value="Réplication de nourriture"/>
+	<entry name="Food2Description" value="Répliquer les aliments existants à partir de mycoprotéines, afin de satisfaire les besoins nutritionnels des mégalopoles dont la croissance dépasse toutes les prévisions."/>
+	<entry name="FoodMinerals" value="Démantèlement de vaisseau colonial"/>
+	<entry name="FoodMineralsDescription" value="Recycle le vaisseau spatial ayant permis d&apos;atteindre Pandora, et laissé à l&apos;abandon, en ressources indispensables."/>
+	<entry name="Former1" value="Aménagement amphibie"/>
+	<entry name="Former1Description" value="Permet d&apos;aménager les zones humides et les fonds marins de Pandora, et d&apos;exploiter ainsi de nouvelles ressources."/>
+	<entry name="FormerWorkSpeed" value="Grande étude planétaire"/>
+	<entry name="FormerWorkSpeedDescription" value="Projet d&apos;étude environnementale à grande échelle de Pandora, destinée à évaluer les possibilités offertes par chaque parcelle de terrain."/>
+	<entry name="Fungus0" value="Culture des champignons"/>
+	<entry name="Fungus0Description" value="Technologie permettant de développer et décomposer les colonies de champignons en toute sécurité."/>
+	<entry name="Fungus1" value="Mutagenèse mycologique"/>
+	<entry name="Fungus1Description" value="Mutation des champignons destinée à produire des nutriments et des minéraux."/>
+	<entry name="Fungus2" value="Hormones fongiques"/>
+	<entry name="Fungus2Description" value="Augmente davantage la production en nutriments et minéraux des champignons."/>
+	<entry name="GoldenAge" value="Âge d&apos;or"/>
+	<entry name="GoldenAgeDescription" value="Célébrations pour marquer l&apos;entrée de la colonie dans un nouvel âge de lumière et d&apos;harmonie."/>
+	<entry name="Growth" value="Étude eugénique de la population"/>
+	<entry name="GrowthDescription" value="Étude médicale visant à identifier les défauts génétiques les plus répandus au sein de la population."/>
+	<entry name="Growth0" value="Thérapie génique universelle"/>
+	<entry name="Growth0Description" value="L&apos;accès de masse à la thérapie génique devrait améliorer le taux de survie de la population."/>
+	<entry name="Growth1" value="Clonage de masse"/>
+	<entry name="Growth1Description" value="Reproduction humaine artificielle qui stimule la croissance de la population."/>
+	<entry name="Growth2" value="Barrières à antipersonnalité virale"/>
+	<entry name="Growth2Description" value="Mesures qui empêchent nos populations post-humaines de plonger dans la « gelée grise »."/>
+	<entry name="Guerrilla" value="Techniques de guérilla"/>
+	<entry name="GuerrillaDescription" value="Tactiques d&apos;attaque éclair adaptées au nouveau monde."/>
+	<entry name="Harvest" value="Récolte autonome à distance"/>
+	<entry name="HarvestDescription" value="Techniques et outils permettant une collecte indépendante des ressources à travers les terres et les mers."/>
+	<entry name="HealAreaDevice" value="Secours aérien"/>
+	<entry name="HealAreaDeviceDescription" value="Appareil mobile capable de soigner et réparer les unités d&apos;une zone donnée."/>
+	<entry name="Laser0" value="Émission d&apos;énergie active"/>
+	<entry name="Laser0Description" value="Mise au point d&apos;un dispositif alimenté à l&apos;électricité, et capable de produire un faisceau de 100 kW ou plus."/>		<!-- Translators, please check: http://iate.europa.eu/FindTermsByOtherLanguage.do?lilId=1581268&langId=s -->
+	<entry name="Laser1" value="Faisceaux à fusion"/>
+	<entry name="Laser1Description" value="La fusion de noyaux de deutérium et tritium en état d&apos;excitation avec de l&apos;hélium peut dégager une puissance dévastatrice."/>
+	<entry name="Laser2" value="Particules de graviton"/>
+	<entry name="Laser2Description" value="La découverte des particules de graviton conduit aussitôt à des applications militaires."/>
+	<entry name="Leviathan" value="Peau de Léviathan"/>
+	<entry name="Market0" value="Marché planétaire"/>
+	<entry name="Market0Description" value="Une plate-forme sécurisée et anonyme pour le négoce de ressources entre factions."/>
+	<entry name="MathematicsCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Mathématiques"/>
+	<entry name="Mech0" value="Machines de guerre humanoïdes"/>
+	<entry name="Mech0Description" value="Machines de guerre gigantesques qui dominent le champ de bataille."/>
+	<entry name="Mech1" value="Structure en adamantium"/>
+	<entry name="Mech1Description" value="Élève le mecha au niveau supérieur grâce à une structure à base d&apos;adamantium."/>
+	<entry name="Mech2" value="Titan organique"/>
+	<entry name="Mech2Description" value="Un homme-machine, ou machine humaine, qui est également le plus grand mecha jamais réalisé. Sans égal sur le champ de bataille."/>
+	<entry name="Minerals0" value="Raffinage du minerai"/>
+	<entry name="Minerals0Description" value="Procédé de raffinage adapté aux ressources minières généreuses de Pandora."/>
+	<entry name="Minerals1" value="Excavation robotisée"/>
+	<entry name="Minerals1Description" value="Drones robotisés créés pour soutenir l&apos;exploitation minière."/>
+	<entry name="Minerals2" value="Téléportation de minerai"/>
+	<entry name="Minerals2Description" value="Extraction minière d&apos;un nouveau genre, reposant sur des microdistorsions d&apos;une extrême précision."/>
+	<entry name="Mines" value="Mines orbitales"/>
+	<entry name="MinesDescription" value="Engins extrêmement explosifs déployés depuis l&apos;espace."/>
+	<entry name="Missile0" value="Armement guidé"/>
+	<entry name="Missile0Description" value="Systèmes d&apos;armes guidées et autopropulsées"/>
+	<entry name="Missile1" value="Ciblage intelligent"/>
+	<entry name="Missile1Description" value="Un missile de base peu onéreux qui embarque une IA et poursuit sa cible jusqu&apos;à l&apos;impact, assurant une prise de risque minimale et une précision accrue."/>
+	<entry name="Missile2" value="Maîtrise de l&apos;antimatière"/>
+	<entry name="Missile2Description" value="La maîtrise de cette technologie a débouché sur un nouveau missile générant des réactions matière-antimatière contrôlées."/>
+	<entry name="Morale0" value="Projections holographiques"/>
+	<entry name="Morale0Description" value="L&apos;étape suivante de la visualisation numérique en matière de divertissement."/>
+	<entry name="Morale1" value="Expressivité des émotions"/>
+	<entry name="Morale1Description" value="Neurochirurgie et conditionnement consacrés à l&apos;amélioration de l&apos;existence."/>
+	<entry name="Morale2" value="Traitement des signaux cognitifs"/>
+	<entry name="Morale2Description" value="Les derniers projets en manipulation par neurorétroaction aident notre population à mieux gérer les situations de stress."/>
+	<entry name="Movement" value="Dilatation temporelle appliquée"/>
+	<entry name="MovementDescription" value="Améliore la vitesse de déplacement des troupes en manipulant le temps comme n&apos;importe quelle autre dimension."/>
+	<entry name="MovementDevice" value="Évaluation topologique"/>
+	<entry name="MovementDeviceDescription" value="Cette branche de la logistique a été inaugurée dans le seul but de réduire les coûts d&apos;acheminement. Appliquée au domaine militaire, ses performances pourraient avoir des conséquences intéressantes."/>
+	<entry name="NanoRobots" value="Rétablissement nanotechnologique"/>
+	<entry name="NanoRobotsDescription" value="Des nanorobots spécialement conçus et programmés pour réparer tous types de dégâts, aussi bien organiques que mécaniques."/>
+	<entry name="Nuke" value="Acheminement d&apos;armes nucléaires"/>
+	<entry name="NukeDescription" value="Un système d&apos;acheminement planétaire d&apos;armes nucléaires, qui ouvre la porte à une guerre thermonucléaire."/>
+	<entry name="PhysicsCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Physique"/>
+	<entry name="Pollution" value="Conscience planétaire"/>
+	<entry name="PollutionDescription" value="Évaluation, mise en œuvre et surveillance de projets suivant des facteurs écologiques, afin de minimiser les problèmes de pollution qui pourraient survenir."/>
+	<entry name="Pollution0" value="Recyclage automatique"/>
+	<entry name="Pollution0Description" value="Identifie et apporte une solution à un défaut majeur de l&apos;industrialisation."/>
+	<entry name="Pollution1" value="Recyclage de l&apos;air"/>
+	<entry name="Pollution1Description" value="Réduit la pollution en nettoyant l&apos;air de la planète."/>
+	<entry name="Pollution2" value="Atmosphère artificielle"/>
+	<entry name="Pollution2Description" value="Purge l&apos;atmosphère à partir de données existantes afin de créer une biosphère plus stable."/>
+	<entry name="Population" value="Urbanisation avancée"/>
+	<entry name="PopulationDescription" value="Optimise l&apos;utilisation de l&apos;espace à l&apos;intérieur de vos colonies."/>
+	<entry name="Population0" value="Habitat modulaire"/>
+	<entry name="Population0Description" value="Mise au point d&apos;habitations efficaces et modulaires."/>
+	<entry name="Population1" value="Champ de Podkletnov"/>
+	<entry name="Population1Description" value="Création de champs gravitomagnétiques à usage urbain."/>
+	<entry name="Population2" value="Retraite numérique"/>
+	<entry name="Population2Description" value="L&apos;immortalité ne reste peut-être qu&apos;un rêve inaccessible, mais il existe d&apos;autres moyens de prolonger la vie sur une très longue durée."/>
+	<entry name="Power" value="Télépathie"/>
+	<entry name="PowerDescription" value="La capacité de lire dans les pensées peut avoir son utilité dans un nombre incalculable de situations."/>
+	<entry name="Production" value="Rendement opérationnel"/>
+	<entry name="ProductionDescription" value="Introduction d&apos;une autorité de régulation pour fluidifier les contrats d&apos;entreprise, augmentant la productivité."/>
+	<entry name="Production0" value="Automatisation industrielle"/>
+	<entry name="Production0Description" value="Ouvre l&apos;ère des machines qui construisent des machines."/>
+	<entry name="Production1" value="Fabrication intelligente"/>
+	<entry name="Production1Description" value="La fabrication supervisée par une IA maximise le rendement des usines."/>
+	<entry name="Production2" value="Fabrication nanotechnologique"/>
+	<entry name="Production2Description" value="L&apos;autoréplication améliore encore plus les rendements en éliminant toute intervention humaine."/>
+	<entry name="Promotion" value="Formation de terrain"/>
+	<entry name="PromotionDescription" value="Rend vos troupes plus compétentes grâce à des techniques d&apos;entrainement avancées sur le terrain."/>
+	<entry name="Research" value="Croissance cérébrale"/>
+	<entry name="ResearchDescription" value="Le développement forcé du cortex cérébral induit notamment une augmentation de l&apos;intelligence."/>
+	<entry name="Research0" value="Quantification"/>
+	<entry name="Research0Description" value="Une nouvelle approche des domaines classiques de la science, apportant des théories innovantes."/>
+	<entry name="Research1" value="Théorie quantique du chaos"/>
+	<entry name="Research1Description" value="Le recalcul à la volée des espaces de phase améliore grandement nos résultats expérimentaux."/>
+	<entry name="Research2" value="Théorie moderne des cordes"/>
+	<entry name="Research2Description" value="Les percées réalisées dans la théorie M révolutionnent notre façon de penser sur la causalité."/>
+	<entry name="Scan" value="Reconnaissance orbitale"/>
+	<entry name="ScanDescription" value="Savoir, c&apos;est pouvoir : une liaison satellite fiable nous permet d&apos;utiliser d&apos;effectuer des reconnaissances sur toute la planète à partir d&apos;engins spatiaux."/>
+	<entry name="Sight" value="Capteurs au xénotronium"/>
+	<entry name="SightDescription" value="Des détecteurs de mouvement et de chaleur perfectionnés, capables de repérer l&apos;ennemi à une plus grande distance."/>
+	<entry name="SightDevice" value="Réverbération sonore expérimentale"/>
+	<entry name="SightDeviceDescription" value="L&apos;examen poussé de la réverbération du son dans un environnement gazeux pourrait développer de façon intéressante la veille opérationnelle."/>
+	<entry name="Sniper0" value="Projectiles à grande vitesse"/>
+	<entry name="Sniper0Description" value="Développement d&apos;une chambre sophistiquée, conférant aux balles de fusil de précision une rapidité, une portée et une précision extraordinaires."/>
+	<entry name="Sniper1" value="Décharges à fort impact"/>
+	<entry name="Sniper1Description" value="Des munitions hautement ionisées pour fusils de précision, capables de neutraliser toute cible qui soit encore opérationnelle ou vivante."/>
+	<entry name="Sniper2" value="Désorganisation quantique appliquée"/>
+	<entry name="Sniper2Description" value="Balles quantiques spécialement conçues pour les armes de précision, qui font subir une déformation cellulaire à leur cible."/>
+	<entry name="SociologyCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Sociologie"/>
+	<entry name="SpyAttack" value="Virus de conversion"/>
+	<entry name="SpyAttackDescription" value="Des spores de champignon induisant une forte capacité de persuasion, et qui peuvent être utilisées comme arme sur une petite surface."/>
+	<entry name="SpyBuilding" value="Villes panoptiques"/>
+	<entry name="SpyBuildingDescription" value="Villes érigées de telle sorte que le moindre espace est exposé à la vue des forces de l&apos;ordre."/>
+	<entry name="SpyDefense" value="Custodes"/>
+	<entry name="SpyDefenseDescription" value="Appareils autonomes capables de détecter et de suivre à la trace tout ADN ennemi."/>
+	<entry name="SpyDevice" value="Travaux sur l&apos;illusion"/>
+	<entry name="SpyDeviceDescription" value="Illusions optiques, mentales et numériques combinées en un dispositif unique de détection-prévention."/>
+	<entry name="StrategyCategoryProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Technologie - Stratégie"/>
+	<entry name="Tank0" value="Machines de guerre lourdes"/>
+	<entry name="Tank0Description" value="La mise au point d&apos;une coque capable de déviations mécaniques et électrostatiques nous permet de produire des véhicules de combat lourdement blindés."/>
+	<entry name="Tank1" value="Nanotubes de carbone"/>
+	<entry name="Tank1Description" value="L&apos;utilisation d&apos;allotropes de carbone améliore davantage les capacités des blindés lourds."/>
+	<entry name="Tank2" value="Interface homme-machine"/>
+	<entry name="Tank2Description" value="Offre la possibilité terrifiante de relier directement un char d&apos;assaut à son équipage."/>
+	<entry name="Teleportation" value="Téléportation"/>
+	<entry name="TeleportationDescription" value="Le déplacement instantané de matière est enfin à votre portée."/>
+	<entry name="Terraform" value="Terraformation"/>
+	<entry name="TerraformDescription" value="Technologie de terrassement et remodelage du terrain."/>
+	<entry name="Transport" value="Logistique de transport maritime"/>
+	<entry name="TransportDescription" value="Logistique nécessaire pour expédier des troupes terrestres à travers les mers."/>
+	<entry name="Trooper1" value="Combinaison de combat"/>
+	<entry name="Trooper1Description" value="L&apos;équipement de la prochaine génération de fantassins."/>
+	<entry name="Trooper2" value="Combinaison organique"/>
+	<entry name="Trooper2Description" value="L&apos;infanterie améliorée par de la technologie extraterrestre."/>
+	<entry name="UpkeepDevice" value="Logique de rationnement"/>
+	<entry name="UpkeepDeviceDescription" value="Le rationnement en lui-même peut sembler cruel aux yeux de certains, mais lorsqu&apos;il est appliqué de façon humaine, le gain d&apos;efficacité ne peut être négligé."/>
+	<entry name="Watercraft0" value="Propulsion électrique navale"/>
+	<entry name="Watercraft0Description" value="Des générateurs directement embarqués sur les embarcations assurent une propulsion hydroélectrique optimale dans toutes les situations."/>
+	<entry name="Watercraft1" value="Ceinture"/>
+	<entry name="Watercraft1Description" value="Une ceinture épaisse qui surplombe la coque pour améliorer le blindage des navires."/>
+	<entry name="Watercraft2" value="Cloison renforcée"/>
+	<entry name="Watercraft2Description" value="Cette cloison destinée aux applications navales est conçue pour résister aux dégâts physiques et non physiques de toutes sortes."/>
+</language>

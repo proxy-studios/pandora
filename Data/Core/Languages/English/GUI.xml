@@ -140,9 +140,9 @@
 	<entry name="Host" value="Host"/>
 	<entry name="Hostile" value="Hostile"/>
 	<entry name="IdleUnitsHint" value="Select next idle unit [Tab]."/>
+	<entry name="INFINITY" value="99"/>
 	<entry name="Incompatible" value="Incompatible"/>
 	<entry name="Info" value="Info"/>
-	<entry name="INFINITY" value="99"/>
 	<entry name="Invite" value="Invite"/>
 	<entry name="InviteDisabledHint" value="Server not running Steam version or Steam matchmaking unavailable."/>
 	<entry name="IP" value="IP"/>
@@ -231,6 +231,7 @@
 	<entry name="Parameters" value="Parameters"/>
 	<entry name="Password" value="Password"/>
 	<entry name="PlayerName" value="Player Name"/>
+	<entry name="Player" value="Player"/>
 	<entry name="Players" value="Players"/>
 	<entry name="PleaseWait" value="Please Wait ..."/>
 	<entry name="PleaseWaitHint" value=""/>
@@ -308,10 +309,10 @@
 	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% from population"/>
 	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% from production"/>
 	<entry name="ResourcePerTurnFromRazing" value="<icon texture='GUI/Bullet'/>%1% from razing"/>
-	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% from subversive riots"/>
 	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% from research"/>
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% from scientists"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% from research pacts"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% from subversive riots"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% from starvation"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% from takeover"/>
 	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% from takeover casualties"/>
@@ -327,7 +328,6 @@
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>%1% turns left"/>
 	<entry name="Return" value="Return"/>
 	<entry name="ReturnToMap" value="Return to Map"/>
-	<entry name="RazeOrder" value="raze order"/>
 	<entry name="Riot" value="Riot"/>
 	<entry name="Save" value="Save"/>
 	<entry name="SaveGame" value="Save Game"/>
@@ -348,6 +348,8 @@
 	<entry name="SettingsHint" value="Settings [Ctrl+E]"/>
 	<entry name="ShowAdditionalOrders" value="Show additional orders."/>
 	<entry name="SightHint" value="Sight Range<br/>How far the unit can see."/>
+	<entry name="SlotClosed" value="[Closed]"/>
+	<entry name="SlotOpen" value="[Open]"/>
 	<entry name="SortByClass" value="Sort by Class"/>
 	<entry name="SortByCredits" value="Sort by Credits"/>
 	<entry name="SortByDevice" value="Sort by Device"/>
@@ -401,6 +403,7 @@
 	<entry name="Tip" value="Tip"/>
 	<entry name="Tips" value="Tips"/>
 	<entry name="TipsHelp" value="Tips are shown throughout the game to aid the player. You can read individual tips in this section or reset tips in the settings panel to have them shown again during gameplay."/>
+	<entry name="ToggleGrid" value="Toggle grid [Ctrl+G]."/>
 	<entry name="ToggleYieldOverlay" value="Toggle yield overlay [Ctrl+Y]."/>
 	<entry name="Total" value="Total"/>
 	<entry name="TradingPact" value="Trading pact"/>

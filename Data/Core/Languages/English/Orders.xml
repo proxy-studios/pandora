@@ -19,11 +19,11 @@
 	<entry name="BuildMine" value="Build Mine"/>
 	<entry name="BuildMineHint" value="Build Mine [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildPurifier" value="Build Purifier"/>
-	<entry name="BuildPurifierHint" value="Build Purifier [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildPurifierHint" value="Build Purifier [P]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildRoad" value="Build Road"/>
 	<entry name="BuildRoadHint" value="Build Road [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="BuildSuburb" value="Build Suburb"/>
-	<entry name="BuildSuburbHint" value="Build Suburb [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="BuildSuburbHint" value="Build Suburb [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearCreep" value="Clear Infestation"/>
 	<entry name="ClearCreepHint" value="Clear Infestation<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="ClearForest" value="Clear Forest"/>
@@ -47,7 +47,7 @@
 	<entry name="GrowForest" value="Grow Forest"/>
 	<entry name="GrowForestHint" value="Grow Forest [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1  <icon texture='Resources/Minerals'/> 1  <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="GrowFungus" value="Grow Fungus"/>
-	<entry name="GrowFungusHint" value="Grow Fungus [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
+	<entry name="GrowFungusHint" value="Grow Fungus [N]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 	<entry name="HarvestCredits" value="Harvest Credits"/>
 	<entry name="HarvestCreditsHint" value="Harvest Credits<br/><style name='Small'/><icon texture='GUI/Bullet'/>Gathers <icon texture='Resources/Credits'/> credits from territory"/>
 	<entry name="HarvestFood" value="Harvest Food"/>
@@ -82,15 +82,15 @@
 	<entry name="SabotageBuilding" value="Sabotage Building"/>
 	<entry name="SabotageBuildingHint" value="Sabotage Building<br/><icon texture='GUI/Bullet'/>Destroys a random building of a city<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="SabotageProduction" value="Sabotage Production"/>
-	<entry name="SabotageProductionHint" value="Sabotage Production<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a city's accumulated production, up to the entire production pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="SabotageProductionHint" value="Sabotage Production<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a city's accumulated production<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="SabotageResearch" value="Sabotage Research"/>
-	<entry name="SabotageResearchHint" value="Sabotage Research<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a player's accumulated research, up to the entire research pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="SabotageResearchHint" value="Sabotage Research<br/><icon texture='GUI/Bullet'/>Destroys a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="Skip" value="Skip"/>
 	<entry name="SkipHint" value="Skip [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Skip this turn"/>
 	<entry name="StealCredits" value="Steal Credits"/>
-	<entry name="StealCreditsHint" value="Steal Credits<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated credits, up to the entire credit pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="StealCreditsHint" value="Steal Credits<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated credits<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="StealResearch" value="Steal Research"/>
-	<entry name="StealResearchHint" value="Steal Research<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated research, up to the entire research pool<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
+	<entry name="StealResearchHint" value="Steal Research<br/><icon texture='GUI/Bullet'/>Steals a random amount of a player's accumulated research<br/><icon texture='GUI/Bullet'/>%1%%% base success chance"/>
 	<entry name="WorsenEcoregion" value="Worsen Ecoregion"/>
 	<entry name="WorsenEcoregionHint" value="Worsen Ecoregion [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>%1% turn work duration"/>
 </language>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AcceptCreditsForDeal0" value="(envisage un paiement contre accord)"/>
+	<entry name="AcceptCreditsForDeal1" value="(accepte un paiement contre accord)"/>
+	<entry name="AcceptDenounce" value="(accepte de détracter)"/>
+	<entry name="AcceptDenounceThirdParty0" value="(envisage de détracter un tiers)"/>
+	<entry name="AcceptDenounceThirdParty1" value="(accepte de détracter un tiers)"/>
+	<entry name="AcceptOpenBorders" value="(accepte d&apos;ouvrir les frontières)"/>
+	<entry name="AcceptPeaceOfferToThirdParty0" value="(envisage de signer la paix avec un tiers)"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="(accepte de signer la paix avec un tiers)"/>
+	<entry name="AcceptPraise" value="(accepte les louanges)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="(envisage des sanctions à l&apos;encontre d&apos;un tiers)"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="(accepte des sanctions à l&apos;encontre d&apos;un tiers)"/>
+	<entry name="AcceptShareMap" value="(accepte de partager les cartes)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="(envisage de déclarer la guerre à un tiers)"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="(accepte de déclarer la guerre à un tiers)"/>
+	<entry name="RejectCreditsForDeal0" value="(refuse un paiement contre accord)"/>
+	<entry name="RejectCreditsForDeal1" value="(refuse un paiement contre accord)"/>
+	<entry name="AllianceAccepted" value="(accepte une alliance)"/>
+	<entry name="AllianceHint" value="Une alliance dure au moins 10 tours ; elle permet aux deux factions de pénétrer dans le territoire de l&apos;autre et de combattre côte à côte."/>
+	<entry name="AllianceRejected" value="(refuse l&apos;alliance)"/>
+	<entry name="DeclareWar" value="(déclare la guerre)"/>
+	<entry name="DemandCreditsForDeal" value="(exige un paiement contre accord)"/>
+	<entry name="DemandPeaceOfferToThirdParty0" value="(exige de signer la paix avec un tiers)"/>
+	<entry name="DemandSanctionsAgainstThirdParty0" value="(exige des sanctions à l&apos;encontre d&apos;un tiers)"/>
+	<entry name="DemandTribute0" value="(exige un tribut)"/>
+	<entry name="DemandWarDeclarationOnThirdParty0" value="(exige de déclarer la guerre à un tiers)"/>
+	<entry name="DemandWithdrawal" value="(exige le retrait des troupes)"/>
+	<entry name="Denounce" value="(détracte publiquement)"/>
+	<entry name="DenounceHint" value="Des accusations publiques qui nuisent à la réputation de la faction détractée envers vos amis, mais qui améliorent la réputation de la faction envers vos rivaux. En cas de refus, l&apos;impact est atténué."/>
+	<entry name="DenounceThirdParty0" value="(détracte officieusement un tiers)"/>
+	<entry name="DenounceThirdPartyHint" value="Des accusations qui portent sur un tiers commettant des crimes nuisibles à votre interlocuteur. Si elles sont prises au sérieux, vous gagnez en réputation avec le partenaire tandis que le tiers tombe en disgrâce à leurs yeux. Dans le cas contraire, vous perdez en réputation sans autre conséquence directe."/>
+	<entry name="GiftAccepted0" value="(envisage d&apos;accepter une enveloppe)"/>
+	<entry name="GiftAccepted1" value="(accepte une enveloppe)"/>
+	<entry name="GiftHint" value="Une enveloppe financière qui, si elle est acceptée, améliore la réputation du donateur avec le bénéficiaire."/>
+	<entry name="GiftRejected0" value="(refuse un cadeau)"/>
+	<entry name="GiftRejected1" value="(refuse un cadeau)"/>
+	<entry name="Goodbye" value="(termine la discussion)"/>
+	<entry name="LetMeKnow" value="(termine la discussion)"/>
+	<entry name="LetMeThink" value="(envisage les options)"/>
+	<entry name="NonAggressionPactAccepted" value="(accepte un pacte de non-agression)"/>
+	<entry name="NonAggressionPactHint" value="Un pacte de non-agression empêche les deux factions de se déclarer la guerre. Rompre ce pacte causerait une baisse importante de réputation avec l&apos;autre faction et, dans une moindre mesure, avec toutes factions en contact avec l&apos;un des deux signataires du pacte."/>
+	<entry name="NonAggressionPactRejected" value="(refuse un pacte de non-agression)"/>
+	<entry name="OfferAlliance" value="(propose une alliance)"/>
+	<entry name="OfferGift0" value="(propose un cadeau)"/>
+	<entry name="OfferNonAggressionPact" value="(propose un pacte de non-agression)"/>
+	<entry name="OfferOpenBorders" value="(propose d&apos;ouvrir les frontières)"/>
+	<entry name="OfferPeace" value="(propose la paix)"/>
+	<entry name="OfferResearchPact" value="(propose un pacte scientifique)"/>
+	<entry name="OfferShareMap" value="(propose de partager les cartes)"/>
+	<entry name="OfferTradingPact" value="(propose un pacte commercial)"/>
+	<entry name="OpenBordersHint" value="Permet aux deux factions de pénétrer sur le territoire de l&apos;autre."/>
+	<entry name="PeaceAccepted" value="(accepte la paix)"/>
+	<entry name="PeaceOfferToThirdPartyHint" value="Exige que l&apos;interlocuteur propose la paix à un tiers. Si les deux partenaires sont dans une alliance, refuser de propose la paix engendre une perte de réputation avec l&apos;allié."/>
+	<entry name="PeaceRejected" value="(rejette la paix)"/>
+	<entry name="Praise" value="(formule des louanges publiques)"/>
+	<entry name="PraiseHint" value="Des éloges publics qui, s&apos;ils sont acceptées, améliorent la réputation de la faction louée avec vos amis, mais diminuent la réputation de la faction avec vos rivaux."/>
+	<entry name="RejectDenounce" value="(refuse de détracter)"/>
+	<entry name="RejectDenounceThirdParty0" value="(refuse de détracter un tiers)"/>
+	<entry name="RejectDenounceThirdParty1" value="(refuse de détracter un tiers)"/>
+	<entry name="RejectOpenBorders" value="(refuse d&apos;ouvrir les frontières)"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="(refuse de proposer la paix à un tiers)"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="(refuse de proposer la paix à un tiers)"/>
+	<entry name="RejectPraise" value="(refuse les louanges)"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="(refuse les sanctions à l&apos;encontre d&apos;un tiers)"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="(refuse les sanctions à l&apos;encontre d&apos;un tiers)"/>
+	<entry name="RejectShareMap" value="(refuse de partager les cartes)"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="(refuse de déclarer la guerre à un tiers)"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="(refuse de déclarer la guerre à un tiers)"/>
+	<entry name="ResearchPactAccepted" value="(accepte le pacte scientifique)"/>
+	<entry name="ResearchPactHint" value="Un pacte scientifique octroie jusqu&apos;à 25% de bonus (selon sa durée) sur la recherche totale par tour d&apos;une faction à son partenaire. Par conséquent, la faction avec le moins de recherche par tour est celle qui profite le plus du pacte."/>
+	<entry name="ResearchPactRejected" value="(refuse le pacte scientifique)"/>
+	<entry name="SanctionsAgainstThirdPartyHint" value="Exige de l&apos;interlocuteur qu&apos;il annule tout pacte commercial ou scientifique avec un tiers. Refuser cette demande engendre une perte de réputation, tandis qu&apos;accepter améliore la réputation."/>
+	<entry name="ShareMapHint" value="Les deux factions partagent leurs connaissances des territoires explorés, mais le brouillard de guerre n&apos;est pas révélé."/>
+	<entry name="TerminateAlliance" value="(met fin à l&apos;alliance)"/>
+	<entry name="TerminateNonAggressionPact" value="(met fin au pacte de non-agression)"/>
+	<entry name="TerminateOpenBorders" value="(met fin à l&apos;ouverture des frontières)"/>
+	<entry name="TerminateResearchPact" value="(met fin au pacte de la recherche)"/>
+	<entry name="TerminateTradingPact" value="(met fin au pacte commercial)"/>
+	<entry name="TradingPactAccepted" value="(accepte un pacte commercial)"/>
+	<entry name="TradingPactHint" value="Un pacte commercial octroie jusqu&apos;à 25% de bonus (selon sa durée) sur les recettes totales par tour d&apos;une faction à son partenaire. Par conséquent, la faction avec le moins de recettes par tour est celle qui profite le plus du pacte."/>
+ 	<entry name="TradingPactRejected" value="(refuse le pacte commercial)"/>
+	<entry name="TributeAccepted0" value="(envisage de payer un tribut)"/>
+	<entry name="TributeAccepted1" value="(accepte de payer un tribut)"/>
+	<entry name="TributeHint" value="Un reflet de l&apos;équilibre du pouvoir entre deux factions, exiger ou refuser un tribut nuit aux relations entre les factions concernées."/>
+	<entry name="TributeRejected0" value="(refuse de payer un tribut)"/>
+	<entry name="TributeRejected1" value="(refuse de payer un tribut)"/>
+	<entry name="WarHint" value="Une guerre dégrade fortement les relations entre deux factions ; elle permet à chaque belligérant de pénétrer sur le territoire de l&apos;ennemi, d&apos;attaquer ses unités et capturer ses villes."/>
+	<entry name="WarDeclarationOnThirdPartyHint" value="Exige de l&apos;interlocuteur qu&apos;il déclare la guerre à un tiers. Si les deux partenaires sont dans une même alliance, refuser de déclarer la guerre ternit la réputation avec l&apos;allié."/>
+	<entry name="WithdrawalAccepted" value="(accepte de retirer les troupes)"/>
+	<entry name="WithdrawalRejected" value="(refuse de retirer les troupes)"/>
+</language>

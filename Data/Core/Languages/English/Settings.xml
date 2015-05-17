@@ -84,6 +84,8 @@
 	<entry name="TextureQuality0" value="Low"/>
 	<entry name="TextureQuality1" value="Medium"/>
 	<entry name="TextureQuality2" value="High"/>
+	<entry name="TitleScreen" value="Title Screen"/>
+	<entry name="TitleScreenHint" value="Determines the title screen to show."/>
 	<entry name="VerticalSynchronization" value="Vertical Synchronization"/>
 	<entry name="VerticalSynchronizationHint" value="Synchronizes your frame rate to your primary monitor's refresh rate. This will eliminate screen tearing and reduce hardware load, but will also cause reduced performance if your hardware cannot keep up with the monitor's refresh rate."/>
 	<entry name="Video" value="Video"/>

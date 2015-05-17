@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+	
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="« Bonjour %3%, je suis le directeur Eric Preston de la Noxium Corporation. C&apos;est un plaisir de faire votre connaissance. Maintenant, nous pensons que Pandora présente un fort potentiel économique - donc, tant que vous n&apos;influencez pas les marchés, nous devrions être les meilleurs amis du monde, hmm ? »"/>
+
+	<entry name="NamePositive" value="« Le raisonnable %6%. »"/> 
+	<entry name="NameNegative" value="« L&apos;avide %6%. »"/> 
+	
+	<entry name="LetMeThink" value="« Hmm... laissez-moi le temps d&apos;analyser la situation. »"/> 
+	<entry name="LetMeKnow" value="« Bien entendu, appelez mon bureau quand vous aurez pris votre décision. »"/> 
+		
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="« Mes analystes ont quelques données qui pourraient plonger vos actions dans un abime sans fin. Intéressé ? »"/>
+	<!-- Wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="« Hmm, si cela affecte le cours de note action... poursuivez. »"/> 
+	<!-- Is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="« Épargnez-moi vos intrigues mesquines, %2%. J&apos;ai de l&apos;argent à faire. »"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/>
+	<!-- Believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="« Ha, on ne peut pas faire confiance à ce renard de %6%... cette information va nous économiser une fortune. Ma gratitude éternelle. »"/> 
+	<!-- Dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="« Ha, vous feriez bien d&apos;apprendre à mieux mentir. Je suis en excellents termes avec %6%. Je vais transmettre votre message et vendre vos actifs à découvert, pronto. »"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="« En échangeant avec une faction, vous faites subir une taxe de protection au reste d&apos;entre nous. Retirez-la et nous pourrons parler dans de meilleures conditions. »"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="« Entendu, mais il vaut mieux que cela rapporte nous rapporte quelque chose de tangible. &quot;"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="« Je suis désolé, ce sont les affaires, rien de plus. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandSanctionsAgainstThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="« Entendu. Un imbécile et son argent sont déjà bien chanceux de se retrouver ensemble. »"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="« Non, ce sont des partenaires privilégiés. C&apos;est un jeu à bilan nul, quelqu&apos;un gagne, quelqu&apos;un perd. Vous perdez. »"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="« J&apos;ai une proposition avantageuse pour nombre de personnes - et cela implique que vous cessiez cette guerre. Intéressé ? »"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="« Quelles mains dois-je serrer ? »"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="« Pas cette fois. Nous allons ressortir de cette guerre riche comme Crésus ! »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandPeaceOfferToThirdParty1" value="&quot;&quot;"/> 
+	<entry name="AcceptPeaceOfferToThirdParty1" value="« Hmm. Bien, avec une telle somme sur la table, même %6% pourrait vouloir la paix. »"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="« C&apos;est impossible. »"/>
+	
+	<!-- Demands from dialogue partner to declare war on a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="« J&apos;ai vendu vos actifs à découvert, alors vous feriez mieux de perdre quelques hommes à la guerre dans les plus brefs délais. »"/>
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="« 500 ans de paix suisse ont produit la pendule à coucou. Hmm. Voyons à combien se chiffre la guerre. »"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="« Désolé, nous sommes à la recherche d&apos;OPA pacifiques pour le moment. Ceci est trop agressif. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="« Oui, ils vont le faire. Ces crétins. Nous allons vendre leurs actions au plus haut, les ruiner dans la guerre, puis acheter au plus bas. »"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="« Je pense que nous dégagerons plus de bénéfices en vendant des armes aux deux camps, mais nous vous remercions de votre proposition. »"/>
+	
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="« Envie d&apos;un bon repas à l&apos;œil ? Partageons nos cartes. »"/>
+	<entry name="AcceptShareMap" value="« Ce qui est à vous est à moi. Et ce qui est à moi est à moi. Partageons. »"/>
+	<entry name="RejectShareMap" value="« Je suis intéressé par un autre genre de papier. »"/>
+		
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="« La libre circulation des biens et des services bénéficie à tout le monde. Mais surtout à moi. »"/>
+	<entry name="AcceptOpenBorders" value="« J&apos;aime ouvrir les frontières comme j&apos;aime ouvrir les bourses - quand ce sont celles des autres. »"/>
+	<entry name="RejectOpenBorders" value="« Je ne pense pas. »"/>
+	<entry name="TerminateOpenBorders" value="« Invoquant la clause 59.4 de notre accord sur le libre passage, je mets fin par la présente à tout ce traité - et conformément à la clause 59.4.3 je n&apos;ai même pas besoin d&apos;indiquer une raison. Oh mon cher %1%, j&apos;adore les petites coupures... »"/>
+	<entry name="AcceptOpenBordersTerminated" value="« Les délimitations apparaissent et disparaissent tout le temps sur le marché - ce n&apos;est pas une affaire d&apos;une grande importance pour moi. »"/>
+	
+	<!-- Crimes for this faction. -->
+	<entry name="Crime0" value="Vous essayez d&apos;accaparer le marché mondial !"/>
+	<entry name="Crime1" value="Vous volez des crédits directement sur nos comptes !"/>
+	<entry name="Crime2" value="Vous avez recruté des chasseurs de têtes pour récupérer mes meilleurs collaborateurs !"/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="« %7% Je vais m&apos;assurer que tout le monde apprenne vos combines, %2%. »"/>
+	<entry name="AcceptDenounce" value="« Alors vous l&apos;avez découvert, finalement. Cela vous aura pris beaucoup plus de temps que je l&apos;avais imaginé... »"/>
+	<entry name="RejectDenounce" value="« Ce sont là des accusations ridicules, %2%. Je ne sais quoi ajouter. »"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="« %5% Je ferais savoir au monde que vous êtes un excellent partenaire qui propose de bonnes affaires. »"/>
+	<entry name="AcceptPraise" value="« Merci %1%, je suis honoré ! »"/>
+	<entry name="RejectPraise" value="« Épargnez-moi vos flatteries hypocrites, %2%. Nous savons tous les deux que vous ne pensez rien de tout cela. »"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="« %3%, je suis fini. Si vous acceptez ma reddition et épargnez mes assistants, je me soumettrai à vos talents de gestionnaire et ne me mettrai plus jamais en travers de vos actions. »"/>
+	<entry name="AcceptSurrender" value="« Très bien, j&apos;accepte cette acquisition. »"/>
+	<entry name="RejectSurrender" value="« Non, %2%, je veux voir le cours de vos actions s&apos;effondrer et vos villes partir en fumée. Hors de question. »"/>
+			
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="%3%, vous comprenez véritablement l&apos;économie !"/>
+	<entry name="Compliment1" value="Toute la planète est maintenant en train de se poignarder dans le dos, de magouiller, de se lécher les bottes, et de brasser de la monnaie. Et tout ça grâce à vous !"/>
+	<entry name="Compliment2" value="Votre cupidité fait plaisir à voir !"/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="Votre matérialisme Randien saigne la sève de cette planète !"/>
+	<entry name="Insult1" value="Vous êtes le genre de banquier qui loue un parapluie quand le soleil brille et veut le récupérer à l&apos;instant même où il commence à pleuvoir."/>
+	<entry name="Insult2" value="Votre personnalité est aussi dévaluée qu&apos;un billet de banque de la Weimar."/>
+	
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="« En gage sonnant et trébuchant de ma reconnaissance, je tiens à vous transférer quelques crédits... »"/>
+	<entry name="GiftAccepted0" value="« Vous me connaissez, %1%, il m&apos;est très difficile de refuser de l&apos;argent... »"/>
+	<entry name="GiftAccepted1" value="« Marché conclu ! Je vais investir cette somme sur un marché prometteur. Nous en tirerons tous deux des bénéfices à l&apos;avenir... »"/>
+	<entry name="GiftRejected0" value="« Désolé, je n&apos;ai pas envie de prendre des pots-de-vin en ce moment. Peut-être plus tard. »"/>
+	<entry name="GiftRejected1" value="« Vous pouvez garder votre argent de poche. »"/>
+
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="« Plusieurs de vos entreprises font fi de l&apos;autorité qui régule le marché planétaire - moi. J&apos;exige une indemnisation. »"/>
+	<entry name="TributeAccepted0" value="« Épargnez-moi le babillage, combien voulez-vous, %2% ? »"/>
+	<entry name="TributeAccepted1" value="« Ma secrétaire va vous transférer l&apos;argent, mais ne vous attendez pas à que cela devienne une habitude. Je vois cela comme un prêt. »"/>
+	<entry name="TributeRejected0" value="« Je ne vais pas sortir le moindre sou de mon argent durement gagné pour une telle absurdité ! »"/>
+	<entry name="TributeRejected1" value="« Avez-vous perdu la raison ? Avec cette somme je pourrais bâtir un empire commercial ! »"/>	
+	
+	<entry name="AcceptCreditsForDeal0" value="« %1%, je peux voir que cela vous affecte, mais l&apos;argent est le baume à tous les maux. Quelle somme mettrait fin à vos souffrances ? »"/>
+	<entry name="AcceptCreditsForDeal1" value="« J&apos;y pensais également. L&apos;argent est déjà viré sur votre compte. »"/>
+	<entry name="RejectCreditsForDeal0" value="« Selon mes analystes, cet arrangement n&apos;a aucun avenir. »"/>
+	<entry name="RejectCreditsForDeal1" value="« Toutes mes excuses, nous avons un petit problème de trésorerie, %1%. »"/>
+	<entry name="CreditsForDealRejected" value="« Fâcheux, mais cela correspond à nos prévisions. »"/>
+	<entry name="DemandCreditsForDeal" value="« Une coentreprise pourrait fonctionner, si vous achetez votre part... »"/>
+	<entry name="DemandCredits0" value="« Je ne suis pas gourmand, il vous suffit de nous virer %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits. »"/>
+	<entry name="DemandCredits1" value="« Mes analystes estiment que vous pouvez facilement vous délester de %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits. »"/>
+	<entry name="DemandCredits2" value="« Pour mettre en place les instruments financiers, rembourser mes débiteurs, construire ma dixième résidence secondaire... %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits devraient suffire. »"/>
+	<entry name="DemandCredits3" value="« Vous valez %6%. J&apos;en veux chaque crédit. Et tous vos jouets exécutifs. Tout de suite. » (%6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits)"/>
+	<entry name="OfferCredits0" value="« Voilà, prélevez ces %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits. Je considère cela comme un investissement. »"/>
+	<entry name="OfferCredits1" value="&quot;%6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits devraient fournir une contribution raisonnable à vos efforts. »"/>
+	<entry name="OfferCredits2" value="« Mes analystes me disent que si je vous donne plus de %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, ils ne m&apos;adresseront plus jamais la parole. »"/>
+	<entry name="OfferCredits3" value="« Cela va me ruiner, mais voici %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits - je ne peux pas vous donner plus. »"/>
+	<entry name="AllianceAccepted" value="« Pour sûr ! À nous deux, nous pouvons faire trembler les marchés. »"/>
+	<entry name="AllianceRejected" value="« Les chiffres ne collent pas pour le moment. Ma secrétaire a votre numéro. »"/>
+	<entry name="AllianceTerminated" value="« J&apos;ai demandé au standard de bloquer vos appels. »"/>
+	<entry name="Condemn" value="« Incroyable ! Utiliser des armes de destruction massive montre le peu de crédits que vous accordez à la vie humaine, %2%. »"/>
+	<entry name="CondemnAccepted" value="« %4% Il n&apos;y avait pas d&apos;autre issue. »"/>
+	<entry name="DeclareWar" value="« %4% Parler ne changera pas le cours de notre relation - c&apos;est l&apos;heure du krach ! »"/>
+	<entry name="DemandWithdrawal" value="« N&apos;imaginez pas un seul instant que j&apos;ignore le déploiement de vos troupes à mes frontières ! Qu&apos;elles retournent dans leurs casernes, où votre économie en pâtira... »"/>
+	<entry name="Eliminated" value="« Je liquide mes placements sur cette planète. »"/>
+	<entry name="Goodbye" value="« Toujours enrichissant. »"/>
+	<entry name="Greet0" value="« Bien, traitons ce dossier. »"/>
+	<entry name="Greet1" value="« Bonjour, %2%/ Parlons affaires. »"/>
+	<entry name="Greet2" value="« Quoi de neuf mon vieil ami ? Vous avez obtenu des nouveaux contrats intéressants ? »"/>
+	<entry name="NonAggressionPactAccepted" value="« Une chose est sûre. Il y a plus gros poisson à attraper. »"/>
+	<entry name="NonAggressionPactRejected" value="« Pas vraiment. Un peu de tension aux frontières maintient les choses en équilibre. »"/>
+	<entry name="NonAggressionPactTerminated" value="« Je peux déjà prédire votre prochain coup. »"/>
+	<entry name="OfferAlliance" value="« Associons-nous et emparons-nous du marché planétaire ! »"/>
+	<entry name="OfferNonAggressionPact" value="« Une garantie de paix entre nos factions stabiliserait le marché ! »"/>
+	<entry name="OfferPeace" value="« Trouvons un accord de cessez-le-feu. Soyez réaliste, vous le souhaitez vous aussi. »"/>
+	<entry name="OfferResearchPact" value="« Entendu, nos projets de recherche respectifs avancent bien, mais en associant nos efforts les gains seront encore plus importants ! »"/>
+	<entry name="OfferTradingPact" value="« Que diriez-vous d&apos;un pacte commercial pour étancher notre soif d&apos;argent ? »"/>
+	<entry name="PeaceAccepted" value="« Laissez-moi regarder les chiffres... la réponse est oui. »"/>
+	<entry name="PeaceRejected" value="« Ha, oubliez ça. Cette affaire n&apos;est pas terminée. »"/>
+	<entry name="ResearchPactAccepted" value="« Offre acceptée. Affaire suivante. »"/>
+	<entry name="ResearchPactRejected" value="« Affaire délicate... nous ne pouvons pas accepter pour le moment. »"/>
+	<entry name="ResearchPactTerminated" value="« Peu importe, %2%. Peu importe. »"/>
+	<entry name="TerminateAlliance" value="« Cela pourra vous sembler déraisonnable, mais notre alliance est terminée. »"/>
+	<entry name="TerminateNonAggressionPact" value="« Je mets fin par la présente à notre pacte de non-agression, tirez-en vos propres conclusions. »"/>
+	<entry name="TerminateResearchPact" value="« Notre pacte scientifique est terminé, il ne nous rapportera rien de plus. »"/>
+	<entry name="TerminateTradingPact" value="« Notre pacte commercial est annulé, les profits ne sont pas à la hauteur des attentes. »"/>
+	<entry name="TradingPactAccepted" value="« Faisons des affaires. »"/>
+	<entry name="TradingPactRejected" value="« Je ne voudrais pas insulter votre économie, mais ce n&apos;est pas prêt d&apos;arriver. »"/>
+	<entry name="TradingPactTerminated" value="« %2%, cela n&apos;a aucun sens. »"/>
+	<entry name="WarAccepted" value="« Oh oui, rien ne vaut une guerre pour doper l&apos;économie ! »"/>
+	<entry name="WithdrawalAccepted" value="« Toutes mes excuses, mes assistants ont dû les égarer - ils retournent à la banque immédiatement. »"/>
+	<entry name="WithdrawalRejected" value="« Je ne vois pas de raisons convaincantes pour les transférer. De raisons convaincantes dans mon portefeuille, du moins. »"/>
+</language>

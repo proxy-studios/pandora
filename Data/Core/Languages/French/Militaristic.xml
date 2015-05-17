@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	The following tokens are replaced by the game:
+ 
+ 	%1% with faction leader title, e.g. "Lady".
+ 	%2% with faction leader name, e.g. "Lilith Vermillion".
+ 	%3% with faction leader title and name, e.g. "Lady Lilith Vermillion".
+ 	%4% with a random insult.
+ 	%5% with a random compliment.
+ 	%6% with message context.
+ 	%7% with a random crime (second person).
+ 	%8% with a random crime (third person).
+-->
+<language>
+
+	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
+	<entry name="FirstContact" value="« Salutations %3% ! Ici l&apos;amiral James Heid de l&apos;Imperium, 1re Div, Force expéditionnaire. Sous mon commandement direct se trouve la meilleure machine de guerre que les hommes ont jamais connue, et les créatures qui peuplent ce monde sentiront pleinement sa fureur. Vous feriez bien de ne pas entrer dans ma ligne de tir... »"/>
+
+	<entry name="NamePositive" value="« L&apos;honorable %6%. »"/> 
+	<entry name="NameNegative" value="« Le belliciste %6%. »"/> 
+
+	<entry name="LetMeThink" value="« Hmm... laissez-moi du temps pour y réfléchir. »"/> 
+	<entry name="LetMeKnow" value="« Bien sûr, dites-moi quand vous aurez pris votre décision. »"/> 
+	
+	<!-- Tells dialogue partner a third faction is doing some crime that affects her negatively. -->
+	<entry name="DenounceThirdParty0" value="« Je me suis dit que vous devriez savoir qu&apos;un salaud vous prenait à revers. J&apos;ai pensé que vous voudriez être au courant. »"/>
+	<!-- Dialogue partner wants to know who and what. -->
+	<entry name="AcceptDenounceThirdParty0" value="« Pour être franc, il me faut tous les renseignements de terrain possibles. »"/> 
+	<!-- Dialogue partner is not interested. -->
+	<entry name="RejectDenounceThirdParty0" value="« Vous êtes quoi, le ministère des ragots ? Pas intéressé. »"/> 
+	<!-- Tells dialogue partner the third faction and their crime. -->
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DenounceThirdParty1" value="&quot;&quot;"/> 
+	<!-- Dialogue partner believes it. -->
+	<entry name="AcceptDenounceThirdParty1" value="« Eh bien, on dirait qu&apos;il va falloir me salir les bottes. N&apos;êtes-vous pas le héros du coin ? »"/> 
+	<!-- Dialogue partner dismisses it. -->
+	<entry name="RejectDenounceThirdParty1" value="« Dites-moi quelque chose que j&apos;ignore ! »"/>
+	
+	<!-- Demands from dialogue partner to cancel trading and research pacts with a third faction. -->
+	<entry name="DemandSanctionsAgainstThirdParty0" value="« On doit causer de votre logistique. Nous pensons qu&apos;elle a été compromise. »"/>
+	<entry name="AcceptSanctionsAgainstThirdParty0" value="« Le commerce ? La recherche ? Bordel de merde. Pourquoi on ne pourrait pas tout simplement tirer sur tout le monde et en finir avec ça. Qui ? »"/>
+	<entry name="RejectSanctionsAgainstThirdParty0" value="« Corrigez-moi si je me trompe, mais votre nom n&apos;apparait au-dessus du mien dans aucune chaîne de commandement. Demande refusée. »"/>
+	<entry name="AcceptSanctionsAgainstThirdParty1" value="« Bordel, et puis au diable. Après tout, on s&apos;entend à merveille nous aussi. Très bien, on va les laisser tomber comme un vieux Marines. »"/>
+	<entry name="RejectSanctionsAgainstThirdParty1" value="« Non, monsieur. On ne les laisserait pas tomber même s&apos;ils s&apos;appelaient Jerry. »"/>
+
+	<!-- Demands from dialogue partner to offer peace to a third faction (= context). -->
+	<entry name="DemandPeaceOfferToThirdParty0" value="« Maintenant, il va falloir être plus sympa avec vos voisins. »"/> 
+	<entry name="AcceptPeaceOfferToThirdParty0" value="« C&apos;est le traité authentique ? Bon, je suppose qu&apos;on pourrait cesser le feu pendant un certain temps. Sur qui déjà ? »"/>
+	<entry name="RejectPeaceOfferToThirdParty0" value="« Maintenant vous me les gonflez. Je ne risque pas de m&apos;excuser alors que la guerre se déroule si bien. »"/>
+	<entry name="AcceptPeaceOfferToThirdParty1" value="« Je dois bien l&apos;admettre - je n&apos;ai jamais pris du plaisir à leur balancer des... enfin tous les trucs qu&apos;on peut leur balancer. OK, on va faire une pause. »"/>
+	<entry name="RejectPeaceOfferToThirdParty1" value="« Me demander de renoncer à la guerre, c&apos;est comme demander à un oiseau d&apos;abandonner ses ailes. Ça n&apos;arrivera pas de sitôt. »"/>
+	
+	<!-- Demands from dialogue partner to declare war to a third faction. -->
+	<entry name="DemandWarDeclarationOnThirdParty0" value="« Vous ressentez cette excitation ? Une GUERRE approche. Et vous serez au cœur de celle-ci. »"/> 
+	<entry name="AcceptWarDeclarationOnThirdParty0" value="« Maintenant comme vous pouvez le voir, je suis en rogne. Qui voudriez-vous que j&apos;élimine ? »"/>
+	<entry name="RejectWarDeclarationOnThirdParty0" value="« Je ne tire pas sur les gens à la demande désolé. Pas tant que vous avez les fonds pour couvrir les frais. »"/>
+	<!-- DON'T MODIFY THIS ENTRY: --> <entry name="DemandWarDeclarationOnThirdParty1" value="&quot;&quot;"/>
+	<entry name="AcceptWarDeclarationOnThirdParty1" value="« Eux ? Miam, je vais me les farcir pour le petit déjeuner. »"/>
+	<entry name="RejectWarDeclarationOnThirdParty1" value="« Désolé, partenaire, mais je suis un franc-tireur et je ne suis pas les consignes des autres. %6% vivra. »"/>
+		
+	<!-- Offers dialogue partner to share explored territories. -->
+	<entry name="OfferShareMap" value="« Houah, camarade. Alors on s&apos;intéresse à ces cartes de ravitaillement que nous avons obtenues ? »"/>
+	<entry name="AcceptShareMap" value="« Ça me semble un bon marché. Ça va bougrement faciliter les reconnaissances. »"/>
+	<entry name="RejectShareMap" value="« Quelle importance ces dessins sur un bout de papier ? Nos chars vont rouler dessus de toute façon. »"/>
+		
+	<!-- Offers dialogue partner the right to travel through each others controlled territories. -->
+	<entry name="OfferOpenBorders" value="« On souhaite réaliser quelques manœuvres d&apos;exercices sur votre territoire. C&apos;est d&apos;accord ? »"/>
+	<entry name="AcceptOpenBorders" value="« Bien sûr, venez. On vous a dans notre viseur de toute façon. Je plaisante, je plaisante. »"/>
+	<entry name="RejectOpenBorders" value="« Non, désolé. On a enterré des tas de mines par là-bas pour nos exercices de terrain - ce serait beaucoup trop dangereux pour vos hommes... »"/>
+	<entry name="TerminateOpenBorders" value="« %1%, j&apos;ai décidé que le moment était bien choisi pour une guerre froide - notre accord de libre passage est par conséquent nullifié. Le territoire impérial est désormais une zone réglementée pour votre peuple, et toute personne qui y pénètrera sans autorisation sera abattue sans sommation. »"/>
+	<entry name="AcceptOpenBordersTerminated" value="« Oh, parfait, au moins maintenant je n&apos;aurai plus à présenter des excuses pour justifier le triplement des patrouilles frontalières. »"/>
+	
+	<!-- Crimes that fit to this faction and are used by other factions to denounce them. -->
+	<entry name="Crime0" value="Bombarder des cibles civiles est déjà cruel - mais vous devriez aussi faire semblant de bombarder certains objectifs militaires, vraiment."/>
+	<entry name="Crime1" value="Tout l&apos;objectif d&apos;une intervention militaire à des fins humanitaires est de laisser des survivants, une fois que tout est terminé. Vous êtes un monstre."/>
+	<entry name="Crime2" value="L&apos;envoyée de Terre-Unie sur Pandora est portée disparue, sur votre territoire. Nous savons que vous l&apos;avez tuée. Vous ne pourrez pas dissimuler vos crimes éternellement, vous savez."/>
+	
+	<!-- Publicly denounces dialogue partner. Decreases their standing towards you. Factions who like you more than him decrease their standing with him. Factions who like him more than you decrease their standing towards you. -->
+	<entry name="Denounce" value="« %7% L&apos;armée sert à protéger le monde des gens de votre espèce. »"/>
+	<entry name="AcceptDenounce" value="« Plaide coupable. »"/>
+	<entry name="RejectDenounce" value="« Quand je mettrai la main sur vous, je vous étriperai, vous autres racailles et rebuts de l&apos;humanité ! »"/>
+	
+	<!-- Publicly praises dialogue partner. -->
+	<entry name="Praise" value="« %5% Vous méritez une médaille, monsieur. »"/>
+	<entry name="AcceptPraise" value="« Vous êtes mignon comme un blaireau quand vous dites de belles choses. »"/>
+	<entry name="RejectPraise" value="« Vous parlez fort bien pour une personne dotée d&apos;une cervelle de mollusque. »"/>
+	
+	<!-- Offers surrender. -->
+	<entry name="OfferSurrender" value="« Je... Je n&apos;arrive pas à y croire. Les plus belles unités de mercenaires que la Terre ait jamais produites et... Au nom des forces de l&apos;Imperium sur Pandora, je soumets ma reddition sans condition. J&apos;ordonne à toutes mes troupes encore actives de se retirer. C&apos;est tout. »"/>
+	<entry name="AcceptSurrender" value="« Personne ne tient tête à l&apos;Imperium. »"/>
+	<entry name="RejectSurrender" value="« Je crois qu&apos;on va vous faire mordre la poussière un peu plus longtemps, minus. »"/>
+	
+	<!-- Compliments for this faction. -->
+	<entry name="Compliment0" value="Ça alors, mettre en plein dans le mille à trois kilomètres. Vous entraînez bien vos snipers."/>
+	<entry name="Compliment1" value="Je dois dire, votre dernière manœuvre était d&apos;une finesse exceptionnelle, réglée comme une horloge."/>
+	<entry name="Compliment2" value="Je n&apos;ai jamais vu autant de médailles de toute ma vie. À quelle heure finissez-vous le travail ?"/>
+	
+	<!-- Insults against this faction. -->
+	<entry name="Insult0" value="%3%, votre militarisme irréfléchi et votre perpétuelle course aux armements représentent un danger pour nous tous."/>
+	<entry name="Insult1" value="Les barbares comme vous devraient être rayés de la surface de cette planète, %3%."/>
+	<entry name="Insult2" value="Aucun doute, on devrait vous donner un avant-goût de votre propre médecine, %2%."/>
+
+	<!-- Offers gift. -->
+	<entry name="OfferGift0" value="« Je ne crois pas que vous avez suffisamment d&apos;armes. Laissez-moi vous en acheter quelques-unes. »"/>
+	<entry name="GiftAccepted0" value="« Grandiose ! On allait justement être à court de mines. »"/>
+	<entry name="GiftAccepted1" value="« Toutes plaisanteries mises à part, nous ferons bon usage de cette somme. Merci. »"/>
+	<entry name="GiftRejected0" value="« Désolé, nous avons un contrat d&apos;exclusivité et ne pouvons pas prendre votre argent. »"/>
+	<entry name="GiftRejected1" value="« Ça ne paye même pas un missile de croisière. Rentrez chez vous, fiston. »"/>
+
+	<!-- Demands tribute. -->
+	<entry name="DemandTribute0" value="« Hé, vous n&apos;avez pas versé l&apos;argent pour votre protection, %3%. Souhaitez-vous que je vous fasse un rappel ? »"/>
+	<entry name="TributeAccepted0" value="« Eh bien, je suppose que nous pourrions vous lâcher un bifton ou deux. Il vous faut combien ? »"/>
+	<entry name="TributeAccepted1" value="« Eh bien, ce n&apos;est pas si méchant. Je suppose qu&apos;on évitera les blindages plaqués or cette semaine. »"/>
+	<entry name="TributeRejected0" value="« HA ! Hahahahaha... Oh, attendez. Ce n&apos;est pas une blague ? »"/>
+	<entry name="TributeRejected1" value="« Vous devez plaisanter, pas moyen que je crache une somme pareille ! »"/>	
+
+	<entry name="AcceptCreditsForDeal0" value="« %1%, on se connait depuis longtemps. Combien pour qu&apos;on trouve un terrain d&apos;entente ? »"/>
+	<entry name="AcceptCreditsForDeal1" value="« Un hélico déposera l&apos;argent à l&apos;endroit habituel. Maintenant, passons aux détails... »"/>
+	<entry name="RejectCreditsForDeal0" value="« Vous êtes plus à sec que l&apos;écorce d&apos;un arbre. Pas d&apos;accord. »"/>
+	<entry name="RejectCreditsForDeal1" value="« Nos réserves sont plus importantes que votre amitié, %1%. »"/>
+	<entry name="CreditsForDealRejected" value="« Ça ne doit pas être facile tous les jours d&apos;être à court d&apos;argent. Peut-être une prochaine fois. »"/>
+	<entry name="DemandCreditsForDeal" value="« Mercenaire est un mot tellement galvaudé. Je préfère tueur à gages. Ou shérif. »"/>
+	<entry name="DemandCredits0" value="« Eh bien, je pense que nous serons très heureux de recevoir %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits. Partir au feu suffit à notre plaisir. »"/>
+	<entry name="DemandCredits1" value="« Je peux faire un paquetage pour %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits. Vous voulez du temps pour y réfléchir ? »"/>
+	<entry name="DemandCredits2" value="« Entretenir notre puissance militaire n&apos;est pas gratuit, et ça non plus. %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, pas un cent de moins. »"/>
+	<entry name="DemandCredits3" value="« Ha ! Donnez-moi tout ce que vous avez. Appelons ça une démonstration de foi ? » (%6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits)"/>
+	<entry name="OfferCredits0" value="« Bordel de merde, vous êtes une vraie plaie. Est-ce que %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits vous remettraient à flot ? »"/>
+	<entry name="OfferCredits1" value="« Avec %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits, j&apos;ai pu acheter ma première canonnière. Aujourd&apos;hui je vous les donne. »"/>
+	<entry name="OfferCredits2" value="« Vous savez combien on peut acheter de chars avec %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits ? Eh bien, moi non plus. Mais je peux demander à mon aide de camp. Tenez, prenez-les. »"/>
+	<entry name="OfferCredits3" value="« %6% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits - soit le budget militaire de tout un pays ! Ouais, prenez tout. »"/>
+	<entry name="AllianceAccepted" value="« Oui, écrasons nos ennemis communs avec une armée imbattable. Je vais préparer les plans d&apos;invasion en bonne et due forme. »"/>
+	<entry name="AllianceRejected" value="« Ne le prenez pas mal, %2%, mais pas maintenant. Merci. »"/>
+	<entry name="AllianceTerminated" value="« Je retire mes chars - cette alliance est terminée. »"/>
+	<entry name="Condemn" value="« Vous êtes prêt à aller aussi loin, je vois... Excellent, allons mener une guerre qui mettra à genoux la civilisation de Pandora ! »"/>
+	<entry name="CondemnAccepted" value="« %4% Faire sauter une paire d&apos;ADMs sur la tête de vos ouailles ne me parait pas être un gros problème... »"/>
+	<entry name="DeclareWar" value="« %4% À partir de maintenant, c&apos;est la guerre totale. »"/>
+	<entry name="DemandWithdrawal" value="« N&apos;imaginez pas que je n&apos;ai pas remarqué vos concentrations de troupes sur mes frontières ! Ordonnez leur retrait immédiat, ou vous ramasserez les particules de vos gars à la petite cuillère. »"/>
+	<entry name="Eliminated" value="« Le puissant Imperium à genoux... Incroyable d&apos;en arriver là. Je vais maintenant rejoindre mes camarades dans la dernière poche de résistance. Amiral James Heid, terminé. »"/>
+	<entry name="Goodbye" value="« James Heid, terminé. »"/>
+	<entry name="Greet0" value="« Que voulez-vous, %2% ? « J&apos;ai mieux à faire que de parler aux gens de votre espèce. »"/>
+	<entry name="Greet1" value="« Salutations %3% ! Même si je suis occupé à élaborer de nouvelles stratégies, je trouverai toujours un peu de temps à vous consacrer. »"/>
+	<entry name="Greet2" value="« Salutations, général %2% ! En quoi puis-je vous être utile ? »"/>
+	<entry name="NonAggressionPactAccepted" value="« Bonne décision. Il y a suffisamment de combats à livrer ailleurs. »"/>
+	<entry name="NonAggressionPactRejected" value="« Négatif, je préfère que mes soldats soient sur le qui-vive. Cela les rend plus durs. Plus forts. »"/>
+	<entry name="NonAggressionPactTerminated" value="« Pour être franc, je pensais que c&apos;était le moment. Le moment de mener quelques exercices sur nos frontières. »"/>
+	<entry name="OfferAlliance" value="« Soldat ! Il n&apos;y a rien de tel qu&apos;une armée unie. Votre allié a besoin de vous. »"/>
+	<entry name="OfferNonAggressionPact" value="« Je n&apos;arrive pas à croire que je vous fais une telle proposition mais... que diriez-vous d&apos;arrêter de nous tirer dessus. Pour le moment. Eh oui, j&apos;ai un instant de faiblesse. »"/>
+	<entry name="OfferPeace" value="« Cette guerre fut exceptionnelle ! Que diriez-vous d&apos;un bref cessez-le-feu pour que les soldats puissent voir leurs familles ? »"/>
+	<entry name="OfferResearchPact" value="« Et si nous partagions nos travaux de recherche ? Nous avons récemment mis au point quelques armes incroyables. »"/>
+	<entry name="OfferTradingPact" value="« Que dites-vous d&apos;un petit pacte commercial ? Vous allez adorer certaines de nos poupées-mines très câlines - j&apos;ai entendu dire qu&apos;ils faisaient d&apos;excellents jouets pour les enfants. »"/>
+	<entry name="PeaceAccepted" value="« Énormément de sang a été versé ces dernières années, j&apos;en conviens. »"/>
+	<entry name="PeaceRejected" value="« Négatif, nous allons en finir avec vous. Une mort rapide et indolore pour %3%. »"/>
+	<entry name="ResearchPactAccepted" value="« Une chose est sûre. Si vous découvrez une superbe machine de guerre, faites-nous signe. »"/>
+	<entry name="ResearchPactRejected" value="« Les machines de guerre que nous mettons actuellement au point possèdent une telle puissance de feu que les mettre à disposition de n&apos;importe qui serait... irresponsable. »"/>
+	<entry name="ResearchPactTerminated" value="« Vous avez découvert une nouvelle technologie toute mignonne ? Rien à battre. »"/>
+	<entry name="TerminateAlliance" value="« Notre alliance était forte et avait ses mérites. Mais plus maintenant. »"/>
+	<entry name="TerminateNonAggressionPact" value="« Les frontières sont trop calmes, je révoque ce pacte de non-agression stupide. »"/>
+	<entry name="TerminateResearchPact" value="« Notre pacte scientifique est trop déséquilibré, je l&apos;annule donc sans plus tarder. »"/>
+	<entry name="TerminateTradingPact" value="« Pour parler sans détour, je crois que notre pacte commercial ne nous rapporte pas assez, et j&apos;y mets donc un terme. »"/>
+	<entry name="TradingPactAccepted" value="« Ah, certainement, pourquoi pas. Mais n&apos;essayez pas de vendre des armes en douce. Sauf si elles sont pour moi. »"/>
+	<entry name="TradingPactRejected" value="« Je sais que nos armes sont recherchées, mais les distribuer à tout le monde les rendrait, hum, moins exclusives. J&apos;espère que vous comprenez... »"/>
+	<entry name="TradingPactTerminated" value="« Je considère ça comme une insulte à mon intégrité. Regardez où vous mettez les pieds, %2%. »"/>
+	<entry name="WarAccepted" value="« %2%, vous devez avoir perdu la tête pour me défier. Une fois que j&apos;aurai réglé son compte à votre armée ridicule, je viendrai personnellement avec un C-X MangeChair et vous le rentrerai dans la gorge. »"/>
+	<entry name="WithdrawalAccepted" value="« Laissez-moi vous assurer, %1%, qu&apos;ils ne faisaient que passer - je leur ferai parvenir de nouveaux ordres dans l&apos;heure qui vient. »"/>
+	<entry name="WithdrawalRejected" value="« J&apos;ai bien peur que nos troupes sont stationnées exactement où elles sont censées être - et ce n&apos;est pas prêt de changer. »"/>
+</language>

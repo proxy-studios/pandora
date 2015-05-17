@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="NearX" value=" près de %1%"/>
+
+	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
+	<entry name="AdvancementProductionComplete" value="%1% a terminé %2%."/>
+	<entry name="AgentEliminated" value="%1% a trouvé la mort en essayant d&apos;infiltrer %2%."/>
+	<entry name="AgentIncitedRiot" value="%1% a incité une émeute dans la ville de %2%."/>
+	<entry name="AgentInfiltratedReconnaissance" value="%1% a réalisé une reconnaissance clandestine dans la ville de %2%."/>
+	<entry name="AgentReleasedGeneticVirus" value="%1% a répandu un virus génétique dans la ville de %2%."/>
+	<entry name="AgentSabotagedBuilding" value="%1% a saboté %3% dans la ville de %2%."/>
+	<entry name="AgentSabotagedProduction" value="%1% a saboté %3% &lt;icon texture=&apos;Resources/Production&apos;/&gt; chantiers de production dans la ville de %2%."/>
+	<entry name="AgentSabotagedResearch" value="%1% a saboté %3% &lt;icon texture=&apos;Resources/Research&apos;/&gt; travaux de recherche dans la ville de %2%."/>
+	<entry name="AgentStoleCredits" value="%1% a volé %3% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits dans la ville de %2%."/>
+	<entry name="AgentStoleResearch" value="%1% a volé %3% &lt;icon texture=&apos;Resources/Research&apos;/&gt; travaux de recherche dans la ville de %2%."/>
+	<entry name="AllianceEntered" value="%1% a formé une alliance avec %2%."/>
+	<entry name="AllianceTerminated" value="%1% a mis fin à son alliance avec %2%."/>
+	<entry name="BuildingDismantled" value="%1% a démantelé %2%."/>
+	<entry name="BuildingProductionComplete" value="%1% a terminé %2%."/>
+	<entry name="CityAttackedByUnit" value="%1% a été attaqué(e) par un(e) %2%."/>
+	<entry name="CityCapturedByPlayer" value="%1% a été capturé(e) par un(e) %2%."/>
+	<entry name="CityDamagedByOther" value="%1% a subi des dégâts par un(e) %2%."/>
+	<entry name="CityGrown" value="%1% accroît sa population."/>
+	<entry name="CityRazedByOther" value="La ville de %1% a été rayée de la carte par un(e) %2%."/>
+	<entry name="CityRazedByUnit" value="La ville de %1% a été rayée de la carte par un(e) %2%."/>
+	<entry name="ContactEstablished" value="Le contact a été établi avec %1%."/>
+	<entry name="Discovered" value="%1% découvert(e)."/>
+	<entry name="Denounced" value="%1% a dénoncé %2%."/>
+	<entry name="EnemyDetected" value="Ennemi %1% détecté%2%."/>
+	<entry name="Era1Entered" value="%1% est entré(e) dans l&apos;Ère de la mécanisation."/>
+	<entry name="Era2Entered" value="%1% est entré(e) dans l&apos;Ère de la transcendance."/>
+	<entry name="HintInflictedDamage" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;%1% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; dégâts infligés, %2% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance restante.&lt;br/&gt;"/>
+	<entry name="HintPopulationLost" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;%1% &lt;icon texture=&apos;Resources/Population&apos;/&gt; de population perdue, %2% restante.&lt;br/&gt;"/>
+	<entry name="HintSufferedDamage" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;%1% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; dégâts subis, %2% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance restante.&lt;br/&gt;"/>
+	<entry name="HiveDestroyed" value="La ruche a été détruite."/>
+	<entry name="ImprovementLost" value="%1% a perdu %2%."/>
+	<entry name="NonAggressionEntered" value="%1% a signé un pacte de non-agression avec %2%."/>
+	<entry name="NonAggressionTerminated" value="%1% a mis fin à son pacte de non-agression avec %2%."/>
+	<entry name="ObservatoryExplored" value="L&apos;observatoire a été exploré."/>
+	<entry name="OperationProductionComplete" value="%1% a terminé %2%."/>
+	<entry name="OtherDamagedCity" value="%2% a blessé ou endommagé %1%."/>
+	<entry name="OtherDamagedUnit" value="%2% a blessé ou endommagé %1%%3%."/>
+	<entry name="OtherKilledUnit" value="%2% a tué ou détruit %1%%3%."/>
+	<entry name="OtherRazedCity" value="%2% a rayé %1% de la carte."/>
+	<entry name="OutOfCredits" value="Pénurie de &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits."/>
+	<entry name="OutOfCreditsHint" value="Pour récupérer des fonds, des unités vont bientôt être dissoutes et des bâtiments démantelés !"/>
+	<entry name="OutOfFood" value="Pénurie de &lt;icon texture=&apos;Resources/Food&apos;/&gt; nourriture."/>
+	<entry name="OutOfFoodHint" value="Votre population est affamée et réclame de quoi se nourrir !"/>
+	<entry name="OutOfMinerals" value="Pénurie de &lt;icon texture=&apos;Resources/Minerals&apos;/&gt; minerai."/>
+	<entry name="OutOfMineralsHint" value="La production tourne au ralenti par manque de matières premières !"/>
+	<entry name="PeaceEntered" value="%1% a signé un traité de paix avec %2%."/>
+	<entry name="PlayerProducedItem" value="%1% a terminé %2%."/>
+	<entry name="Praised" value="%1% formulé des éloges envers %2%."/>
+	<entry name="ResearchComplete" value="%1% recherché(e)."/>
+	<entry name="UnitAttackedByUnit" value="%1% a subi l&apos;attaque d&apos;un(e) %2%%3%."/>
+	<entry name="UnitAttackedCity" value="%1% a attaqué %2%."/>
+	<entry name="UnitAttackedUnit" value="%1% a attaqué un(e) %2%%3%."/>
+	<entry name="UnitCapturedCity" value="%1% a capturé %2%."/>
+	<entry name="UnitDamagedByOther" value="%1% a été blessé(e) ou endommagé(e) par un(e) %2%%3%."/>
+	<entry name="UnitDisbanded" value="%1% dissout(e)."/>
+	<entry name="UnitProductionComplete" value="%1% a terminé %2%."/>
+	<entry name="UnitRazedCity" value="%1% a rayé %2% de la carte."/>
+	<entry name="UnitKilledByOther" value="%1% a été tué(e) ou détruit(e) par un(e) %2%%3%."/>
+	<entry name="UnitKilledByUnit" value="%1% a été tué(e) ou détruit(e) par un(e) %2%%3%."/>
+	<entry name="UnitKilledUnit" value="%1% a tué un(e) %2%%3%."/>
+	<entry name="WarEntered" value="%1% a déclaré la guerre à %2%."/>
+	
+	<entry name="AlienAggressionImminent" value="Une agression extraterrestre est imminente."/>
+	<entry name="AlienGenocideComplete" value="Le génocide extraterrestre est terminé."/>
+	<entry name="AlienSighted" value="Une unité extraterrestre a été repérée."/>
+	<entry name="PlanetFullyExplored" value="La planète a été totalement explorée."/>
+	<entry name="PopulationLimitReached" value="La population a atteint sa limite maximale."/>
+	<entry name="RuinInSight" value="Des ruines ont été repérées."/>
+	
+	<entry name="BlackHoleGeneratorBuilt" value="%1% a construit un générateur de trou noir."/>
+	<entry name="EconomyVictoryNear" value="%1% est proche de la victoire économique."/>
+	<entry name="FactionEliminated" value="La faction %1% a été annihilée."/>
+	<entry name="GlobalPollutionThresholdReached" value="Le niveau de pollution planétaire est élevé."/>
+	<entry name="MilitaryVictoryNear" value="%1% est proche de la victoire militaire."/>
+	<entry name="NuclearLaunchCenterBuilt" value="%1% a construit un centre de lancement nucléaire."/>
+	<entry name="ResearchVictoryNear" value="%1% est proche de la victoire scientifique."/>
+	
+	<entry name="RuinExplored" value="Les ruines ont été explorées."/>
+	<entry name="SunkenRuinExplored" value="Les ruines englouties ont été explorées."/>
+</language>

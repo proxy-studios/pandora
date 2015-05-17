@@ -76,19 +76,19 @@
 	<entry name="Size" value="Dimensione Mondo"/>
 	<entry name="Size0" value="Minuscolo"/>
 	<entry name="Size0Hint" value="Un minuscolo mondo da 24x24 per un totale di 576 territori."/>
-	<entry name="Size0HintFactions" value="Due fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
+	<entry name="Size0HintFactions" value="Tre fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
 	<entry name="Size1" value="Piccolo"/>
 	<entry name="Size1Hint" value="Un piccolo mondo da 32x32 per un totale di 1024 territori."/>
-	<entry name="Size1HintFactions" value="Quattro fazioni umane stanno colonizzando il mondo, per una media di circa 7 città per fazione."/>
+	<entry name="Size1HintFactions" value="Cinque fazioni umane stanno colonizzando il mondo, per una media di circa 7 città per fazione."/>
 	<entry name="Size2" value="Medio"/>
 	<entry name="Size2Hint" value="Un mondo medio da 40x40 per un totale di 1600 territori."/>
-	<entry name="Size2HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
+	<entry name="Size2HintFactions" value="Sette fazioni umane stanno colonizzando il mondo, per una media di circa 8 città per fazione."/>
 	<entry name="Size3" value="Grande"/>
 	<entry name="Size3Hint" value="Un grande mondo da 48x48 per un totale di 2304 territori."/>
-	<entry name="Size3HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 11 città per fazione."/>
+	<entry name="Size3HintFactions" value="Sette fazioni umane stanno colonizzando il mondo, per una media di circa 11 città per fazione."/>
 	<entry name="Size4" value="Immenso"/>
 	<entry name="Size4Hint" value="Un mondo immenso da 56x56 per un totale di 3136 territori."/>
-	<entry name="Size4HintFactions" value="Sei fazioni umane stanno colonizzando il mondo, per una media di circa 15 città per fazione."/>
+	<entry name="Size4HintFactions" value="Sette fazioni umane stanno colonizzando il mondo, per una media di circa 15 città per fazione."/>
 	<entry name="Size5" value="Casuale"/>
 	<entry name="Size5Hint" value="La dimensione del mondo viene determinata casualmente all'inizio della partita."/>
 	<entry name="Size5HintFactions" value=""/>

@@ -4,15 +4,16 @@
 
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% completed %2%."/>
-	<entry name="AgentEliminated" value="%1% was eliminated while trying to infiltrate %2%."/>
-	<entry name="AgentIncitedRiot" value="%1% has incited a riot in %2%."/>
-	<entry name="AgentInfiltratedReconnaissance" value="%1% has infiltrated reconnaissance in %2%."/>
-	<entry name="AgentReleasedGeneticVirus" value="%1% has released a genetic virus in %2%."/>
-	<entry name="AgentSabotagedBuilding" value="%1% has sabotaged %3% in %2%."/>
-	<entry name="AgentSabotagedProduction" value="%1% has sabotaged %3% <icon texture='Resources/Production'/> production in %2%."/>
-	<entry name="AgentSabotagedResearch" value="%1% has sabotaged %3% <icon texture='Resources/Research'/> research in %2%."/>
-	<entry name="AgentStoleCredits" value="%1% has stolen %3% <icon texture='Resources/Credits'/> credits in %2%."/>
-	<entry name="AgentStoleResearch" value="%1% has stolen %3% <icon texture='Resources/Research'/> research in %2%."/>
+	<entry name="AgentEliminated" value="%1% was eliminated while infiltrating %2%."/>
+	<entry name="AgentFailed" value="%1% failed covert operation in %2%."/>
+	<entry name="AgentIncitedRiot" value="%1% incited a riot in %2%."/>
+	<entry name="AgentInfiltratedReconnaissance" value="%1% infiltrated reconnaissance in %2%."/>
+	<entry name="AgentReleasedGeneticVirus" value="%1% released a genetic virus in %2%."/>
+	<entry name="AgentSabotagedBuilding" value="%1% sabotaged %3% in %2%."/>
+	<entry name="AgentSabotagedProduction" value="%1% sabotaged %3% <icon texture='Resources/Production'/> production in %2%."/>
+	<entry name="AgentSabotagedResearch" value="%1% sabotaged %3% <icon texture='Resources/Research'/> research in %2%."/>
+	<entry name="AgentStoleCredits" value="%1% stole %3% <icon texture='Resources/Credits'/> credits in %2%."/>
+	<entry name="AgentStoleResearch" value="%1% stole %3% <icon texture='Resources/Research'/> research in %2%."/>
 	<entry name="AllianceEntered" value="%1% formed alliance with %2%."/>
 	<entry name="AllianceTerminated" value="%1% terminated alliance with %2%."/>
 	<entry name="BuildingDismantled" value="%1% dismantled %2%."/>
@@ -51,7 +52,6 @@
 	<entry name="PeaceEntered" value="%1% signed peace with %2%."/>
 	<entry name="PlayerProducedItem" value="%1% completed %2%."/>
 	<entry name="Praised" value="%1% praised %2%."/>
-	<entry name="AdvancementProductionComplete" value="%1% completed %2%."/>
 	<entry name="ResearchComplete" value="%1% researched."/>
 	<entry name="UnitAttackedByUnit" value="%1% was attacked by a %2%%3%."/>
 	<entry name="UnitAttackedCity" value="%1% attacked %2%."/>

@@ -68,7 +68,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty0" value="(rejects war declaration on third party)"/>
 	<entry name="RejectWarDeclarationOnThirdParty1" value="(rejects war declaration on third party)"/>
 	<entry name="ResearchPactAccepted" value="(accepts research pact)"/>
-	<entry name="ResearchPactHint" value="A research pact grants a bonus of up to 25% (based on its duration) of a faction's total research per turn to the partner. Thus, the faction with the lower research per turn profits more from the pact."/>
+	<entry name="ResearchPactHint" value="A research pact grants a bonus of up to 25% (based on population and the pact's duration) of a faction's total research per turn to the partner."/>
 	<entry name="ResearchPactRejected" value="(rejects research pact)"/>
 	<entry name="SanctionsAgainstThirdPartyHint" value="Demands from the dialogue partner to cancel any trading and research pact with a third party. Denying the request results in a standing loss, while following through causes a standing gain."/>
 	<entry name="ShareMapHint" value="Both factions share their explored territories, but the fog of war is not revealed."/>
@@ -78,7 +78,7 @@
 	<entry name="TerminateResearchPact" value="(terminates research pact)"/>
 	<entry name="TerminateTradingPact" value="(terminates trading pact)"/>
 	<entry name="TradingPactAccepted" value="(accepts trading pact)"/>
-	<entry name="TradingPactHint" value="A trading pact grants a bonus of up to 25% (based on its duration) of a faction's total income per turn to the partner. Thus, the faction with the lower income per turn profits more from the pact."/>
+	<entry name="TradingPactHint" value="A trading pact grants a bonus of up to 25% (based on population and the pact's duration) of a faction's total income per turn to the partner."/>
  	<entry name="TradingPactRejected" value="(rejects trading pact)"/>
 	<entry name="TributeAccepted0" value="(considers to pay tribute)"/>
 	<entry name="TributeAccepted1" value="(accepts to pay tribute)"/>

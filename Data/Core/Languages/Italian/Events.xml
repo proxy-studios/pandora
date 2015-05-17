@@ -4,6 +4,15 @@
 
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% ha completato %2%."/>
+	<entry name="AgentEliminated" value="%1% è stato eliminato mentre cercava di infiltrarsi da %2%."/>
+	<entry name="AgentIncitedRiot" value="%1% ha incitato una rivolta a %2%."/>
+	<entry name="AgentInfiltratedReconnaissance" value="%1% ha infiltrato un ricognitore a %2%."/>
+	<entry name="AgentReleasedGeneticVirus" value="%1% ha rilasciato un virus genetico a %2%."/>
+	<entry name="AgentSabotagedBuilding" value="%1% ha sabotato %3% a %2%."/>
+	<entry name="AgentSabotagedProduction" value="%1% ha sabotato la <icon texture='Resources/Production'/> produzione %3% a %2%."/>
+	<entry name="AgentSabotagedResearch" value="%1% ha sabotato la <icon texture='Resources/Research'/> ricerca %3% a %2%."/>
+	<entry name="AgentStoleCredits" value="%1% ha rubato %3% <icon texture='Resources/Credits'/> crediti a %2%."/>
+	<entry name="AgentStoleResearch" value="%1% ha rubato %3% <icon texture='Resources/Research'/> ricerca a %2%."/>
 	<entry name="AllianceEntered" value="%1% ha stretto un'alleanza con %2%."/>
 	<entry name="AllianceTerminated" value="%1% ha terminato l'alleanza con %2%."/>
 	<entry name="BuildingDismantled" value="%1% ha smantellato %2%."/>

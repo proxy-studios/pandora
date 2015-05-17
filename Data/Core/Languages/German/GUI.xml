@@ -8,10 +8,9 @@
 	<entry name="AdvancementsHelp" value="Projekte gewähren Ihrem Reich einen vorübergehenden oder permanenten Vorteil, der nach Abschluss des Projekts in einem Ihrer Städte sofort zur Verfügung steht. Diese Vorteile können höchstunterschiedlich ausfallen. Sie reichen von einfachen einmaligen Ressourcenboni über Zusatzeinheiten bis hin zu fortgeschrittenen Strategien oder Technologien, die Ihnen neue Möglichkeiten eröffnen und sich in unterschiedlichen Bereichen entscheidend zu Ihren Gunsten auswirken."/>
 	<entry name="All" value="Alle"/>
 	<entry name="Alliance" value="Allianz"/>
+	<entry name="AlliedVictoryDescription" value="Verbündete teilen den Fortschritt für einen wirtschaftlichen und militärischen Sieg."/>
 	<entry name="AllocationLocked" value="In diesen Bereich wird kein Kolonist automatisch eingeteilt."/>
 	<entry name="AllocationUnlocked" value="In diesen Bereich werden Kolonisten automatisch eingeteilt."/>
-	<entry name="AllowGrowth" value="<style color='Red'/>Wachstum erlauben"/>
-	<entry name="AllowGrowthHint" value=""/>
 	<entry name="Armor" value="Panzerung"/>
 	<entry name="Armors" value="Panzerungen"/>
 	<entry name="ArmorsHelp" value="In den Werkstätten werden die Einheiten mit Panzerungen versehen. Im Endeffekt heißt das, dass die Einheiten gegen einen erhöhten Produktionspreis über zusätzliche Stärke verfügen.<br/><br/>Da eine bessere Panzerung keine höheren Instandhaltungskosten mit sich bringt, ist es stets eine gute Idee, die beste verfügbare Panzerung zu verbauen, solange die Gesamtkosten eines Entwurfs in einem vernünftigen Rahmen bleiben."/>
@@ -49,6 +48,10 @@
 	<entry name="CreateAccountPrompt" value="Bitte geben Sie die notwendigen Informationen ein:"/>
 	<entry name="Credits" value="Credits"/>
 	<entry name="CreditsHint" value="Credits<br/>Ihr Geldvermögen. Damit können Sie Güter kaufen und Unterhalts- bzw. Instandhaltungskosten bezahlen. Ohne Credits werden Ihre Einheiten und Gebäude aufgelöst und abgerissen."/>
+	<entry name="Culture" value="Culture"/>
+	<entry name="CultureColonists" value="Artists"/>
+	<entry name="CultureColonistsHint" value="Artists accumulate culture to expand the borders of your city and raise morale."/>
+	<entry name="CultureHint" value="Culture<br/>Used to expand city borders and raise morale."/>
 	<entry name="CurrentResearchHint" value="Aktuell erforschte Technologie. Klicken zum Ändern."/>
 	<entry name="Date" value="%1% %2% AD"/>
 	<entry name="DEFEAT!" value="VERLOREN!"/>
@@ -66,6 +69,9 @@
 	<entry name="DetailedStanding4" value="Kooperativ"/>
 	<entry name="DetailedStanding5" value="Freundlich"/>
 	<entry name="DetailedStanding6" value="Großzügig"/>
+	<entry name="Device" value="Ausrüstung"/>
+	<entry name="Devices" value="Ausrüstungen"/>
+	<entry name="DevicesHelp" value="Ausrüstungen werden in der Werkstatt den Einheiten zugewiesen und gewähren für einen entsprechend erhöhten Produktionspreis unterschiedlichste Boni.<br/><br/>Im Gegensatz zu der erhöhten Stärke durch Panzerungen sind die Boni durch Ausrüstungen situativer Natur - daher sollten Sie darauf achten, sie korrekt einzusetzen."/>
 	<entry name="Dialogue" value="Dialog"/>
 	<entry name="Diplomacy" value="Diplomatie"/>
 	<entry name="Diplomacy1" value="Isoliert und von anderen Fraktionen gehasst"/>
@@ -77,9 +83,6 @@
 	<entry name="DirectConnect" value="Direkte Verbindung"/>
 	<entry name="DisableTips" value="Hinweise ausschalten"/>
 	<entry name="DisableTipsHint" value="Damit sorgen Sie dafür, dass keine Hinweistexte mehr eingeblendet werden. In den Einstellungen können Sie sie später jederzeit wieder aktivieren."/>
-	<entry name="Device" value="Ausrüstung"/>
-	<entry name="Devices" value="Ausrüstungen"/>
-	<entry name="DevicesHelp" value="Ausrüstungen werden in der Werkstatt den Einheiten zugewiesen und gewähren für einen entsprechend erhöhten Produktionspreis unterschiedlichste Boni.<br/><br/>Im Gegensatz zu der erhöhten Stärke durch Panzerungen sind die Boni durch Ausrüstungen situativer Natur - daher sollten Sie darauf achten, sie korrekt einzusetzen."/>
 	<entry name="EclipseOfNashira" value="Die Nashira-Sonnenfinsternis"/>
 	<entry name="Economy" value="Wirtschaft"/>
 	<entry name="Economy1" value="Miserable Wirtschaft"/>
@@ -97,6 +100,7 @@
 	<entry name="Enter" value="Auswählen"/>
 	<entry name="EnterCityHint" value="Klicken, um in die Stadtansicht zu wechseln."/>
 	<entry name="EntityDamageModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Schaden"/>
+	<entry name="EntityInfiltrationModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Infiltration'/> Infiltrationsstärke"/>
 	<entry name="EntityPowerModifier" value="<icon texture='GUI/Bullet'/>%1%: %2%%% <icon texture='Attributes/Power'/> Stärke"/>
 	<entry name="Era0" value="Zeitalter der Kolonisierung"/>
 	<entry name="Era1" value="Zeitalter der Mechanisierung"/>
@@ -136,8 +140,8 @@
 	<entry name="Host" value="Host"/>
 	<entry name="Hostile" value="Feindlich"/>
 	<entry name="IdleUnitsHint" value="Nächste untätige Einheit auswählen [Tab]."/>
-	<entry name="Incompatible" value="Inkompatibel"/>
 	<entry name="INFINITY" value="99"/>
+	<entry name="Incompatible" value="Inkompatibel"/>
 	<entry name="Info" value="Info"/>
 	<entry name="Invite" value="Einladen"/>
 	<entry name="InviteDisabledHint" value="Auf dem Server läuft nicht die Steam-Version oder Steam-Matchmaking nicht verfügbar."/>
@@ -227,6 +231,7 @@
 	<entry name="Parameters" value="Parameter"/>
 	<entry name="Password" value="Passwort"/>
 	<entry name="PlayerName" value="Spielername"/>
+	<entry name="Player" value="Spieler"/>
 	<entry name="Players" value="Spieler"/>
 	<entry name="PleaseWait" value="Bitte warten ..."/>
 	<entry name="PleaseWaitHint" value=""/>
@@ -256,6 +261,9 @@
 	<entry name="Random" value="Zufällig"/>
 	<entry name="Rank" value="Rang"/>
 	<entry name="RankHint" value="Rang (%1% / %2%)<br/>Erfahrung, die die Einheit im Kampf gewinnt. Jeder neue Rang erhöht die Stärke der Einheit um %3%%%."/>
+	<entry name="Raze" value="Zerstören"/>
+	<entry name="RazeHint" value="Klicken Sie, um mit der Zerstörung der Stadt zu beginnen, indem pro Runde 1 Bevölkerung entfernt wird."/>
+	<entry name="RazeOrder" value="Zerstören-Befehl"/>
 	<entry name="Ready" value="Bereit"/>
 	<entry name="Refit" value="Umrüsten"/>
 	<entry name="RefitUnits" value="%1% / %2% Einheiten für %3% <icon texture='Resources/Credits'/> Credits umrüsten."/>
@@ -278,10 +286,12 @@
 	<entry name="ResearchVictoryDescription" value="Erforschen Sie 75% aller Technologien, um einen wissenschaftlichen Sieg davonzutragen."/>
 	<entry name="ResearchVictoryProgress" value="Fortschritt für wissenschaftlichen Sieg: %1%%%"/>
 	<entry name="ResetPassword" value="Neues Passwort"/>
+	<entry name="Resign" value="Aufgeben"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% erhalten"/>
 	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% erhalten"/>
 	<entry name="ResourcePerTurn" value="%1% pro Runde"/>
 	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% durch Projekte"/>
+	<entry name="ResourcePerTurnFromArtists" value="<icon texture='GUI/Bullet'/>%1% durch Künstler"/>
 	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% durch Gebäudewartung"/>
 	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% durch Gebäude"/>
 	<entry name="ResourcePerTurnFromCity" value="<icon texture='GUI/Bullet'/>%1% durch Stadt"/>
@@ -318,9 +328,6 @@
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>Noch %1% Runde(n)"/>
 	<entry name="Return" value="Zurück"/>
 	<entry name="ReturnToMap" value="Zurück zur Karte"/>
-	<entry name="Raze" value="Zerstören"/>
-	<entry name="RazeHint" value="Klicken Sie, um mit der Zerstörung der Stadt zu beginnen, indem pro Runde 1 Bevölkerung entfernt wird."/>
-	<entry name="RazeOrder" value="Zerstören-Befehl"/>
 	<entry name="Riot" value="Aufstand"/>
 	<entry name="Save" value="Speichern"/>
 	<entry name="SaveGame" value="Spiel speichern"/>
@@ -341,6 +348,8 @@
 	<entry name="SettingsHint" value="Einstellungen [Strg+E]"/>
 	<entry name="ShowAdditionalOrders" value="Zusätzliche Befehle anzeigen."/>
 	<entry name="SightHint" value="Sichtweite<br/>Wie weit die Einheit sehen kann."/>
+	<entry name="SlotClosed" value="[Geschlossen]"/>
+	<entry name="SlotOpen" value="[Offen]"/>
 	<entry name="SortByClass" value="Nach Klasse sortieren"/>
 	<entry name="SortByCredits" value="Nach Credits sortieren"/>
 	<entry name="SortByDevice" value="Nach Ausrüstung sortieren"/>
@@ -367,8 +376,6 @@
 	<entry name="Spectator" value="Zuschauer"/>
 	<entry name="Start" value="Start"/>
 	<entry name="Statistics" value="Statistik"/>
-	<entry name="StopGrowth" value="Wachstum stoppen"/>
-	<entry name="StopGrowthHint" value=""/>
 	<entry name="StopRazing" value="<style color='Red'/>Zerstören beenden"/>
 	<entry name="StopRazingHint" value="Klicken Sie, um die Zerstörung der Stadt zu beenden."/>
 	<entry name="Stories" value="Geschichten"/>
@@ -396,7 +403,8 @@
 	<entry name="Tip" value="Hinweis"/>
 	<entry name="Tips" value="Hinweise"/>
 	<entry name="TipsHelp" value="Hinweise werden überall im Spiel angezeigt, um Ihnen zu helfen. Sie können die einzelnen Hinweise in diesem Bereich aufrufen oder in den Einstellungen festlegen, dass die Hinweise erneut angezeigt werden sollen."/>
-	<entry name="ToggleYieldOverlay" value="Ertragsanzeige ein- bzw. ausblenden. [Ctrl+Y]."/>
+	<entry name="ToggleGrid" value="Gitternetz ein- bzw. ausblenden [Ctrl+G]."/>
+	<entry name="ToggleYieldOverlay" value="Ertragsanzeige ein- bzw. ausblenden [Ctrl+Y]."/>
 	<entry name="Total" value="Gesamt"/>
 	<entry name="TradingPact" value="Handelsabkommen"/>
 	<entry name="TransferControlToThisCityHint" value="Klicken, um Kontrolle an diese Stadt zu übergeben."/>

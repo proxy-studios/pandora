@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Attack" value="Attaquer"/>
+	<entry name="AttackHint" value="Attaquer"/>
+	<entry name="Automatize" value="Automatiser"/>
+	<entry name="AutomatizeHint" value="Automatiser [A]"/>
+	<entry name="BuildCity" value="Fonder une ville"/>
+	<entry name="BuildCityHint" value="Fonder une ville [B]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance pour les unités organiques légères en défense&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;½ &lt;icon texture=&apos;Attributes/Movement&apos;/&gt; coût de déplacement&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+100% &lt;icon texture=&apos;Attributes/HealingRate&apos;/&gt; vitesse de guérison&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Les villes doivent être espacées d&apos;au moins 2 territoires&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Supprime tous les aménagements du territoire&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Fondation impossible dans les montagnes&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Fondation impossible sur les particularités spéciales"/>
+	<entry name="BuildConstructionBay" value="Installer une Baie de construction"/>
+	<entry name="BuildConstructionBayHint" value="Installer une Baie de construction [C]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Production&apos;/&gt; +1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildEnergyPark" value="Installer un Parc énergétique"/>
+	<entry name="BuildEnergyParkHint" value="Installer un Parc énergétique [Y]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Credits&apos;/&gt; +3&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildFarm" value="Installer une Exploitation agricole"/>
+	<entry name="BuildFarmHint" value="Installer une Exploitation agricole [F]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Food&apos;/&gt; +1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildFieldLaboratory" value="Installer un Laboratoire de terrain"/>
+	<entry name="BuildFieldLaboratoryHint" value="Installer un Laboratoire de terrain [L]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Research&apos;/&gt; +1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildFort" value="Ériger un Fort"/>
+	<entry name="BuildFortHint" value="Ériger un Fort [O]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+50%% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance pour les unités en défense&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+100%% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance contre les opérations&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+1 &lt;icon texture=&apos;Attributes/Sight&apos;/&gt; portée de vue&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+100%% &lt;icon texture=&apos;Attributes/HealingRate&apos;/&gt; vitesse de guérison&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildMine" value="Creuser une Mine"/>
+	<entry name="BuildMineHint" value="Creuser une Mine [M]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Minerals&apos;/&gt; +1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildPurifier" value="Installer un Purificateur"/>
+	<entry name="BuildPurifierHint" value="Installer un Purificateur [P]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Pollution&apos;/&gt; -2  &lt;icon texture=&apos;Resources/Credits&apos;/&gt; -3&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildRoad" value="Paver une Route"/>
+	<entry name="BuildRoadHint" value="Paver une Route [R]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;½ &lt;icon texture=&apos;Attributes/Movement&apos;/&gt; coût de déplacement&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="BuildSuburb" value="Aménager une Banlieue"/>
+	<entry name="BuildSuburbHint" value="Aménager une Banlieue [U]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Habitat&apos;/&gt; +2  &lt;icon texture=&apos;Resources/Credits&apos;/&gt; -3&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="ClearCreep" value="Éradiquer l&apos;Infestation"/>
+	<entry name="ClearCreepHint" value="Éradiquer l&apos;Infestation&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="ClearForest" value="Défricher la Forêt"/>
+	<entry name="ClearForestHint" value="Défricher la Forêt [Alt+T]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="ClearFungus" value="Éliminer les Champignons"/>
+	<entry name="ClearFungusHint" value="Éliminer les Champignons [Alt+N]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="ClearPollution" value="Nettoyer la Zone dévastée"/>
+	<entry name="ClearPollutionHint" value="Nettoyer la Zone dévastée [Alt+W]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="Deploy" value="Déployer"/>
+	<entry name="DeployHint" value="Déployer"/>
+	<entry name="DestroyImprovement" value="Détruire l&apos;Aménagement"/>
+	<entry name="DestroyImprovementHint" value="Détruire l&apos;Aménagement [Alt+D]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Supprime tout aménagement à l&apos;exception des routes"/>
+	<entry name="DestroyRoad" value="Détruire la Route"/>
+	<entry name="DestroyRoadHint" value="Détruire la Route [Alt+R]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Supprime le réseau routier"/>
+	<entry name="Disband" value="Dissoudre"/>
+	<entry name="DisbandHint" value="Dissoudre [Suppr]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;25%% de la valeur en &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits de l&apos;unité sont restitués si la dissolution a lieu en territoire allié&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;%1% &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits seront restitués si l&apos;unité est dissoute ici"/>
+	<entry name="Drop" value="Larguer"/>
+	<entry name="DropHint" value="Déploiement orbital&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Déploie une unité sur n&apos;importe quel territoire découvert et inoccupé de la planète&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;L&apos;unité doit être stationnée dans une ville contrôlée par le joueur&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Consomme une opération Capsule de largage"/>
+	<entry name="Guard" value="Garder"/>
+	<entry name="GuardHint" value="Garder [G]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Reste en position jusqu&apos;à l&apos;apparition d&apos;un ennemi à portée d&apos;attaque, ou jusqu&apos;à subir une attaque&lt;br/&gt;"/>
+	<entry name="GrowForest" value="Planter une Forêt"/>
+	<entry name="GrowForestHint" value="Planter une Forêt [T]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Food&apos;/&gt; 1  &lt;icon texture=&apos;Resources/Minerals&apos;/&gt; 1  &lt;icon texture=&apos;Resources/Pollution&apos;/&gt; -1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="GrowFungus" value="Planter des Champignons"/>
+	<entry name="GrowFungusHint" value="Planter des Champignons [N]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;&lt;icon texture=&apos;Resources/Pollution&apos;/&gt; -1&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+	<entry name="HarvestCredits" value="Récolter des Crédits"/>
+	<entry name="HarvestCreditsHint" value="Récolter des Crédits &lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Collecte des &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits sur le territoire"/>
+	<entry name="HarvestFood" value="Récolter la Nourriture"/>
+	<entry name="HarvestFoodHint" value="Récolter la Nourriture [Alt+F]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Collecte la &lt;icon texture=&apos;Resources/Food&apos;/&gt; nourriture présente sur le territoire"/>
+	<entry name="HarvestMinerals" value="Récolter le Minerai"/>
+	<entry name="HarvestMineralsHint" value="Récolter le Minerai [Alt+M]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Collecte le &lt;icon texture=&apos;Resources/Minerals&apos;/&gt; minerai présent sur le territoire"/>
+	<entry name="HarvestResearch" value="Récolter les Recherches"/>
+	<entry name="HarvestResearchHint" value="Récolter les Recherches&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Collecte le fruit des &lt;icon texture=&apos;Resources/Research&apos;/&gt; recherches menées sur le territoire"/>
+	<entry name="Heal" value="Soigner"/>
+	<entry name="HealHint" value="Soigner [H]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Reste en position jusqu&apos;à guérison complète&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Soigne %1%%% par tour&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;%2% tours avant guérison complète"/>
+	<entry name="HoldPosition" value="Rester en position"/>
+	<entry name="HoldPositionHint" value="Rester en position [D]"/>
+	<entry name="Idle" value="Au repos"/>
+	<entry name="ImproveClosestCity" value="Aménager la Ville la plus proche"/>
+	<entry name="ImproveClosestCityHint" value="Aménager la Ville la plus proche [Alt+A]"/>
+	<entry name="ImproveEcoregion" value="Améliorer l&apos;Écorégion"/>
+	<entry name="ImproveEcoregionHint" value="Améliorer l&apos;Écorégion [K]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>	
+	<entry name="InciteRiot" value="Inciter à l&apos;Émeute"/>
+	<entry name="InciteRiotHint" value="Inciter à l&apos;Émeute&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Incite à l&apos;émeute à l&apos;intérieur d&apos;une ville, réduisant considérablement le moral pendant 4 tours&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="InfiltrateReconnaissance" value="Reconnaissance clandestine"/>
+	<entry name="InfiltrateReconnaissanceHint" value="Reconnaissance clandestine&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Accorde un accès complet à la vue du joueur jusqu&apos;à la fin du tour&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="LowerTerrain" value="Abaisser le terrain"/>
+	<entry name="LowerTerrainHint" value="Abaisser le terrain [Alt+I]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>	
+	<entry name="Move" value="Se déplacer vers"/>
+	<entry name="MoveHint" value="Se déplacer"/>
+	<entry name="RaiseTerrain" value="Élever le terrain"/>
+	<entry name="RaiseTerrainHint" value="Élever le terrain [Alt+I]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>	
+	<entry name="Refit" value="Remodeler"/>
+	<entry name="RefitHint" value="Remodeler [E]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Modifie le modèle de l&apos;unité&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;L&apos;unité doit être stationnée dans une ville contrôlée par le joueur"/>
+	<entry name="ReleaseGeneticVirus" value="Répandre un Virus génétique"/>
+	<entry name="ReleaseGeneticVirusHint" value="Répandre un Virus génétique&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Répand un virus génétique dans une ville, qui décime la population de façon continue pendant 4 tours&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="SabotageBuilding" value="Saboter un Bâtiment"/>
+	<entry name="SabotageBuildingHint" value="Saboter un Bâtiment&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Détruit le bâtiment d&apos;une ville au hasard&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="SabotageProduction" value="Saboter la Production"/>
+	<entry name="SabotageProductionHint" value="Saboter la Production&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Détruit une quantité aléatoire de la production accumulée d&apos;une ville&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="SabotageResearch" value="Saboter la Recherche"/>
+	<entry name="SabotageResearchHint" value="Saboter la Recherche&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Détruit une quantité aléatoire de la recherche accumulée d&apos;une ville&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="Skip" value="Passer"/>
+	<entry name="SkipHint" value="Passer [S]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Passe son tour"/>
+	<entry name="StealCredits" value="Voler des Crédits"/>
+	<entry name="StealCreditsHint" value="Voler des Crédits&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dérobe une quantité aléatoire des crédits accumulés par un joueur&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="StealResearch" value="Voler des Recherches"/>
+	<entry name="StealResearchHint" value="Voler des Recherches&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dérobe une quantité aléatoire des recherches accumulées par un joueur&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Probabilité de succès : %1%%% sans modificateur"/>
+	<entry name="WorsenEcoregion" value="Dégrader l&apos;Écorégion"/>
+	<entry name="WorsenEcoregionHint" value="Dégrader l&apos;Écorégion [Alt+K]&lt;br/&gt;&lt;style name=&apos;Small&apos;/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Durée des travaux : %1% tour(s)"/>
+</language>

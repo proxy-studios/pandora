@@ -16,8 +16,8 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Posso presentarmi? Io sono il Dottor Alpheus Schreiber, capo nominale dell'Università di Togra. È stata una delle nostre creazioni, come il dispositivo Alcubierre, a portare l'uomo su Pandora. Detto questo, non penso che proverai rancore nel permetterci una chance nello studio di questo mondo affascinante e nell'espansione dei confini del pensiero umano, vero? Io credo di no. Penso che andremo sicuramente d'accordo.&quot;"/>
 	
-	<entry name="NamePositive" value="&quot;Il brillante Dottor Schreiber.&quot;"/> 
-	<entry name="NameNegative" value="&quot;L'immorale Dottor Schreiber.&quot;"/> 
+	<entry name="NamePositive" value="&quot;Il brillante %6%.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'immorale %6%.&quot;"/> 
 
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 

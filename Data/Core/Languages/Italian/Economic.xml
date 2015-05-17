@@ -16,8 +16,8 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Salve %3%, io sono il Direttor Eric Preston della Noxium Corporation. È un piacere fare la tua conoscenza. Ora, pensiamo che Pandora abbia un grande potenziale per lo sfruttamento economico... quindi finché non manometterai i mercati, siamo i migliori amici che tu possa avere, hmm?&quot;"/>
 		
-	<entry name="NamePositive" value="&quot;Il ragionevole Direttor Preston.&quot;"/> 
-	<entry name="NameNegative" value="&quot;L'avido Direttor Preston.&quot;"/> 
+	<entry name="NamePositive" value="&quot;Il ragionevole %6%.&quot;"/> 
+	<entry name="NameNegative" value="&quot;L'avido %6%.&quot;"/> 
 	
 	<entry name="LetMeThink" value="&quot;Hmm... dammi un momento per pensarci.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Certo, fammi sapere quando avrai preso una decisione.&quot;"/> 

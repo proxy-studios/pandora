@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Alien" value="Carapace Messari"/>
+	<entry name="AlienDescription" value="La terrible énergie de l&apos;armement Messari est répliquée à petite échelle dans leur armure. Tout projectile ou énergie se heurtant au champ ondulatoire entourant cette substance se disperse comme des pétales voletant sous l&apos;effet d&apos;une brise."/>
+	<entry name="AlienProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor0" value="Armure en acier"/>
+	<entry name="Armor0Description" value="L&apos;armure en acier épais « à toute épreuve » assure une protection de base contre les projectiles et les explosions, moyennant un coût de production plus élevé."/>
+	<entry name="Armor0Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor1" value="Armure en titane"/>
+	<entry name="Armor1Description" value="Forgée en titane, cette armure solide, d&apos;un métal étincelant et résistant à la corrosion, offre une protection deux fois supérieure à l&apos;acier ordinaire."/>
+	<entry name="Armor1Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor2" value="Armure en zortium"/>
+	<entry name="Armor2Description" value="On a découvert que les isotopes de mexallon pur se liaient chimiquement avec le titane pour créer le zortium, un matériau très résistant qui convient parfaitement aux armures."/>
+	<entry name="Armor2Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor3" value="Armure gaussienne"/>
+	<entry name="Armor3Description" value="Les explosions et les collisions cinétiques endommagent les armures en raison de leur faiblesse structurelle au niveau moléculaire. L&apos;armure gaussienne n&apos;est rien autre qu&apos;une armure en zortium pourvue d&apos;un assemblage moléculaire hautement optimisé, ce qui améliore considérablement ses capacités de résistance. Toutefois, le processus d&apos;optimisation doit être réalisé individuellement pour chaque armure après la fabrication, et s&apos;avère donc extrêmement coûteux."/>
+	<entry name="Armor3Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor4" value="Armure en adamantium"/>
+	<entry name="Armor4Description" value="Totalement noir et extrêmement lourd, l&apos;adamantium est matériau extra-dense présent à plusieurs centaines de kilomètres sous la surface de la planète, difficile à extraire et raffiner. Même si cette armure est particulièrement encombrante, elle est capable de résister à des impacts massifs. &lt;br/&gt;&lt;br/&gt;&lt;style name=&apos;Italic&apos;/&gt;Dans le jargon militaire, les soldats équipés de cette armure noire et résiliente en adamantium sont appelés « Scarabées »."/>
+	<entry name="Armor4Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor5" value="Armure en fil d&apos;acier"/>
+	<entry name="Armor5Description" value="Légère comme la soie, mais un millier de fois plus solide que l&apos;acier ordinaire, cette armure est très appréciée des soldats en raison de sa souplesse et de son entretien facile. Grâce à sa maniabilité exceptionnelle, les unités qui en sont pourvues subissent généralement moins de pertes que celles équipées d&apos;armures plus denses."/>
+	<entry name="Armor5Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor6" value="Armure en neutronium"/>
+	<entry name="Armor6Description" value="Un mini-réacteur intégré génère de façon constante des neutrons qui circulent librement entre deux couches magnétiques, neutralisant ainsi les rayons et les projectiles tout en absorbant l&apos;énergie excédentaire. &lt;br/&gt;&lt;br/&gt;&lt;style name=&apos;Italic&apos;/&gt;« Au cas où vous l&apos;ignoriez, Johnson, le beau gosse du cinquième bataillon avait reçu un modèle de première génération. Manque de chance, un Galeth a réussi à endommager la sortie du réacteur d&apos;un coup de griffe et le pauvre Greg a dû encaisser une fuite de neutrons. Quelques minutes plus tard… disons simplement qu&apos;il n&apos;était plus si beau à voir. »"/>
+	<entry name="Armor6Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor7" value="Armure en antimatière"/>
+	<entry name="Armor7Description" value="Recouvre le porteur ou l&apos;engin d&apos;une fine couche de particules d&apos;antimatière, circonscrite à l&apos;aide d&apos;un champ magnétique. Correctement utilisée, l&apos;armure absorbe presque tous les impacts physiques.&lt;br/&gt;&lt;br/&gt;&lt;style name=&apos;Italic&apos;/&gt;ATTENTION : Seules les unités les plus avancées et bien entraînées peuvent maîtriser ce type d&apos;armure. Une utilisation incorrecte se traduira par un démembrement, dans le meilleur des cas."/>
+	<entry name="Armor7Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Armor8" value="Armure en xénotronium"/>
+	<entry name="Armor8Description" value="Le xénotronium est la protection la plus évoluée jamais conçue, basée les principes de l&apos;antimatière. L&apos;armure possède une conscience propre et détecte les menaces potentielles grâce aux fluctuations énergétiques dans l&apos;environnement. Si un faisceau ou un projectile approche dans un rayon de plusieurs kilomètres, il suffit de quelques picosecondes pour que toutes les capacités défensives se concentrent sur l&apos;endroit de l&apos;impact et neutralisent la menace."/>
+	<entry name="Armor8Properties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="Best" value="Meilleure armure"/>
+	<entry name="BestProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Armure"/>
+	<entry name="None" value="Aucune armure"/>
+	<entry name="NoneDescription" value="Les unités sans armure ne bénéficient d&apos;aucune protection supplémentaire, et peuvent uniquement compter sur leur uniforme de base ou leur coque en cas d&apos;attaque."/>
+</language>
