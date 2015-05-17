@@ -20,7 +20,7 @@
 	<entry name="CreepProperties" value="<icon texture='GUI/Bullet'/>Effekt<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten voor Messari-grondeenheden<br/><icon texture='GUI/Bullet'/>Gebied heeft geen grondstoffen"/>
 	<entry name="CreepStats" value="<icon texture='Resources/Pollution'/> +1"/>
 	<entry name="CreditsBonus0" value="Goudader"/>
-	<entry name="CreditsBonus0Description" value="Reeds lang voor het begin van de geschiedschrijving was goud op aarde reeds een waardevol en begeerd metaal. En net zoals op de planeet die onze bakermat is bijna al het toegankelijke goud op Pandora door meteorieten ingeslagen. Een goudader verhoogt het inkomen van de stad die het gebied uitbaat enorm."/>
+	<entry name="CreditsBonus0Description" value="Reeds lang voor het begin van de geschiedschrijving was goud op aarde reeds een waardevol en begeerd metaal. En net zoals op de planeet die onze bakermat is, is bijna al het toegankelijke goud op Pandora door meteorieten ingeslagen. Een goudader verhoogt het inkomen van de stad die het gebied uitbaat enorm."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="CreditsBonus0Stats" value="<icon texture='Resources/Credits'/> +50%"/>
 	<entry name="Coast" value="Kust"/>
@@ -134,7 +134,7 @@
 	<entry name="ProductionBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrein"/>
 	<entry name="ProductionBonus0Stats" value="<icon texture='Resources/Production'/> +50%"/>
 	<entry name="ResearchBonus0" value="Observatorium"/>
-	<entry name="ResearchBonus0Description" value="Een eeuwen geleden, met buitenaardse technologie ingericht, grotendeels intact observatorium, dat er niet alleen prachtig uitziet, maar ook een ware zegen voor onze wetenschappers is. Het observatorium verbetert de wetenschappelijke opbrengst in stad waar het onder valt enorm. Dat komt niet allen, omdat de wetenschappers de hemel kunnen bestuderen, maar ook van op een zekere afstand de buitenaarde wezens kunnen bestuderen."/>
+	<entry name="ResearchBonus0Description" value="Een eeuwen geleden, met buitenaardse technologie ingericht, grotendeels intact observatorium, dat er niet alleen prachtig uitziet, maar ook een ware zegen voor onze wetenschappers is. Het observatorium verbetert de wetenschappelijke opbrengst in de stad waar het onder valt enorm. Dat komt niet alleen, omdat de wetenschappers de hemel kunnen bestuderen, maar ook van op een zekere afstand de buitenaarde wezens kunnen bestuderen."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
 	<entry name="ResearchBonus0Stats" value="<icon texture='Resources/Research'/> +50%"/>
 	<entry name="River" value="Rivier"/>

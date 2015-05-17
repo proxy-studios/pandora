@@ -8,6 +8,7 @@
 	<entry name="AdvancementsHelp" value="Vorderingen geven je rijk een tijdelijk of permanent voordeel, dat onmiddellijk na afsluiting van de vordering in elke stad van kracht wordt. Deze voordelen variëren van eenvoudige grondstofbonussen of extra eenheden tot geavanceerde strategieën of technologieën die een beslissende invloed in je voordeel op het slagveld kunnen maken."/>
 	<entry name="All" value="Alle"/>
 	<entry name="Alliance" value="Alliantie"/>
+	<entry name="AlliedVictoryDescription" value="Bondgenoten delen hun vorderingen voor economische en militaire overwinningen."/>
 	<entry name="AllocationLocked" value="Kolonisten worden niet automatisch toegewezen aan deze taak.."/>
 	<entry name="AllocationUnlocked" value="Kolonisten worden automatisch toegewezen aan deze taak."/>
 	<entry name="AllowGrowth" value="<style color='Red'/>Groei toestaan"/>
@@ -49,6 +50,10 @@
 	<entry name="CreateAccountPrompt" value="Geef alsjeblieft de benodigde gegevens in:"/>
 	<entry name="Credits" value="Kredieten"/>
 	<entry name="CreditsHint" value="Kredieten<br/>Je geldvermogen. Daarmee kan je goederen kopen en onderhouds- danwel instandhoudingskosten betalen. Zonder kredieten zullen je eenheden en gebouwen ontbonden en afgebroken worden."/>
+	<entry name="Culture" value="Cultuur"/>
+	<entry name="CultureColonists" value="Artiesten"/>
+	<entry name="CultureColonistsHint" value="Artiesten verzamelen cultuur om de grenzen van je stad te verleggen en het moraal te verhogen."/>
+	<entry name="CultureHint" value="Culture<br/>Used to expand city borders and raise morale."/>
 	<entry name="CurrentResearchHint" value="Actueel onderzochte technologie. Klikken om te veranderen."/>
 	<entry name="Date" value="%1% %2% n.C."/>
 	<entry name="DEFEAT!" value="VERLOREN!"/>
@@ -66,6 +71,9 @@
 	<entry name="DetailedStanding4" value="Coöperatief"/>
 	<entry name="DetailedStanding5" value="Vriendelijk"/>
 	<entry name="DetailedStanding6" value="Ruimhartig"/>
+	<entry name="Device" value="Uitrusting"/>
+	<entry name="Devices" value="Uitrustingen"/>
+	<entry name="DevicesHelp" value="Uitrustingen worden in de werkplaats aan eenheden toegewezen en verlenen voor een navenant hogere productieprijs verscheidende bonussen.<br/><br/>In tegenstelling tot de hogere sterkte door bepantseringen zijn de bonussen door uitrustingen van situative aard - daarvoor moet je erop letten, ze correct in te zetten."/>
 	<entry name="Dialogue" value="Dialoog"/>
 	<entry name="Diplomacy" value="Diplomatie"/>
 	<entry name="Diplomacy1" value="Geïsoleerd en gehaat door andere fracties"/>
@@ -77,9 +85,6 @@
 	<entry name="DirectConnect" value="Directe verbinding"/>
 	<entry name="DisableTips" value="Tips uitschakelen"/>
 	<entry name="DisableTipsHint" value="Hiermee zorg je ervoor, dat er geen tips meer getoond worden. In de instellingen kun je ze later op ieder moment weer activeren."/>
-	<entry name="Device" value="Uitrusting"/>
-	<entry name="Devices" value="Uitrustingen"/>
-	<entry name="DevicesHelp" value="Uitrustingen worden in de werkplaats aan eenheden toegewezen en verlenen voor een navenant hogere productieprijs verscheidende bonussen.<br/><br/>In tegenstelling tot de hogere sterkte door bepantseringen zijn de bonussen door uitrustingen van situative aard - daarvoor moet je erop letten, ze correct in te zetten."/>
 	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
 	<entry name="Economy" value="Economie"/>
 	<entry name="Economy1" value="Miserabele economie"/>
@@ -108,7 +113,7 @@
 	<entry name="ExitToMainMenu" value="Terug naar het hoofdmenu"/>
 	<entry name="Faction" value="Fractie"/>
 	<entry name="Factions" value="Fracties"/>
-	<entry name="FactionsHelp" value="De globalisering, de kolonisering van buitenaardse objecten in ons zonnestelsel en tenslotte de eerste geslaagde bouw van een Alcubierre-aandrijving in het tweede deel van de 21e eeuw zorgden ervoor, dat de oude wereldorde op de aard relatief snel uiteenviel.<br/><br/>Om niet volledig ten onder te gaan en de enorme kosten voor milieubescherming en de bouwactiviteiten in de ruimte te kunnen dragen, verenigden de meeste bestaande naties zich in federaties, of gingen partnerschappen aan met sterke mega-ondernemingen.<br/><br/>De resulterende fracties verschillen ten zeerste in hun ideologieën en wereldbeelden, over welke weg de menselijke samenleving in de ongewisse toekomst zal moeten inslaan."/>
+	<entry name="FactionsHelp" value="De globalisering, de kolonisering van buitenaardse objecten in ons zonnestelsel en tenslotte de eerste geslaagde bouw van een Alcubierre-aandrijving in het tweede deel van de 21e eeuw zorgden ervoor, dat de oude wereldorde op de aarde relatief snel uiteenviel.<br/><br/>Om niet volledig ten onder te gaan en de enorme kosten voor milieubescherming en de bouwactiviteiten in de ruimte te kunnen dragen, verenigden de meeste bestaande naties zich in federaties, of gingen partnerschappen aan met sterke mega-ondernemingen.<br/><br/>De resulterende fracties verschillen ten zeerste in hun ideologieën en wereldbeelden, over welke weg de menselijke samenleving in de ongewisse toekomst zal moeten inslaan."/>
 	<entry name="Feature" value="Eigenschap"/>
 	<entry name="Features" value="Eigenschappen"/>
 	<entry name="FeaturesHelp" value="Eigenschappen classificeren de staat van gebieden. Het kan daarbij gaan om eenvoudige terreineigenschappen zoals vlaktes of bossen, om menselijke constructies zoals wegen en boerderijen of zelfs om effecten als gevolg van operaties."/>
@@ -128,7 +133,6 @@
 	<entry name="GlobalTaxSliderHint" value="Regelt het algemene belastingtarief. Hogere belastingen verhogen het <icon texture='Resources/Credits'/> inkomen, terwijl ;agere belastingtarieven het <icon texture='Resources/Morale'/> moraal versterken."/>
 	<entry name="Growth" value="Groei"/>
 	<entry name="GrowthHint" value="Groei<br/>De snelheid waarmee de bevolking groeit of krimpt. Zodra er genoeg positieve of negatieve groei verzameld is, ontvang of verlies je een kolonist. Vanaf een bevolking van 8 groeit met iedere groei van een stad ook je rijk verder."/>
-	<entry name="Riot" value="Rellen"/>
 	<entry name="Habitat" value="Leefruimte"/>
 	<entry name="HabitatHint" value="Leefruimte<br/>Leefruimte, die je bevolking ter beschikking staat. Een negatieve waarde betekent overbevolking en doet het moraal dalen."/>
 	<entry name="HallOfFame" value="Hal van beroemdheden"/>
@@ -258,6 +262,9 @@
 	<entry name="Random" value="Willekeurig"/>
 	<entry name="Rank" value="Rang"/>
 	<entry name="RankHint" value="Rang (%1% / %2%)<br/>Ervaring, die de eenheid tijdens gevechten verkrijgt. Iedere nieuwe rang verhoogt de sterkte van de eenheid met %3%%%."/>
+	<entry name="Raze" value="Verwoesten"/>
+	<entry name="RazeHint" value="Klik om met de verwoesting van de stad te beginnen, waarbij per ronde 1 bevolking gedood wordt."/>
+	<entry name="RazeOrder" value="Verwoestingsbevel"/>
 	<entry name="Ready" value="Gereed"/>
 	<entry name="Refit" value="Ombouwen"/>
 	<entry name="RefitUnits" value="%1% / %2% eenheden voor %3% <icon texture='Resources/Credits'/> kredieten ombouwen."/>
@@ -280,10 +287,12 @@
 	<entry name="ResearchVictoryDescription" value="Onderzoek 75% van alle technologiën om een wetenschappelijke overwinning te boeken."/>
 	<entry name="ResearchVictoryProgress" value="Vordering voor wetenschappelijke overwinning: %1%%%"/>
 	<entry name="ResetPassword" value="Nieuw wachtwoord"/>
+	<entry name="Resign" value="Aftreden"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% vergaard"/>
 	<entry name="ResourceAccumulatedOutOf" value="<icon texture='GUI/Bullet'/>%1% / %2% vergaard"/>
 	<entry name="ResourcePerTurn" value="%1% per ronde"/>
 	<entry name="ResourcePerTurnFromAdvancements" value="<icon texture='GUI/Bullet'/>%1% uit vorderingen"/>
+	<entry name="ResourcePerTurnFromArtists" value="<icon texture='GUI/Bullet'/>%1% from artiesten"/>
 	<entry name="ResourcePerTurnFromBuildingUpkeep" value="<icon texture='GUI/Bullet'/>%1% uit gebouwenonderhoud"/>
 	<entry name="ResourcePerTurnFromBuildings" value="<icon texture='GUI/Bullet'/>%1% uit gebouwen"/>
 	<entry name="ResourcePerTurnFromCity" value="<icon texture='GUI/Bullet'/>%1% uit stad"/>
@@ -304,6 +313,7 @@
 	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% uit onderzoek"/>
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% uit wetenschappers"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% uit onderzoekspacten"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% uit aangezette rellen"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% uit hongersnood"/>
 	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% uit opgehitste opstanden"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% uit overname"/>
@@ -319,9 +329,8 @@
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>Nog %1% ronde(s)"/>
 	<entry name="Return" value="Terug"/>
 	<entry name="ReturnToMap" value="Terug naar de kaart"/>
-	<entry name="Raze" value="Verwoesten"/>
-	<entry name="RazeHint" value="Klik om met de verwoesting van de stad te beginnen, waarbij per ronde 1 bevolking gedood wordt."/>
-	<entry name="RazeOrder" value="Verwoestingsbevel"/>
+	<entry name="RazeOrder" value="verwoestorder"/>
+	<entry name="Riot" value="Rellen"/>
 	<entry name="Save" value="Opslaan"/>
 	<entry name="SaveGame" value="Spel opslaan"/>
 	<entry name="SaveGameHint" value="Spel opslaan [Ctrl+S]<br/>Snelopslaan [F11]"/>
@@ -341,6 +350,8 @@
 	<entry name="SettingsHint" value="Instellingen [Ctrl+E]"/>
 	<entry name="ShowAdditionalOrders" value="Aanvullende bevelen tonen."/>
 	<entry name="SightHint" value="Zichtveld<br/>Hoe ver de eenheid kan kijken."/>
+	<entry name="SlotClosed" value="[Gesloten]"/>
+	<entry name="SlotOpen" value="[Open]"/>
 	<entry name="SortByClass" value="Sorteer op klasse"/>
 	<entry name="SortByCredits" value="Sorteer op kredieten"/>
 	<entry name="SortByDevice" value="Sorteer op uitrusting"/>
@@ -377,6 +388,16 @@
 	<entry name="SuccessChance" value="Succeskans"/>
 	<entry name="Targets" value="Doelwitten"/>
 	<entry name="TargetPower" value="Doelwitsterkte"/>
+	<entry name="Team" value="Team"/>
+	<entry name="Team0" value="Geen"/>
+	<entry name="Team1" value="A"/>
+	<entry name="Team2" value="B"/>
+	<entry name="Team3" value="C"/>
+	<entry name="Team4" value="D"/>
+	<entry name="Team5" value="E"/>
+	<entry name="Team6" value="F"/>
+	<entry name="Team7" value="G"/>
+	<entry name="Team8" value="H"/>
 	<entry name="Technologies" value="Technologieën"/>
 	<entry name="TechnologiesHelp" value="Tijdens het verloop van het spel zal je steeds geavanceerdere technologieën ontsluiten, die je nieuwe gebouwen, eenheden, wapens, bepantseringen, uitrustingen, operaties en vorderingen ter beschikking stellen.<br/><br/>Indien niet expliciet gedeactiveerd, boek je een wetenschappelijke overwinning zodra je 75% van alle beschikbare technologieën onderzocht hebt."/>
 	<entry name="TechnologyCost" value="Kosten: %1% <icon texture='Resources/Research'/> onderzoek <style name='Small' color='Gray'/>(%2% rondes)"/>
@@ -386,6 +407,8 @@
 	<entry name="Tip" value="Tip"/>
 	<entry name="Tips" value="Tips"/>
 	<entry name="TipsHelp" value="Tips worden overal in het spel getoond om je te helpen. Je kunt de individuele tips hier oproepen of de tips terugzetten in de instellingen, zodat ze opnieuw tijdens het spel getoond worden."/>
+	<entry name="ToggleGrid" value="Roosterweergave aan-/uitschakelen [Ctrl+G]."/>
+	<entry name="ToggleYieldOverlay" value="Opbrengstweergave aan-/uitschakelen [Ctrl+Y]."/>
 	<entry name="Total" value="Totaal"/>
 	<entry name="TradingPact" value="Handelspact"/>
 	<entry name="TransferControlToThisCityHint" value="Klik om naar de besturing van deze stad over te schakelen."/>

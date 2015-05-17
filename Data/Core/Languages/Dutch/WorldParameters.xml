@@ -10,7 +10,7 @@
 	<entry name="AlienAggression3" value="Hoog"/>
 	<entry name="AlienAggression3Hint" value="De buitenaardse levensvormen worden behoorlijk snel vijandig en leggen lange afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren behoorlijk snel nieuwe Xenomorfen."/>
 	<entry name="AlienAggression4" value="Zeer hoog"/>
-	<entry name="AlienAggression4Hint" value="De buitenaardse levensvormen worden uiterst snel vijandig en leggen immense afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren uiterst snel langzaam nieuwe Xenomorfen."/>
+	<entry name="AlienAggression4Hint" value="De buitenaardse levensvormen worden uiterst snel vijandig en leggen immense afstanden af van hun woongebieden om aan te vallen. De zwermkorven produceren uiterst snel nieuwe Xenomorfen."/>
 	<entry name="AlienAggression5" value="Willekeurig"/>
 	<entry name="AlienAggression5Hint" value="De buitenaardse agressie wordt aan het begin van het spel willekeurig gekozen."/>
         <entry name="AlliedVictory" value="Geallileerde overwinning"/>
