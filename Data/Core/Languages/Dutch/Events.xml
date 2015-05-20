@@ -4,6 +4,7 @@
 	
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% heeft een %2% voltooid."/>
+	<entry name="AgentFailed" value="%1% faalde bij geheime operatie in %2%."/> 
 	<entry name="AgentEliminated" value="%1% werd uitgeschakeld tijdens het infiltreren van %2%."/>
 	<entry name="AgentIncitedRiot" value="%1% heeft een opstand ontketend in %2%."/>
 	<entry name="AgentInfiltratedReconnaissance" value="%1% heeft verkenning geïnfiltreerd in %2%."/>
@@ -51,7 +52,6 @@
 	<entry name="PeaceEntered" value="%1% heeft vrede gesloten met %2%."/>
 	<entry name="PlayerProducedItem" value="%1% heeft productie gereed: %2%."/>
 	<entry name="Praised" value="%1% heeft %2% geloofd."/>
-	<entry name="AdvancementProductionComplete" value="%1% heeft voortgang gereed: %2%."/>
 	<entry name="ResearchComplete" value="Onderzoek voltooid: %1%"/>
 	<entry name="UnitAttackedByUnit" value="%1% werd %3% aangevallen door: %2%."/>
 	<entry name="UnitAttackedCity" value="%1% heeft %2% aangevallen."/>

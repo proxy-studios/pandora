@@ -233,6 +233,7 @@
 	<entry name="Parameters" value="Parameter"/>
 	<entry name="Password" value="Wachtwoord"/>
 	<entry name="PlayerName" value="Spelernaam"/>
+	<entry name="Player" value="Speler"/> 
 	<entry name="Players" value="Spelers"/>
 	<entry name="PleaseWait" value="Even geduld ..."/>
 	<entry name="PleaseWaitHint" value=""/>
@@ -315,7 +316,6 @@
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% uit onderzoekspacten"/>
 	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% uit aangezette rellen"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% uit hongersnood"/>
-	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% uit opgehitste opstanden"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% uit overname"/>
 	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% uit slachtoffers overname"/>
 	<entry name="ResourcePerTurnFromTakeoverMigration" value="<icon texture='GUI/Bullet'/>%1% uit migratie overname"/>

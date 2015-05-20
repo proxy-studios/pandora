@@ -47,7 +47,7 @@
 	<entry name="GrowForest" value="Bos aanplanten"/>
 	<entry name="GrowForestHint" value="Bos aanplanten [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 	<entry name="GrowFungus" value="Schimmel aanplanten"/>
-	<entry name="GrowFungusHint" value="Schimmel aanplanten [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
+	<entry name="GrowFungusHint" value="Schimmel aanplanten [N]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 	<entry name="HarvestFood" value="Voedsel oogsten"/>
 	<entry name="HarvestFoodHint" value="Voedsel oogsten<br/><style name='Small'/><icon texture='GUI/Bullet'/>Oogst <icon texture='Resources/Food'/> voedsel in dit gebied"/>
 	<entry name="HarvestMinerals" value="Mineralen ontginnen"/>
@@ -78,15 +78,15 @@
 	<entry name="SabotageBuilding" value="Gebouw saboteren"/>
 	<entry name="SabotageBuildingHint" value="Gebouw saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurig gebouw in een stad<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="SabotageProduction" value="Productie saboteren"/>
-	<entry name="SabotageProductionHint" value="Productie saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van de verzamelde productie in een stad, maximaal de gehele productie<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="SabotageProductionHint" value="Productie saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van de verzamelde productie in een stad<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="SabotageResearch" value="Onderzoek saboteren"/>
-	<entry name="SabotageResearchHint" value="Onderzoek saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van het onderzoek dat de speler vergaard heeft, maximaal het gehele onderzoek<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="SabotageResearchHint" value="Onderzoek saboteren<br/><icon texture='GUI/Bullet'/>Vernietigt een willekeurige hoeveelheid van het onderzoek dat de speler vergaard heeft<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="Skip" value="Overslaan"/>
 	<entry name="SkipHint" value="Overslaan [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Deze ronde overslaan"/>
 	<entry name="StealCredits" value="Kredieten stelen"/>
-	<entry name="StealCreditsHint" value="Kredieten stelen<br/><icon texture='GUI/Bullet'/>Steelt een willekeurige hoeveelheid van het kredietsaldo van een speler, maximaal zijn gehele saldo.<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="StealCreditsHint" value="Kredieten stelen<br/><icon texture='GUI/Bullet'/>Steelt een willekeurige hoeveelheid van het kredietsaldo van een speler<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="StealResearch" value="Steel kennis"/>
-	<entry name="StealResearchHint" value="Steel kennis<br/><icon texture='GUI/Bullet'/>Steely een willekeurige hoeveelheid van het onderzoek dat een speler verzameld heeft, maximaal het totale onderzoek<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
+	<entry name="StealResearchHint" value="Steel kennis<br/><icon texture='GUI/Bullet'/>Steely een willekeurige hoeveelheid van het onderzoek dat een speler verzameld heeft<br/><icon texture='GUI/Bullet'/>%1%%% basissucceskans"/>
 	<entry name="WorsenEcoregion" value="Ecoregio verslechteren"/>
 	<entry name="WorsenEcoregionHint" value="Ecoregio verslechteren [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Duur: %1% rondes"/>
 </language>

@@ -35,7 +35,7 @@
 	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> zicht"/>
 	<entry name="SpyDevice" value="Illusieve ontwijker"/>
 	<entry name="SpyDeviceDescription" value="Door gebruik te maken van een verscheidenheid aan optische en psychologische illusies, maakt de ontwijker het bijzonder moeilijk om de gebruiker ervan waar te nemen, waardoor deze feitelijk onzichtbaar. "/>
-	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+25% infiltratiekans"/>
+	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Infiltration'/> infiltratie-aanvalsvermogen"/>
 	<entry name="Upkeep" value="Grondstofgebruiknormalisator"/>
 	<entry name="UpkeepDescription" value="Dit draagbare apparaat dient enkel om het verbruik van alle eenheden dusdanig te rantsoeneren, dat er geen grondstoffen verspild worden. Hoewel dit een negatief effect op het moraal kan hebben, is de stijging in efficiëntie onbetaalbaar."/>
 	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Uitrusting<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> onderhoud"/>

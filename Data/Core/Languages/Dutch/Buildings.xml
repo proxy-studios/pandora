@@ -119,5 +119,5 @@
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>Maakt een satellietscan beschikbaar<br/><icon texture='GUI/Bullet'/>2 rondes afkoeltijd"/>
 	<entry name="SpyBuilding" value="Panopticonsteden"/>
 	<entry name="SpyBuildingDescription" value="Privacy is afgschaft. Muren zijn transparant, camera's zijn overal, de Zamjatintorens van de veiligheidsdiensten verrijzen op iedere straathoek, en de Monden Der Waarheid luisteren naar eender welk gerucht. Arrestaties zijn aan de orde van de dag en de straffen zijn fors, dus het volk is beter beschermd dan ooit tegen spionnen, en tegen elkaar. Maar zijn ze ook gelukkig?"/>
-	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Project<br/><icon texture='GUI/Bullet'/>-100% kans op infiltratie door vijandige spionnen<br/><icon texture='GUI/Bullet'/>-1 <icon texture='Resources/Morale'/> moraal"/>
+	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebouw<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Infiltration'/> infiltratie-verdedigingsvermogen"/>
 </language>

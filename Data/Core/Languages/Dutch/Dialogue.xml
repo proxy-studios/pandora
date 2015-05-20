@@ -65,7 +65,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty0" value="(wijst oorlogsverklaring aan derde partij af)"/>
 	<entry name="RejectWarDeclarationOnThirdParty1" value="(wijst oorlogsverklaring aan derde partij af)"/>
 	<entry name="ResearchPactAccepted" value="(accepteert onderzoekspact)"/>
-	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 25% van hun onderzoek per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste onderzoek het meest van zo'n pact."/>
+	<entry name="ResearchPactHint" value="Bij een onderzoekspact delen beide fracties, afhankelijk van hun bevolking en de duur van het pact, ieder tot 25% van hun onderzoek per ronde als bonus met de ander."/>
 	<entry name="ResearchPactRejected" value="(wijst onderzoekspact af)"/>
 	<entry name="SanctionsAgainstThirdPartyHint" value="Eist van de gespreksparner dat deze alle handels- en onderzoekspacten die hij met een derde partij heeft opzegt. Het weigeren van het verzoek betekent dat de partner je lager zal achten, terwijl akkoord gaan hun achting tegenover je zal doen toenemen."/>
 	<entry name="ShareMapHint" value="De beide fracties delen hun verkende gebieden, echter blijft de oorlogsnevel bestaan."/>
@@ -75,7 +75,7 @@
 	<entry name="TerminateResearchPact" value="(beëindigt onderzoekspact)"/>
 	<entry name="TerminateTradingPact" value="(beëindigt handelspact)"/>
 	<entry name="TradingPactAccepted" value="(accepteert handelspact)"/>
-	<entry name="TradingPactHint" value="Bij een handelspact delen beide fracties, afhankelijk van de duur van het pact, ieder tot 25% van hun inkomen per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste imkomen het meest van zo'n pact."/>
+	<entry name="TradingPactHint" value="Bij een handelspact delen beide fracties, afhankelijk van hun bevolking en de duur van het pact, ieder tot 25% van hun inkomen per ronde als bonus met de ander. Dienovereenkomstig profiteert de fractie met het laagste imkomen het meest van zo'n pact."/>
 	<entry name="TradingPactRejected" value="(wijst handelspact af)"/>
 	<entry name="TributeAccepted0" value="(overweegt vredesafdracht)"/>
 	<entry name="TributeAccepted1" value="(accepteert vredesafdracht)"/>
