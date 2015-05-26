@@ -143,7 +143,7 @@
 	<entry name="RiverStats" value="<icon texture='Resources/Food'/> +1"/>
 	<entry name="Road" value="Weg"/>
 	<entry name="RoadDescription" value="Indien adequaat onderhouden, vergemakkelijkt een weg het transport en de inzet van voertuigen en troepen enorm."/>
-	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Konstruktion<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten"/>
+	<entry name="RoadProperties" value="<icon texture='GUI/Bullet'/>Bouwwerk<br/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> bewegingskosten"/>
 	<entry name="Ruin" value="Ruïne"/>
 	<entry name="RuinDescription" value="Deze ruïnes zijn overblijfselen van een reeds lang vergeten buitenaardse beschaving en kunnen grote kennis en enorme schatten herbergen.<br/><br/>Als je een ruïne wilt onderzoeken, moet je een eenheid het ruïnegebied insturen."/>
 	<entry name="RuinProperties" value="<icon texture='GUI/Bullet'/>Buitenaards bouwwerk"/>

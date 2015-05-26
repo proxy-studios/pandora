@@ -15,7 +15,7 @@
 	<entry name="Notice" value="OPMERKING: Antivirus- en firewallsoftware kan het actualisatieproces verstoren."/>
 	<entry name="PreparingUpdate" value="Actualisatie wordt voorbereid ..."/>
 	<entry name="Quit" value="Beëindigen"/>
-	<entry name="Release" value="Revisie"/>
+	<entry name="Release" value="Uitgave"/>
 	<entry name="Retry" value="Opnieuw"/>
 	<entry name="Skip" value="Overslaan"/>
 	<entry name="Update" value="Actualiseren"/>
