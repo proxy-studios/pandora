@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlreadyRunning" value="Le programme est déjà en cours d'exécution."/>
+	<entry name="ApplyingUpdate" value="Mise à jour des fichiers..."/>
+	<entry name="Beta" value="Bêta"/>
+	<entry name="ChangeLog" value="Notes de version"/>
+	<entry name="CheckingForUpdate" value="Vérification de mise à jour..."/>
+	<entry name="CloseOtherInstances" value="Veuillez fermer les autres instances de Pandora."/>
+	<entry name="Done" value="Terminé."/>
+	<entry name="DownloadingUpdate" value="Téléchargement de la mise à jour..."/>
+	<entry name="DownloadProgress" value="%1%%% (%2% / %3%) @ %4%/s"/>
+	<entry name="EclipseOfNashira" value="Eclipse of Nashira"/>
+	<entry name="Failed" value="Échec."/>
+	<entry name="FirstContact" value="First Contact"/>
+	<entry name="Notice" value="NOTE : les logiciels antivirus et pare-feu peuvent interférer avec le processus de mise à jour."/>
+	<entry name="PreparingUpdate" value="Préparation de la mise à jour..."/>
+	<entry name="Quit" value="Quitter"/>
+	<entry name="Release" value="Version"/>
+	<entry name="Retry" value="Réessayer"/>
+	<entry name="Skip" value="Ignorer"/>
+	<entry name="Update" value="Mise à jour"/>
+	<entry name="UpdateDetected" value="Mise à jour détectée (%1%)."/>
+	<entry name="UpToDate" value="À jour."/>
+	<entry name="WorkProgress" value="%1%%%"/>
+</language>
