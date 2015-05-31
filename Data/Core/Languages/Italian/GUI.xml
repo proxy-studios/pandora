@@ -328,6 +328,7 @@
 	<entry name="Return" value="Indietro"/>
 	<entry name="ReturnToMap" value="Torna alla Mappa"/>
 	<entry name="RazeOrder" value="ordina razzia"/>
+	<entry name="Riot" value="Rivolta"/>
 	<entry name="Save" value="Salva"/>
 	<entry name="SaveGame" value="Salva Partita"/>
 	<entry name="SaveGameHint" value="Salva Partita [Ctrl+S]<br/>Salvataggio Rapido [F11]"/>
@@ -378,6 +379,7 @@
 	<entry name="Stories" value="Storie"/>
 	<entry name="StoriesHelp" value="Qui potrai trovare delle storie sul mondo di Pandora. Buona lettura!"/>
 	<entry name="Story" value="Storia"/>
+	<entry name="SuccessChance" value="Probabilità di Successo"/>
 	<entry name="Targets" value="Bersagli"/>
 	<entry name="TargetPower" value="Energia Obiettivo"/>
 	<entry name="Team" value="Squadra"/>

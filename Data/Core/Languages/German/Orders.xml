@@ -19,11 +19,11 @@
 	<entry name="BuildMine" value="Mine bauen"/>
 	<entry name="BuildMineHint" value="Mine bauen [M]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Minerals'/> +1<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildPurifier" value="Reinigungsanlage bauen"/>
-	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2 <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildPurifierHint" value="Reinigungsanlage bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -2 <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildRoad" value="Straße bauen"/>
 	<entry name="BuildRoadHint" value="Straße bauen [R]<br/><style name='Small'/><icon texture='GUI/Bullet'/>0,5 <icon texture='Attributes/Movement'/> Bewegungskosten<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="BuildSuburb" value="Vorstadt bauen"/>
-	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2 <icon texture='Resources/Credits'/> -2<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
+	<entry name="BuildSuburbHint" value="Vorstadt bauen<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Habitat'/> +2 <icon texture='Resources/Credits'/> -3<br/><icon texture='GUI/Bullet'/>Bauzeit: %1% Runden"/>
 	<entry name="ClearCreep" value="Verseuchung säubern"/>
 	<entry name="ClearCreepHint" value="Verseuchung säubern<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="ClearForest" value="Wald abreißen"/>
@@ -47,7 +47,7 @@
 	<entry name="GrowForest" value="Wald anpflanzen"/>
 	<entry name="GrowForestHint" value="Wald anpflanzen [T]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Food'/> 1 <icon texture='Resources/Minerals'/> 1 <icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="GrowFungus" value="Pilze anpflanzen"/>
-	<entry name="GrowFungusHint" value="Pilze anpflanzen [U]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> -1<br/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
+	<entry name="GrowFungusHint" value="Pilze anpflanzen [N]<br/><style name='Small'/><icon texture='GUI/Bullet'/><icon texture='Resources/Pollution'/> +1<br/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 	<entry name="HarvestFood" value="Nahrung ernten"/>
 	<entry name="HarvestFoodHint" value="Nahrung ernten<br/><style name='Small'/><icon texture='GUI/Bullet'/>Erntet <icon texture='Resources/Food'/> Nahrung in diesem Gebiet"/>
 	<entry name="HarvestMinerals" value="Mineralien abbauen"/>
@@ -78,15 +78,15 @@
 	<entry name="SabotageBuilding" value="Gebäude sabotieren"/>
 	<entry name="SabotageBuildingHint" value="Gebäude sabotieren<br/><icon texture='GUI/Bullet'/>Zerstört ein zufällig ausgewähltes Gebäude in der Stadt<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="SabotageProduction" value="Produktion sabotieren"/>
-	<entry name="SabotageProductionHint" value="Produktion sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Produktion in der Stadt, maximal die gesamte Produktion<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="SabotageProductionHint" value="Produktion sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Produktion in der Stadt<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="SabotageResearch" value="Forschung sabotieren"/>
-	<entry name="SabotageResearchHint" value="Forschung sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Forschung des Spielers, maximal die gesamte Forschung<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="SabotageResearchHint" value="Forschung sabotieren<br/><icon texture='GUI/Bullet'/>Vernichtet eine zufällige Menge der Forschung des Spielers<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="Skip" value="Überspringen"/>
 	<entry name="SkipHint" value="Überspringen [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Diese Runde überspringen"/>
 	<entry name="StealCredits" value="Credits stehlen"/>
-	<entry name="StealCreditsHint" value="Credits stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Credits des Spielers, maximal die gesamten Credits.<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="StealCreditsHint" value="Credits stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Credits des Spielers<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="StealResearch" value="Forschung stehlen"/>
-	<entry name="StealResearchHint" value="Forschung stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Forschung des Spielers, maximal die gesamte Forschung<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
+	<entry name="StealResearchHint" value="Forschung stehlen<br/><icon texture='GUI/Bullet'/>Stiehlt eine zufällige Menge der Forschung des Spielers<br/><icon texture='GUI/Bullet'/>%1%%% Basiserfolgschance"/>
 	<entry name="WorsenEcoregion" value="Ökoregion abwerten"/>
 	<entry name="WorsenEcoregionHint" value="Ökoregion abwerten [Alt+C]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Dauer: %1% Runden"/>
 </language>

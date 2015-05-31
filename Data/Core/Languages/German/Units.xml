@@ -128,11 +128,11 @@
 	<entry name="Trooper2Properties" value="<icon texture='GUI/Bullet'/>Leichte biologische Einheit"/>
 	<entry name="Watercraft0" value="Barracuda-Wasserfahrzeug"/>
 	<entry name="Watercraft0Description" value="Wir bringen den elektrischen Antrieb auf die Gewässer von Pandora und können damit allen Arten von Wellen strotzen. Kleine Kanonenboote sind mithilfe von wirkungsvollen Sonnenkollektoren in der Lage, schnell und effizient unbegrenzte Distanzen zu überbrücken."/>
-	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit<br/><icon texture='GUI/Bullet'/>Kann keine Städte erobern"/>
+	<entry name="Watercraft0Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit"/>
 	<entry name="Watercraft1" value="Dreadnought-Wasserfahrzeug"/>
 	<entry name="Watercraft1Description" value="Dieses Wasserfahrzeug der Kreuzerklasse ist mit zwei Türmen ausgestattet und gibt so einen hervorragenden Frontkämpfer im Seekrieg ab."/>
-	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit<br/><icon texture='GUI/Bullet'/>Kann keine Städte erobern"/>
+	<entry name="Watercraft1Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit"/>
 	<entry name="Watercraft2" value="Tangaroa-Wasserfahrzeug"/>
 	<entry name="Watercraft2Description" value="Die Tangaroa ist eine gigantische schwimmende Festung, der kaum ein Gegner auch nur irgendetwas anhaben kann. Sie bewegt sich mit unglaublicher Geschwindigkeit fort und schlägt mit erbarmungsloser Kraft zu."/>
-	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit<br/><icon texture='GUI/Bullet'/>Kann keine Städte erobern"/>
+	<entry name="Watercraft2Properties" value="<icon texture='GUI/Bullet'/>Schwere mechanische Wassereinheit"/>
 </language>

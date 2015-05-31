@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlwaysShowHealthBars" value="Toujours afficher la barre de santé"/>
+	<entry name="AlwaysShowHealthBarsHint" value="Afficher la barre de santé des unités même quand la santé est à son maximum."/>
+	<entry name="AmbientVolume" value="Sons d&apos;ambiance"/>
+	<entry name="AmbientVolumeHint" value="Règle le volume des sons d&apos;ambiance."/>
+	<entry name="AnisotropicFiltering" value="Filtrage anisotrope"/>
+	<entry name="AntiAliasing" value="Anticrénelage"/>	
+	<entry name="AntiAliasingHint" value="Réduit le crénelage en lissant les bords avec le FXAA, mais peut diminuer les performances. Dépend de la puissance de calcul de votre carte graphique."/>
+	<entry name="Audio" value="Audio"/>
+	<entry name="AutoCycleUnits" value="Cycle automatique des unités"/>
+	<entry name="AutoCycleUnitsHint" value="Passe automatiquement à la prochaine unité inactive."/>
+	<entry name="Automation" value="Automatisation"/>
+	<entry name="AutoSave" value="Sauvegarde automatique"/>
+	<entry name="AutoSaveHint" value="Enregistre automatiquement la partie au début de chaque tour."/>
+	<entry name="CutsceneVolume" value="Cinématiques"/>
+	<entry name="CutsceneVolumeHint" value="Règle le volume des cinématiques."/>
+	<entry name="DiscoveryHelp" value="Aide sur les découvertes"/>
+	<entry name="DiscoveryHelpHint" value="Ouvrir le compendium avec un clic gauche sur les événements de découverte."/>
+	<entry name="DisplayMode" value="Mode d&apos;affichage"/>
+	<entry name="DisplayModeHint" value="Vous permet de changer le mode d&apos;affichage du jeu. Les modes fenêtrés peuvent entraîner une baisse des performances.&lt;br/&gt;&lt;br/&gt;&lt;style color=&apos;Yellow&apos;/&gt;Le mode fenêtré peut s&apos;avérer optimal pour les enregistrements vidéos en résolution native."/>
+	<entry name="DisplayMode0" value="Plein écran"/>
+	<entry name="DisplayMode1" value="Fenêtré"/>
+	<entry name="DisplayMode2" value="Fenêtré (sans bordure)"/>
+	<entry name="EffectsVolume" value="Effets sonores"/>
+	<entry name="EffectsVolumeHint" value="Règle le volume des effets sonores."/>
+	<entry name="FontStyle" value="Style de police"/>
+	<entry name="FontStyleHint" value="Détermine le style de police à utiliser.&lt;br/&gt;&lt;br/&gt;&lt;style color=&apos;Red&apos;/&gt;Toute modification de ce paramètre nécessite de redémarrer le jeu pour être prise en compte."/>
+	<entry name="FontStyle0" value="Futuriste"/>
+	<entry name="FontStyle1" value="Normale"/>
+	<entry name="FontStyle2" value="Normale, grande"/>
+	<entry name="FormersBuildConstructionBays" value="Construire des Baies de construction"/>
+	<entry name="FormersBuildEnergyParks" value="Construire des Parcs énergétiques"/>
+	<entry name="FormersBuildFarms" value="Construire des Exploitations agricoles"/>
+	<entry name="FormersBuildFieldLaboratories" value="Construire des Laboratoires de terrain"/>
+	<entry name="FormersBuildMines" value="Construire des Mines"/>
+	<entry name="FormersBuildPurifiers" value="Construire des Purificateurs"/>
+	<entry name="FormersBuildRoads" value="Construire des Routes"/>
+	<entry name="FormersBuildSuburbs" value="Construire des Banlieues"/>
+	<entry name="FormersClearForests" value="Défricher les Forêts"/>
+	<entry name="FormersClearFungus" value="Nettoyer les Champignons"/>
+	<entry name="FormersClearPollution" value="Nettoyer les Zones dévastées"/>
+	<entry name="FormersDestroyImprovements" value="Détruire les Aménagements"/>
+	<entry name="FormersGrowForests" value="Planter des Forêts"/>
+	<entry name="FormersGrowFungus" value="Planter des Champignons"/>
+	<entry name="FormersImproveEcoregions" value="Améliorer les Écorégions"/>
+	<entry name="FormersWorsenEcoregions" value="Dégrader les Écorégions"/>
+	<entry name="General" value="Général"/>
+	<entry name="GrabInput" value="Saisie des contrôles"/>
+	<entry name="InterfaceVolume" value="Interface"/>
+	<entry name="InterfaceVolumeHint" value="Règle le volume de l&apos;interface."/>
+	<entry name="KeyboardScrollSpeed" value="Vitesse de défilement au clavier"/>
+	<entry name="KeyboardScrollSpeedHint" value="Détermine à quelle vitesse le clavier fait défiler la caméra."/>
+	<entry name="Language" value="Langue"/>
+	<entry name="MasterVolume" value="Principal"/>
+	<entry name="MasterVolumeHint" value="Règle le volume principal."/>
+	<entry name="MouseScrollSpeed" value="Vitesse de défilement à la souris"/>
+	<entry name="MouseScrollSpeedHint" value="Détermine à quelle vitesse la souris fait défiler la caméra aux bords de l&apos;écran."/>
+	<entry name="MusicVolume" value="Musique"/>
+	<entry name="MusicVolumeHint" value="Règle le volume de la musique."/>
+	<entry name="Network" value="Réseau"/>
+	<entry name="PlayCutscenes" value="Jouer les cinématiques"/>
+	<entry name="PlayCutscenesHint" value="Jouer les cinématiques en jeu."/>
+	<entry name="ProductKey" value="Clé de produit"/>
+	<entry name="ResetTips" value="Réinitialiser les astuces"/>
+	<entry name="ResetTipsHint" value="Réinitialise les astuces et conseils dispensés pendant la partie."/>
+	<entry name="Resolution" value="Résolution"/>
+	<entry name="ResolutionHint" value="Vous permet de modifier la résolution d&apos;affichage du jeu. Des résolutions plus élevées se traduisent par une plus grande netteté, mais affectent grandement les performances."/>
+	<entry name="ServerPort" value="Port du serveur"/>
+	<entry name="ServerPortHint" value="Port TCP à utiliser pour héberger les parties. Doit être défini par une valeur non nulle. Un seul port est utilisé.&lt;br/&gt;&lt;br/&gt;&lt;style color=&apos;Yellow&apos;/&gt;Lorsque vous hébergez des parties multijoueurs, il est recommandé de rediriger ce port sur votre routeur pour garantir que les autres joueurs soient en mesure de se connecter directement à votre partie."/>
+	<entry name="ShadowQuality" value="Qualité des ombres"/>
+	<entry name="ShadowQualityHint" value="Détermine la taille des textures d&apos;ombre utilisées pour le rendu des ombres. Une qualité des ombres plus élevée se traduisent par des ombres plus détaillées, mais nécessite plus de mémoire vidéo (VRAM)."/>
+	<entry name="ShadowQuality0" value="Basse"/>
+	<entry name="ShadowQuality1" value="Moyenne"/>
+	<entry name="ShadowQuality2" value="Élevée"/>
+	<entry name="ShowGrid" value="Afficher la grille"/>
+	<entry name="ShowGridHint" value="Affiche la grille délimitant les territoires sur la carte."/>
+	<entry name="ShowTips" value="Afficher les astuces"/>
+	<entry name="ShowTipsHint" value="Affiche des astuces et conseils utiles pendant la partie."/>
+	<entry name="SpokenLanguage" value="Langue des voix"/>
+	<entry name="SpokenLanguageHint" value="Indique la langue à utiliser pour les textes vocaux."/>
+	<entry name="TextureQuality" value="Qualité des textures"/>
+	<entry name="TextureQualityHint" value="Détermine la taille des textures utilisées dans le jeu. Une qualité des textures plus élevée se traduit par des terrains et des unités plus détaillés, mais nécessite plus de mémoire vidéo (VRAM).&lt;br/&gt;&lt;br/&gt;Basse : 256 Mo&lt;br/&gt;Moyenne : 512 Mo&lt;br/&gt;Élevée : 1024 Mo &lt;br/&gt;&lt;br/&gt;&lt;style color=&apos;Red&apos;/&gt;Toute modification de ce paramètre nécessite de redémarrer le jeu pour être prise en compte."/>
+	<entry name="TextureQuality0" value="Basse"/>
+	<entry name="TextureQuality1" value="Moyenne"/>
+	<entry name="TextureQuality2" value="Élevée"/>
+	<entry name="TitleScreen" value="Écran d'accueil"/>
+	<entry name="TitleScreenHint" value="Détermine l'écran d'accueil à afficher."/>
+	<entry name="VerticalSynchronization" value="Synchronisation verticale"/>
+	<entry name="VerticalSynchronizationHint" value="Synchronise la fréquence d&apos;images avec la fréquence de rafraîchissement de votre moniteur. Cela permet d&apos;éliminer les effets de déchirure de l&apos;écran et de réduire la charge matérielle, mais peut aussi entraîner une diminution des performances si votre matériel ne peut pas suivre la fréquence de rafraîchissement de votre moniteur."/>
+	<entry name="Video" value="Vidéo"/>
+	<entry name="VoiceVolume" value="Volume des voix"/>
+	<entry name="VoiceVolumeHint" value="Règle le volume des voix."/>
+	<entry name="WrittenLanguage" value="Langue des textes"/>
+	<entry name="WrittenLanguageHint" value="Indique la langue à utiliser pour les textes écrits.&lt;br/&gt;&lt;br/&gt;&lt;style color=&apos;Red&apos;/&gt;Toute modification de ce paramètre nécessite de redémarrer le jeu pour être prise en compte."/>
+</language>

@@ -49,7 +49,6 @@
 	<entry name="Artillery2" value="Gravitongeschosse"/>
 	<entry name="Artillery2Description" value="Fortgeschrittene Splittergeschosse, die mobile Gravitationsfelder erzeugen."/>
 	<entry name="Aspidoch" value="Aspidoch-Kacheln"/>
-	<!-- <entry name="Aspidoch" value=""/> -->
 	<entry name="Assault" value="Operation Walküre"/>
 	<entry name="AssaultDescription" value="Orbitale Aufklärung und Einweg-Truppenkapseln, die einen einzelnen Militärschlag an einer beliebigen Stelle auf dem Planeten ermöglicht."/>
 	<entry name="AttackDevice" value="Angriffstaktiken"/>
@@ -81,7 +80,6 @@
 	<entry name="Construction0" value="Pandoranische Konstruktion"/>
 	<entry name="Construction0Description" value="Entwürfe für Geländeverbesserungen."/>
 	<entry name="ConvertNativeDevice" value="Xenomorph-Pheromator"/>
-	<!-- <entry name="ConvertNativeDevice" value=""/> -->
 	<entry name="Credits" value="Qan-Handel"/>
 	<entry name="CreditsDescription" value="Eine ganz neue Analysemöglichkeit von Marktdaten, mit der neue Materialien und Technologien zu vernünftigen Preisen möglich werden."/>
 	<entry name="Credits0" value="Aktienbörse"/>
@@ -167,7 +165,6 @@
 	<entry name="Laser2" value="Gravitonpartikel"/>
 	<entry name="Laser2Description" value="Die Entdeckung von Gravitonpartikeln sowie ihrer Nutzbarmachung in Strahlenwaffen."/>
 	<entry name="Leviathan" value="Leviathan-Haut"/>
-	<!-- <entry name="LeviathanDescription" value=""/> -->
 	<entry name="Market0" value="Planetarer Markt"/>
 	<entry name="Market0Description" value="Eine sichere und anonyme Plattform für den Resourcenhandel zwischen Fraktionen."/>
 	<entry name="MathematicsCategoryProperties" value="<icon texture='GUI/Bullet'/>Kategorie: Mathematik"/>

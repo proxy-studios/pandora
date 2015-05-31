@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="BetaTesting" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Bêta test&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="DesignAndProgramming" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Design et programmation&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="Graphics" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Graphisme&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="Music" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Musique&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="Sound" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Son&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="SpecialThanks" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Remerciements&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="Translation" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Traduction&lt;style upperCase=&apos;0&apos;/&gt;"/>
+	<entry name="Writing" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Textes&lt;style upperCase=&apos;0&apos;/&gt;"/>
+</language>

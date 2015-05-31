@@ -4,8 +4,17 @@
 	
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% hat Projekt fertiggestellt: %2%."/>
-	<entry name="AllianceEntered" value="Die Fraktion %1% hat eine Allianz mit der Fraktion %2% gebildet."/>
-	<entry name="AllianceTerminated" value="Die Fraktion %1% hat die Allianz mit der Fraktion %2% aufgelöst."/>
+	<entry name="AgentEliminated" value="%1% wurde ausgeschaltet bei der Infiltration von %2%."/>
+	<entry name="AgentIncitedRiot" value="%1% hat einen Aufstand in %2% angezettelt."/>
+	<entry name="AgentInfiltratedReconnaissance" value="%1% hat die Aufklärung in %2% infiltriert."/>
+	<entry name="AgentReleasedGeneticVirus" value="%1% hat ein genetisches Virus in %2% ausgesetzt."/>
+	<entry name="AgentSabotagedBuilding" value="%1% hat %3% in %2% sabotiert."/>
+	<entry name="AgentSabotagedProduction" value="%1% hat %3% <icon texture='Resources/Production'/> Produktion in %2% sabotiert."/>
+	<entry name="AgentSabotagedResearch" value="%1% hat %3% <icon texture='Resources/Research'/> Forschung in %2% sabotiert."/>
+	<entry name="AgentStoleCredits" value="%1% hat %3% <icon texture='Resources/Credits'/> Credits in %2% gestohlen."/>
+	<entry name="AgentStoleResearch" value="%1% hat %3% <icon texture='Resources/Research'/> Forschung in %2% gestohlen."/>
+	<entry name="AllianceEntered" value="%1% hat eine Allianz mit %2% gebildet."/>
+	<entry name="AllianceTerminated" value="%1% hat die Allianz mit %2% aufgelöst."/>
 	<entry name="BuildingDismantled" value="%1% hat das Gebäude %2% abgerissen."/>
 	<entry name="BuildingProductionComplete" value="%1% hat Gebäude fertiggestellt: %2%."/>
 	<entry name="CityAttackedByUnit" value="%1% wurde angegriffen von: %2%."/>
@@ -25,7 +34,7 @@
 	<entry name="HintSufferedDamage" value="<icon texture='GUI/Bullet'/>%1% <icon texture='Attributes/Power'/> Schaden erlitten, %2% <icon texture='Attributes/Power'/> Stärke übrig.<br/>"/>
 	<entry name="HiveDestroyed" value="Alien-Bau zerstört."/>
 	<entry name="ImprovementLost" value="Aufwertung%2% verloren: %1%."/>
-	<entry name="NonAggressionEntered" value="%1% hat einen Nichtangriffspakt %2% geschlossen."/>
+	<entry name="NonAggressionEntered" value="%1% hat einen Nichtangriffspakt mit %2% geschlossen."/>
 	<entry name="NonAggressionTerminated" value="%1% hat den Nichtangriffspakt mit %2% beendet."/>
 	<entry name="ObservatoryExplored" value="Observatorium erkundet."/>
 	<entry name="OperationProductionComplete" value="%1% hat Operation fertiggestellt: %2%."/>
@@ -55,6 +64,7 @@
 	<entry name="UnitKilledByUnit" value="%1% wurde%3% ausgeschaltet von: %2%."/>
 	<entry name="UnitKilledUnit" value="%2% wurde%3% ausgeschaltet von: %1%."/>
 	<entry name="WarEntered" value="%1% hat %2% den Krieg erklärt."/>
+	
 	<entry name="AlienAggressionImminent" value="Alien-Aggression steht unmittelbar bevor."/>
 	<entry name="AlienGenocideComplete" value="Außerirdische vollständig ausgerottet."/>
 	<entry name="AlienSighted" value="Außerirdische gesichtet."/>

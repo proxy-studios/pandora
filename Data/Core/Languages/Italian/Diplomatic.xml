@@ -16,8 +16,8 @@
 	<!-- The text this faction speaks when encountered for the first time, should tell the player a bit about their agenda. -->
 	<entry name="FirstContact" value="&quot;Che piacere conoscerti, finalmente! Itala Palomino al tuo servizio, umile rappresentante della fazione degli Ambasciatori. Siamo ansiosi di assicurarci che tutti, qui su Pandora, possano trarre beneficio da noi. Oh, è così bello incontrarti. Posso già dire che diventeremo ottimi amici!&quot;"/>
 
-	<entry name="NamePositive" value="&quot;La nobile Segretaria Palomino.&quot;"/> 
-	<entry name="NameNegative" value="&quot;La perfida Segretaria Palomino.&quot;"/> 
+	<entry name="NamePositive" value="&quot;La nobile %6%.&quot;"/> 
+	<entry name="NameNegative" value="&quot;La perfida %6%.&quot;"/> 
 
 	<entry name="LetMeThink" value="&quot;Affascinante! Mi serve del tempo per parlarne con il concilio.&quot;"/> 
 	<entry name="LetMeKnow" value="&quot;Magnifico! Sono sicura che ci farai sapere molto presto.&quot;"/> 

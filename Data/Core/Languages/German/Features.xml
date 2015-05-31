@@ -131,7 +131,7 @@
 	<entry name="Purifier" value="Reinigungsanlage"/>
 	<entry name="PurifierDescription" value="Im Kontrast zu Energieparks verbrauchen Reinigungsanlagen gewaltige Mengen an Energie um die Atmossphäre und Ozeane von Pandora zu filtern. Sind sind teuer, aber reduzieren drastisch unsere Verschmutzung des Planeten."/>
 	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Konstruktion"/>
-	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2 <icon texture='Resources/Credits'/> -2"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2 <icon texture='Resources/Credits'/> -3"/>
 	<entry name="ResearchBonus0" value="Observatorium"/>
 	<entry name="ResearchBonus0Description" value="Ein vor Äonen mit Alien-Technologie errichteter, größtenteils intakter Observationsturm, der nicht nur einen prachtvollen Anblick abgibt, sondern auch ein wahrer Segen für unsere Wissenschaftler ist. Das Observatorium verbessert die Forschungsarbeit in der dazugehörigen Stadt enorm. Das liegt nicht nur daran, dass die Wissenschaftler den Himmel studieren können, sondern auch aus sicherer Entfernung die Aliens beobachten."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Alien-Konstruktion<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> Sicht"/>
@@ -166,7 +166,7 @@
 	<entry name="Suburb" value="Vorstadt"/>
 	<entry name="SuburbDescription" value="Diese überschaubare aber luxuriöse Wohngegend ist ideal geeignet für unsere Arbeiterklasse die sich nach einem harten Tag in den Minen oder Fabriken ins vertraute Heim zur Familie zurückziehen kann."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Konstruktion"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2 <icon texture='Resources/Credits'/> -2"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2 <icon texture='Resources/Credits'/> -3"/>
 	<entry name="Tropical" value="Tropisch"/>
 	<entry name="TropicalDescription" value="Tropische Zonen zeichnen sich aus durch ein warmes und feuchtes Klima, eine üppige Vegetation sowie einen an Nährstoffen relativ armen Boden."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Gelände"/>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Agile" value="Calculateur de campagne"/>
+	<entry name="AgileDescription" value="Un ordinateur portable utilisé pour optimiser l&apos;impact des déplacements et la gestion de la fatigue."/>
+	<entry name="AgileProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Chaque attaque consomme 1 &lt;icon texture=&apos;Attributes/Movement&apos;/&gt; déplacement au lieu de tous les points"/>
+	<entry name="AlwaysHeal" value="Système de récupération améliorée"/>
+	<entry name="AlwaysHealDescription" value="En ajustant finement les niveaux de sérotonine des unités organiques et en générant des microréparations mécaniques spontanées, cet appareil permet à toute unité de récupérer, même en mouvement."/>
+	<entry name="AlwaysHealProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;L&apos;unité se soigne en permanence, même après un déplacement ou une attaque"/>
+	<entry name="Attack" value="Optimiseur tactique d&apos;assaut"/>
+	<entry name="AttackDescription" value="En élaborant des tactiques plus efficaces à la volée, ce dispositif permet aux unités de maximaliser le résultat de leurs offensives, infligeant plus de dégâts à l&apos;ennemi qui ne se doute de rien."/>
+	<entry name="AttackProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance en attaque"/>
+	<entry name="ConvertNative" value="Phéropode xénomorphe"/>
+	<entry name="ConvertNativeDescription" value="Cet appareil synthétise des analogues aux phéromones xénomorphes, permettant de domestiquer la faune indigène de façon définitive et d&apos;en faire une alliée horriblement efficace."/>
+	<entry name="ConvertNativeProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Convertit les créatures indigènes en alliées&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+1 &lt;icon texture=&apos;Resources/Conversions&apos;/&gt; limite de conversions&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;-50% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance"/>
+	<entry name="Defense" value="Champ de dérobade ultime"/>
+	<entry name="DefenseDescription" value="Ce dispositif analyse les attaques à l&apos;intérieur d&apos;un périmètre défini, et peut délivrer des manœuvres d&apos;évasion en un temps record."/>
+	<entry name="DefenseProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% &lt;icon texture=&apos;Attributes/Power&apos;/&gt; de puissance en défense"/>
+	<entry name="Experience" value="Processeur d&apos;EXPérience améliorée"/>
+	<entry name="ExperienceDescription" value="L&apos;EXP est un ordinateur conçu pour enregistrer et rejouer toutes les situations de combat, ce qui permet aux unités d&apos;acquérir une expérience inestimable après toute confrontation."/>
+	<entry name="ExperienceProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+100% &lt;icon texture=&apos;Attributes/Rank&apos;/&gt; d&apos;expérience acquise"/>
+	<entry name="FirstStrike" value="Initiateur de frappe préventive"/>
+	<entry name="FirstStrikeDescription" value="Cet appareil permet d&apos;évaluer les menaces potentielles et leurs faiblesses dans un rayon restreint, conférant à l&apos;unité la capacité de frapper en premier - et fort."/>
+	<entry name="FirstStrikeProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;L&apos;unité ne subit aucun dégât en cas d&apos;attaque réussie"/>
+	<entry name="HealArea" value="Soins et maintenance universels"/>
+	<entry name="HealAreaDescription" value="Le dispositif SMU est une nanotrousse portative capable de réaliser diverses opérations de microchirurgie et de maintenance sur les unités organiques et mécaniques dans son rayon d&apos;action ; elle sonde, diffuse et réplique l&apos;état des meilleures pièces/organes disponibles chez les autres unités pour améliorer celles qui sont endommagées."/>
+	<entry name="HealAreaProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Soigne l&apos;ensemble des unités présentes dans le territoire"/>
+	<entry name="HealAreaAlien" value="Transfuseur"/>
+	<entry name="HealAreaAlienDescription" value=""/>
+	<entry name="HealAreaAlienProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Soigne l&apos;ensemble des unités présentes dans le territoire"/>
+	<entry name="Movement" value="Optimiseur et valideur d&apos;itinéraire"/>
+	<entry name="MovementDescription" value="En examinant attentivement le relief alentour et en évaluant l&apos;impact de chaque déplacement, cet appareil octroie à l&apos;unité qui l&apos;utilise une mobilité accrue, et une capacité à franchir les reliefs escarpés avec plus de facilité et d&apos;efficacité."/>
+	<entry name="MovementProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+100% &lt;icon texture=&apos;Attributes/Movement&apos;/&gt; de déplacement"/>
+	<entry name="Sight" value="Analyseur environnemental sonique"/>
+	<entry name="SightDescription" value="Cet appareil semblable à un sonar est capable de fournir une représentation grossière de l&apos;environnement à moyenne portée, à l&apos;aide de la réverbération qui affecte les sons à haute fréquence."/>
+	<entry name="SightProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+1 &lt;icon texture=&apos;Attributes/Sight&apos;/&gt; portée de vue"/>
+	<entry name="SpyDevice" value="Générateur d&apos;illusions"/>
+	<entry name="SpyDeviceDescription" value="Employant diverses illusions optiques et psychologiques, ce générateur de poche rend presque invisible son porteur, dont la présence est difficilement détectable. "/>
+	<entry name="SpyDeviceProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% de chance d&apos;infiltration"/>
+	<entry name="Upkeep" value="Normalisateur d&apos;utilisation des ressources"/>
+	<entry name="UpkeepDescription" value="Ce kit portatif est uniquement voué à rationner minutieusement toutes les unités, afin de ne pas perdre une once de ressource. S&apos;il peut provoquer une baisse du moral, le gain en efficacité est inestimable."/>
+	<entry name="UpkeepProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;-50% &lt;icon texture=&apos;Attributes/Upkeep&apos;/&gt; de frais d&apos;entretien"/>
+	<entry name="None" value="Aucun dispositif"/>
+	<entry name="NoneDescription" value="Les unités dépourvues de dispositifs sont à considérer tel quel : sans surprise ni talent caché."/>
+</language>

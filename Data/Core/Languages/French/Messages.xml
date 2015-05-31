@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Authenticating" value="Identification..."/>
+	<entry name="AccountCreated" value="Le compte a été créé avec succès."/>
+	<entry name="BetaMultiplayerBrowserGames" value="Notez que les versions bêta du jeu sont distinctes des versions stables."/>
+	<entry name="ConnectionLost" value="Connexion perdue."/>
+	<entry name="ConnectingToServer" value="Connexion au serveur..."/>
+	<entry name="Countdown1" value="1 ..."/>
+	<entry name="Countdown2" value="2 ..."/>
+	<entry name="Countdown3" value="3 ..."/>
+	<entry name="Countdown4" value="4 ..."/>
+	<entry name="Countdown5" value="Départ dans 5 ..."/>
+	<entry name="CountdownStopped" value="Compte à rebours interrompu."/>
+	<entry name="CreatingAccount" value="Création du compte..."/>
+	<entry name="DeployOperation" value="&lt;style color=&apos;Green&apos;/&gt;Clic gauche pour déployer l&apos;opération"/>
+	<entry name="Error" value="Erreur"/>
+	<entry name="EverythingOK" value="Tout est OK."/>
+	<entry name="ExecuteOrder" value="&lt;style color=&apos;Green&apos;/&gt;Clic gauche pour exécuter l&apos;ordre"/>
+	<entry name="GameInitializationFailed" value="Impossible d&apos;initialiser le jeu Les programmes en arrière-plan, en particulier les logiciels de sécurité et antivirus, peuvent empêcher Pandora de fonctionner normalement."/>
+	<entry name="GameLoaded" value="Partie chargée"/>
+	<entry name="GameSaved" value="Partie sauvegardée"/>
+	<entry name="GameSaveError" value="Erreur pendant la sauvegarde du jeu"/>
+	<entry name="IncompatibleVersion" value="Version du jeu incompatible. Veuillez mettre à jour Pandora."/>
+	<entry name="Info" value="Infos"/>
+	<entry name="InitializingGame" value="Initialisation de la partie..."/>
+	<entry name="InitializingWorld" value="Initialisation du monde..."/>
+	<entry name="InvalidCommand" value="Commande incorrecte : &quot;%1%&quot;"/>
+	<entry name="InvalidEmail" value="E-mail incorrect."/>
+	<entry name="InvalidName" value="Nom incorrect."/>
+	<entry name="InvalidProductKey" value="Clé de produit %1% incorrecte."/>
+	<entry name="Kicked" value="Vous avez été expulsé(e) du serveur."/>
+	<entry name="MasterServerUnreachable" value="Impossible de se connecter au serveur maître."/>
+	<entry name="NameTooShort" value="Le nom est trop court."/>
+	<entry name="NetworkError" value="Erreur réseau."/>
+	<entry name="NoFreeSlots" value="Aucun emplacement libre disponible sur le serveur."/>
+	<entry name="NoGames" value="Aucune partie disponible actuellement.&lt;br/&gt;Pourquoi ne pas en démarrer une nouvelle ?"/>
+	<entry name="OnlineError3" value="Clé de produit incorrecte."/>
+	<entry name="OnlineError4" value="Clé de produit déjà en cours d&apos;utilisation."/>
+	<entry name="OnlineError6" value="Nom ou mot de passe incorrect."/>
+	<entry name="OnlineError7" value="Nom déjà utilisé."/>
+	<entry name="OnlineError8" value="Nom ou mot de passe incorrect."/>
+	<entry name="OnlineError10" value="Clé de produit déjà en cours d&apos;utilisation."/>
+	<entry name="OnlineError12" value="E-mail déjà utilisé."/>
+	<entry name="PasswordsDoNotMatch" value="Les mots de passe ne correspondent pas."/>
+	<entry name="PasswordTooShort" value="Le mot de passe est trop court."/>
+	<entry name="PlayerJoined" value="%1% a rejoint la partie."/>
+	<entry name="PlayerLeft" value="%1% a quitté la partie."/>
+	<entry name="ProductKeyEmpty" value="La clé de produit est vide."/>
+	<entry name="RestartRequired" value="Un redémarrage du jeu est nécessaire pour que certains réglages soient pris en compte."/>
+	<entry name="RetrievingList" value="Récupération de la liste..."/>
+	<entry name="ScreenShotSaved" value="Capture d&apos;écran enregistrée dans : %1%"/>
+	<entry name="ScreenShotSaveError" value="Erreur durant la capture d&apos;écran"/>
+	<entry name="ServerError" value="Erreur serveur"/>
+	<entry name="ServerInfo" value="Infos serveur"/>
+	<entry name="ServerShutDown" value="Arrêt du serveur."/>
+	<entry name="ServerUnreachable" value="Impossible de se connecter au serveur. Pour améliorer la connectivité, assurez-vous que l&apos;hôte a redirigé le port réseau spécifié (défaut : TCP 6121)."/>
+	<entry name="Unknown" value="Inconnu(e)."/>
+	<entry name="VictoryAchievements" value="Les succès liés aux victoires peuvent uniquement être débloqués dans les parties solo démarrées via le menu Nouvelle partie."/>
+</language>

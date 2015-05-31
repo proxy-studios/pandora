@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Economy0" value="&quot;Sans ville ni infrastructure, il n&apos;y a pas d&apos;économie.&quot;"/>
+	<entry name="Economy1" value="&quot;Tous les indicateurs sont au rouge ! Au moins, cela ne saurait être pire, n&apos;est-ce pas ?&quot;"/>
+	<entry name="Economy2" value="&quot;Notre croissance fait pâle figure par rapport à la concurrence.&quot;"/>
+	<entry name="Economy3" value="&quot;Notre économie est florissante !&quot;"/>
+	<entry name="Economy4" value="&quot;Notre économie est l&apos;un des moteurs de la croissance planétaire.&quot;"/>
+	<entry name="Economy5" value="&quot;Des années de dur labeur ont porté leurs fruits : notre économie est sans égal !&quot;"/>
+	<entry name="Diplomacy0" value="&quot;Nous n&apos;avons encore établi aucun contact avec les autres factions.&quot;"/>
+	<entry name="Diplomacy1" value="&quot;Nous sommes isolés et détestés ! Je vous prie de réfléchir à vos décisions !&quot;"/>
+	<entry name="Diplomacy2" value="&quot;Les autres factions ont commencé à prendre leurs distances avec nous.&quot;"/>
+	<entry name="Diplomacy3" value="&quot;Nous sommes respectés par les autres chefs de faction.&quot;"/>
+	<entry name="Diplomacy4" value="&quot;Nous sommes en bons termes avec les autres factions. Continuez ainsi !&quot;"/>
+	<entry name="Diplomacy5" value="&quot;Bravo, les autres chefs de faction nous apprécient et certains nous adorent ! Nous pouvons compter sur leur soutien.&quot;"/>
+	<entry name="Military0" value="&quot;Nous ne possédons pas d&apos;armée et sommes totalement impuissants !&quot;"/>
+	<entry name="Military1" value="&quot;Nos effectifs militaires sont misérables ! N&apos;importe quel ennemi à moitié boiteux pourrait nous rouler dessus.&quot;"/>
+	<entry name="Military2" value="&quot;Notre puissance militaire est insuffisante, nous pourrions difficilement repousser une invasion.&quot;"/>
+	<entry name="Military3" value="&quot;Nos forces armées sont suffisamment nombreuses pour contenir toute agression ennemie.&quot;"/>
+	<entry name="Military4" value="&quot;Votre armée est puissante et prête à mener des campagnes d&apos;envergure.&quot;"/>
+	<entry name="Military5" value="&quot;Nos forces armées sont les plus imposantes de la planète. Nos ennemis tremblent de peur !&quot;"/>
+	<entry name="Research0" value="&quot;Nous n&apos;avons pas encore découvert de nouvelles technologies.&quot;"/>
+	<entry name="Research1" value="&quot;Nous avons des années de retard sur les autres factions et beaucoup nous surpassent totalement !&quot;"/>
+	<entry name="Research2" value="&quot;D&apos;autres factions nous ont dépassés, il est temps de redéfinir nos priorités !&quot;"/>
+	<entry name="Research3" value="&quot;Nos recherches avancent bien.&quot;"/>
+	<entry name="Research4" value="&quot;Bonne nouvelle ! Nous figurons parmi les factions les plus évoluées de la planète.&quot;"/>
+	<entry name="Research5" value="&quot;Je suis fier de vous informer que nos progrès scientifiques écrasent la concurrence.&quot;"/>
+</language>

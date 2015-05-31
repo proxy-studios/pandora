@@ -109,7 +109,7 @@
 	<entry name="GiftRejected1" value="&quot;You can keep your pocket money.&quot;"/>
 
 	<!-- Demands tribute. -->
-	<entry name="DemandTribute0" value="&quot;Several of your companies are ignoring the planetary market regulatory authority - me. I demand a fee as compensation.&quot;"/>
+	<entry name="DemandTribute0" value="&quot;Several of your companies are ignoring the planetary market regulatory authority -- me. I demand a fee as compensation.&quot;"/>
 	<entry name="TributeAccepted0" value="&quot;Spare me the sweet-talk, how much do you want %2%?&quot;"/>
 	<entry name="TributeAccepted1" value="&quot;My secretary is going to wire you the cash, but don't expect this to become a habit. I see this as a loan.&quot;"/>
 	<entry name="TributeRejected0" value="&quot;I'm not gonna spend a single dime of my hard-earned cash on such nonsense!&quot;"/>

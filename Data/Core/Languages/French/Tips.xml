@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="0Description" value="Les Colonisateurs sont des unités de construction massive qui vous permettent de fonder les villes - l&apos;épine dorsale de votre empire. Pour fonder votre première ville sur Pandora, cliquez sur le bouton « Fonder une ville » dans le panneau de sélection en bas à gauche. Notez que cet ordre consommera votre Colonisateur."/>
+	<entry name="0Name" value="Colonisateur"/>
+	<entry name="1Description" value="Cette unité est votre première ligne de défense contre les factions rivales et les espèces extraterrestres hostiles. Vous pouvez soit miser sur la sécurité en la fortifiant dans votre ville, soit parier sur l&apos;exploration par un clic droit sur sa destination finale. L&apos;exploration représente toujours un risque, mais peut se révéler très gratifiante !"/>
+	<entry name="1Name" value="Unité de combat"/>
+	<entry name="2Description" value="Une ville peut assurer une production à la fois, par exemple une unité ou un bâtiment. En haut à droite, vous pouvez découvrir vos options de production. Un clic gauche sur une option l&apos;ajoutera à la file d&apos;attente de production ci-dessous. La production placée en tête commencera à la fin du tour. Vous pouvez réorganiser la file d&apos;attente de production en faisant glisser les éléments en haut et en bas de la liste."/>
+	<entry name="2Name" value="Production de la ville"/>
+	<entry name="3Description" value="Le panneau de population vous aide à concentrer votre population sur des domaines spécifiques. Essayez de prélever et déposer des colons sur différentes tâches. Vous pouvez voir les changements se répercuter dans le panneau des statistiques situé juste au-dessus. Faire preuve de discernement sur l&apos;allocation des colons peut faire la différence entre un empire florissant et une nation indigente."/>
+	<entry name="3Name" value="Population de la ville"/>
+	<entry name="4Description" value="Si vous avez suffisamment de &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits à votre disposition, vous pouvez les investir pour achever rapidement la production en cliquant sur les petits boutons en forme de &lt;icon texture=&apos;Resources/Credits&apos;/&gt; crédits."/>
+	<entry name="4Name" value="Achats de la ville"/>
+	<entry name="5Description" value="En bas à gauche de la vue générale spécifique à la ville, vous pouvez découvrir la liste de tous les bâtiments édifiés dans la ville. Pour vendre un bâtiment, cliquez simplement dessus."/>
+	<entry name="5Name" value="Bâtiments de la ville"/>
+	<entry name="6Description" value="L&apos;atelier vous permet de gérer et personnaliser vos modèles d&apos;unité. Pour créer un nouveau modèle, cliquez sur le bouton « Nouveau ». Cette opération réalisera une copie du modèle existant, vous permettant de le personnaliser sans affecter le modèle original."/>
+	<entry name="6Name" value="Atelier - Création de modèle"/>
+	<entry name="7Description" value="Les terraformeurs installent des aménagements sur le territoire, comme les exploitations agricoles et les mines, qui augmentent la quantité des ressources acheminées dans les villes. Vous pouvez également confier cette tâche à vos ingénieurs, en laissant les Terraformeurs agir de leur propre chef via le bouton « Automatiser » du panneau de sélection."/>
+	<entry name="7Name" value="Terraformeur"/>
+	<entry name="8Description" value="Vos ressources sont à un niveau critique ! Déplacez votre souris sur les ressources en haut à gauche de l&apos;écran pour découvrir ce qui se passe ! Il serait peut-être utile d&apos;ajuster les priorités de vos villes, de produire un bâtiment ou deux, ou de fonder une nouvelle ville avec un colonisateur."/>
+	<entry name="8Name" value="Manque de ressources"/>
+	<entry name="9Description" value="Bienvenue sur Pandora ! Pour découvrir la topographie de cette nouvelle planète, vous pouvez maintenir le bouton gauche de la souris sur un terrain puis bouger votre souris, ou utiliser les touches fléchées. Une fois familiarisé(e) avec votre environnement, cliquez avec le bouton gauche pour sélectionner votre unité située au centre du monde connu, puis cliquez sur OK."/>
+	<entry name="9Name" value="Démarrage"/>
+	<entry name="10Description" value="Prenez votre temps pour explorer l&apos;interface et ses nombreuses fonctions. Chaque bouton et indicateur comporte une infobulle qui vous fournit des informations pertinentes. Si vous ne savez pas quoi faire ensuite, reportez-vous au bouton lumineux dans la partie droite de l&apos;écran. Il vous aidera à vous concentrer sur la prochaine tâche importante avant de finir votre tour."/>
+	<entry name="10Name" value="Bouton de Tour"/>
+	<entry name="11Description" value="Les ressources vitales comme la nourriture, le minerai, la recherche et les crédits s&apos;accumulent et se partagent à travers tout votre empire. Chaque ville apporte et consomme ces ressources à partir d&apos;une réserve commune, ce qui permet de spécialiser vos villes et prévoir des stocks de secours pour les périodes difficiles."/>
+	<entry name="11Name" value="Gestion commune des ressources"/>
+	<entry name="12Description" value="Vous avez découvert votre première opération. Celles-ci ont divers effets, comme donner un coup de fouet à vos unités ou endommager l&apos;ennemi. Une fois l&apos;opération produite (ou le bâtiment qui la pilote), vous pouvez l&apos;utiliser sur Pandora."/>
+	<entry name="12Name" value="Découverte d&apos;une opération"/>
+	<entry name="13Description" value="Votre première opération est prête à être utilisée. Sélectionnez-la dans le panneau des opérations et lancez-la. Les opérations pilotées par des bâtiments prennent du temps à se recharger entre chaque utilisation, il faut donc veiller à les utiliser avec parcimonie. L&apos;utilisation avisée des opérations peut changer l&apos;issue d&apos;une guerre."/>
+	<entry name="13Name" value="Disponibilité d&apos;une opération"/>
+	<entry name="14Description" value="Votre unité a subi des dégâts et souffre de blessures. Par conséquent, sa puissance a diminué et le prochain combat risque davantage de lui être fatal. Pour se soigner, elle doit rester immobile et ne prendre part à aucun combat. Vous pouvez accélérer le processus de guérison en transférant l&apos;unité dans une ville."/>
+	<entry name="14Name" value="Soin"/>
+	<entry name="15Description" value="Chaque tour, une unité peut parcourir une certaine distance représentée par sa vitesse de déplacement. Maintenir le bouton droit de la souris lorsque vous déplacez une unité affichera à quelle distance l&apos;unité peut se déplacer, et quel chemin elle empruntera. Quand l&apos;unité ne peut plus se déplacer ou attaquer, l&apos;indicateur de puissance au-dessus d&apos;elle prend une couleur grise."/>
+	<entry name="15Name" value="Déplacement"/>
+	<entry name="16Description" value="Le panneau Économie vous offre un aperçu de toutes vos villes. C&apos;est la place centrale où vous pouvez changer la production, réaffecter la population, et même changer le taux d&apos;imposition global pour compenser un moral en berne."/>
+	<entry name="16Name" value="Panneau Économie"/>
+	<entry name="17Description" value="Après avoir sélectionné le modèle que vous souhaitez modifier, vous devez d&apos;abord choisir sa classe avant de spécifier l&apos;arme, le dispositif et l&apos;armure qui sont compatibles. Chaque module présente des forces et des faiblesses qui lui sont propres, et vous accéderez progressivement à une pléthore de nouveaux modules au cours de la partie."/>
+	<entry name="17Name" value="Atelier - Modification de modèle"/>
+	<entry name="18Description" value="La mondialisation affecte également la population. Si la croissance globale de votre faction n&apos;est pas impactée par le nombre de villes, le solde migratoire de chaque ville varie avec le moral. Des facteurs tels qu&apos;une pollution étouffante, une imposition écrasante et un manque de logements pénalisent fortement la croissance d&apos;une ville."/>
+	<entry name="18Name" value="Croissance de la population"/>
+	<entry name="19Description" value="Le contrôle total de Pandora peut se réaliser de trois façons : par la domination mondiale, en rachetant la totalité des factions indépendantes, ou par l&apos;ascendance scientifique. Pour des précisions sur chaque condition de victoire et connaitre votre progression, reportez-vous aux boutons Armée, Économie et Recherche situés en bas de l&apos;écran."/>
+	<entry name="19Name" value="Conditions de victoire"/>
+	<entry name="20Description" value="Le panneau Recherche expose l&apos;arbre des technologies généré aléatoirement. Cliquer sur une technologie sélectionnera l&apos;objectif de recherche, tandis qu&apos;un Maj+clic la placera en file d&apos;attente. Pour savoir avec précision ce qu&apos;apporte une technologie, passez votre souris sur son icône."/>
+	<entry name="20Name" value="Panneau Recherche"/>
+	<entry name="21Description" value="Pour ouvrir l&apos;écran d&apos;une ville, vous pouvez cliquer sur son nom, ou sur la ville elle-même si aucune garnison n&apos;y est en faction. Assurez-vous de protéger votre ville à n&apos;importe quel prix !"/>
+	<entry name="21Name" value="Ouvrir l&apos;écran de ville"/>
+	<entry name="22Description" value="Pour faciliter la gestion de l&apos;empire, vous pouvez utiliser les panneaux Économie et Armée accessibles en bas de l&apos;écran. Ces outils se révèleront inestimables une fois que votre empire s&apos;étendra sur toute la surface de Pandora."/>
+	<entry name="22Name" value="Gestion de l&apos;empire"/>
+	<entry name="23Description" value="Pour sélectionner un grand nombre d&apos;unités à la fois, plusieurs possibilités s&apos;offrent à vous. Un double-clic sur la tuile d&apos;un territoire sélectionnera toutes les unités qui s&apos;y trouvent, tandis qu&apos;un Maj-clic ou Ctrl-clic dans le panneau Armée ajoutera l&apos;unité correspondante à votre sélection."/>
+	<entry name="23Name" value="Contrôle des armées"/>
+	<entry name="24Description" value="Le compendium regroupe une vaste collection d&apos;informations utiles sur le jeu. Vous pourrez tout savoir sur les factions, les bâtiments, les unités, relire les astuces et plus encore."/>
+	<entry name="24Name" value="Panneau Compendium"/>
+	<entry name="25Description" value="Passer le curseur sur des ennemis tout en ayant une unité sélectionnée affichera des informations importantes sur l&apos;attaquant, le défenseur, leurs modificateurs, ainsi que les chances de réussite et les pertes attendues en cas d&apos;affrontement. L&apos;unité en défense est toujours celle la plus efficace face à l&apos;attaquant. Utilisez ces informations à votre avantage."/>
+	<entry name="25Name" value="Combat"/>
+	<entry name="26Description" value="Portez une attention particulière au positionnement de vos unités. Les différences de terrain auront un impact significatif sur leurs performances. Alors que l&apos;infanterie excelle dans les escarmouches en forêt et en montagne, elle ne brille guère dans les plaines dégagées. Pour gagner un avantage supplémentaire, pensez à flanquer vos adversaires en formant un triangle autour de leur position. Chaque unité flanquée bénéficiera d&apos;un bonus de puissance supplémentaire s&apos;élevant à 25%."/>
+	<entry name="26Name" value="Flanquer"/>
+	<entry name="27Description" value="Une fois terminés, les projets fournissent un avantage temporaire ou permanent à l&apos;ensemble de votre empire, indépendamment de la ville où ils ont été inaugurés. Les bénéfices prodigués varient grandement d&apos;un projet à l&apos;autre. Il peut s&apos;agir d&apos;un simple gain de ressources ponctuel, d&apos;unités offertes en bonus, de technologies avancées, de techniques ou méthodes qui ouvrent de nouvelles possibilités et peuvent offrir des avantages significatifs dans divers domaines."/>
+	<entry name="27Name" value="Projets"/>
+<!-- <entry name="28Description" value=""/>
+	<entry name="28Name" value="Sight"/&gt; -->
+</language>

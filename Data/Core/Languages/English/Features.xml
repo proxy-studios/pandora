@@ -10,6 +10,7 @@
 	<entry name="City" value="City"/>
 	<entry name="CityDescription" value="Sprawling conglomerates of structures, cities offer shelter and a wealth of common resources to the colonists."/>
 	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Construction<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> power for defending light biological units<br/><icon texture='GUI/Bullet'/>0.5 <icon texture='Attributes/Movement'/> movement cost<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> healing rate"/>
+	<entry name="CityStats" value="<icon texture='Resources/Food'/> +1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="CreditsBonus0" value="Gold Vein"/>
 	<entry name="CreditsBonus0Description" value="Gold has been a valuable and highly sought-after metal long before the beginning of recorded history on old Earth. Just like on our old world, virtually all accessible gold on Pandora's surface has been deposited by meteorites. A gold vein drastically increases the credits output of the city that controls the territory."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Terrain"/>
@@ -131,7 +132,7 @@
 	<entry name="Purifier" value="Purifier"/>
 	<entry name="PurifierDescription" value="In contrast to the energy parks, these wind and water traps use tremendous power to filter the atmosphere and seas of Pandora. They're expensive, but they hugely reduce our impact on the planet."/>
 	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
-	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="ResearchBonus0" value="Observatory"/>
 	<entry name="ResearchBonus0Description" value="A largely intact observation tower constructed with alien technology eons ago is both a marvelous sight and a real boon for our scientists. It greatly boosts the research output of the controlling city not only by allowing our scientists to study the sky, but also by letting us observe the aliens themselves from a safe distance."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Alien construction<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> sight"/>
@@ -166,7 +167,7 @@
 	<entry name="Suburb" value="Suburb"/>
 	<entry name="SuburbDescription" value="This area of low-rise homes is ideal for our blue-collar population to retire to after a hard day in the factories and mines."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Construction"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="Tropical" value="Tropical"/>
 	<entry name="TropicalDescription" value="The distinguishing features of tropical zones are a warm, humid climate, lush vegetation, and soil that's rather poor in nutrients."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Terrain"/>

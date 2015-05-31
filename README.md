@@ -4,7 +4,9 @@ Public repository for the science fiction 4X turn-based strategy game [Pandora: 
 
 By submitting changes or pull requests you agree to allow Proxy Studios to include your contributions with the official game packages free of charge.
 
-Credits
--------
-* Dutch translation: dmantione
-* Italian translation: Puxxup
+Translation Credits
+-------------------
+* Daniël Mantione (Dutch)
+* Steve Torres (French)
+* Fabrizio Ferraro (Italian)
+* Studio Umlaut (German)

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AlienAggression" value="Agression extraterrestre"/>
+	<entry name="AlienAggression0" value="Très faible"/>
+	<entry name="AlienAggression0Hint" value="Les extraterrestres deviennent hostiles très tardivement, et ne sont prêts à parcourir que de courtes distances à partir de leurs territoires d&apos;origine pour livrer une attaque. Dans les ruches, les xénomorphes éclosent à un rythme léthargique."/>
+	<entry name="AlienAggression1" value="Faible"/>
+	<entry name="AlienAggression1Hint" value="Les extraterrestres deviennent hostiles plutôt tardivement, et sont prêts à parcourir de courtes distances à partir de leurs territoires d&apos;origine pour livrer une attaque. Dans les ruches, les xénomorphes éclosent à un rythme lent."/>
+	<entry name="AlienAggression2" value="Moyenne"/>
+	<entry name="AlienAggression2Hint" value="Les extraterrestres deviennent hostiles assez rapidement, et sont prêts à parcourir des distances modérées à partir de leurs territoires d&apos;origine pour livrer une attaque. Dans les ruches, les xénomorphes éclosent à un rythme raisonnable."/>
+	<entry name="AlienAggression3" value="Forte"/>
+	<entry name="AlienAggression3Hint" value="Les extraterrestres deviennent hostiles rapidement, et sont prêts à parcourir des distances considérables à partir de leurs territoires d&apos;origine pour livrer une attaque. Dans les ruches, les xénomorphes éclosent à un rythme expéditif."/>
+	<entry name="AlienAggression4" value="Très forte"/>
+	<entry name="AlienAggression4Hint" value="Les extraterrestres deviennent hostiles très rapidement, et sont prêts à parcourir des distances immenses à partir de leurs territoires d&apos;origine pour livrer une attaque. Dans les ruches, les xénomorphes éclosent à un rythme frénétique."/>
+	<entry name="AlienAggression5" value="Aléatoire"/>
+	<entry name="AlienAggression5Hint" value="Le facteur d&apos;agression extraterrestre est défini au hasard en début de partie."/>
+	<entry name="AlliedVictory" value="Victoire alliée"/>
+	<entry name="Difficulty" value="Difficulté"/>
+	<entry name="Difficulty0" value="Très facile"/>
+	<entry name="Difficulty0Hint" value="L&apos;IA subit une légère pénalité par rapport au joueur."/>
+	<entry name="Difficulty1" value="Facile"/>
+	<entry name="Difficulty1Hint" value="L&apos;IA n&apos;a aucun avantage sur le joueur."/>
+	<entry name="Difficulty2" value="Moyenne"/>
+	<entry name="Difficulty2Hint" value="L&apos;IA bénéficie de quelques avantages sur le joueur."/>
+	<entry name="Difficulty3" value="Difficile"/>
+	<entry name="Difficulty3Hint" value="L&apos;IA bénéficie d&apos;avantages modérés sur le joueur."/>
+	<entry name="Difficulty4" value="Très difficile"/>
+	<entry name="Difficulty4Hint" value="L&apos;IA bénéficie d&apos;avantages considérables sur le joueur."/>
+	<entry name="Difficulty5" value="Aléatoire"/>
+	<entry name="Difficulty5Hint" value="Le niveau de difficulté est défini au hasard pour chaque faction IA en début de partie."/>
+	<entry name="EconomyVictory" value="Victoire économique"/>
+	<entry name="DropIn" value="Accès libre"/>
+	<entry name="DropInHint" value="Permet aux joueurs de rejoindre la partie à tout moment, en prenant la place de joueurs déconnectés ou gérés par l&apos;ordinateur. Les joueurs qui rejoignent normalement la partie peuvent uniquement se reconnecter ou utiliser les emplacements spectateurs."/>
+	<entry name="GameVisibility" value="Accessibilité de la partie"/> 
+	<entry name="GameVisibility0" value="Amis seulement"/>
+	<entry name="GameVisibility0Hint" value="La partie est seulement joignable par liste d&apos;amis, invitation ou connexion directe."/>
+	<entry name="GameVisibility1" value="Privée"/>
+	<entry name="GameVisibility1Hint" value="La partie est seulement joignable par invitation ou connexion directe."/>
+	<entry name="GameVisibility2" value="﻿Publique"/>
+	<entry name="GameVisibility2Hint" value="La partie est joignable par tout le monde, et apparait sur les listes publiques."/>
+	<entry name="MilitaryVictory" value="Victoire militaire"/>
+	<entry name="Pace" value="Rythme"/>
+	<entry name="Pace0" value="Rapide"/>
+	<entry name="Pace0Hint" value="Diminue les coûts et les durées de 50%."/>
+	<entry name="Pace1" value="Normal"/>
+	<entry name="Pace1Hint" value="Ne modifie pas les coûts ou les durées."/>
+	<entry name="Pace2" value="Épique"/>
+	<entry name="Pace2Hint" value="Augmente les coûts et les durées de 50%."/>
+	<entry name="Pace3" value="Marathon"/>
+	<entry name="Pace3Hint" value="Augmente les coûts et les durées de 100%."/>
+	<entry name="Pace4" value="Aléatoire"/>
+	<entry name="Pace4Hint" value="Le rythme est défini au hasard en début de partie."/>
+	<entry name="RandomizedResearchTree" value="Arbre de recherche aléatoire"/>
+	<entry name="ResearchVictory" value="Victoire scientifique"/>
+	<entry name="RevealedResearchTiers" value="Paliers de recherche affichés"/>
+	<entry name="RevealedResearchTiers0" value="Un"/>
+	<entry name="RevealedResearchTiers0Hint" value="Les technologies du palier supérieur sont affichées."/>
+	<entry name="RevealedResearchTiers1" value="Deux"/>
+	<entry name="RevealedResearchTiers1Hint" value="Les technologies de deux paliers supérieurs sont affichées."/>
+	<entry name="RevealedResearchTiers2" value="Trois"/>
+	<entry name="RevealedResearchTiers2Hint" value="Les technologies de trois paliers supérieurs sont affichées."/>
+	<entry name="RevealedResearchTiers3" value="Quatre"/>
+	<entry name="RevealedResearchTiers3Hint" value="Les technologies de quatre paliers supérieurs sont affichées."/>
+	<entry name="RevealedResearchTiers4" value="Tous"/>
+	<entry name="RevealedResearchTiers4Hint" value="La totalité de l&apos;arbre de recherche est affichée en début de partie."/>
+	<entry name="RevealedResearchTiers5" value="Aléatoire"/>
+	<entry name="RevealedResearchTiers5Hint" value="Les paliers de recherche affichés sont définis au hasard en début de partie."/>
+	<entry name="Shape" value="Forme du monde"/>
+	<entry name="Shape0" value="Archipel"/>
+	<entry name="Shape0Hint" value="Le monde est formé de nombreuses petites îles, et l&apos;eau recouvre 80% de la surface planétaire. L&apos;exploration des mers et la guerre navale jouent un rôle essentiel."/>
+	<entry name="Shape1" value="Continents"/>
+	<entry name="Shape1Hint" value="Le monde est formé d&apos;un petit nombre de grands continents, et l&apos;eau recouvre 70% de la surface planétaire. Des forces équilibrées sont la clé des succès militaires."/>
+	<entry name="Shape2" value="Pangée"/>
+	<entry name="Shape2Hint" value="Le monde est formé d&apos;un super-continent unique, et l&apos;eau recouvre 60% de la surface planétaire. Des troupes au sol puissantes sont fortement recommandées."/>
+	<entry name="Shape3" value="Aléatoire"/>
+	<entry name="Shape3Hint" value="La forme du monde est définie au hasard en début de partie."/>
+	<entry name="Size" value="Taille du monde"/>
+	<entry name="Size0" value="Minuscule"/>
+	<entry name="Size0Hint" value="Un monde de taille minuscule s&apos;étend sur 24x24 soit 576 territoires au total."/>
+	<entry name="Size0HintFactions" value="3 factions humaines colonisent Pandora, pour une moyenne d&apos;environ 5 villes par faction."/>
+	<entry name="Size1" value="Petite"/>
+	<entry name="Size1Hint" value="Un monde de petite taille s&apos;étend sur 32x32 soit 1024 territoires au total."/>
+	<entry name="Size1HintFactions" value="5 factions humaines colonisent Pandora, pour une moyenne d&apos;environ 6 villes par faction."/>
+	<entry name="Size2" value="Moyenne"/>
+	<entry name="Size2Hint" value="Un monde de taille moyenne s&apos;étend sur 40x40 soit 1600 territoires au total."/>
+	<entry name="Size2HintFactions" value="7 factions humaines colonisent Pandora, pour une moyenne d&apos;environ 6 villes par faction."/>
+	<entry name="Size3" value="Grande"/>
+	<entry name="Size3Hint" value="Un monde de grande taille s&apos;étend sur 48x48 soit 2304 territoires au total."/>
+	<entry name="Size3HintFactions" value="7 factions humaines colonisent Pandora, pour une moyenne d&apos;environ 9 villes par faction."/>
+	<entry name="Size4" value="Énorme"/>
+	<entry name="Size4Hint" value="Un monde de taille minuscule s&apos;étend sur 56x56 soit 3136 territoires au total."/>
+	<entry name="Size4HintFactions" value="7 factions humaines colonisent Pandora, pour une moyenne d&apos;environ 12 villes par faction."/>
+	<entry name="Size5" value="Aléatoire"/>
+	<entry name="Size5Hint" value="La taille du monde est définie au hasard en début de partie."/>
+	<entry name="Size5HintFactions" value=""/>
+	<entry name="Temperature" value="Température du monde"/>
+	<entry name="Temperature0" value="Froide"/>
+	<entry name="Temperature0Hint" value=""/>
+	<entry name="Temperature1" value="Tempérée"/>
+	<entry name="Temperature1Hint" value=""/>
+	<entry name="Temperature2" value="Chaude"/>
+	<entry name="Temperature2Hint" value=""/>
+	<entry name="Temperature3" value="Aléatoire"/>
+	<entry name="Temperature3Hint" value="La température du monde est définie au hasard en début de partie."/>
+	<entry name="TurnTimer" value="Durée du tour"/>
+	<entry name="TurnTimer0" value="Illimitée"/>
+	<entry name="TurnTimer0Hint" value=""/>
+	<entry name="TurnTimer1" value="Très courte (2 minutes)"/>
+	<entry name="TurnTimer1Hint" value=""/>
+	<entry name="TurnTimer2" value="Très courte (adaptative)"/>
+	<entry name="TurnTimer2Hint" value=""/>
+	<entry name="TurnTimer3" value="Courte (4 minutes)"/>
+	<entry name="TurnTimer3Hint" value=""/>
+	<entry name="TurnTimer4" value="Courte (adaptative)"/>
+	<entry name="TurnTimer4Hint" value=""/>
+	<entry name="TurnTimer5" value="Modérée (6 minutes)"/>
+	<entry name="TurnTimer5Hint" value=""/>
+	<entry name="TurnTimer6" value="Modérée (adaptative)"/>
+	<entry name="TurnTimer6Hint" value=""/>
+	<entry name="TurnTimer7" value="Longue (8 minutes)"/>
+	<entry name="TurnTimer7Hint" value=""/>
+	<entry name="TurnTimer8" value="Longue (adaptative)"/>
+	<entry name="TurnTimer8Hint" value=""/>
+	<entry name="TurnTimer9" value="Très longue (10 minutes)"/>
+	<entry name="TurnTimer9Hint" value=""/>
+	<entry name="TurnTimer10" value="Très longue (adaptative)"/>
+	<entry name="TurnTimer10Hint" value=""/>
+	<entry name="Victory1" value="Victoire économique"/>
+	<entry name="Victory2" value="Victoire militaire"/>
+	<entry name="Victory3" value="Victoire scientifique"/>
+</language>

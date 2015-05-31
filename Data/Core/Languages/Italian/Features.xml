@@ -10,6 +10,7 @@
 	<entry name="City" value="Città"/>
 	<entry name="CityDescription" value="Tentacolari conglomerati di strutture; le città offrono riparo e ricchezza di risorse d'uso comune ai coloni."/>
 	<entry name="CityProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza difensiva delle unità biologiche leggere<br/><icon texture='GUI/Bullet'/>Dimezza <icon texture='Attributes/Movement'/> il costo di movimento<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> al tasso di guarigione"/>
+	<entry name="CityStats" value="<icon texture='Resources/Food'/> +1  <icon texture='Resources/Minerals'/> +1"/>
 	<entry name="CreditsBonus0" value="Vena Aurea"/>
 	<entry name="CreditsBonus0Description" value="L'oro è stato un materiale prezioso e molto ricercato già da prima della storia scritta sulla vecchia Terra. Proprio come sul nostro antico mondo, praticamente tutto l'oro di Pandora è stato portato da meteoriti. Una vena aurea incrementa drasticamente la produzione di crediti della città che controlla il territorio."/>
 	<entry name="CreditsBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -63,7 +64,7 @@
 	<entry name="FortProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>+50% <icon texture='Attributes/Power'/> alla potenza delle unità difensive<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/Power'/> alla potenza contro le operazioni<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione<br/><icon texture='GUI/Bullet'/>+100% <icon texture='Attributes/HealingRate'/> al tasso di guarigione"/>
 	<entry name="Fungus" value="Funghi"/>
 	<entry name="FungusDescription" value="Molto simili a quelli della vecchia Terra, i funghi di Pandora agiscono principalmente come simbionti per piante ed animali. Tuttavia, è stata da poco scoperta una specie macroscopica e molto aggressiva che infesta ogni tipo di forma organica, emettendo spore altamente tossiche. Sono necessarie ulteriori ricerche ma, per ora, le truppe dovrebbero prestare estrema attenzione ai territori contaminati dai funghi."/>
-	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>Infligge 0.2 danni per turno<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento"/>
+	<entry name="FungusProperties" value="<icon texture='GUI/Bullet'/>Territorio<br/><icon texture='GUI/Bullet'/>Infligge 0.2 <icon texture='Attributes/Power'/> danni per turno<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Power'/> alla potenza delle unità biologiche leggere<br/><icon texture='GUI/Bullet'/>-25% <icon texture='Attributes/Power'/> alla potenza delle unità meccaniche<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Movement'/> al costo di movimento"/>
 	<entry name="FungusStats" value="<icon texture='Resources/Food'/> 0  <icon texture='Resources/Minerals'/> 0  <icon texture='Resources/Pollution'/> +1"/>
 	<entry name="Grassland" value="Prateria"/>
 	<entry name="GrasslandDescription" value="Le praterie sono aree dominate da piante erbose. Il terreno è molto ricco di sostanze nutritive, il che lo rende un ottimo candidato per l'agricoltura."/>
@@ -98,7 +99,7 @@
 	<entry name="MineralsBonus2Stats" value="<icon texture='Resources/Minerals'/> +4  <icon texture='Resources/Morale'/> -1"/>
 	<entry name="Mines" value="Mine Vulcaniche"/>
 	<entry name="MinesDescription" value="Munizioni satellitari che si riveleranno mortali per l'ignaro viaggiatore."/>
-	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
+	<entry name="MinesProperties" value="<icon texture='GUI/Bullet'/>Costruzione<br/><icon texture='GUI/Bullet'/>Infligge 1 <icon texture='Attributes/Power'/> danno alla potenza per turno<br/><icon texture='GUI/Bullet'/>Consuma tutto il <icon texture='Attributes/Movement'/> movimento all'ingresso<br/><icon texture='GUI/Bullet'/>Durata: 8 turni"/>
 	<entry name="MoraleBonus0" value="Sorgente Calda"/>
 	<entry name="MoraleBonus0Description" value="I nostri coloni hanno imparato ad apprezzare molto le vasche fumanti delle sorgenti calde, che donano loro una tregua dai fardelli della vita coloniale e del tempo per rinnovare il loro spirito."/>
 	<entry name="MoraleBonus0Properties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -131,7 +132,7 @@
 	<entry name="Purifier" value="Purificatori"/>
 	<entry name="PurifierDescription" value="A differenza dei parchi energetici, queste trappole per vento ed acqua hanno l'enorme potere di filtrare l'atmosfera ed i mari di Pandora. Sono costosi, ma riducono enormemente il nostro impatto sul pianeta."/>
 	<entry name="PurifierProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
-	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="PurifierStats" value="<icon texture='Resources/Pollution'/> -2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="ResearchBonus0" value="Osservatorio"/>
 	<entry name="ResearchBonus0Description" value="Una torre d'osservazione pressoché intatta costruita con tecnologie risalenti ad eoni fa; è sia uno spettacolo meraviglioso per gli occhi che una manna per i nostri scienziati. Aumenta notevolmente la produzione di ricerca della città che la controlla, non solo consentendo ai nostri scienziati di studiare il cielo, ma anche permettendoci di osservare gli alieni da una distanza di sicurezza."/>
 	<entry name="ResearchBonus0Properties" value="<icon texture='GUI/Bullet'/>Costruzione Aliena<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione"/>
@@ -166,7 +167,7 @@
 	<entry name="Suburb" value="Sobborgo"/>
 	<entry name="SuburbDescription" value="Quest'area residenziale a bassa densità è perfetta come luogo di ritiro per i nostri operai dopo una lunga giornata in fabbrica o in miniera."/>
 	<entry name="SuburbProperties" value="<icon texture='GUI/Bullet'/>Costruzione"/>
-	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -2"/>
+	<entry name="SuburbStats" value="<icon texture='Resources/Habitat'/> +2  <icon texture='Resources/Credits'/> -3"/>
 	<entry name="Tropical" value="Zona Tropicale"/>
 	<entry name="TropicalDescription" value="Le caratteristiche distintive delle zone tropicali sono il clima caldo ed umido, la vegetazione lussureggiante ed il suolo piuttosto povero di sostanze nutritive."/>
 	<entry name="TropicalProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -178,7 +179,7 @@
 	<entry name="WaterCreditsBonus" value="Giacimento Petrolifero"/>
 	<entry name="WaterCreditsBonusDescription" value="Su Pandora, solo gli oceani ospitano da abbastanza tempo materia organica da poter produrre prodotti petrolchimici. Sfruttarli produrrà un'enorme aumento economico e minerario."/>
 	<entry name="WaterCreditsBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
-	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
+	<entry name="WaterCreditsBonusStats" value="<icon texture='Resources/Food'/> -2  <icon texture='Resources/Minerals'/> +2  <icon texture='Resources/Credits'/> +25%"/>
 	<entry name="WaterFoodBonus" value="Canne di Panspermia"/>
 	<entry name="WaterFoodBonusDescription" value="Viste dallo spazio, queste piante locali somigliano ai canneti terrestri. Eppure, dalla superficie, queste piante risultano morbide come asparagi e spesse come palme, crescendo rapidamente nei fertili oceani. Sono un'eccellente fonte di sostentamento."/>
 	<entry name="WaterFoodBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
@@ -190,5 +191,5 @@
 	<entry name="WaterMineralsBonus" value="Mexallon Acquatico"/>
 	<entry name="WaterMineralsBonusDescription" value="Qui giacciono dei cristalli di Mexallon provenienti dalle profondità oceaniche. Il Mexallon è un minerale molto prezioso e molto complicato da estrarre."/>
 	<entry name="WaterMineralsBonusProperties" value="<icon texture='GUI/Bullet'/>Territorio"/>
-	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Minerals'/> +2"/>
+	<entry name="WaterMineralsBonusStats" value="<icon texture='Resources/Food'/> -1  <icon texture='Resources/Minerals'/> +4"/>
 </language>
