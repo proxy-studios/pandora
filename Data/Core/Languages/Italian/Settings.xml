@@ -84,6 +84,8 @@
 	<entry name="TextureQuality0" value="Bassa"/>
 	<entry name="TextureQuality1" value="Media"/>
 	<entry name="TextureQuality2" value="Alta"/>
+	<entry name="TitleScreen" value="Menu Principale"/>
+	<entry name="TitleScreenHint" value="Determina quale menu principale mostrare."/>
 	<entry name="VerticalSynchronization" value="Sincronia Verticale"/>
 	<entry name="VerticalSynchronizationHint" value="Sincronizza il tuo frame rate a quello del monitor. Permette l'eliminazione del tearing e riduce il carico hardware, ma potrebbe ridurre anche le performance se il tuo hardware non riesce a mantenere il frame rate."/>
 	<entry name="Video" value="Video"/>

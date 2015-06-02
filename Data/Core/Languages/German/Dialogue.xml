@@ -65,7 +65,7 @@
 	<entry name="RejectSanctionsAgainstThirdParty1" value="(lehnt Sanktionen gegen dritte Partei ab)"/>
 	<entry name="RejectShareMap" value="(lehnt Teilen von Karten ab)"/>
 	<entry name="ResearchPactAccepted" value="(akzeptiert Forschungsabkommen)"/>
-	<entry name="ResearchPactHint" value="Bei einem Forschungsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamtforschung pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerer Forschung pro Runde mehr von solch einem Abkommen."/>
+	<entry name="ResearchPactHint" value="Bei einem Forschungsabkommen gewähren sich die beiden Fraktionen abhängig von der Bevölkerungsanzahl sowie Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamtforschung pro Runde als Bonus."/>
 	<entry name="ResearchPactRejected" value="(lehnt Forschungsabkommen ab)"/>
 	<entry name="SanctionsAgainstThirdPartyHint" value="Verlangt vom Dialogpartner, jegliche bestehenden Handels- und Forschungsabkommen mit einer dritten Partei aufzukündigen. Wird die Forderung abgelehnt, kommt es zu einer Verschlechterung der Beziehungen, während ein Befolgen der Forderung die Beziehungen verbessert."/>
 	<entry name="ShareMapHint" value="Die beiden Fraktionen teilen ihre erforschten Gebiete, allerdings bleibt der Nebel des Krieges bestehen."/>
@@ -75,7 +75,7 @@
 	<entry name="TerminateResearchPact" value="(beendet Forschungsabkommen)"/>
 	<entry name="TerminateTradingPact" value="(beendet Handelsabkommen)"/>
 	<entry name="TradingPactAccepted" value="(akzeptiert Handelsabkommen)"/>
-	<entry name="TradingPactHint" value="Bei einem Handelsabkommen gewähren sich die beiden Fraktionen abhängig von der Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamteinnahmen pro Runde als Bonus. Dementsprechend profitiert die Fraktion mit niedrigerem Einkommen pro Runde mehr von solch einem Abkommen."/>
+	<entry name="TradingPactHint" value="Bei einem Handelsabkommen gewähren sich die beiden Fraktionen abhängig von der Bevölkerungsanzahl sowie Dauer des Abkommens gegenseitig jeweils bis zu 25% ihrer Gesamteinnahmen pro Runde als Bonus."/>
 	<entry name="TradingPactRejected" value="(lehnt Handelsabkommen ab)"/>
 	<entry name="TributeAccepted0" value="(erwägt Tributzahlung)"/>
 	<entry name="TributeAccepted1" value="(akzeptiert Tributzahlung)"/>

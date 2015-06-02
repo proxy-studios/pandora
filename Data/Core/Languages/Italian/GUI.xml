@@ -140,9 +140,9 @@
 	<entry name="Host" value="Host"/>
 	<entry name="Hostile" value="Ostile"/>
 	<entry name="IdleUnitsHint" value="Seleziona la prossima unità inattiva [Tab]."/>
+	<entry name="INFINITY" value="99"/>
 	<entry name="Incompatible" value="Incompatibile"/>
 	<entry name="Info" value="Info"/>
-	<entry name="INFINITY" value="99"/>
 	<entry name="Invite" value="Invita"/>
 	<entry name="InviteDisabledHint" value="Il server non sta eseguendo la versione Steam o non è disponibile il matchmaking di Steam."/>
 	<entry name="IP" value="IP"/>
@@ -231,6 +231,7 @@
 	<entry name="Parameters" value="Parametri"/>
 	<entry name="Password" value="Password"/>
 	<entry name="PlayerName" value="Nome Giocatore"/>
+	<entry name="Player" value="Giocatore"/>
 	<entry name="Players" value="Giocatori"/>
 	<entry name="PleaseWait" value="Attendere Prego..."/>
 	<entry name="PleaseWaitHint" value=""/>
@@ -308,10 +309,10 @@
 	<entry name="ResourcePerTurnFromPopulation" value="<icon texture='GUI/Bullet'/>%1% dalla popolazione"/>
 	<entry name="ResourcePerTurnFromProduction" value="<icon texture='GUI/Bullet'/>%1% dalla produzione"/>
 	<entry name="ResourcePerTurnFromRazing" value="<icon texture='GUI/Bullet'/>%1% dalle razzie"/>
-	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% dalle rivolte sovversive"/>
 	<entry name="ResourcePerTurnFromResearch" value="<icon texture='GUI/Bullet'/>%1% dalla ricerca"/>
 	<entry name="ResourcePerTurnFromResearchers" value="<icon texture='GUI/Bullet'/>%1% dagli scienziati"/>
 	<entry name="ResourcePerTurnFromResearchPacts" value="<icon texture='GUI/Bullet'/>%1% dai patti di ricerca"/>
+	<entry name="ResourcePerTurnFromRiot" value="<icon texture='GUI/Bullet'/>%1% dalle rivolte sovversive"/>
 	<entry name="ResourcePerTurnFromStarvation" value="<icon texture='GUI/Bullet'/>%1% dalla mancanza di cibo"/>
 	<entry name="ResourcePerTurnFromTakeover" value="<icon texture='GUI/Bullet'/>%1% dalle acquisizioni"/>
 	<entry name="ResourcePerTurnFromTakeoverCasualties" value="<icon texture='GUI/Bullet'/>%1% dalle vittime delle acquisizioni"/>
@@ -327,7 +328,6 @@
 	<entry name="ResourceTurnsLeft" value="<icon texture='GUI/Bullet'/>%1% turno/i rimanente/i"/>
 	<entry name="Return" value="Indietro"/>
 	<entry name="ReturnToMap" value="Torna alla Mappa"/>
-	<entry name="RazeOrder" value="ordina razzia"/>
 	<entry name="Riot" value="Rivolta"/>
 	<entry name="Save" value="Salva"/>
 	<entry name="SaveGame" value="Salva Partita"/>
@@ -348,6 +348,8 @@
 	<entry name="SettingsHint" value="Impostazioni [Ctrl+E]"/>
 	<entry name="ShowAdditionalOrders" value="Mostra ordini aggiuntivi."/>
 	<entry name="SightHint" value="Raggio di Percezione<br/>Quanto lontano può vedere l'unità."/>
+	<entry name="SlotClosed" value="[Chiuso]"/>
+	<entry name="SlotOpen" value="[Aperto]"/>
 	<entry name="SortByClass" value="Ordina per Classe"/>
 	<entry name="SortByCredits" value="Ordina per Crediti"/>
 	<entry name="SortByDevice" value="Ordina per Dispositivo"/>
@@ -401,6 +403,7 @@
 	<entry name="Tip" value="Suggerimento"/>
 	<entry name="Tips" value="Suggerimenti"/>
 	<entry name="TipsHelp" value="I suggerimenti vengono mostrati durante la partita per aiutare il giocatore. Puoi leggere ogni suggerimento in questa sezione o resettarli nel pannello impostazioni perché vengano nuovamente mostrati in gioco."/>
+	<entry name="ToggleGrid" value="Mostra/Nascondi griglia [Ctrl+G]."/>
 	<entry name="ToggleYieldOverlay" value="Attiva resa produzione [Ctrl+Y]."/>
 	<entry name="Total" value="Totale"/>
 	<entry name="TradingPact" value="Trattato commerciale"/>

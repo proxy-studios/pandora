@@ -84,6 +84,8 @@
 	<entry name="TextureQuality0" value="Niedrig"/>
 	<entry name="TextureQuality1" value="Mittel"/>
 	<entry name="TextureQuality2" value="Hoch"/>
+	<entry name="TitleScreen" value="Titelbildschirm"/>
+	<entry name="TitleScreenHint" value="Bestimmt den angezeigten Titelbildschirm."/>
 	<entry name="VerticalSynchronization" value="Vertikale Synchronisation"/>
 	<entry name="VerticalSynchronizationHint" value="Synchronisiert die Framerate im Spiel mit der Bildwiederholfrequenz Ihres Monitors. Damit werden Tearing-Effekte verhindert und die Hardwarelast verringert, allerdings kann es zu Leistungseinbußen kommen, wenn die verwendete Hardware Probleme damit hat, die Bildwiederholfrequenz des Monitors einzuhalten."/>
 	<entry name="Video" value="Grafik"/>

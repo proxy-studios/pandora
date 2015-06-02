@@ -119,6 +119,6 @@
 	<entry name="ScanBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>Gewährt einen Satellitenscan<br/><icon texture='GUI/Bullet'/>2 Runden Abkühlzeit"/>
 	<entry name="SpyBuilding" value="Panopticon"/>
 	<entry name="SpyBuildingDescription" value="Die Privatsphäre wurde abgeschafft. Wir sind alle gläserne Bürger geworden, überall hängen Kameras, über jeder Straße thronen die Samjatin-Türme der Sicherheitsdienste und die Münder der Wahrheit glauben jedem Gerücht. Es gibt viele Festnahmen und die Bestrafungen finden zügig statt. Kurz: Das Volk ist sicherer denn je vor Spionen... und voreinander. Aber ist es auch glücklich?"/>
-	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>-100% Chance auf Infiltration für gegnerische Agenten"/>
+	<entry name="SpyBuildingProperties" value="<icon texture='GUI/Bullet'/>Gebäude<br/><icon texture='GUI/Bullet'/>+200% <icon texture='Attributes/Infiltration'/> Infiltrationsverteidigungsstärke"/>
 	<entry name="StormBuilding" value="Ionensturmgenerator"/>
 </language>

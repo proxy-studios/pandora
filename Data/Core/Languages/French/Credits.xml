@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<entry name="AdditionalAIProgramming" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Additional AI Programming&lt;style upperCase=&apos;0&apos;/&gt;"/>
 	<entry name="BetaTesting" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Bêta test&lt;style upperCase=&apos;0&apos;/&gt;"/>
 	<entry name="DesignAndProgramming" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Design et programmation&lt;style upperCase=&apos;0&apos;/&gt;"/>
 	<entry name="Graphics" value="&lt;br/&gt;&lt;style upperCase=&apos;1&apos;/&gt;Graphisme&lt;style upperCase=&apos;0&apos;/&gt;"/>

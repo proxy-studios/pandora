@@ -68,7 +68,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty0" value="(rifiuta la dichiarazione di guerra verso un'altra fazione)"/>
 	<entry name="RejectWarDeclarationOnThirdParty1" value="(rifiuta la dichiarazione di guerra verso un'altra fazione)"/>
 	<entry name="ResearchPactAccepted" value="(accetta il patto di ricerca)"/>
-	<entry name="ResearchPactHint" value="Un patto di ricerca garantisce un bonus, che può raggiungere il 25% (a seconda della durata), al totale della ricerca del partner. Quindi, la fazione con la ricerca inferiore gode di più benefici da questo patto."/>
+	<entry name="ResearchPactHint" value="Un patto di ricerca garantisce un bonus, che può raggiungere il 25% (a seconda della popolazione e della durata del patto stesso), al totale della ricerca del partner."/>
 	<entry name="ResearchPactRejected" value="(rifiuta il patto di ricerca)"/>
 	<entry name="SanctionsAgainstThirdPartyHint" value="Richiede all'interlocutore di terminare ogni trattato commerciale e di ricerca con un'altra fazione. Il rifiuto della richiesta peggiora i rapporti, mentre l'accettazione li migliora."/>
 	<entry name="ShareMapHint" value="Entrambe le fazioni condividono i territori esplorati, ma la nebbia non verrà diradata."/>
@@ -78,7 +78,7 @@
 	<entry name="TerminateResearchPact" value="(termina il patto di ricerca)"/>
 	<entry name="TerminateTradingPact" value="(termina il trattato commerciale)"/>
 	<entry name="TradingPactAccepted" value="(accetta il trattato commerciale)"/>
-	<entry name="TradingPactHint" value="Un trattato commerciale garantisce un bonus, che può raggiungere il 25% (a seconda della durata), al reddito totale del partner. Quindi, la fazione con il reddito inferiore gode di più benefici da questo patto."/>
+	<entry name="TradingPactHint" value="Un trattato commerciale garantisce un bonus, che può raggiungere il 25% (a seconda della popolazione e della durata del patto stesso), al reddito totale del partner."/>
  	<entry name="TradingPactRejected" value="(rifiuta il trattato commerciale)"/>
 	<entry name="TributeAccepted0" value="(esamina la possibilità di pagare il tributo)"/>
 	<entry name="TributeAccepted1" value="(accetta il pagamento il tributo)"/>

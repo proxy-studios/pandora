@@ -35,7 +35,7 @@
 	<entry name="SightProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+1 &lt;icon texture=&apos;Attributes/Sight&apos;/&gt; portée de vue"/>
 	<entry name="SpyDevice" value="Générateur d&apos;illusions"/>
 	<entry name="SpyDeviceDescription" value="Employant diverses illusions optiques et psychologiques, ce générateur de poche rend presque invisible son porteur, dont la présence est difficilement détectable. "/>
-	<entry name="SpyDeviceProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% de chance d&apos;infiltration"/>
+	<entry name="SpyDeviceProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+25% &lt;icon texture=&apos;Attributes/Infiltration&apos;/&gt; de capacité d&apos;infiltration"/>
 	<entry name="Upkeep" value="Normalisateur d&apos;utilisation des ressources"/>
 	<entry name="UpkeepDescription" value="Ce kit portatif est uniquement voué à rationner minutieusement toutes les unités, afin de ne pas perdre une once de ressource. S&apos;il peut provoquer une baisse du moral, le gain en efficacité est inestimable."/>
 	<entry name="UpkeepProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Dispositif&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;-50% &lt;icon texture=&apos;Attributes/Upkeep&apos;/&gt; de frais d&apos;entretien"/>

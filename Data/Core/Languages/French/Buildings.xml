@@ -119,6 +119,6 @@
 	<entry name="ScanBuildingProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Bâtiment&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Permet de lancer l&apos;opération « Reconnaissance satellite »&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;2 tours de recharge"/>
 	<entry name="SpyBuilding" value="Panoptique"/>
 	<entry name="SpyBuildingDescription" value="La vie privée a été abolie. Les murs sont transparents, les caméras sont partout, les tours Zamiatines des services de sécurité poussent dans chaque rue, et les bouches de la vérité sont à l&apos;écoute de toute rumeur. Les arrestations sont légion et la réformation rapide, afin que les gens soient plus à l&apos;abri que jamais des espions, de leurs voisins, de leurs proches. Mais sont-ils heureux ?"/>
-	<entry name="SpyBuildingProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Bâtiment&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;-100% de risque d&apos;infiltration par les agents ennemis&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;-1 &lt;icon texture=&apos;Resources/Morale&apos;/&gt; moral"/>
+	<entry name="SpyBuildingProperties" value="&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;Bâtiment&lt;br/&gt;&lt;icon texture=&apos;GUI/Bullet&apos;/&gt;+200% &lt;icon texture=&apos;Attributes/Infiltration&apos;/&gt; de résistance à l&apos;infiltration dans toutes les villes"/>
 	<entry name="StormBuilding" value="Générateur de tempête ionique"/>
 </language>

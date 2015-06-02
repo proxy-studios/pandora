@@ -68,7 +68,7 @@
 	<entry name="RejectWarDeclarationOnThirdParty0" value="(refuse de déclarer la guerre à un tiers)"/>
 	<entry name="RejectWarDeclarationOnThirdParty1" value="(refuse de déclarer la guerre à un tiers)"/>
 	<entry name="ResearchPactAccepted" value="(accepte le pacte scientifique)"/>
-	<entry name="ResearchPactHint" value="Un pacte scientifique octroie jusqu&apos;à 25% de bonus (selon sa durée) sur la recherche totale par tour d&apos;une faction à son partenaire. Par conséquent, la faction avec le moins de recherche par tour est celle qui profite le plus du pacte."/>
+	<entry name="ResearchPactHint" value="Un pacte scientifique octroie jusqu&apos;à 25% de bonus (selon la population et sa durée) sur la recherche totale par tour d&apos;une faction à son partenaire."/>
 	<entry name="ResearchPactRejected" value="(refuse le pacte scientifique)"/>
 	<entry name="SanctionsAgainstThirdPartyHint" value="Exige de l&apos;interlocuteur qu&apos;il annule tout pacte commercial ou scientifique avec un tiers. Refuser cette demande engendre une perte de réputation, tandis qu&apos;accepter améliore la réputation."/>
 	<entry name="ShareMapHint" value="Les deux factions partagent leurs connaissances des territoires explorés, mais le brouillard de guerre n&apos;est pas révélé."/>
@@ -78,7 +78,7 @@
 	<entry name="TerminateResearchPact" value="(met fin au pacte de la recherche)"/>
 	<entry name="TerminateTradingPact" value="(met fin au pacte commercial)"/>
 	<entry name="TradingPactAccepted" value="(accepte un pacte commercial)"/>
-	<entry name="TradingPactHint" value="Un pacte commercial octroie jusqu&apos;à 25% de bonus (selon sa durée) sur les recettes totales par tour d&apos;une faction à son partenaire. Par conséquent, la faction avec le moins de recettes par tour est celle qui profite le plus du pacte."/>
+	<entry name="TradingPactHint" value="Un pacte commercial octroie jusqu&apos;à 25% de bonus (selon la population et sa durée) sur les recettes totales par tour d&apos;une faction à son partenaire."/>
  	<entry name="TradingPactRejected" value="(refuse le pacte commercial)"/>
 	<entry name="TributeAccepted0" value="(envisage de payer un tribut)"/>
 	<entry name="TributeAccepted1" value="(accepte de payer un tribut)"/>

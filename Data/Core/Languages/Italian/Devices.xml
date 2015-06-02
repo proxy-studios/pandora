@@ -35,7 +35,7 @@
 	<entry name="SightProperties" value="<icon texture='GUI/Bullet'/>Dispositivo<br/><icon texture='GUI/Bullet'/>+1 <icon texture='Attributes/Sight'/> alla percezione"/>
 	<entry name="SpyDevice" value="Dispositivo di Elusione Illusiva"/>
 	<entry name="SpyDeviceDescription" value="Utilizzando una grande varietà di illusioni ottiche e psicologiche, questo dispositivo rende estremamente difficile notare il suo utilizzatore, rendendolo di fatto invisibile."/>
-	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Dispositivo<br/><icon texture='GUI/Bullet'/>+25% alle probabilità d'infiltrazione"/>
+	<entry name="SpyDeviceProperties" value="<icon texture='GUI/Bullet'/>Dispositivo<br/><icon texture='GUI/Bullet'/>+25% <icon texture='Attributes/Infiltration'/> al potere d'infiltrazione"/>
 	<entry name="Upkeep" value="Normalizzatore Utilizzo Risorse"/>
 	<entry name="UpkeepDescription" value="Questo kit portatile è studiato per razionare attentamente i viveri per le unità, di modo che non ci sia spreco di risorse. Sebbene possa avere effetti negativi sul morale, l'aumento dell'efficienza è mostruoso."/>
 	<entry name="UpkeepProperties" value="<icon texture='GUI/Bullet'/>Dispositivo<br/><icon texture='GUI/Bullet'/>-50% <icon texture='Attributes/Upkeep'/> al costo di mantenimento"/>

@@ -5,6 +5,7 @@
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% hat Projekt fertiggestellt: %2%."/>
 	<entry name="AgentEliminated" value="%1% wurde ausgeschaltet bei der Infiltration von %2%."/>
+	<entry name="AgentFailed" value="%1% hat bei der Infiltration von %2% versagt."/>
 	<entry name="AgentIncitedRiot" value="%1% hat einen Aufstand in %2% angezettelt."/>
 	<entry name="AgentInfiltratedReconnaissance" value="%1% hat die Aufklärung in %2% infiltriert."/>
 	<entry name="AgentReleasedGeneticVirus" value="%1% hat ein genetisches Virus in %2% ausgesetzt."/>

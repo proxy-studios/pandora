@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="BetaTesting" value="<br/><style upperCase='1'/>Betatest<style upperCase='0'/>"/>
+	<entry name="AdditionalAIProgramming" value="<br/><style upperCase='1'/>Zusätzliche KI Programmierung<style upperCase='0'/>"/>
+ 	<entry name="BetaTesting" value="<br/><style upperCase='1'/>Betatest<style upperCase='0'/>"/>
 	<entry name="DesignAndProgramming" value="<br/><style upperCase='1'/>Design und Programmierung<style upperCase='0'/>"/>
 	<entry name="Graphics" value="<br/><style upperCase='1'/>Grafiken<style upperCase='0'/>"/>
 	<entry name="Music" value="<br/><style upperCase='1'/>Musik<style upperCase='0'/>"/>

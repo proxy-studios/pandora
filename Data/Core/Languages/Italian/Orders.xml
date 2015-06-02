@@ -82,15 +82,15 @@
 	<entry name="SabotageBuilding" value="Sabota Costruzione"/>
 	<entry name="SabotageBuildingHint" value="Sabota Costruzione<br/><icon texture='GUI/Bullet'/>Distrugge una costruzione a caso in una città<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="SabotageProduction" value="Sabota Produzione"/>
-	<entry name="SabotageProductionHint" value="Sabota Produzione<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della produzione accumulata da una città, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageProductionHint" value="Sabota Produzione<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della produzione accumulata da una città<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="SabotageResearch" value="Sabota Ricerca"/>
-	<entry name="SabotageResearchHint" value="Sabota Ricerca<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="SabotageResearchHint" value="Sabota Ricerca<br/><icon texture='GUI/Bullet'/>Distrugge una quantità casuale della ricerca accumulata da un giocatore<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="Skip" value="Passa"/>
 	<entry name="SkipHint" value="Passa [S]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Passa il turno"/>
 	<entry name="StealCredits" value="Ruba Crediti"/>
-	<entry name="StealCreditsHint" value="Ruba Crediti<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di crediti accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="StealCreditsHint" value="Ruba Crediti<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di crediti accumulata da un giocatore<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="StealResearch" value="Ruba Ricerca"/>
-	<entry name="StealResearchHint" value="Ruba Ricerca<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di ricerca accumulata da un giocatore, fino all'intero ammontare<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
+	<entry name="StealResearchHint" value="Ruba Ricerca<br/><icon texture='GUI/Bullet'/>Ruba una quantità casuale di ricerca accumulata da un giocatore<br/><icon texture='GUI/Bullet'/>%1%%% di probabilità base di successo"/>
 	<entry name="WorsenEcoregion" value="Peggiora Ecoregione"/>
 	<entry name="WorsenEcoregionHint" value="Peggiora Ecoregione [Alt+K]<br/><style name='Small'/><icon texture='GUI/Bullet'/>Durata lavoro: %1% turni"/>
 </language>

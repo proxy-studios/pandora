@@ -4,7 +4,8 @@
 
 	<!-- %1% = subject, %2% = object, %3% = adds NearX if appropriate -->
 	<entry name="AdvancementProductionComplete" value="%1% a terminé %2%."/>
-	<entry name="AgentEliminated" value="%1% a trouvé la mort en essayant d&apos;infiltrer %2%."/>
+	<entry name="AgentEliminated" value="%1% a trouvé la mort en mission d&apos;infiltration à %2%."/>
+	<entry name="AgentFailed" value="%1% a échoué son opération secrète à %2%."/>
 	<entry name="AgentIncitedRiot" value="%1% a incité une émeute dans la ville de %2%."/>
 	<entry name="AgentInfiltratedReconnaissance" value="%1% a réalisé une reconnaissance clandestine dans la ville de %2%."/>
 	<entry name="AgentReleasedGeneticVirus" value="%1% a répandu un virus génétique dans la ville de %2%."/>

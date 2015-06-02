@@ -140,8 +140,8 @@
 	<entry name="Host" value="Host"/>
 	<entry name="Hostile" value="Feindlich"/>
 	<entry name="IdleUnitsHint" value="Nächste untätige Einheit auswählen [Tab]."/>
-	<entry name="INFINITY" value="99"/>
 	<entry name="Incompatible" value="Inkompatibel"/>
+	<entry name="INFINITY" value="99"/>
 	<entry name="Info" value="Info"/>
 	<entry name="Invite" value="Einladen"/>
 	<entry name="InviteDisabledHint" value="Auf dem Server läuft nicht die Steam-Version oder Steam-Matchmaking nicht verfügbar."/>
